@@ -349,16 +349,12 @@ The development of a drug candidate that inhibits a cancer-related protein was s
 
 ![](https://media.drugdesign.org/course/drug-design/receptor_based.png){: loading=lazy }
 
-![](https://media.drugdesign.org/course/drug-design/snap_v1_c1_6_2_s1.jpg){: loading=lazy }
-
 ### Design Based in Making Favorable 3D Interactions
 
 A molecule can be designed that has optimal interactions with the 3D structure of the target protein.
 
 
 ![](https://media.drugdesign.org/course/drug-design/receptor_based2.gif){: loading=lazy }
-
-![](https://media.drugdesign.org/course/drug-design/snap_v1_c1_6_2_s2.jpg){: loading=lazy }
 
 ### Typical Genomic Project
 
