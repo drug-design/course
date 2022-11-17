@@ -238,7 +238,6 @@ A carbonyl group can act only as a hydrogen bond acceptor.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CO_acceptor.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CO_acceptor.png){: loading=lazy }
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -504,7 +503,6 @@ By comparing the amino-quinazoline and its N-Methyl analog, one could think of a
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/sar_44_s2_internet.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/sar_44_s2_internet.png){: loading=lazy }
 ### Tertiary Amines
 
 Tertiary amines can interact only as hydrogen bond acceptors.
@@ -831,7 +829,6 @@ The method for probing the existence of ionic interactions with a specific funct
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_movie_3_1_0_1.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/C2_movie_3_1_0_1.png){: loading=lazy }
 ### Carboxylates
 
 For a molecule containing a carboxyl group and when the pH is much greater than the pK<sub>a</sub> of the corresponding acid, the carboxyl function exists primarily in its ionized, conjugate base form and can therefore establish ionic interactions with positively charged groups. Unless the structure of the complex with the receptor is known, it is not easy to prove the existence of salt-bridge interactions, either with analogs, or by measuring the biological activities at different pHs.
@@ -885,7 +882,6 @@ The method for probing steric interactions consists of preparing analogs that al
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_4_2_0_1.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/C2_4_2_0_1.png){: loading=lazy }
 #### Alteration of Ring Size
 
 When an initial ring-containing molecule is suspected of interacting with hydrophobic moieties of the receptor site, a possible way to probe such interactions consists of varying the size of the ring, or fusing additional rings to the original structure.
@@ -978,7 +974,6 @@ The hydrogen atom connected to the nitrogen of apomorphine was replaced by methy
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Apomorphine_chain-lenght.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/Apomorphine_chain-lenght.png){: loading=lazy }
 #### Example 2 of Homologation
 
 In this example the length of the chain was explored, revealing the existence of an optimum for an n-butyl chain, which was further refined with the preparation of branched analogs.
@@ -1935,7 +1930,6 @@ Knowing the biological effects of mono-structural changes in a series does not m
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Adetivity_1and2.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/Adetivity_1and2.png){: loading=lazy }
 #### Additivity in Steroids: Norethisterone
 
 The norethisterone (NET) steroid was used as a starting point for SAR. The following single modifications were considered and led to compounds with increased potencies.

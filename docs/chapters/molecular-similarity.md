@@ -81,7 +81,6 @@ Similarity depends on perspective: the same thing can be seen differently, depen
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/what_similar.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/molecular-similarity/what_similar.png){: loading=lazy }
 #### 2D-Structure Similarity
 
 Since chemists are very familiar with structural chemical formulas, a straightforward way to compare structures is based on their 2D connectivity i.e. the kinds of atoms which are bonded to each other, in which topology. In the structure below there are four structures which present identical bioactivity, and they possess very similar 2D structures.
@@ -186,7 +185,6 @@ As illustrated, molecules can be compared in a multitude of ways, by taking into
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/compare_charac.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/molecular-similarity/compare_charac.png){: loading=lazy }
 ### Terminology: Similarity Attributes
 
 The vocabulary used for describing similarities or differences between objects can vary from one group to another. Current terminologies for properties are: characteristics, descriptors, attributes, features; for similarities: matches, resemblance, overlap, proximity; and for dissimilarities: distance, mismatches, differences and diverse.
@@ -768,7 +766,6 @@ Field-based descriptors employ molecular properties calculated in space (usually
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/field_desc2.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/molecular-similarity/field_desc2.png){: loading=lazy }
 
 ??? Abstract "articles"
     **Comparative molecular field analysis (CoMFA). 1. Effect of shape on binding of steroids to carrier proteins** 
@@ -904,7 +901,6 @@ In the previous section we saw how to handle molecular structures and properties
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/quantify_sim.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/molecular-similarity/quantify_sim.png){: loading=lazy }
 ### Similarity Coefficients of Relevant Properties
 
 As already mentioned, similarity is a subjective concept that requires relevant descriptors that can represent the properties to be compared (e.g. biological activities). A poor choice of the relevant physicochemical properties or descriptors leads to similarity values that are meaningless.
@@ -1136,7 +1132,6 @@ The "molecular similarity principle" can be used for searching compounds that fi
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/sim_shape_activesite.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/molecular-similarity/sim_shape_activesite.png){: loading=lazy }
 ### Find a Synthetic Route
 
 Similarity searching can be used for finding a synthetic route for a given molecule. It serves to identify similar molecules that were previously synthesized and adapt a particular synthetic scheme to the molecule intended to be prepared.

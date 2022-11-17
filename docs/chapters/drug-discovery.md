@@ -560,7 +560,6 @@ In structure-based design the knowledge of the molecular motions involved in the
 
 
 ![](https://media.drugdesign.org/course/drug-discovery/dd_md.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/drug-discovery/dd_md.png){: loading=lazy }
 ### In-Silico Docking
 *[In-Silico]: means using silicon-based computer technologies to perform simulations, modeling and experiments
 
@@ -647,7 +646,6 @@ Mathematical models that relate descriptors (properties) derived from the chemic
 
 
 ![](https://media.drugdesign.org/course/drug-discovery/dd_3dqsar0.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/drug-discovery/dd_3dqsar0.png){: loading=lazy }
 ### In-Silico Library Design
 *[In-Silico]: means using silicon-based computer technologies to perform simulations, modeling and experiments
 
