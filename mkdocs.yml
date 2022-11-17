@@ -1,6 +1,6 @@
 site_name: Drug Design Org - [In Memory of N. Claude Cohen]
 site_description: Drug Design
-repo_url: https://github.com/drug-design/site
+repo_url: https://github.com/drug-design/course
 site_url: https://drugdesign.org
 theme:
   icon:
