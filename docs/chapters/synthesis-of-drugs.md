@@ -1014,7 +1014,6 @@ As a consequence of the difference in molecular shape of enantiomers and the hig
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/acitve_enantiomer.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/synthesis-of-drugs/acitve_enantiomer.png){: loading=lazy }
 ### 'Chiral Switch' : From a Racemic to a Chiral Drug
 
 In the late 1980s, most chiral drugs were commercialized as racemic mixtures. In many cases, one of the enantiomers was found to have more favorable therapeutic and pharmacokinetic characteristics only after commercialization of the racemate. A new trend known as 'chiral switching' has recently emerged, which aims at the development of single enantiomers of commercial racemate drugs. Since 1990, the proportion of single-enantiomer drugs approved as new chemical entities has been consistently greater than that of racemates. Today, market approval of a racemate has become much more stringent.

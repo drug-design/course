@@ -292,7 +292,6 @@ Efforts are being made to describe the structural elements of a pharmacophore in
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/phrmap_feature.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/phrmap_feature.png){: loading=lazy }
 #### What is Pharmacophore Mapping ?
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
@@ -625,7 +624,6 @@ LigandScout developed by Wolber et al. is a recent software tool that derives ph
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/phrmap_ligand_scout2.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/phrmap_ligand_scout2.png){: loading=lazy }
 
 ??? Abstract "articles"
     **LigandScout: 3-D Pharmacophores Derived from Protein-Bound Ligands and Their Use as Virtual Screening Filters** 
@@ -744,7 +742,6 @@ Searching by name is the most trivial way to find a molecule in a database. Trad
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/search_by_name.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/search_by_name.png){: loading=lazy }
 
 ???+ Abstract "Media"
     snapshot from eMolecules 
@@ -763,7 +760,6 @@ The Chemical Abstracts Service REGISTRY is the largest and most current database
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/acs1.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/acs1.png){: loading=lazy }
 
 ???+ Abstract "Media"
     snapshot from eMolecules 
@@ -775,7 +771,6 @@ Searching by 2D structure is the most natural and efficient way to search for a 
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/search_exact1.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/search_exact1.png){: loading=lazy }
 
 ???+ Abstract "Media"
     snapshot from eMolecules 
@@ -787,7 +782,6 @@ SMILES (Simplified Molecular Input Line Entry System) is a line notation for rep
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/search_smile.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/search_smile.png){: loading=lazy }
 
 ???+ Abstract "Media"
     snapshot from eMolecules 
@@ -821,7 +815,6 @@ The information contained in a database is often classified in terms of 1D, 2D a
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_nmr.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_nmr.png){: loading=lazy }
 
 ???+ Abstract "Media"
     Snapshot from ChemGate 
@@ -868,35 +861,30 @@ By default, information systems accept all substitution patterns on a given atom
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_substi3.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_substi3.png){: loading=lazy }
 ####### Substituent Control by Substitution Numbers
 
 An alternative of explicit hydrogens is the use of substitution numbers that define the total number of neighbors connected to the atom considered. For example in the ISIS system substitution counts such as s1, s2, s3 or s4 indicate that an assigned atom must have 1, 2, 3 or 4 neighbors.
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_substi4.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_substi4.png){: loading=lazy }
 ###### Define Constraints for Atom Types
 
 Constraints can be assigned for atom types and can be either explicitly defined (e.g. Bromine), or with a broader definition; in the ISIS convention "A" means any atom except hydrogen, "Q" means any atom except hydrogen or carbon. Moreover, a list of atoms can be given as desired, or not desired.
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_14.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_14.png){: loading=lazy }
 ###### Define Constraints for Bonds
 
 The definition of the constraints for a query bond can be either explicit (for example aromatic), or with a broader definition: for example "single/double", "double/aromatic". Double bonds can be defined "cis", "trans" or "cis/trans".
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_bond.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_bond.png){: loading=lazy }
 ###### Define Constraints for Rings
 
 Rings can be defined with constraints indicating their size.
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_ringsize.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_ringsize.png){: loading=lazy }
 ###### Define Constraints for Stereochemistry
 
 In the last ten years there has been increasing emphasis on the design of chiral molecules that bind with a high degree of stereoselectivity to biological receptors. Information systems have been designed to represent, define, store, search and retrieve molecules with specific stereochemistries.
@@ -918,14 +906,12 @@ It is possible to prepare the query input in such a way that the hits retrieve t
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_tau.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_tau.png){: loading=lazy }
 ###### Define 3D Constraints
 
 It is possible to search in 3D databases for molecules satisfying to precise 3D requirements in the same manner that 2D constraints are introduced when searching 2D databases. This topic is presented in some detail in the chapter entitled "3D Database Searching".
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_3d.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_const_3d.png){: loading=lazy }
 ##### Similarity Search
 
 The quest for new ideas can exploit similarity searching with the implicit assumption that similar molecules tend to behave similarly. In this approach a molecule is introduced, and the information system is used to retrieve molecules that resemble the one used as a reference. The similarity is measured with a similarity coefficient (e.g. Tanimoto).
@@ -933,7 +919,6 @@ The quest for new ideas can exploit similarity searching with the implicit assum
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/molsrch_sim4.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/molsrch_sim4.png){: loading=lazy }
 ###### Structural Keys
 
 A similarity search is usually done using a fingerprint that encodes the 2D structure into binary descriptors indicating the presence or absence of certain structural features in a molecule. These fingerprints consist of a series of chemical substructure "keys" which enable structural and sub-structural database searching in a very efficient manner.
@@ -955,7 +940,6 @@ The similarity principle can be extended to search for chemicals having similar 
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/bensoate_final.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/bensoate_final.png){: loading=lazy }
 
 ???+ Abstract "Media"
     Snapshot from ChemDB 
@@ -982,7 +966,6 @@ Results returned from a search are likely to contain hundred of hits. It is ther
 
 
 ![](https://media.drugdesign.org/course/cheminformatics/isis3.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/cheminformatics/isis3.png){: loading=lazy }
 
 ???+ Abstract "Media"
     ISIS-Base with ASINEX Database 
