@@ -1,0 +1,152 @@
+site_name: Drug Design Org - [In Memory of N. Claude Cohen]
+site_description: Drug Design
+repo_url: https://github.com/drug-design/site
+site_url: https://drugdesign.org
+theme:
+  icon:
+    logo: simple/moleculer
+    repo: fontawesome/brands/github
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tracking
+
+extra:
+  analytics:
+    provider: google
+    property: G-ZE99EFPJJ0
+  # alternate:
+  #   - name: English
+  #     link: /en/ 
+  #     lang: en 
+#  disqus: drugdesign-org
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom    
+  
+  - search:
+      prebuild_index: python
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - footnotes
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
+  - abbr
+  - toc:
+      permalink: true
+      toc_depth: 2
+
+# Copyright
+copyright: Copyright &copy; 2022 drugdesign.org
+
+nav:
+  - About:
+    - "drugdesign.org": README.md
+    - "ChangeLog": site/changelog.md    
+    - 'N. Claude Cohen': site/claude-cohen.md
+    - 'Contributors': site/contributors.md    
+    - 'About & Contact': site/contact.md
+    - 'Roadmap': site/roadmap.md
+    - 'Terms of Use & Copyright': site/copyright.md    
+  - Learning:
+    - Drug Discovery: 
+      - 'Drug Discovery': chapters/drug-discovery.md
+      - 'Drug Design': chapters/drug-design.md
+      - 'Structure Activity Relationships': chapters/structure-activity-relationships.md
+      - 'Case Studies in SAR Analyses': chapters/structure-activity-relationships-case-studies.md 
+      - 'Success Stories in Drug Discovery': chapters/success-stories-in-drug-discovery.md     
+    - Synthesis of Drugs:
+      - 'Synthesis of Drugs': chapters/synthesis-of-drugs.md
+    - Library Design:
+      - 'Library Design': chapters/library-design.md
+      - 'Case Studies in Library Design': chapters/library-design-case-studies.md
+    - ADME Properties:
+      - 'Pharmacokinetics': chapters/adme-properties.md
+      - 'Case Studies in ADME/Tox Predictions': chapters/adme-case-studies.md  
+    - Protein Structure:
+      - 'Structural Bioinformatics': chapters/structural-bioinformatics.md
+      - 'Protein Structure': chapters/protein-structure.md  
+    - Molecular Docking:
+      - 'Molecular Docking': chapters/molecular-docking.md
+      - 'Case Studies of Docking in Drug Discovery': chapters/molecular-docking-case-studies.md   
+    - Cheminformatics:
+      - 'Cheminformatics': chapters/cheminformatics.md
+      - 'Encoding Molecules': chapters/encoding-molecules.md  
+      - 'Molecular Similarity': chapters/molecular-similarity.md
+    - Molecular Mimicry:
+      - 'Bioisosterism' : chapters/bioisosterism.md
+      - 'Peptidomimetics': chapters/peptidomimetics.md
+      - 'Case Studies in Analog Design': chapters/analog-design-case-studies.md
+      - 'Case Studies in 3D Mimic Design': chapters/3d-mimic-design-case-studies.md
+      - 'Peptidomimetics examples': chapters/peptidomimetics-case-studies.md    
+    - Database Searching:
+      - '3D Database Searching': chapters/3d-database-searching.md  
+      - 'Case Studies in 3D Database Searching': chapters/3d-database-searching-case-studies.md    
+    - Ligand-Based Design:
+      - 'Principles in Pharmacophore Elucidation': chapters/pharmacophore-elucidation.md
+      - 'Ligand-Based Approaches': chapters/ligand-based-approaches.md
+      - 'Examples of Pharmacophores': chapters/pharmacophore-examples.md
+    - Structure-Based Design:
+      - 'Introduction to Protein-Ligand Binding': chapters/protein-ligand-binding.md
+      - 'Principles of Structure-Based Design': chapters/structure-based-design.md
+      - 'Case Studies in Structure-Based Designs': chapters/structure-based-design-case-studies.md        
+    - QSAR & 3D-QSAR:
+      - 'QSAR': chapters/qsar.md
+      - '3D-QSAR': chapters/3d-qsar.md
+      - 'Case Studies in QSAR and 3D-QSAR': chapters/qsar-case-studies.md   
+    - Small Molecule Geometry:
+      - 'Molecular Geometry': chapters/molecular-geometry.md    
+      - 'Molecular Properties': chapters/molecular-properties.md   
+      - 'Stereochemistry': chapters/stereochemistry.md
+      - 'Molecular Energies': chapters/molecular-energies.md    
+      - 'Conformational Analysis': chapters/conformational-analysis.md
+      - 'Molecular Graphics': chapters/molecular-graphics.md
+      - 'Selected Examples in 3D Analysis': chapters/conformational-analysis-examples.md
+    - Molecular Dynamics:
+      - 'Molecular Dynamics': chapters/molecular-dynamics.md
+  - New Contributions:
+    - 'New contributions': site/new-contributions.md
+  - Teaching:
+    - 'The Sharing Program': site/sharing-program.md
+    #- 'Content Concept': site/concept.md    
+    - 'Customize to Your Need': site/subdomain.md
+    - 'The Platform': site/platform.md
+    - 'Create New Content': site/new-content.md
+    - 'MarkDown Template': site/template.md
+    - 'Content Idea': site/contribution-idea.md    
+  - Donate:
+    - 'Support us': site/donate.md
+
