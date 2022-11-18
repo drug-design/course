@@ -1010,3 +1010,5 @@ This study illustrates that it may be advantageous to generate many hypotheses, 
 
 
 ![](https://media.drugdesign.org/course/3d-database-searching-case-studies/3ddatabaseex_other_examples.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

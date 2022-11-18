@@ -1627,3 +1627,5 @@ To summarize, receptor-based drug design is an approach, ligand-receptor complem
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/10_1_0_1.png){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

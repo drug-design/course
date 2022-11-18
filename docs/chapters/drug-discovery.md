@@ -1780,3 +1780,5 @@ Drug discovery has contributed to move an old apothecary practice to advanced co
          
     [Personalized medicine](http://blogs.ubc.ca/phar330/files/2009/12/Personalized-Medicine-83.jpg)  
     
+
+Copyright © 2022 drugdesign.org

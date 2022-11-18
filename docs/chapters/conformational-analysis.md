@@ -668,3 +668,5 @@ Typically one can generate about 100 conformations and minimize them with molecu
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/7_6_0_1.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

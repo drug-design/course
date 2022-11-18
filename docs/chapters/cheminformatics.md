@@ -3889,3 +3889,4 @@ Some software for converting structures to names or names to structures are indi
     Associate Professor, Laboratory of Computational Molecular Detection and Design, Graduate Institute of Biomedical Electronics and Bioinformatics, Department of Computer Science and Information Engineering, National Taiwan University, Taiwan 
      
     
+Copyright © 2022 drugdesign.org

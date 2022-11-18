@@ -1312,3 +1312,5 @@ A summary of the structural determinants deduced by SAR analyses of the 4-anilin
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/sar_case_other_examples.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

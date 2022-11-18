@@ -431,3 +431,5 @@ The 3D-QSAR equation derived by CoMFA was used to predict the binding affinities
     J. Am. Chem. Soc. 
     110 1988  
     
+
+Copyright © 2022 drugdesign.org

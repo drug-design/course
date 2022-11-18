@@ -1096,3 +1096,6 @@ The alignment of the molecular geometry of the most active bicyclo [2.2.1]-hepta
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/3d_mimic_case_other_examples.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org

@@ -987,3 +987,5 @@ Quantum mechanical calculations provide a way to measure many properties of the 
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/6_8_0_1.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

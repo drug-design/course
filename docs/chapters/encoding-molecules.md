@@ -1798,3 +1798,4 @@ Initially conceived only for &Sigma; electrons, the Gasteiger-Marsili method has
     Visiting Assistant Professor, Indiana University School of Informatics, USA 
      
     
+Copyright © 2022 drugdesign.org

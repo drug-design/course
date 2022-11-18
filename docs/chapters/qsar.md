@@ -1092,3 +1092,5 @@ When discussing mathematical tools available for assessing the quality of a QSAR
 
 
 ![](https://media.drugdesign.org/course/qsar/summary.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

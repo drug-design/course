@@ -963,3 +963,6 @@ To find molecules with improved properties, the next step is to design a new foc
 
 
 ![](https://media.drugdesign.org/course/library-design-case-studies/library_design_case_other_examples.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org

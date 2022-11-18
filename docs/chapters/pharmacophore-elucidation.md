@@ -1260,3 +1260,5 @@ In this section, the underlying concepts associated to pharmacophore-based drug 
 
 ![](https://media.drugdesign.org/course/pharmacophore-elucidation/13_1_0_1.png){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

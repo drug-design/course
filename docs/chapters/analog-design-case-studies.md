@@ -1542,3 +1542,5 @@ It is interesting to note that Paul Hawkins (OpenEye Scientific Software Inc.) u
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/advanced_analog_design_other_examples.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

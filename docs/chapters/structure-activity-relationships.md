@@ -2143,3 +2143,4 @@ The SAR analyses were further exploited and led to the discovery of very potent 
     J. Med. Chem 
     44 2001  
     
+Copyright © 2022 drugdesign.org

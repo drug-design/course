@@ -1927,3 +1927,5 @@ The limitation of EM is the structural resolution that can be achieved. Even tho
 
 
 ![](https://media.drugdesign.org/course/structural-bioinformatics/elect_limit.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

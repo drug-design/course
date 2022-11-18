@@ -1145,3 +1145,5 @@ The energies obtained by different methods have absolute values that are meaning
 
 ![](https://media.drugdesign.org/course/molecular-energies/balance.gif){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

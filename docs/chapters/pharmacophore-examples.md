@@ -618,3 +618,6 @@ Based on the pharmacophore model, which was established with known GABA-uptake i
 
 
 ![](https://media.drugdesign.org/course/pharmacophore-examples/pharmaex_other_examples.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org

@@ -750,3 +750,5 @@ The rotatory reflection symmetry S<sub>n</sub> operation (where n is an even num
 
 ![](https://media.drugdesign.org/course/stereochemistry/reflection.png){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

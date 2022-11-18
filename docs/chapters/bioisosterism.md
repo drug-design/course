@@ -2619,3 +2619,5 @@ Certain drugs that were introduced as a copy of an existing drug eventually beca
 === "Failures"
     ![](https://media.drugdesign.org/course/bioisosterism/failures.gif){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

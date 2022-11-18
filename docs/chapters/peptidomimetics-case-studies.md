@@ -1340,3 +1340,6 @@ Moreover the interesting structural elements already identified in ICI-200,880 w
 
 
 ![](https://media.drugdesign.org/course/peptidomimetics-case-studies/peptidoex_other_examples.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org
