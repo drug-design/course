@@ -621,3 +621,6 @@ ROCS is a shape comparison program, based on the idea that molecules have simila
     ![](https://media.drugdesign.org/course/3d-database-searching/1_53_0_0_0_1_f2.png){: loading=lazy }
 === "Example of Hit 2"
     ![](https://media.drugdesign.org/course/3d-database-searching/1_53_0_0_0_1_f3.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org

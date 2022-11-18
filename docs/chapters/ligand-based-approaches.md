@@ -1014,3 +1014,4 @@ The discovery of lead compounds is a complex and difficult process and requires 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/conclusion.png){: loading=lazy }
 
+Copyright © 2022 drugdesign.org

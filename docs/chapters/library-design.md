@@ -1335,3 +1335,5 @@ In the example presented here, we discussed the successive steps for the compara
 
 ![](https://media.drugdesign.org/course/library-design/result.gif){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

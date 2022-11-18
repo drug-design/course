@@ -1219,3 +1219,6 @@ WeP (weighted probes, developed by W. Shin et al.) is based on the idea that cer
 
 
 ![](https://media.drugdesign.org/course/3d-qsar/conclusion.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org

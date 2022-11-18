@@ -419,3 +419,4 @@ Rational drug design is only at the beginning of its development and is progress
 
 ![](https://media.drugdesign.org/course/drug-design/7_4_0_1.png){: loading=lazy }
 
+Copyright © 2022 drugdesign.org

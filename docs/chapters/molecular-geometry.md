@@ -427,3 +427,5 @@ For a molecule consisting of a mixture of conformers, the lower the energy of th
 
 ![](https://media.drugdesign.org/course/molecular-geometry/5_2_0_1_a.png){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

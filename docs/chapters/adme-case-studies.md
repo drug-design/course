@@ -1317,3 +1317,4 @@ In almost all cases awareness of the risks, by education of physicians and patie
     Academic Research Fellow supported by Pfizer, former vice President of Pharmacokinetics, Dynamics and Metabolism, Pfizer Global Research and Development, Sandwich, UK 
      
     
+Copyright © 2022 drugdesign.org

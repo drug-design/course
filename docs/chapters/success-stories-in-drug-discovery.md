@@ -1136,3 +1136,5 @@ The diagram here gives us a global perspective of the effort deployed by the var
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_27.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

@@ -2402,3 +2402,5 @@ Other patent databases exist, some of which are indicated below. In particular, 
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/other_patents.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

@@ -1887,3 +1887,6 @@ The concept of molecular similarity has nurtured the imagination and creativity 
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/perspective.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org

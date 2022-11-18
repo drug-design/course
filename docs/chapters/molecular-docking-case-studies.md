@@ -1229,3 +1229,6 @@ Docking studies helped to explain the possible mode of inhibitory action of huma
 
 
 ![](https://media.drugdesign.org/course/molecular-docking-case-studies/docking_case_other_examples.png){: loading=lazy }
+
+
+Copyright © 2022 drugdesign.org

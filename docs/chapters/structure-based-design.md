@@ -1236,3 +1236,4 @@ The molecular recognition of protein-ligand complexes is highly complex and the 
 
 ![](https://media.drugdesign.org/course/structure-based-design/10_1_0_1.png){: loading=lazy }
 
+Copyright © 2022 drugdesign.org

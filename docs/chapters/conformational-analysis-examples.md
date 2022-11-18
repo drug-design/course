@@ -714,3 +714,5 @@ An amide moiety is in the cis (E) conformation when it is part of a cyclic syste
 
 ![](https://media.drugdesign.org/course/conformational-analysis-examples/snap_v1_b6_5_4_3.png){: loading=lazy }
 
+
+Copyright © 2022 drugdesign.org

@@ -1308,3 +1308,5 @@ How can the physicochemical properties of a drug be predicted? How can these pro
 
 
 ![](https://media.drugdesign.org/course/adme-properties/6_4_2_0_0_1.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

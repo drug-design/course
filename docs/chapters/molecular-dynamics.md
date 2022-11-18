@@ -1806,3 +1806,5 @@ Original MD simulations covered less than 10 ps in length for molecules of about
     Dynamics of Proteins and Nucleic Acids. 
     Cambridge University Press, Cambridge  1987   
     
+
+Copyright © 2022 drugdesign.org

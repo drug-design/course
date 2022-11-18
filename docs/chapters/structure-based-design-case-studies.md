@@ -1100,3 +1100,5 @@ Two opposite models were derived from analyses of activities on the EGF-R kinase
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/sbdd_case_other_examples.png){: loading=lazy }
+
+Copyright © 2022 drugdesign.org

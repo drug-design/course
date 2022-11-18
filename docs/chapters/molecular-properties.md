@@ -399,3 +399,5 @@ A molecule has many properties that are directly related to its geometry. They c
     J. Am. Chem. Soc. 
     116 1994  
     
+
+Copyright © 2022 drugdesign.org

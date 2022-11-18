@@ -633,3 +633,4 @@ There is no systematic method for transforming a peptide into a substance for dr
 
 ![](https://media.drugdesign.org/course/peptidomimetics/11_3_0_1.jpg){: loading=lazy }
 
+Copyright © 2022 drugdesign.org
