@@ -1,6 +1,6 @@
 # Create New Content
 
-drugdesign.org is based on GitHub.com, to create a content 
+Drugdesign.org is based on GitHub.com, to create a content 
 
 - You create a new branch in drugdesign.com based on the main branch
 - Then create a new file with your name in `contribution` folder.
