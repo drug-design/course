@@ -1,6 +1,6 @@
 # How to create your own Syllabus Course
 
-By joining the sharing program you can request your dedicated subdomain (e.g. mike-smith.drugdesign.org). You can use your sub-domain to organize the content of drugdesign.org in the way you want and give access to your student as supplement lecture material or in a computer lab class. 
+By joining the sharing program you can request your dedicated sub-domain (e.g. mike-smith.drugdesign.org). You can use your sub-domain to organize the content of drugdesign.org in the way you want and give access to your student as supplement lecture material or in a computer lab class. 
 
 If you don't have a github.com account create one, and send me your account name/alias. 
 Once you will have the permission, you can open your git branch and modify everything you want, the navigation menu, remove pages, merge pages from different chapters etc...
