@@ -1,6 +1,6 @@
 # The Platform
 
-drugdesign.org is based on a [MkDocs](https://www.mkdocs.org/) a simple static site generator based on markdown format. This makes the contribution to the content very easy for everyone. No need to know HTML,CSS or JavaScript. 
+Drugdesign.org is based on a [MkDocs](https://www.mkdocs.org/) a simple static site generator based on markdown format. This makes the contribution to the content very easy for everyone. No need to know HTML,CSS or JavaScript. 
 The source of truth is found in the GitHub repo [https://github.com/drug-design/course](https://github.com/drug-design/course). Once a markdown file changes in GitHub (through Pull Request mechanism) it triggers automatically, its transformation to html and its deployment to the amazon cloud (AWS).  
 
 ![github-flow](https://media.drugdesign.org/site/teaching/github-1.png)
