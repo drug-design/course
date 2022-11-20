@@ -2,7 +2,7 @@
 
 ## A Win/Win Model
 
-You teach an academic course in medicinal chemistry, pharmaceutical chemistry, drug design, cheminformatics, bioinformatics, molecular modeling etc... Don’t waste time reinventing the wheel, use drugdesign.org material in your presentation (e.g Powerpoint etc..). Chery picks from a large collection of high-quality topics and media. **In return, you will give back new content to drugdesign.org**.
+You teach an academic course in medicinal chemistry, pharmaceutical chemistry, drug design, cheminformatics, bioinformatics, molecular modeling etc... Don’t waste time reinventing the wheel, use drugdesign.org material in your presentation (e.g Powerpoint etc..). Cherry pick from a large collection of high-quality topics and media. **In return, you will give back new content to drugdesign.org**.
    
 You decide what content to contribute. The only requirement is quality. Make your contribution to high-quality standards by investing time in your story. Involve your students in its creation. Let's extend together the content of drugdesign.org and make it the best drug discovery resource.
 
