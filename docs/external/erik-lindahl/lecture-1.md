@@ -1,4 +1,7 @@
-# Molecular Biophysics - Lesson 1
+# Molecular Biophysics - Lecture 1
+
+[youtube link to the playlist](https://www.youtube.com/watch?v=TDzzvKoDOuQ&list=PLuIpgNT2hMwSeNrfxDhlayClx2PWeQxuJ) 
+
 ## 1 - From life to molecular biophysics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TDzzvKoDOuQ" frameborder="0" allowfullscreen></iframe>
