@@ -137,22 +137,25 @@ nav:
       - 'Selected Examples in 3D Analysis': chapters/conformational-analysis-examples.md
     - Molecular Dynamics:
       - 'Molecular Dynamics': chapters/molecular-dynamics.md
-  - External Materials:
-    - Table of Content: external/toc.md 
+  - External Lectures:
+    - Table of Content: lectures/lectures.md 
     - Erik Lindahl Course: 
-      - 'Erik Lindahl': external/erik-lindahl/erik-lindahl.md
-      - 'Lecture 1': external/erik-lindahl/lecture-1.md
-      - 'Lecture 2': external/erik-lindahl/lecture-2.md
-      - 'Lecture 3': external/erik-lindahl/lecture-3.md
-      - 'Lecture 4': external/erik-lindahl/lecture-4.md
-      - 'Lecture 5': external/erik-lindahl/lecture-5.md
-      - 'Lecture 6': external/erik-lindahl/lecture-6.md            
-      - 'Lecture 7': external/erik-lindahl/lecture-7.md
-      - 'Lecture 8': external/erik-lindahl/lecture-8.md
-      - 'Lecture 9': external/erik-lindahl/lecture-9.md
-      - 'Lecture 10': external/erik-lindahl/lecture-10.md            
-      - 'Lecture 11': external/erik-lindahl/lecture-11.md
-      - 'Lecture 12': external/erik-lindahl/lecture-12.md      
+      - 'Erik Lindahl': lectures/erik-lindahl/erik-lindahl.md
+      - 'Lecture 1': lectures/erik-lindahl/lecture-1.md
+      - 'Lecture 2': lectures/erik-lindahl/lecture-2.md
+      - 'Lecture 3': lectures/erik-lindahl/lecture-3.md
+      - 'Lecture 4': lectures/erik-lindahl/lecture-4.md
+      - 'Lecture 5': lectures/erik-lindahl/lecture-5.md
+      - 'Lecture 6': lectures/erik-lindahl/lecture-6.md            
+      - 'Lecture 7': lectures/erik-lindahl/lecture-7.md
+      - 'Lecture 8': lectures/erik-lindahl/lecture-8.md
+      - 'Lecture 9': lectures/erik-lindahl/lecture-9.md
+      - 'Lecture 10': lectures/erik-lindahl/lecture-10.md            
+      - 'Lecture 11': lectures/erik-lindahl/lecture-11.md
+      - 'Lecture 12': lectures/erik-lindahl/lecture-12.md  
+      - 'Lecture 13': lectures/erik-lindahl/lecture-13.md 
+  - Tutorials: 
+    - Table of Content: tutorials/tutorials.md     
   - New Contributions:
     - 'New contributions': site/new-contributions.md
   - Teaching:
