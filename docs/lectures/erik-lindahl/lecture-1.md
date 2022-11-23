@@ -1,6 +1,6 @@
 # Molecular Biophysics - Lecture 1
 
-[youtube link to the playlist](https://www.youtube.com/watch?v=TDzzvKoDOuQ&list=PLuIpgNT2hMwSeNrfxDhlayClx2PWeQxuJ) 
+[youtube playlist](https://www.youtube.com/watch?v=TDzzvKoDOuQ&list=PLuIpgNT2hMwSeNrfxDhlayClx2PWeQxuJ) 
 
 ## 1 - From life to molecular biophysics
 

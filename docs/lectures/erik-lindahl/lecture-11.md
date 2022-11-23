@@ -1,4 +1,4 @@
-# Molecular Biophysics - Lecture 
+# Molecular Biophysics - Lecture 11
 
 [youtube playlist](https://www.youtube.com/watch?v=6C04LARCopo&list=PLuIpgNT2hMwRu9vrcFswzxKuPdnFtz2Xf&index=1) 
 
