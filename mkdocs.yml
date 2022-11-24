@@ -138,9 +138,9 @@ nav:
       - 'Selected Examples in 3D Analysis': chapters/conformational-analysis-examples.md
     - Molecular Dynamics:
       - 'Molecular Dynamics': chapters/molecular-dynamics.md
-  - External Lectures:
+  - External Courses:
     - Table of Content: lectures/lectures.md 
-    - Erik Lindahl Course: 
+    - Molecular Biophysics Course: 
       - 'Erik Lindahl': lectures/erik-lindahl/erik-lindahl.md
       - 'Lecture 1': lectures/erik-lindahl/lecture-1.md
       - 'Lecture 2': lectures/erik-lindahl/lecture-2.md
