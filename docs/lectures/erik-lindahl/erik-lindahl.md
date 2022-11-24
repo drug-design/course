@@ -4,7 +4,8 @@
     Prof. Erik Lindahl  
     Professor of Biophysics at the Department of Biochemistry & Biophysics   
     Stockholm University   
-    [Link](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching)  
+    [Author Link](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching)   
+    [Youtube Link](https://www.youtube.com/@eriklindahl)  
     ![photo](https://media.drugdesign.org/site/external/erik-lindahl/erik-lindhal.png)
 
 !!! abstract "Course Description"

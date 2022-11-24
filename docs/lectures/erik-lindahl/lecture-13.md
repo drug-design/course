@@ -5,8 +5,8 @@
     **Lecture**: #13   
     **Author**: Prof. Erik Lindahl  
     **Duration**: ~ 47 minutes   
-    **Date**: Feb 2021 
-    **Youtube playlist**: [link](https://www.youtube.com/watch?v=rgN9noKQoVg&list=PLuIpgNT2hMwSjDCLGgU4llyf4t0fbiM_G&index=1)  
+    **Date**: Feb 2021   
+    **Youtube playlist**: [link](https://www.youtube.com/watch?v=rgN9noKQoVg&list=PLuIpgNT2hMwSjDCLGgU4llyf4t0fbiM_G&index=1)    
     **Videos**: 11  
 
     Courtesy of Prof. Erik Lindahl. Used with permission
