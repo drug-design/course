@@ -139,7 +139,7 @@ nav:
     - Molecular Dynamics:
       - 'Molecular Dynamics': chapters/molecular-dynamics.md
   - External Courses:
-    - Table of Content: lectures/lectures.md 
+    - Table of Contents: lectures/lectures.md 
     - Molecular Biophysics Course: 
       - 'Erik Lindahl': lectures/erik-lindahl/erik-lindahl.md
       - 'Lecture 1': lectures/erik-lindahl/lecture-1.md
@@ -156,7 +156,7 @@ nav:
       - 'Lecture 12': lectures/erik-lindahl/lecture-12.md  
       - 'Lecture 13': lectures/erik-lindahl/lecture-13.md 
   - Tutorials: 
-    - Table of Content: tutorials/tutorials.md     
+    - Table of Contents: tutorials/tutorials.md     
   - New Contributions:
     - 'New contributions': site/new-contributions.md
   - Teaching:
