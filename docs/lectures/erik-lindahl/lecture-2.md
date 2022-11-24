@@ -4,9 +4,10 @@
  
     **Lecture**: #2  
     **Author**: Prof. Erik Lindahl  
-    **Duration**: ~1 hour 15 minutes
+    **Duration**: ~ 1 hour 22 minutes  
     **Date**: Jan 2021     
-    **Youtube playlist**: [link](https://www.youtube.com/watch?v=4uloreO4qHA&list=PLuIpgNT2hMwRksGSGTywsItac-SPNJ_qm&index=1)
+    **Youtube playlist**: [link](https://www.youtube.com/watch?v=4uloreO4qHA&list=PLuIpgNT2hMwRksGSGTywsItac-SPNJ_qm&index=1)   
+    **Videos**: 19  
 
     Courtesy of Prof. Erik Lindahl. Used with permission
 

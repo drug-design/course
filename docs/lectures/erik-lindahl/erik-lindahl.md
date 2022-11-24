@@ -1,12 +1,14 @@
-# Prof. Erik Lindahl
-## About the Author
-Prof. Erik Lindahl  
-[Stockholm University](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching)   
-Professor of Biophysics at the Department of Biochemistry & Biophysics  
-![photo](https://media.drugdesign.org/site/external/erik-lindahl/erik-lindhal.jpg)
+# "Molecular Biophysics" Course
 
-## About the "Molecular Biophysics" Course
-If you are interested in learning how fundamental biophysics about biological macromolecules such as proteins, DNA, and membranes, and in particular how models, statistical mechanics and simulations can be used to understand them, I teach a class in Molecular Biophysics. All lectures have recently been recorded in high quality (4k50fps) combined with using a lightboard for visualization, they have been partitioned into short concepts, and are available as a playlist on YouTube. ([source](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching))
+!!! Author
+    Prof. Erik Lindahl  
+    Professor of Biophysics at the Department of Biochemistry & Biophysics   
+    Stockholm University   
+    [Link](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching)  
+    ![photo](https://media.drugdesign.org/site/external/erik-lindahl/erik-lindhal.png)
+
+!!! abstract "Course Description"
+    If you are interested in learning how fundamental biophysics about biological macromolecules such as proteins, DNA, and membranes, and in particular how models, statistical mechanics and simulations can be used to understand them, I teach a class in Molecular Biophysics. All lectures have recently been recorded in high quality (4k50fps) combined with using a lightboard for visualization, they have been partitioned into short concepts, and are available as a playlist on YouTube. ([source](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching))
 
 ## Course Contents
 
