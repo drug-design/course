@@ -1,9 +1,15 @@
 # Molecular Biophysics - Lecture 9
 
-???+ note "Content Information"
+???+ note "Content Info"
  
-    Courtesy of Prof. Erik Lindahl. Used with permission  
-    [youtube link](https://www.youtube.com/watch?v=nJVkwdNm_HY&list=PLuIpgNT2hMwQ_QK3XnGLOWB4fIinRjcBM) 
+    **Lecture**: #9  
+    **Author**: Prof. Erik Lindahl  
+    **Duration**: ~   
+    **Date**: Feb 2021   
+    **Youtube playlist**: [link](https://www.youtube.com/watch?v=nJVkwdNm_HY&list=PLuIpgNT2hMwQ_QK3XnGLOWB4fIinRjcBM)
+
+    Courtesy of Prof. Erik Lindahl. Used with permission
+
 
 ## 1 - Most sequences end up in a small fraction of folds
 

@@ -1,9 +1,14 @@
 # Molecular Biophysics - Lecture 10
 
-???+ note "Content Information"
+???+ note "Content Info"
  
-    Courtesy of Prof. Erik Lindahl. Used with permission  
-    [youtube link](https://www.youtube.com/watch?v=yyXK58a3sCY&list=PLuIpgNT2hMwR8qu9qDhHxsw1X92_o5nHi&index=1) 
+    **Lecture**: #10  
+    **Author**: Prof. Erik Lindahl  
+    **Duration**: ~    
+    **Date**: Feb 2021  
+    **Youtube playlist**: [link](https://www.youtube.com/watch?v=yyXK58a3sCY&list=PLuIpgNT2hMwR8qu9qDhHxsw1X92_o5nHi&index=1)
+
+    Courtesy of Prof. Erik Lindahl. Used with permission
 
 ## 1 - Denaturation into molten globule or all the way to coil
 

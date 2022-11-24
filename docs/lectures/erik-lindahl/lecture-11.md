@@ -1,9 +1,15 @@
 # Molecular Biophysics - Lecture 11
 
-???+ note "Content Information"
+???+ note "Content Info"
  
-    Courtesy of Prof. Erik Lindahl. Used with permission  
-    [youtube link](https://www.youtube.com/watch?v=6C04LARCopo&list=PLuIpgNT2hMwRu9vrcFswzxKuPdnFtz2Xf&index=1) 
+    **Lecture**: #11   
+    **Author**: Prof. Erik Lindahl  
+    **Duration**: ~    
+    **Date**: Feb 2021  
+    **Youtube playlist**: [link](https://www.youtube.com/watch?v=6C04LARCopo&list=PLuIpgNT2hMwRu9vrcFswzxKuPdnFtz2Xf&index=1)
+
+    Courtesy of Prof. Erik Lindahl. Used with permission
+
 
 ## 1 - : Bioinformatics focuses on evolution and data
 

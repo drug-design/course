@@ -1,9 +1,14 @@
 # Molecular Biophysics - Lecture 12
 
-???+ note "Content Information"
+???+ note "Content Info"
  
-    Courtesy of Prof. Erik Lindahl. Used with permission  
-    [youtube link](https://www.youtube.com/watch?v=h7Y9DYwvDcQ&list=PLuIpgNT2hMwTFQRSc--blleG3Hws57Azc) 
+    **Lecture**: #12   
+    **Author**: Prof. Erik Lindahl  
+    **Duration**: ~    
+    **Date**: Feb 2021  
+    **Youtube playlist**: [link](https://www.youtube.com/watch?v=h7Y9DYwvDcQ&list=PLuIpgNT2hMwTFQRSc--blleG3Hws57Azc)
+
+    Courtesy of Prof. Erik Lindahl. Used with permission
 
 ## 1 - Discover drugs by targeting proteins
 

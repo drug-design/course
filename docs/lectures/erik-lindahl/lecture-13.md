@@ -1,9 +1,14 @@
 # Molecular Biophysics - Lecture 13
 
-???+ note "Content Information"
+???+ note "Content Info"
  
-    Courtesy of Prof. Erik Lindahl. Used with permission  
-    [youtube playlist link ](https://www.youtube.com/watch?v=rgN9noKQoVg&list=PLuIpgNT2hMwSjDCLGgU4llyf4t0fbiM_G&index=1) 
+    **Lecture**: #13   
+    **Author**: Prof. Erik Lindahl  
+    **Duration**: ~    
+    **Date**: Feb **2021**   
+    **Youtube playlist**: [link](https://www.youtube.com/watch?v=rgN9noKQoVg&list=PLuIpgNT2hMwSjDCLGgU4llyf4t0fbiM_G&index=1)
+
+    Courtesy of Prof. Erik Lindahl. Used with permission
 
 ## 1 - Free energy calculation provides good relative binding free energies
 
