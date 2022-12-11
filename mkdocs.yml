@@ -151,8 +151,8 @@ nav:
   - External Courses (links):
     - Table of Contents: external/index.md 
     - Erik Lindahl Course: external/erik-lindahl.md
-  - Tutorials (links): 
-    - Table of Contents: tutorials/tutorials.md
+  - External Tutorials (links): 
+    - Table of Contents: tutorials/index.md
   - Donate:
     - 'Support us': site/donate.md
 
