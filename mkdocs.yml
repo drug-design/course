@@ -137,9 +137,7 @@ nav:
       - 'Molecular Graphics': chapters/molecular-graphics.md
       - 'Selected Examples in 3D Analysis': chapters/conformational-analysis-examples.md
     - Molecular Dynamics:
-      - 'Molecular Dynamics': chapters/molecular-dynamics.md
-  - Tutorials: 
-    - Table of Contents: tutorials/tutorials.md     
+      - 'Molecular Dynamics': chapters/molecular-dynamics.md    
   - New Contributions:
     - 'New contributions': site/new-contributions.md
   - Teaching:
@@ -153,6 +151,8 @@ nav:
   - External Courses (links):
     - Table of Contents: external/index.md 
     - Erik Lindahl Course: external/erik-lindahl.md
+  - Tutorials (links): 
+    - Table of Contents: tutorials/tutorials.md
   - Donate:
     - 'Support us': site/donate.md
 
