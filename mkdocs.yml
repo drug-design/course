@@ -2,7 +2,7 @@ site_name: Drug Design Org
 site_description: Drug Design
 repo_url: https://github.com/drug-design/course
 site_url: https://drugdesign.org
-edit_uri: ./edit/main
+edit_uri: ./edit/main/docs
 theme:
   icon:
     logo: simple/moleculer
