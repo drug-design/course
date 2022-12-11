@@ -138,9 +138,6 @@ nav:
       - 'Selected Examples in 3D Analysis': chapters/conformational-analysis-examples.md
     - Molecular Dynamics:
       - 'Molecular Dynamics': chapters/molecular-dynamics.md
-  - External Courses:
-    - Table of Contents: external/index.md 
-    - Erik Lindahl Course: external/erik-lindahl.md
   - Tutorials: 
     - Table of Contents: tutorials/tutorials.md     
   - New Contributions:
@@ -153,6 +150,9 @@ nav:
     - 'Create New Content': site/new-content.md
     - 'MarkDown Template': site/template.md
     - 'Content Idea': site/contribution-idea.md    
+  - External Courses (links):
+    - Table of Contents: external/index.md 
+    - Erik Lindahl Course: external/erik-lindahl.md
   - Donate:
     - 'Support us': site/donate.md
 
