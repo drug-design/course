@@ -2,7 +2,7 @@
 
 !!! Author "About this Course"
       
-    This Youtube course is taught by ** Erik Lindahl**, Professor of Biophysics department of Biochemistry & Biophysics at [Stockholm University](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching) 
+    This excellent Youtube course is taught by ** Erik Lindahl**, Professor of Biophysics department of Biochemistry & Biophysics at [Stockholm University](https://www.su.se/english/profiles/erlin-1.189634?open-collapse-boxes=body-teaching) 
 
     ** Youtube Channel**: [Link](https://www.youtube.com/@eriklindahl)   
       
