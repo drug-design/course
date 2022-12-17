@@ -9,7 +9,7 @@
 
     ** Authors & Contributors **: TeachOpenCADD has been initiated by the members of Volkamer Lab, Charité - Universitätsmedizin Berlin. Many [contributors](https://github.com/volkamerlab/teachopencadd/graphs/contributors) have  participated in its developments
 
-    ** Prerequisite**: Python (if have any programing background you should be able to understand the python code)  
+    ** Prerequisite**: Python Knowledge (if you have any programing background you should be able to understand the python code)  
     ** TeachOpenCadd Website**: [Link](https://projects.volkamerlab.org/teachopencadd/external_tutorials_collections.html){target=_blank}       
     ** Github Link**: [Link](https://github.com/volkamerlab/teachopencadd){target=_blank}        
       
