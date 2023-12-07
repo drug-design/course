@@ -1,4 +1,4 @@
-# Claude Cohen ז״ל- A Drug Design Pionnier 
+# Claude Cohen ז״ל- A Drug Design Pioneer 
 
 drugdesign.org is dedicated to the memory of Dr. N. Claude Cohen, a pioneer in Molecular Modeling and Drug Design.
 
