@@ -97,7 +97,16 @@ Another way to define similarity between molecules is shape similarity. Molecula
 === "Shape"
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate.png){: loading=lazy }
 
-=== "Shape"
+=== "3D Shape"
+    <div id="nglviewer-container-1" class="nglviewer-container" data-molecule-id="shape-similarity" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+
+=== "3D"
+    <div id="nglviewer-container-2" class="nglviewer-container" data-molecule-id="shape-similarity-3d" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+
+=== "3D Superimposition"
+    <div id="nglviewer-container-3" class="nglviewer-container" data-molecule-id="shape-similarity-superimposition" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+
+=== "2d"
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate2.png){: loading=lazy }
 
 #### Surface Physicochemical Similarity
