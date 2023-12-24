@@ -12,8 +12,18 @@ Promise.all([
   var sp = new NGL.Superposition(ol[0].structure, ol[1].structure)
   sp.transform(ol[0].structure)
   ol[0].updateRepresentations({ "position": true })
-  console.log(sp)
-  //ol[1].autoView()
-  stage.autoView();
-  stage.viewerControls.zoom(0.4)
+
+  setTimeout(() => {
+    // Calculate the center of the bounding box of the superimposed structures
+    let box = ol[0].structure.getBoundingBox();
+    let center = box.getCenter().clone();
+    stage.animationControls.move(center, 0); // Instantly move the center of rotation to the new center
+    setTimeout(() => {
+      let currentPosition = stage.viewer.camera.position;
+      let zoomFactor = 0.3; 
+      let newPosition = currentPosition.multiplyScalar(zoomFactor);
+      stage.viewer.camera.position.copy(newPosition);
+      stage.viewer.requestRender();
+    }, 100); 
+  }, 100);
 })

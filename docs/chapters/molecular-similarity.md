@@ -98,13 +98,13 @@ Another way to define similarity between molecules is shape similarity. Molecula
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate.png){: loading=lazy }
 
 === "3D Shape"
-    <div id="nglviewer-container-1" class="nglviewer-container" data-molecule-id="shape-similarity" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id="nglviewer-container-ss1" class="nglviewer-container" data-molecule-id="shape-similarity" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 === "3D"
-    <div id="nglviewer-container-2" class="nglviewer-container" data-molecule-id="shape-similarity-3d" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id="nglviewer-container-ss2" class="nglviewer-container" data-molecule-id="shape-similarity-3d" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 === "3D Superimposition"
-    <div id="nglviewer-container-3" class="nglviewer-container" data-molecule-id="shape-similarity-superimposition" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id="nglviewer-container-ss3" class="nglviewer-container" data-molecule-id="shape-similarity-superimposition" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 === "2d"
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate2.png){: loading=lazy }
@@ -186,6 +186,10 @@ The pharmacophore is the three-dimensional (spatial) arrangement of ligand featu
 
 === "2D"
     ![](https://media.drugdesign.org/course/molecular-similarity/pharmaco.png){: loading=lazy }
+
+=== "3D Superimposition"
+    <div id="nglviewer-container" class="nglviewer-container" data-molecule-id="pharmacophore-similarity" style="width: 750px; height: 450px;" data-initialized="false"></div>  
+
 === "Superimposition"
     ![](https://media.drugdesign.org/course/molecular-similarity/f2412.gif){: loading=lazy }
 ### Comparing Molecular Characteristics
@@ -242,10 +246,17 @@ The easiest way to maximize and reveal similarities between objects is to align 
 
 === "1D Sequence"
     ![](https://media.drugdesign.org/course/molecular-similarity/sequence_align.png){: loading=lazy }
+
 === "3D Before"
-    ![](https://media.drugdesign.org/course/molecular-similarity/superim_before_600.png){: loading=lazy }
+    <div id="nglviewer-container-msoa-1" class="nglviewer-container" data-molecule-id="maximizing-similarity-before" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 === "3D After"
+    <div id="nglviewer-container-msoa-2" class="nglviewer-container" data-molecule-id="maximizing-similarity-after" style="width: 750px; height: 450px;" data-initialized="false"></div>    
+
+=== "3D Before (pic)"
+    ![](https://media.drugdesign.org/course/molecular-similarity/superim_before_600.png){: loading=lazy }
+
+=== "3D After (pic)"
     ![](https://media.drugdesign.org/course/molecular-similarity/superim_600.png){: loading=lazy }
 
 ### The Psychology of Similarity
@@ -1132,8 +1143,11 @@ Due to their ubiquity in living systems, many natural ligands of receptors in th
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
+=== "3D (pic)"
+    ![](https://media.drugdesign.org/course/molecular-similarity/peptidomimetism.png){: loading=lazy }
 
-![](https://media.drugdesign.org/course/molecular-similarity/peptidomimetism.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-peptido" class="nglviewer-container" data-molecule-id="peptidomimetics" style="width: 750px; height: 450px;" data-initialized="false"></div>    
 
 ### Compounds that Fit the Shape of an Active Site
 
