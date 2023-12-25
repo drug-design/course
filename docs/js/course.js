@@ -1,6 +1,36 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log("course.js loaded");
 
+
+var observer = new MutationObserver(function(mutations) {
+    mutations.forEach(function(mutation) {
+        // Check if the added nodes include the relevant container
+        var relevantMutation = Array.from(mutation.addedNodes).some(node => 
+            node.classList && node.classList.contains('nglviewer-container'));
+        
+        if (relevantMutation) {
+            console.log("Relevant mutation detected, reinitializing molecule displays");
+            checkAndInitializeMoleculeDisplays();
+        }
+    });
+});
+
+
+// Configuration for the observer:
+// childList - to observe direct children changes
+// subtree - to observe all descendants (not just children)
+var observerConfig = {
+    childList: true,
+    subtree: true
+};
+
+// Select the target node to observe (usually the 'body' for page content)
+var targetNode = document.body;
+
+// Start observing the target node for configured mutations
+observer.observe(targetNode, observerConfig);
+
+
     function initializeMoleculeDisplay(container) {
         var moleculeId = container.getAttribute('data-molecule-id');
         var chapterName;
@@ -28,6 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
    
     function checkAndInitializeMoleculeDisplays() {
+        console.log("Checking and initializing molecule displays");
         document.querySelectorAll('.tabbed-set[data-tabs]').forEach(tabbedSet => {
             const tabIndex = getActiveTabIndex(tabbedSet);
             const tabbedBlocks = tabbedSet.querySelectorAll('.tabbed-block');
@@ -59,5 +90,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    checkAndInitializeMoleculeDisplays();
+    //checkAndInitializeMoleculeDisplays();
 });
