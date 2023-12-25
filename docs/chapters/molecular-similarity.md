@@ -1791,7 +1791,7 @@ For reasons that are not predictable, the receptor may undergo substantial confo
 === "Sketch"
     ![](https://media.drugdesign.org/course/molecular-similarity/changement_conf_recep.png){: loading=lazy }
 === "3D"
-    ![](https://media.drugdesign.org/course/molecular-similarity/renin_simplified_600.png){: loading=lazy }
+    <div id="nglviewer-container-rcc" class="nglviewer-container" data-molecule-id="receptor-conformational-change" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 #### Flip in Binding Mode
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
