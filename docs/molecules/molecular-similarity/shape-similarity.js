@@ -26,7 +26,7 @@ Promise.all([
         probeRadius: 1.4,
         scaleFactor: 2.0,
         flatShaded: false,
-        opacity: 0.7,
+        opacity: 0.3,
         lowResolution: false,
         colorScheme: "element"
       })
