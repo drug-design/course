@@ -6,6 +6,13 @@ var moleculeControls = [
   { id: 'lig', label: 'Ligand', checked: true }
 ];
 
+function toggleMolecule(moleculeId) {
+  var molecule = molecules[moleculeId];
+  if (molecule) {
+    molecule.setVisibility(!molecule.visible);
+  }
+}
+
 function createElement(name, properties, style) {
   var el = document.createElement(name);
   Object.assign(el, properties);
@@ -48,14 +55,6 @@ moleculeControls.forEach(function (control, index) {
 });
 
 
-
-function toggleMolecule(moleculeId) {
-  var molecule = molecules[moleculeId];
-  if (molecule) {
-    molecule.setVisibility(!molecule.visible);
-  }
-}
-
 Promise.all([
   stage.loadFile("./../../molecules/molecular-similarity/receptor-conformational-change-renin-1.pdb",{name: 'renin-red'}).then(function (o) {
     o.addRepresentation("backbone", {color: "red"})
@@ -77,26 +76,12 @@ Promise.all([
   stage.autoView();
   stage.viewerControls.zoom(0.4);
 
-  // Store references to the loaded molecules and set their initial visibility
-  molecules['renin-red'] = ol[0];
-  molecules['renin-red'].setVisibility(moleculeControls.find(c => c.id === 'renin-red').checked);
+  ol.forEach(function (loadedMolecule, index) {
+    var control = moleculeControls[index];
+    if (control) {
+      molecules[control.id] = loadedMolecule;
+      loadedMolecule.setVisibility(control.checked);
+    }
+  });
 
-  molecules['renin-blue'] = ol[1];
-  molecules['renin-blue'].setVisibility(moleculeControls.find(c => c.id === 'renin-blue').checked);
-
-  molecules['lig'] = ol[2];
-  molecules['lig'].setVisibility(moleculeControls.find(c => c.id === 'lig').checked);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-

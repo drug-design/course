@@ -187,3 +187,5 @@ function onTabChange(event) {
     registerTabListener()
     checkAndInitializeMoleculeDisplays();
 });
+
+
