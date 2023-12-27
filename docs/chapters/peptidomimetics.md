@@ -76,8 +76,10 @@ The aim of peptidomimetics is to find a non-peptidic molecule that mimics the ac
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-
-![](https://media.drugdesign.org/course/peptidomimetics/aim_peptido.png){: loading=lazy }
+=== "pic"
+    ![](https://media.drugdesign.org/course/peptidomimetics/aim_peptido.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-aim" class="nglviewer-container" data-molecule-id="aim" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 ### Typical Peptidomimicry Projects
 
@@ -240,8 +242,6 @@ Global restrictions of the peptide conformation are possible by limiting the fle
 
 Some atoms or group of atoms of the backbone of the peptide can be replaced by equivalent groups. The following examples are some of the most common replacements considered in backbone mimicry.
 
-
-![](https://media.drugdesign.org/course/peptidomimetics/2_2_0_1.png){: loading=lazy }
 === "NH"
     ![](https://media.drugdesign.org/course/peptidomimetics/2_2_0_1_f1.png){: loading=lazy }
 === "CO"
@@ -267,14 +267,13 @@ Some atoms or group of atoms of the backbone of the peptide can be replaced by e
     Chemistry and Biochemistry of Amino Acids, Peptides and Proteins, Vol. III 
     Marcel Dekker  1983   
     
-##### Browser of Bioisosteric Replacements
-*[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
+#### Browser of Bioisosteric Replacements
+*[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.    
 
-
-          
-
-
-![](https://media.drugdesign.org/course/peptidomimetics/replacement.gif){: loading=lazy }
+=== "pic"
+    ![](https://media.drugdesign.org/course/peptidomimetics/replacement.gif){: loading=lazy }
+=== "3D Browser"
+    <div id="nglviewer-container-browser-bio" class="nglviewer-container" data-molecule-id="bio" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 #### C&alpha; Modifications
 
@@ -315,7 +314,12 @@ Tetra substituted amino acids are widely used in peptidomimetics for their confo
 Azapeptides have emerged as another important class of biologically stable and conformationally constrained backbone mimics. Aza amino acids provide a unique conformational property to the peptide backbone because of a chiral center loss (the &alpha;-carbon) and the extension of the area of planarity as compared with that of a normal amide bond. It was found that this more constrained backbone is limiting the peptide conformations to &beta;-turn like conformations and helical structures.
 
 
-![](https://media.drugdesign.org/course/peptidomimetics/azapeptide.gif){: loading=lazy }
+=== "pic"
+    ![](https://media.drugdesign.org/course/peptidomimetics/azapeptide.gif){: loading=lazy }
+
+=== "3D Browser"
+    <div id="nglviewer-container-azapeptide" class="nglviewer-container" data-molecule-id="azapeptide" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+
 
 
 ??? Abstract "articles"
@@ -473,8 +477,11 @@ The peptidic sequence of angiotensinogen (the substrate of renin) served as a ba
 The superimposition of A-72517 with the reference peptide is displayed below and shows how the designed structure alligns well in 3D with the amino-acids adjacent to the scissile bond of angiotensinogen (center).
 *[nce]: New Chemical Entity: a compound not previously described.
 
+=== "3D-pic"
+    ![](https://media.drugdesign.org/course/peptidomimetics/v1_d2_3_2_internet.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-A-72517-mimic" class="nglviewer-container" data-molecule-id="a72517" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
-![](https://media.drugdesign.org/course/peptidomimetics/v1_d2_3_2_internet.png){: loading=lazy }
 #### Dead End in the Development of A-72517
 
 Although very active in vitro, the clinical development of A-72517 was hindered by poor pharmacokinetics, which included low oral bioavailability and rapid excretion. The clinical trials on the renin inhibitor A-72517 were discontinued; Zankiren did not reach the market. The "depeptidization" operation require to be further pursued.
@@ -486,8 +493,10 @@ Although very active in vitro, the clinical development of A-72517 was hindered 
 
 === "2D"
     ![](https://media.drugdesign.org/course/peptidomimetics/3_3_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D-pic"
     ![](https://media.drugdesign.org/course/peptidomimetics/dead_end.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-A-72517" class="nglviewer-container" data-molecule-id="dead-end" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 ### Second Route:De Novo Design of Non Peptide Mimics
 
@@ -526,7 +535,6 @@ The operational framework previously defined allows the design to proceed. In th
 
 TRH (Thyrotropin-Releasing Hormone) is produced by the hypothalamus and this peptide has been considered as a target for treating Alzheimer disease and spinal injury.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
-
 
 ![](https://media.drugdesign.org/course/peptidomimetics/trh_roche.png){: loading=lazy }
 
@@ -574,12 +582,12 @@ Design effort for identifying non-peptidic mimics of TRH succeeded in creating m
     438-9 1980  
     
 ##### TRH Browser
+   
+=== "Pic"
+    ![](https://media.drugdesign.org/course/peptidomimetics/trh.gif){: loading=lazy }
 
-
-          
-
-
-![](https://media.drugdesign.org/course/peptidomimetics/trh.gif){: loading=lazy }
+=== "Browser 3D"
+    <div id="nglviewer-container-trh" class="nglviewer-container" data-molecule-id="br-trh" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 
 ??? Abstract "articles"
