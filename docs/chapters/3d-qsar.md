@@ -509,8 +509,11 @@ In the absence of obvious rules, molecular modeling always enables the superimpo
 *[molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 *[nce]: New Chemical Entity: a compound not previously described.
 
+=== "gif"
+    ![](https://media.drugdesign.org/course/3d-qsar/shape_alignement.gif){: loading=lazy }
 
-![](https://media.drugdesign.org/course/3d-qsar/shape_alignement.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-shape-alignment" class="nglviewer-container" data-molecule-id="shape-alignment" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Field Fitting
 
@@ -599,6 +602,8 @@ The following analogs are inhibitors of CP450-cam, and it is reasonable to assum
     ![](https://media.drugdesign.org/course/3d-qsar/imidazol.png){: loading=lazy }
 === "X-rays"
     ![](https://media.drugdesign.org/course/3d-qsar/imidazol.gif){: loading=lazy }
+=== "X-rays 3D"
+    <div id="nglviewer-container-imidazole" class="nglviewer-container" data-molecule-id="imidazole" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### The Bioactive Conformation Issue
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -888,10 +893,11 @@ The visual analysis of a CoMFA steric map is straightforward. One can recognize 
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
+=== "gif"
+    ![](https://media.drugdesign.org/course/3d-qsar/snap_3d_qsar_74.jpg){: loading=lazy }
 
-![](https://media.drugdesign.org/course/3d-qsar/map_steric_600.png){: loading=lazy }
-
-![](https://media.drugdesign.org/course/3d-qsar/snap_3d_qsar_74.jpg){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-steric-contour-map-analysis" class="nglviewer-container" data-molecule-id="steric-contour-map-analysis" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Analysis of Electrostatic Contour Maps
 *[Contour Map]: The 2D or 3D visualization of points that have the same value of a particular property and are connected together.
@@ -903,10 +909,10 @@ A ComFA electrostatic contour map reveals critical regions: the blue areas corre
 *[nce]: New Chemical Entity: a compound not previously described.
 *[contour map]: The 2D or 3D visualization of points that have the same value of a particular property and are connected together.
 
-
-![](https://media.drugdesign.org/course/3d-qsar/map_elect_600.png){: loading=lazy }
-
-![](https://media.drugdesign.org/course/3d-qsar/snap_3d_qsar_75.jpg){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/3d-qsar/snap_3d_qsar_75.jpg){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-steric-contour-map-analysis" class="nglviewer-container" data-molecule-id="ele-contour-map-analysis" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Exploitation of the Steric Contour Map
 *[Contour Map]: The 2D or 3D visualization of points that have the same value of a particular property and are connected together.
@@ -915,15 +921,22 @@ In the example below, when bulky para substituents are introduced in the phenyl 
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/3d-qsar/3d_qsar_76.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/3d-qsar/3d_qsar_76.gif){: loading=lazy }
+
+=== "3D Browser"
+    <div id="nglviewer-container-br-steric-contour-map" class="nglviewer-container" data-molecule-id="steric-contour-map" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Exploitation of the Electrostatic Contour Map
 *[Contour Map]: The 2D or 3D visualization of points that have the same value of a particular property and are connected together.
 
 When electronegative groups (Cl, CF3) are introduced into the red areas biological activities are increased; and when electronegative groups (Br, CN) are in the blue areas biological activities are decreased.
 
+=== "Gif" 
+    ![](https://media.drugdesign.org/course/3d-qsar/3d_qsar_77.gif){: loading=lazy }
 
-![](https://media.drugdesign.org/course/3d-qsar/3d_qsar_77.gif){: loading=lazy }
+=== "3D Browser"
+    <div id="nglviewer-container-br-ele-contour-map" class="nglviewer-container" data-molecule-id="ele-contour-map" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 ### Stability Problem of CoMFA Models
 
