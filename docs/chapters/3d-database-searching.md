@@ -30,11 +30,15 @@ The 3D molecular geometries are of major importance in drug design because they 
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
-=== "Sup"
+=== "Sup (gif)"
     ![](https://media.drugdesign.org/course/3d-database-searching/what_is_3d_searching.gif){: loading=lazy }
-
-=== "Tile"
+=== "Sup (3D)"
+    <div id="nglviewer-container-wi3ds1" class="nglviewer-container" data-molecule-id="3d-db-sup" style="width: 750px; height: 450px;" data-initialized="false"></div>
+=== "Tile (png)"
     ![](https://media.drugdesign.org/course/3d-database-searching/what_is_3d_searching2.png){: loading=lazy }
+=== "Tile (3D)"
+    <div id="nglviewer-container-wi3ds1" class="nglviewer-container" data-molecule-id="3d-db-tile" style="width: 750px; height: 450px;" data-initialized="false"></div>
+
 
 ### Components of a 3D Searching Program
 
@@ -56,8 +60,10 @@ A search hypothesis consists of 3D structural features that are desired to be fo
 
 === "2D"
     ![](https://media.drugdesign.org/course/3d-database-searching/page5_hypothesis.png){: loading=lazy }
-=== "Pharmacophore"
+=== "Pharmacophore (png)"
     ![](https://media.drugdesign.org/course/3d-database-searching/search_hypo_pharma.png){: loading=lazy }
+=== "Pharmacophore (3D)"
+    <div id="nglviewer-container-sh1" class="nglviewer-container" data-molecule-id="search-hypothesis" style="width: 750px; height: 450px;" data-initialized="false"></div>    
 
 #### Converting a Search Hypothesis into a Query
 
