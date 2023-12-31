@@ -500,8 +500,10 @@ When there is no common scaffold shared by all the molecules it is possible to s
 
 === "2D"
     ![](https://media.drugdesign.org/course/3d-qsar/pharmaco.png){: loading=lazy }
-=== "Superimposition"
+=== "Superimposition (gif)"
     ![](https://media.drugdesign.org/course/3d-qsar/f2412.gif){: loading=lazy }
+=== "Superimposition (3D)"
+    <div id="nglviewer-container-pharmacophore-alignment" class="nglviewer-container" data-molecule-id="pharmacophore-alignment" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Shape Alignments
 
@@ -600,7 +602,7 @@ The following analogs are inhibitors of CP450-cam, and it is reasonable to assum
 
 === "2D"
     ![](https://media.drugdesign.org/course/3d-qsar/imidazol.png){: loading=lazy }
-=== "X-rays"
+=== "X-rays (gif)"
     ![](https://media.drugdesign.org/course/3d-qsar/imidazol.gif){: loading=lazy }
 === "X-rays 3D"
     <div id="nglviewer-container-imidazole" class="nglviewer-container" data-molecule-id="imidazole" style="width: 750px; height: 450px;" data-initialized="false"></div>
