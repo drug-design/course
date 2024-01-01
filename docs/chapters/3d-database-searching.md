@@ -105,8 +105,10 @@ Processing the query consists of using it as input in the searching program to f
 
 A possible strategy in lead discovery is to search for molecules that fit the common volume of active compounds. For this purpose the set of all known active and inactive compounds are superimposed, and the resulting information is used for subsequent 3D searching. 
 
-
-![](https://media.drugdesign.org/course/3d-database-searching/browser_surface.gif){: loading=lazy }
+=== "Browser (gif)"
+    ![](https://media.drugdesign.org/course/3d-database-searching/browser_surface.gif){: loading=lazy }
+=== "Browser (3D)"
+    <div id="nglviewer-container-fhtftvoam1" class="nglviewer-container" data-molecule-id="volume-active-mol" style="width: 750px; height: 450px;" data-initialized="false"></div>  
 
 ### Bioactive Conformation of a Flexible Molecule
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
