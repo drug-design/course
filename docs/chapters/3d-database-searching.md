@@ -118,11 +118,14 @@ The first step in a drug design project might be to synthesize molecules that pr
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
 
-=== "Extended"
+=== "Extended (gif)"
     ![](https://media.drugdesign.org/course/3d-database-searching/bio_extended.gif){: loading=lazy }
-
-=== "Folded"
-    ![](https://media.drugdesign.org/course/3d-database-searching/bio_folded.gif){: loading=lazy }
+=== "Extented (3D)"
+    <div id="nglviewer-container-bcofm2" class="nglviewer-container" data-molecule-id="bio-flexible-extended" style="width: 750px; height: 450px;" data-initialized="false"></div>    
+=== "Folded (gif)"
+    ![](https://media.drugdesign.org/course/3d-database-searching/bio_folded.gif){: loading=lazy }    
+=== "Folded (3D)"
+    <div id="nglviewer-container-bcofm1" class="nglviewer-container" data-molecule-id="bio-flexible-folded" style="width: 750px; height: 450px;" data-initialized="false"></div>    
 
 ### "Lead-Hop" to a New Core
 
@@ -131,8 +134,10 @@ Once a bioactive conformation is established, one may wish to design one or more
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-
-![](https://media.drugdesign.org/course/3d-database-searching/lead_hop.gif){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/3d-database-searching/lead_hop.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-lead-hop" class="nglviewer-container" data-molecule-id="lead-hop" style="width: 750px; height: 450px;" data-initialized="false"></div> 
 
 ### Design a Library for HTS
 

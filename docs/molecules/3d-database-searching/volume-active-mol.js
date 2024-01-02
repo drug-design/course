@@ -127,6 +127,6 @@ stage.loadFile("./../../molecules/3d-database-searching/volume-active-mol.mol2")
   moleculeRepresentations.push(representation);  
 
   stage.autoView();
-  stage.viewerControls.zoom(0.4);
+  stage.viewerControls.zoom(0.1);
 });
 
