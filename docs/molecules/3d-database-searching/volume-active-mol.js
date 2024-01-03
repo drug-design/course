@@ -6,12 +6,12 @@ var modelControls = [
   { id: 'id-1', label: 'active 2',        checked: true,  sele: '/3'  },
   { id: 'id-2', label: 'active 3',        checked: true,  sele: '/6'  }, 
   { id: 'id-3', label: 'active 4',        checked: true,  sele: '/4'   }, 
-  { id: 'id-4', label: 'volume active',   checked: false, sele: '/1 or /3 or /6 or /4'},
-  { id: 'id-5', label: 'inactive 1',      checked: false,  sele: '/0'  }, 
-  { id: 'id-6', label: 'inactive 2',      checked: false,  sele: '/2'  },
-  { id: 'id-7', label: 'inactive 3',      checked: false,  sele: '/7'  }, 
-  { id: 'id-8', label: 'inactive 4',      checked: false,  sele: '/5'   },
-  { id: 'id-9', label: 'volume inactive', checked: false, sele: '/0 or /2 or /7 or /5'}
+  { id: 'id-4', label: 'volume active',   checked: true, sele: '/1 or /3 or /6 or /4'},
+  { id: 'id-5', label: 'inactive 1',      checked: true,  sele: '/0'  }, 
+  { id: 'id-6', label: 'inactive 2',      checked: true,  sele: '/2'  },
+  { id: 'id-7', label: 'inactive 3',      checked: true,  sele: '/7'  }, 
+  { id: 'id-8', label: 'inactive 4',      checked: true,  sele: '/5'   },
+  { id: 'id-9', label: 'volume inactive', checked: true, sele: '/0 or /2 or /7 or /5'}
   
   // Add more models as needed
 ];
