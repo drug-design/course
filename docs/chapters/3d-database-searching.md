@@ -237,8 +237,10 @@ Frequently the center of an aromatic ring is used as a point in the description.
 === "Isoxazole"
     ![](https://media.drugdesign.org/course/3d-database-searching/isoxazole.gif){: loading=lazy }
 
-=== "Browser"
+=== "Browser (gif)"
     ![](https://media.drugdesign.org/course/3d-database-searching/centroid_browser.gif){: loading=lazy }
+=== "Browser (3D)"
+    <div id="nglviewer-container-centroid-browser" class="nglviewer-container" data-molecule-id="centroid-browser" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ##### Extension Point
 
@@ -380,7 +382,10 @@ Geometric searching can include some implicit shape constraints by specifying di
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
-![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-basearch" class="nglviewer-container" data-molecule-id="shape-searching" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Bioactive Conformation as a Source of Shape
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -388,15 +393,19 @@ Geometric searching can include some implicit shape constraints by specifying di
 One could do a shape query on the molecule that defines the proposed bioactive conformation and/or search for molecules to test alternative proposals of the bioactive conformation.  
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-
-![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry2.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry2.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-bassh" class="nglviewer-container" data-molecule-id="bioactive-shape" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Ensemble of  Active Molecules as a Source of Shape
 
  The shape of the space occupied by the ensemble of superimposed active molecules describes a powerful shape query.
 
-
-![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry3.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry3.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-ensemble-active" class="nglviewer-container" data-molecule-id="ensemble-active" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Active Site as a Source of Shape
 
@@ -513,8 +522,10 @@ CORINA is a popular program that automatically generates three-dimensional atomi
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[RMS]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
-
-![](https://media.drugdesign.org/course/3d-database-searching/corina.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/3d-database-searching/corina.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-corina" class="nglviewer-container" data-molecule-id="corina" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ##### ConFirm and Omega
 
