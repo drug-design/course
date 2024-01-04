@@ -5,6 +5,7 @@
 Working on adding 3d molecules for the following chapters: 
 
 * [3d-database searching](https://www.drugdesign.org/chapters/3d-database-searching/) 
+* [Principles of Rational Drug Design](https://www.drugdesign.org/chapters/drug-design/) 
 
 ### December 2023 
 I have begun working on rendering molecules in 3D and have chosen the NGL Viewer [nglviewer.org](https://nglviewer.org/) as a powerful is a web-based application for molecular visualization. My first chapters, featuring several 3D molecules, are already complete. 

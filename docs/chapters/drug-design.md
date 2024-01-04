@@ -106,8 +106,11 @@ In indirect design, the analysis of the active and inactive molecules gives a "f
 The following pages will illustrate some examples of molecular mimicry between chemically unrelated compounds such as hormones, cofactors (ATP), steroids, peptides, biogenic amines, carbohydrates, and fatty acids.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
+=== "Gif"
+    ![](https://media.drugdesign.org/course/drug-design/example_mimicry.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-molecular-mimicry" class="nglviewer-container" data-molecule-id="molecular-mimicry" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
-![](https://media.drugdesign.org/course/drug-design/example_mimicry.gif){: loading=lazy }
 
 #### ATP
 
@@ -116,8 +119,10 @@ The following view illustrates a molecule that is mimicking ATP, the cofactor of
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-
-![](https://media.drugdesign.org/course/drug-design/atp.gif){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/atp.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-atp" class="nglviewer-container" data-molecule-id="atp" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Dopamine
 
@@ -128,22 +133,29 @@ The following view illustrates a molecule that is mimicking the structure of dop
 *[agonists]: A chemical substance capable of activating a given receptor.
 
 
-![](https://media.drugdesign.org/course/drug-design/dopamine.gif){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/dopamine.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-dopamine" class="nglviewer-container" data-molecule-id="dopamine" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Histamine
 
 The following view illustrates a molecule that is mimicking histamine (useful as anti-allergic, gastric or cardio vascular systems therapies).
 
-
-![](https://media.drugdesign.org/course/drug-design/histamine.gif){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/histamine.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-histamine" class="nglviewer-container" data-molecule-id="histamine" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Estradiol
 
 The following view illustrates a molecule that is mimicking estradiol. Estrogen modulators have potential applications in various therapies (e.g. cancer, cardiovascular and osteoporosis).
 *[nce]: New Chemical Entity: a compound not previously described.
 
-
-![](https://media.drugdesign.org/course/drug-design/estradiol.gif){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/estradiol.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-estradiol" class="nglviewer-container" data-molecule-id="estradiol" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
@@ -152,8 +164,10 @@ When molecular mimicry is applied to peptides, the discipline is called "peptido
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-
-![](https://media.drugdesign.org/course/drug-design/2_4_0_1.png){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/2_4_0_1.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-peptidomimetics" class="nglviewer-container" data-molecule-id="peptidomimetics" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Strengths of Pharmacophore-Based Drug Design
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -257,8 +271,6 @@ The ideal situation is to have X-ray structures of complexes between the active 
 
 ![](https://media.drugdesign.org/course/drug-design/ideal_situation.gif){: loading=lazy }
 
-![](https://media.drugdesign.org/course/drug-design/snap_v1_c1_4_4_2.jpg){: loading=lazy }
-
 #### Example 1
 
 A new insulin receptor modulator was discovered and shown to bind to the receptor in a non-competitive way. The X-ray structure of the binding domain of the free receptor was available and attempts to predict the binding mode were unsuccessful. In such a case, the synergy between the two sources of data was not feasible thus the molecular modeler could only exploit the two routes independently.
@@ -338,23 +350,29 @@ The chemical formulas of a series of biologically active molecules are known and
 
 A molecule can be designed that mimics the structural features common to the set of molecules considered.
 
-
-![](https://media.drugdesign.org/course/drug-design/mimic.gif){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/mimic.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-mimicry" class="nglviewer-container" data-molecule-id="mimicry" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Typical Receptor-Based Project
 
 The development of a drug candidate that inhibits a cancer-related protein was stopped due to insufficient selectivity. The X-ray data of the complex of the molecule with the protein concerned is available. This is a possible starting point for a receptor-based project aiming at the discovery of potent and selective molecules.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-
-![](https://media.drugdesign.org/course/drug-design/receptor_based.png){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/receptor_based.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-ligand-protein" class="nglviewer-container" data-molecule-id="ligand-protein" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Design Based in Making Favorable 3D Interactions
 
 A molecule can be designed that has optimal interactions with the 3D structure of the target protein.
 
-
-![](https://media.drugdesign.org/course/drug-design/receptor_based2.gif){: loading=lazy }
+=== "gif"
+    ![](https://media.drugdesign.org/course/drug-design/receptor_based2.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-interaction" class="nglviewer-container" data-molecule-id="interaction" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Typical Genomic Project
 
