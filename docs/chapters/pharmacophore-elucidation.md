@@ -690,15 +690,18 @@ Dihydrofolate and methotrexate bind to the catalytic site of the dihydrofolate r
 
 By observing their chemical formulas, it is obvious that these two structures can be aligned in the following way:
 
+=== "Sup (Pic)"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s2.png){: loading=lazy }
 
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s2.png){: loading=lazy }
+=== "Sup (3D)"
+    <div id="nglviewer-container-sup-without-x-ray" class="nglviewer-container" data-molecule-id="sup-without-x-ray" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 #### Different Electrostatic Distribution in 2D Alignment
 
 However, this is not observed experimentally. Notice that in this alignment the electrostatic features of the two molecules are not the same.
 
-
 ![](https://media.drugdesign.org/course/pharmacophore-elucidation/electro.gif){: loading=lazy }
+
 
 #### Alignment Based on 3D Structures of Complexes
 
@@ -709,10 +712,7 @@ The crystallographic structures of the complexes of the enzyme with dihydrofolat
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 === "Pic"
-    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s4.png){: loading=lazy }
-    
-=== "Sup without X-ray"
-    <div id="nglviewer-container-sup-without-x-ray" class="nglviewer-container" data-molecule-id="sup-without-x-ray" style="width: 750px; height: 450px;" data-initialized="false"></div>   
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s4.png){: loading=lazy }   
 
 === "Sup from X-ray"
     <div id="nglviewer-container-sup-based-on-x-ray" class="nglviewer-container" data-molecule-id="sup-based-on-x-ray" style="width: 750px; height: 450px;" data-initialized="false"></div>
