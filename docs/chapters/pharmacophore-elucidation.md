@@ -1093,12 +1093,13 @@ In an effort to determine whether that conformation was responsible for the high
 
 ![](https://media.drugdesign.org/course/pharmacophore-elucidation/8_8_3_1.png){: loading=lazy }
 ### Browser of Dopamine D2 Agents
+  
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/browser_dopamine.gif){: loading=lazy }
+   
+=== "Browser (3D)"
+    <div id="nglviewer-container-dopamine-browser" class="nglviewer-container" data-molecule-id="dopamine-browser" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
-
-      
-
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/browser_dopamine.gif){: loading=lazy }
 
 ## Receptor Mapping
 
@@ -1209,12 +1210,11 @@ Mathematical operations (e.g. subtraction, union etc...) can be used with recept
 
 ### Active Analog Approach Browser
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
-
-
-      
-
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/browser.gif){: loading=lazy }
+ 
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/browser.gif){: loading=lazy }    
+=== "Browser (3D)"
+    <div id="nglviewer-container-volume-active-mol" class="nglviewer-container" data-molecule-id="volume-active-mol" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Example of Receptor Mapping
 
