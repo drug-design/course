@@ -1,0 +1,279 @@
+#	Copyright: drugdesign.org
+#	Creation time:	2024-01-11T11:02:23Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+propranolol
+   20    21     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 H1            3.789800    3.711100   -0.106100 H        1 SUBUNIT    0.2106
+      2 C2           -1.259760    0.833715   -0.588032 C.ar     1 SUBUNIT    0.0120
+      3 C3           -0.280500   -0.096500   -0.201400 C.ar     1 SUBUNIT    0.0829
+      4 C4           -0.685460   -1.382885    0.201668 C.ar     1 SUBUNIT    0.0339
+      5 C5           -2.048960   -1.723284    0.204368 C.ar     1 SUBUNIT    0.0034
+      6 C6           -3.022460   -0.792385   -0.190832 C.ar     1 SUBUNIT    0.0087
+      7 C7           -3.594500    1.431000   -0.998000 C.ar     1 SUBUNIT    0.0086
+      8 C8           -3.213060    2.707716   -1.385832 C.ar     1 SUBUNIT    0.0007
+      9 C9           -1.852761    3.058415   -1.386832 C.ar     1 SUBUNIT    0.0008
+     10 C10          -0.884960    2.122916   -0.989432 C.ar     1 SUBUNIT    0.0113
+     11 O11           1.080600    0.230500   -0.209200 O.3      1 SUBUNIT   -0.3427
+     12 C12           1.335500    1.603200   -0.569600 C.3      1 SUBUNIT    0.2006
+     13 C13           2.819600    2.025500   -0.399900 C.3      1 SUBUNIT    0.1541
+     14 O14           2.874400    3.434900   -0.147800 O.3      1 SUBUNIT   -0.3893
+     15 C15          -2.624560    0.488115   -0.587432 C.ar     1 SUBUNIT   -0.0158
+     16 C16           3.541800    1.263900    0.749400 C.3      1 SUBUNIT    0.1149
+     17 N17           3.376800   -0.213700    0.759700 N.3      1 SUBUNIT   -0.3118
+     18 C19           4.249600   -1.000600    1.679900 C.3      1 SUBUNIT    0.0471
+     19 C20           5.300500   -0.067700    2.312900 C.3      1 SUBUNIT    0.0238
+     20 C21           4.958500   -2.186500    0.979200 C.3      1 SUBUNIT    0.0238
+@<TRIPOS>BOND
+     1    1   14 1
+     2    2   15 ar
+     3    2    3 ar
+     4    2   10 ar
+     5    3    4 ar
+     6    3   11 1
+     7    4    5 ar
+     8    5    6 ar
+     9    6   15 ar
+    10    7   15 ar
+    11    7    8 ar
+    12    8    9 ar
+    13    9   10 ar
+    14   11   12 1
+    15   12   13 1
+    16   13   14 1
+    17   13   16 1
+    18   16   17 1
+    19   17   18 1
+    20   18   19 1
+    21   18   20 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+17 0.00
+18 0.00
+19 0.00
+20 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+17 1.00
+18 1.00
+19 1.00
+20 1.00
+
+#	Copyright: drugdesign.org
+#	Creation time:	2024-01-11T11:02:23Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+soterenol
+   22    22     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C2           -2.596143    0.187990   -1.017352 C.ar     1 SUBUNIT    0.0871
+      2 C3           -1.245542    0.582690   -1.041652 C.ar     1 SUBUNIT    0.0408
+      3 C4           -0.230843   -0.329310   -0.707452 C.ar     1 SUBUNIT   -0.0156
+      4 C5           -0.574943   -1.637210   -0.348353 C.ar     1 SUBUNIT    0.0080
+      5 C6           -1.923142   -2.036211   -0.330653 C.ar     1 SUBUNIT    0.0204
+      6 C7            1.249918    0.116274   -0.742520 C.3      1 SUBUNIT    0.1581
+      7 O8            1.363518    1.530974   -0.953220 O.3      1 SUBUNIT   -0.3871
+      8 C9            2.015818   -0.372526    0.521280 C.3      1 SUBUNIT    0.1174
+      9 N9            3.505918   -0.409126    0.405880 N.3      1 SUBUNIT   -0.3116
+     10 C11          -2.942543   -1.124810   -0.667853 C.ar     1 SUBUNIT    0.0215
+     11 C12           4.180718   -1.306826    1.379879 C.3      1 SUBUNIT    0.0471
+     12 C13           4.979318   -0.490926    2.425279 C.3      1 SUBUNIT    0.0238
+     13 C14           5.126318   -2.292527    0.649780 C.3      1 SUBUNIT    0.0238
+     14 H15           2.255118    1.808574   -0.739020 H        1 SUBUNIT    0.2110
+     15 O16          -3.599242    1.095890   -1.344253 O.3      1 SUBUNIT   -0.3593
+     16 H17          -3.189275    1.980184   -1.567564 H        1 SUBUNIT    0.2183
+     17 C18          -4.527482   -2.921327    1.612079 C.3      1 SUBUNIT   -0.0012
+     18 O19          -6.356782   -2.747727   -0.197521 O.2      1 SUBUNIT   -0.5710
+     19 O20          -4.287382   -3.953027   -0.807220 O.2      1 SUBUNIT   -0.5710
+     20 S21          -4.931282   -2.871727   -0.129421 S.o2     1 SUBUNIT    1.3633
+     21 N22          -4.355782   -1.482726   -0.683720 N.pl3    1 SUBUNIT   -0.3425
+     22 H23          -5.004164   -0.822525   -1.062846 H        1 SUBUNIT    0.0961
+@<TRIPOS>BOND
+     1    1   10 ar
+     2    1    2 ar
+     3    1   15 1
+     4    2    3 ar
+     5    3    4 ar
+     6    3    6 1
+     7    4    5 ar
+     8    5   10 ar
+     9    6    7 1
+    10    6    8 1
+    11    7   14 1
+    12    8    9 1
+    13    9   11 1
+    14   10   21 1
+    15   11   12 1
+    16   11   13 1
+    17   15   16 1
+    18   17   20 1
+    19   18   20 2
+    20   19   20 2
+    21   20   21 1
+    22   21   22 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+17 0.00
+18 0.00
+19 0.00
+20 0.00
+21 0.00
+22 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+17 1.00
+18 1.00
+19 1.00
+20 1.00
+21 1.00
+22 1.00
+

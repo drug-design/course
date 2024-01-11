@@ -20,8 +20,11 @@
 Pharmacophore based drug design allows the creation of new lead molecules based on already known biologically active molecules.
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_1_1.png){: loading=lazy }    
+=== "3D"
+    <div id="nglviewer-container-reference-mimic" class="nglviewer-container" data-molecule-id="reference-mimic" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_1_1.png){: loading=lazy }
 
 ### Operational Strategy: Molecular Mimicry
 
@@ -46,14 +49,20 @@ Similar to a key that activates a mechanical lock, some of the elements of a bio
 === "Teeth"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/key_analogy3.png){: loading=lazy }
 
+=== "3D"
+    <div id="nglviewer-container-handle" class="nglviewer-container" data-molecule-id="handle" style="width: 750px; height: 450px;" data-initialized="false"></div>
+
 ### Active Molecules are Complicated Keys
 
 In a key, the "handle" is separate from the "teeth" and the "teeth" open the lock. In an active molecule, this may not be the case. The "handle" can have essential elements while the "teeth" may have elements that are not essential in activating the "lock". The following example shows a molecule with a "handle" containing two essential functional groups (carbonyl and N-H) as well as an element of the "teeth" (phenyl group) that is not essential. The pharmacophore is defined by all the structural elements that are essential for the specified biological activity.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/complicated_key.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-active-complexity" class="nglviewer-container" data-molecule-id="active-complexity" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/complicated_key.png){: loading=lazy }
 
 ### Definition of a Pharmacophore
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -121,6 +130,9 @@ When links between the structural features of the molecules and their biological
 === "Mimetic"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/design_3.png){: loading=lazy }
 
+=== "3D"
+    <div id="nglviewer-container-design-phase-mimetic" class="nglviewer-container" data-molecule-id="design-phase-mimetic" style="width: 750px; height: 450px;" data-initialized="false"></div>    
+
 ## Simple Case
 
 ### Introduction with a Simple Case
@@ -132,8 +144,11 @@ Let's suppose we have two chemically unrelated molecules that are very potent bi
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/3_1_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_3_1_b2.png){: loading=lazy }
+
+=== "3D"
+    <div id="nglviewer-container-simple-case" class="nglviewer-container" data-molecule-id="simple-case" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Molecular Similarity
 
@@ -198,18 +213,27 @@ The easiest way to identify common 3D features in a series of molecules is to "s
 === "Before"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/before.png){: loading=lazy }
 
+=== "Before (3D)"
+    <div id="nglviewer-container-super-before" class="nglviewer-container" data-molecule-id="super-before" style="width: 750px; height: 450px;" data-initialized="false"></div>
+
 === "After"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/after.png){: loading=lazy }
 
+=== "After (3D)"
+    <div id="nglviewer-container-super-after" class="nglviewer-container" data-molecule-id="super-after" style="width: 750px; height: 450px;" data-initialized="false"></div>
+    
 ### Goal of Superimposition Procedures
 
 Superimposition reveals the similarities and differences between molecules. 3D structural similarities and dissimilarities are easily identified and utilized to interpret the biological properties of the molecules concerned.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup1.gif){: loading=lazy }
-
+=== "Gif"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup1.gif){: loading=lazy }    
+=== "3D (before)"
+    <div id="nglviewer-container-super-goal-before" class="nglviewer-container" data-molecule-id="super-goal-before" style="width: 750px; height: 450px;" data-initialized="false"></div>
+=== "3D (after)"
+    <div id="nglviewer-container-super-goal-after" class="nglviewer-container" data-molecule-id="super-goal-after" style="width: 750px; height: 450px;" data-initialized="false"></div>
 ### Summary of the Example
 
 Let us summarize the different steps considered in our example: we started with two active molecules for which we knew their mode of action and their bioactive conformations. We wanted to find the common structural features shared by the molecules and used superimposition techniques to reveal them. This paved the way for additional insights by analyzing both molecules in terms of their essential and non-essential structural moieties, the exact relative location of the structural elements that carry the biological activities, and their intrinsic physico-chemical properties.
@@ -227,8 +251,10 @@ The superimposition of two molecules, which are two rigid objects, is done in th
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup2.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup2.gif){: loading=lazy }    
+=== "3D"
+    <div id="nglviewer-container-super-technique" class="nglviewer-container" data-molecule-id="super-technique" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 
 ??? Abstract "articles"
@@ -266,8 +292,11 @@ In pharmacophore-based projects, the bioactive conformations of the individual m
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/4_1_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_4_1_b2.png){: loading=lazy }
+
+=== "3D"
+    <div id="nglviewer-container-typical-example" class="nglviewer-container" data-molecule-id="typical-example" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Identification of the Bioactive Conformation
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -301,8 +330,10 @@ Experience shows that the geometry of the bioactive conformation of a molecule c
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/far_away.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/far_away.gif){: loading=lazy } 
+=== "3D"
+    <div id="nglviewer-container-bioactive-conformation" class="nglviewer-container" data-molecule-id="bioactive-conformation" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 
 ??? Abstract "articles"
@@ -458,8 +489,10 @@ At this stage the two bioactive conformations are identified. The superimpositio
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_4_8.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_4_8.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-high-informational-content" class="nglviewer-container" data-molecule-id="high-informational-content" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 
 ??? Abstract "articles"
@@ -540,15 +573,18 @@ GABA, Muscimol and THIP are in their bioactive conformations. They all enable us
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[bioactive conformations]: The geometry adopted by a ligand when it binds to its biological target.
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/gaba_conformation.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/gaba_conformation.gif){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-gaba" class="nglviewer-container" data-molecule-id="gaba" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Superimposition in the Space of Properties
 
 In general, we align molecules on the basis of their atomic positions. In fact, one should superimpose the spatial arrangement of their physical and chemical properties.
 
-
 ![](https://media.drugdesign.org/course/pharmacophore-elucidation/5_3_0_1.jpg){: loading=lazy }
+
+
 
 
 ??? Abstract "articles"
@@ -631,8 +667,10 @@ In general, we align molecules on the basis of their atomic positions. In fact, 
 
 Dihydrofolate and methotrexate bind to the catalytic site of the dihydrofolate reductase. Both have a rather long side chain (R) that is the same in the two molecules.
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s1.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s1.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-sup-space-properties" class="nglviewer-container" data-molecule-id="sup-space-properties" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 
 ??? Abstract "articles"
@@ -670,15 +708,25 @@ The crystallographic structures of the complexes of the enzyme with dihydrofolat
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s4.png){: loading=lazy }
+    
+=== "Sup without X-ray"
+    <div id="nglviewer-container-sup-without-x-ray" class="nglviewer-container" data-molecule-id="sup-without-x-ray" style="width: 750px; height: 450px;" data-initialized="false"></div>   
 
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s4.png){: loading=lazy }
+=== "Sup from X-ray"
+    <div id="nglviewer-container-sup-based-on-x-ray" class="nglviewer-container" data-molecule-id="sup-based-on-x-ray" style="width: 750px; height: 450px;" data-initialized="false"></div>
+ 
 
 #### Correct Alignment: Similar Electrostatic Distribution
 
 The correct alignment becomes clearer when looking at the 3D distribution of their electrostatic potential profiles. Accessing molecules in the space of their 3D physicochemical properties is the best way to identify the proper alignment of chemically unrelated molecules.
 
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/alt1_5_4_5_1.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-sup-electro" class="nglviewer-container" data-molecule-id="sup-electro" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/alt1_5_4_5_1.png){: loading=lazy }
 
 ## Principles of Analysis
 
@@ -801,8 +849,12 @@ As revealed by X-ray analyses, cimetidine exists in a folded conformation (favor
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/x_ray_analog_1.gif){: loading=lazy }
+    
+=== "3D"
+    <div id="nglviewer-container-cimetidine-folded" class="nglviewer-container" data-molecule-id="cimetidine-folded" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/x_ray_analog_1.gif){: loading=lazy }
 
 ### 2D Considerations
 
@@ -840,8 +892,10 @@ The following example displays the structures of polycyclic dopamine agonists. O
 
 A very good superimposition is obtained by aligning the second molecule. However, watch out! This requires the double bond of the second compound to be rotated to 120&#176;! The view gives the illusion of providing some logic, however the information is of no value.
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_7_4_s2.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_7_4_s2.png){: loading=lazy }    
+=== "3D"
+    <div id="nglviewer-container-misuse-sup" class="nglviewer-container" data-molecule-id="misuse-sup" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ## Managing Hypotheses
 
@@ -878,8 +932,10 @@ Superimposition techniques have been very successful in elucidating the mechanis
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/8_2_2_1.png){: loading=lazy }
+=== "3D superimposition (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/3d_sup_chlorpro.gif){: loading=lazy }  
 === "3D superimposition"
-    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/3d_sup_chlorpro.gif){: loading=lazy }
+    <div id="nglviewer-container-chlorpromazine-sup" class="nglviewer-container" data-molecule-id="chlorpromazine-sup" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Tracking &#38; Reconsidering Hypotheses
 
