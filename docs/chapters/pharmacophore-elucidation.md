@@ -271,7 +271,10 @@ The picture shows the two molecules superimposed. A numerical value named "RMS" 
 *[root mean square]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup_result.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup_result.gif){: loading=lazy }    
+=== "3D"
+    <div id="nglviewer-container-sup-result" class="nglviewer-container" data-molecule-id="sup-result" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Dummy Atoms
 
@@ -1243,8 +1246,12 @@ From the derived receptor map it can be seen that the active agonists fit inside
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-
-![](https://media.drugdesign.org/course/pharmacophore-elucidation/mapping.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/pharmacophore-elucidation/mapping.gif){: loading=lazy }    
+=== "3D (with Volume)"
+    <div id="nglviewer-container-nicotinic-agonists" class="nglviewer-container" data-molecule-id="nicotinic-agonists" style="width: 750px; height: 450px;" data-initialized="false"></div>
+=== "3D"
+    <div id="nglviewer-container-nicotinic-agonists-no-volume" class="nglviewer-container" data-molecule-id="nicotinic-agonists-no-volume" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ## Two Generations of Pharmacophores
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
