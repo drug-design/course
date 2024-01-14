@@ -48,8 +48,10 @@ Captopril is the first ACE-inhibitor that was discovered. The validity of the th
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/5_3_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/captopril.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-ace-captopril" class="nglviewer-container" data-molecule-id="ace-captopril" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 
 ??? Abstract "articles"
@@ -74,8 +76,10 @@ Based on the structure of captopril, new analogs were designed. Compounds such a
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/5_4_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/5_4_1_1_3d.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-new-ace-inhibitors" class="nglviewer-container" data-molecule-id="new-ace-inhibitors" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Pharmacophore for ACE Inhibition
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -102,13 +106,12 @@ The three basic structural requirements essential for ACE inhibition are: a term
     J. Comp. Aided Mol. Des. 
     1 1987  
     
-### Browser for ACE Inhibition
+### Browser for ACE Inhibition  
 
-
-      
-
-
-![](https://media.drugdesign.org/course/pharmacophore-examples/ace_browser.gif){: loading=lazy }
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/ace_browser.gif){: loading=lazy }
+=== "Browser (3D)"
+    <div id="nglviewer-container-browser-for-ace-inhibition" class="nglviewer-container" data-molecule-id="browser-for-ace-inhibition" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ## Serotonin Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -134,8 +137,12 @@ It is suggested that antagonists at the serotonin receptor would have desirable 
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/9_1_1_1.png){: loading=lazy }
-=== "3D"
+
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/serotonin_3d.png){: loading=lazy }
+   
+=== "3D"
+    <div id="nglviewer-container-serotonin-antagonists" class="nglviewer-container" data-molecule-id="serotonin-antagonists" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Superimposition of Serotonin Receptor Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -146,8 +153,11 @@ It is suggested that antagonists at the serotonin receptor would have desirable 
 Superimposition of the amino and aromatic moieties of methiothepin, propranolol, spiperone and buspirone.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
-
-![](https://media.drugdesign.org/course/pharmacophore-examples/sup7.gif){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/sup7.gif){: loading=lazy }
+    
+=== "3D"
+    <div id="nglviewer-container-sup-serotonin-antagonists" class="nglviewer-container" data-molecule-id="sup-serotonin-antagonists" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ### Pharmacophore for Serotonin Antagonists
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -164,7 +174,7 @@ The minimum pharmacophoric elements of serotonin ligand receptors consist of a p
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/9_3_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_9_3_b2.png){: loading=lazy }
 
 ### The Design of MDL 72832
@@ -180,20 +190,21 @@ The pharmacophore model was used to design new serotonin receptor ligands. MDL 7
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/9_4_1_1.png){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_9_4_b2.png){: loading=lazy } 
 === "3D"
-    ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_9_4_b2.png){: loading=lazy }
+    <div id="nglviewer-container-mdl-72832" class="nglviewer-container" data-molecule-id="mdl-72832" style="width: 750px; height: 450px;" data-initialized="false"></div>    
 
 ### Browser of Serotonin Receptor Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
 *[Antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
-
-
-      
-
-
-![](https://media.drugdesign.org/course/pharmacophore-examples/v1_c4_9_5_internet.gif){: loading=lazy }
+   
+=== "Broswer (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/v1_c4_9_5_internet.gif){: loading=lazy }
+=== "Broswer (3D)"
+    <div id="nglviewer-container-browser-serotonin-receptor-antigonists" class="nglviewer-container" data-molecule-id="browser-serotonin-receptor-antigonists" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ## Dopamine D-1 Agonists
 *[Agonist]: A chemical substance capable of activating a given receptor.
@@ -211,8 +222,10 @@ Dopamine receptors have been primary targets for drugs used in the treatment of 
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/2_1_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_2_1_b2.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-dopamine-d1-agonist" class="nglviewer-container" data-molecule-id="dopamine-d1-agonist" style="width: 750px; height: 450px;" data-initialized="false"></div>    
 
 ### Pharmacophore for Dopamine D1 Agonists
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -229,18 +242,18 @@ The 3D superimposition of the different dopamine receptor agonists indicated in 
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/2_2_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Gif)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/d1_pharma.gif){: loading=lazy }
 
 ### Browser of Dopamine Receptor D1 Agonists
 *[Agonist]: A chemical substance capable of activating a given receptor.
 *[Agonists]: A chemical substance capable of activating a given receptor.
 
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/agonist_browser.gif){: loading=lazy }
 
-      
-
-
-![](https://media.drugdesign.org/course/pharmacophore-examples/agonist_browser.gif){: loading=lazy }
+=== "Browser (3D)"
+    <div id="nglviewer-container-browser-dopamine-d1" class="nglviewer-container" data-molecule-id="browser-dopamine-d1" style="width: 750px; height: 450px;" data-initialized="false"></div>
 
 ## Dopamine D-2 Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -272,8 +285,11 @@ Butaclamol and molindone are examples of antipsychotic agents interacting with t
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/8_2_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_8_2_b2.png){: loading=lazy }
+=== "3D"
+    <div id="nglviewer-container-antipsychotic-agents" class="nglviewer-container" data-molecule-id="antipsychotic-agents" style="width: 750px; height: 450px;" data-initialized="false"></div>    
+
 
 ### Reference Set of D2 Receptor Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -356,10 +372,6 @@ On the basis of the chemical frame of molindone and subsequent to extensive anal
 *[Antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
-
-
-      
-
 
 ![](https://media.drugdesign.org/course/pharmacophore-examples/browser1.gif){: loading=lazy }
 

@@ -1,0 +1,445 @@
+#	copyright drugdesign.org
+#	Creation time:	2024-01-11T11:02:56Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+tetrahydropyridazine
+   18    19     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O1           -5.978830    9.555353    1.077339 O.2      1 SUBUNIT   -0.2641
+      2 C2           -8.279228    9.162754    1.771439 C.3      1 SUBUNIT    0.1501
+      3 N3           -8.729929    9.496954    0.382839 N.am     1 SUBUNIT   -0.1828
+      4 N4           -9.126928    8.602754   -0.531061 N.am     1 SUBUNIT   -0.1954
+      5 C5           -9.206329    7.130054   -0.293761 C.3      1 SUBUNIT    0.0536
+      6 C6           -8.888128    6.796754    1.140239 C.2      1 SUBUNIT   -0.0669
+      7 C7           -6.819630    9.536954    1.952239 C.2      1 SUBUNIT    0.2850
+      8 C8           -8.485128    7.694553    2.053339 C.2      1 SUBUNIT   -0.0547
+      9 O9           -6.569930    9.881353    3.229439 O.3      1 SUBUNIT   -0.3300
+     10 H10          -5.634830   10.121054    3.115739 H        1 SUBUNIT    0.2215
+     11 C11          -8.777229   10.834154   -0.232661 C.2      1 SUBUNIT    0.3297
+     12 N12          -9.219328   10.668854   -1.531861 N.am     1 SUBUNIT   -0.1965
+     13 C13          -9.447628    9.326454   -1.774661 C.2      1 SUBUNIT    0.3289
+     14 O14          -8.489128   11.888654    0.296239 O.2      1 SUBUNIT   -0.2515
+     15 O15          -9.845129    8.844553   -2.815661 O.2      1 SUBUNIT   -0.2516
+     16 C16          -9.361629   11.720554   -2.489861 C.3      1 SUBUNIT    0.0680
+     17 S17          -7.746030   12.098253   -3.234761 S.3      1 SUBUNIT   -0.1594
+     18 H18          -7.157730   12.558654   -2.114561 H        1 SUBUNIT    0.1039
+@<TRIPOS>BOND
+     1    1    7 2
+     2    2    8 1
+     3    2    3 1
+     4    2    7 1
+     5    3    4 1
+     6    3   11 1
+     7    4    5 1
+     8    4   13 1
+     9    5    6 1
+    10    6    8 2
+    11    7    9 1
+    12    9   10 1
+    13   11   12 1
+    14   11   14 2
+    15   12   13 1
+    16   12   16 1
+    17   13   15 2
+    18   16   17 1
+    19   17   18 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+17 0.00
+18 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+17 1.00
+18 1.00
+
+#	copyright drugdesign.org
+#	Creation time:	2024-01-11T11:02:56Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+indoline
+   20    21     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -9.271955    7.625515    1.568908 C.2      1 SUBUNIT   -0.0239
+      2 C2           -9.332665    8.305384    0.353016 C.2      1 SUBUNIT    0.0396
+      3 C3           -9.703675    7.586719   -0.783345 C.2      1 SUBUNIT   -0.0402
+      4 C4          -10.009107    6.227667   -0.678854 C.2      1 SUBUNIT   -0.0604
+      5 C5           -9.946879    5.568976    0.549050 C.2      1 SUBUNIT   -0.0618
+      6 C6           -9.573066    6.273034    1.691750 C.2      1 SUBUNIT   -0.0571
+      7 C7           -8.862142    8.530219    2.689052 C.3      1 SUBUNIT    0.0028
+      8 N8           -8.982831    9.595293    0.551367 N.am     1 SUBUNIT   -0.2577
+      9 C9           -8.389974    9.760024    1.892721 C.3      1 SUBUNIT    0.1201
+     10 C10          -6.872513    9.809324    1.830376 C.2      1 SUBUNIT    0.2798
+     11 O11          -6.153885    9.379002    0.951730 O.2      1 SUBUNIT   -0.2646
+     12 O12          -6.401730   10.410048    2.936635 O.3      1 SUBUNIT   -0.3302
+     13 C13          -9.017941   10.746462   -0.240890 C.2      1 SUBUNIT    0.2230
+     14 C14          -9.619742   10.761354   -1.641526 C.3      1 SUBUNIT    0.0424
+     15 C15          -9.276591   12.043406   -2.430233 C.3      1 SUBUNIT    0.0014
+     16 S16          -7.513995   12.074258   -2.904061 S.3      1 SUBUNIT   -0.1785
+     17 H17          -7.013498   12.401772   -1.698389 H        1 SUBUNIT    0.1022
+     18 H18          -5.456589   10.392758    2.706974 H        1 SUBUNIT    0.2214
+     19 O19          -8.574988   11.789500    0.213831 O.2      1 SUBUNIT   -0.2767
+     20 C20         -11.149295   10.613395   -1.549214 C.3      1 SUBUNIT   -0.0530
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    6 1
+     3    1    7 1
+     4    2    3 1
+     5    2    8 1
+     6    3    4 2
+     7    4    5 1
+     8    5    6 2
+     9    7    9 1
+    10    8    9 1
+    11    8   13 1
+    12    9   10 1
+    13   10   11 2
+    14   10   12 1
+    15   12   18 1
+    16   13   14 1
+    17   13   19 2
+    18   14   15 1
+    19   14   20 1
+    20   15   16 1
+    21   16   17 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+17 0.00
+18 0.00
+19 0.00
+20 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+17 1.00
+18 1.00
+19 1.00
+20 1.00
+
+#	copyright drugdesign.org
+#	Creation time:	2024-01-11T11:02:56Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+captopril
+   16    16     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 H1           -5.642129   10.283110    2.827069 H        1 SUBUNIT    0.2214
+      2 C2           -9.064249    8.353444   -0.626645 C.3      1 SUBUNIT    0.0151
+      3 N3           -8.888958    9.449265    0.301696 N.am     1 SUBUNIT   -0.2882
+      4 C4           -8.246023    9.134719    1.580041 C.3      1 SUBUNIT    0.1112
+      5 C5           -8.270084    7.593564    1.524721 C.3      1 SUBUNIT   -0.0233
+      6 C6           -6.819490    9.656637    1.680952 C.2      1 SUBUNIT    0.2790
+      7 O7           -6.531970    9.917984    2.967928 O.3      1 SUBUNIT   -0.3303
+      8 C8           -8.177156    7.276221    0.021967 C.3      1 SUBUNIT   -0.0350
+      9 O9           -6.019975    9.809690    0.778907 O.2      1 SUBUNIT   -0.2646
+     10 C10          -9.233232   10.777942    0.044318 C.2      1 SUBUNIT    0.2275
+     11 O11          -9.014362   11.602454    0.917638 O.2      1 SUBUNIT   -0.2762
+     12 C12          -9.845798   11.251990   -1.278770 C.3      1 SUBUNIT    0.0758
+     13 C13         -11.158316   10.561481   -1.675053 C.3      1 SUBUNIT   -0.0448
+     14 C14          -8.661222   11.193068   -2.674124 C.3      1 SUBUNIT   -0.1664
+     15 S55          -7.260526   12.247701   -2.313707 S.3      1 SUBUNIT    0.0000
+     16 H31          -6.803070   11.923699   -1.485649 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    7 1
+     2    2    8 1
+     3    2    3 1
+     4    3    4 1
+     5    3   10 1
+     6    4    5 1
+     7    4    6 1
+     8    5    8 1
+     9    6    7 1
+    10    6    9 2
+    11   10   11 2
+    12   10   12 1
+    13   12   13 1
+    14   12   14 1
+    15   14   15 1
+    16   15   16 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+
+#	copyright drugdesign.org
+#	Creation time:	2024-01-11T11:02:56Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+pharmaco
+    8     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 H1           -5.766495   10.145185    2.961943 H        1 SUBUNIT    0.2214
+      2 C6           -6.801199    9.659632    1.625584 C.2      1 SUBUNIT    0.2790
+      3 O7           -6.691931    9.847784    2.952211 O.3      1 SUBUNIT   -0.3303
+      4 O9           -5.866039    9.782058    0.859540 O.2      1 SUBUNIT   -0.2646
+      5 C10          -8.851828   11.033124   -0.290267 C.2      1 SUBUNIT    0.2275
+      6 O11          -8.706404   11.803484    0.645580 O.2      1 SUBUNIT   -0.2762
+      7 S14          -7.537537   11.933794   -2.869140 S.3      1 SUBUNIT   -0.1664
+      8 H15          -7.073905   12.235806   -2.073669 H        1 SUBUNIT    0.1030
+@<TRIPOS>BOND
+     1    1    3 1
+     2    2    3 1
+     3    2    4 2
+     4    5    6 2
+     5    7    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
