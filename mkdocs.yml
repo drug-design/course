@@ -35,7 +35,9 @@ extra:
 #  disqus: drugdesign-org
 
 extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
   - stylesheets/extra.css
+
 extra_javascript:
   - https://unpkg.com/ngl@latest/dist/ngl.js
   - https://code.jquery.com/jquery-3.6.0.min.js

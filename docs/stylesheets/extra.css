@@ -3,3 +3,23 @@
     /* --md-primary-fg-color--light: #ECB7B7;
     --md-primary-fg-color--dark:  #90030C; */
   }
+
+  .playb {
+    display: inline-block; /* This makes the button inline */
+    vertical-align: middle; /* This aligns the button vertically with the text */
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px; /* Add some space between the title and the button */
+    padding: 0;
+}
+
+.playb .fa-play {
+    color: #007bff;
+    font-size: 20px;
+}
+
+.playb .fa-pause {
+  color: #007bff;
+  font-size: 20px;
+}

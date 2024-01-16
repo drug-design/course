@@ -1,5 +1,73 @@
+var globalAudioPlayer = new Audio();
+
+var currentlyPlayingButton = null;
+
+function playAudio(buttonElement) {
+    var audioSrc = buttonElement.getAttribute('data-mp3-name');
+
+    // Check if this button's audio is currently playing or paused
+    if (currentlyPlayingButton === buttonElement) {
+        if (globalAudioPlayer.paused) {
+            // If paused, then play
+            globalAudioPlayer.play();
+            buttonElement.innerHTML = '<i class="fa fa-pause" aria-hidden="true"></i>'; // Change to pause icon
+        } else {
+            // If playing, then pause
+            globalAudioPlayer.pause();
+            buttonElement.innerHTML = '<i class="fa fa-play" aria-hidden="true"></i>'; // Change back to play icon
+        }
+    } else {
+        if (audioSrc) {
+            // Stop any currently playing audio and reset the icon
+            if (currentlyPlayingButton) {
+                resetButtonIcon(currentlyPlayingButton);
+            }
+
+            // Update the icon to a 'pause' icon
+            buttonElement.innerHTML = '<i class="fa fa-pause" aria-hidden="true"></i>'; // Change to pause icon
+
+            // Play the new audio
+            globalAudioPlayer.src = "https://media.drugdesign.org/mp3/" + audioSrc + ".mp3";
+            globalAudioPlayer.play();
+
+            // Keep track of the currently playing button
+            currentlyPlayingButton = buttonElement;
+
+            // Reset icon when audio finishes
+            globalAudioPlayer.onended = function() {
+                resetButtonIcon(currentlyPlayingButton);
+                currentlyPlayingButton = null;
+            };
+        } else {
+            console.error("No MP3 URL found for this button.");
+        }
+    }
+}
+
+function resetButtonIcon(buttonElement) {
+    buttonElement.innerHTML = '<i class="fa fa-play" aria-hidden="true"></i>'; // Reset to the play icon
+}
+
+function checkAndHideButtonIfFileDoesNotExist(button) {
+    var mp3Url = "https://media.drugdesign.org/mp3/" + button.getAttribute('data-mp3-name') + ".mp3";
+
+    fetch(mp3Url, { method: 'HEAD' })
+        .then(response => {
+            if (!response.ok) {
+                // If the response is not OK (like a 404), hide the button
+                button.style.display = 'none';
+            }
+        }).catch(error => {
+            console.error("Error checking MP3 file:", error);
+            button.style.display = 'none'; // Optionally hide on error
+        });
+}
+
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("course.js loaded");  
+    console.log("course.js loaded"); 
+    
+    var buttons = document.querySelectorAll('.playb');
+    buttons.forEach(checkAndHideButtonIfFileDoesNotExist);
     
     function containsClass(node, className) {
         if (node.classList && node.classList.contains(className)) {
