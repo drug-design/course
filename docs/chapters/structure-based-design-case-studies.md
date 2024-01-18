@@ -15,7 +15,7 @@
 
 ### Phenyl-Imidazoles Inhibit Cytochrome P450
 
-Cytochrome P450 is a group of enzymes which contain Heme and catalyze the hydroxylation of aliphatic and aromatic molecules. Camphor is the natural substrate of the bacterial cytochrome P450-cam. Phenylimidazoles, such as phenyl-1, phenyl-2 or phenyl-4, are known to inhibit this hydroxylation process. From a structural point of view a simple rationale could be derived to explain these observations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-imidazoles-inhibit-cytochrome-p450-4e1856c2'><i class='fa fa-play' aria-hidden='true'></i></button>Cytochrome P450 is a group of enzymes which contain Heme and catalyze the hydroxylation of aliphatic and aromatic molecules. Camphor is the natural substrate of the bacterial cytochrome P450-cam. Phenylimidazoles, such as phenyl-1, phenyl-2 or phenyl-4, are known to inhibit this hydroxylation process. From a structural point of view a simple rationale could be derived to explain these observations.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/imid_9_2_1_1.png){: loading=lazy }
@@ -33,17 +33,17 @@ Cytochrome P450 is a group of enzymes which contain Heme and catalyze the hydrox
     
 ### Simple Consideration: Shape Similarity
 
-It is reasonable to assume that the three inhibitors bind to the enzyme in a way where all the phenyl rings are aligned. This superimposition has the advantage of showing that the three molecules have almost identical shapes and can therefore occupy the same hypothetical sub-pocket in the enzyme catalytic site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/simple-consideration-shape-similarity-97ab7ab7'><i class='fa fa-play' aria-hidden='true'></i></button>It is reasonable to assume that the three inhibitors bind to the enzyme in a way where all the phenyl rings are aligned. This superimposition has the advantage of showing that the three molecules have almost identical shapes and can therefore occupy the same hypothetical sub-pocket in the enzyme catalytic site.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/-based-dmedia/structureesign-case-studies/snap_v1_c2_9_2_s2.png){: loading=lazy }
+![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_c2_9_2_s2.png){: loading=lazy }
 
 ### Perhaps Binding Elements are more Complex ?
 
-However, is the molecular shape the only molecular determinant for binding? Perhaps electrostatic interactions or anchorage with hydrogen bonds are also important! Thus the previous model which considered the geometrical features  alone (and does not distinguish between nitrogen and carbon atoms) is not sufficient. To satisfy the alignment of electronic features, we need to   consider aligning the molecules in such a way that the nitrogen atoms are optimally superimposed. However the resulting model is far from being convincing.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/perhaps-binding-elements-are-more-complex-5387c088'><i class='fa fa-play' aria-hidden='true'></i></button>However, is the molecular shape the only molecular determinant for binding? Perhaps electrostatic interactions or anchorage with hydrogen bonds are also important! Thus the previous model which considered the geometrical features  alone (and does not distinguish between nitrogen and carbon atoms) is not sufficient. To satisfy the alignment of electronic features, we need to   consider aligning the molecules in such a way that the nitrogen atoms are optimally superimposed. However the resulting model is far from being convincing.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -51,7 +51,7 @@ However, is the molecular shape the only molecular determinant for binding? Perh
 
 ### The Structure-Based Answer
 
-In the absence of additional information, we would probably tend to favor the initial pure steric model. In fact additional information is available, as the X-ray structures of the complexes have been solved, including the three phenyl-imidazole inhibitors, the natural substrate camphor and other potent inhibitors. By aligning the proteins of the complexes, the exact solution  how the three phenyl-imidazole analogs should be superimposed is now accessible. One important element in the binding of these molecules is their chelation between one nitrogen atom and the iron of the P450 protein. This is shown in the browser on the next page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/structure-based-answer-087f336e'><i class='fa fa-play' aria-hidden='true'></i></button>In the absence of additional information, we would probably tend to favor the initial pure steric model. In fact additional information is available, as the X-ray structures of the complexes have been solved, including the three phenyl-imidazole inhibitors, the natural substrate camphor and other potent inhibitors. By aligning the proteins of the complexes, the exact solution  how the three phenyl-imidazole analogs should be superimposed is now accessible. One important element in the binding of these molecules is their chelation between one nitrogen atom and the iron of the P450 protein. This is shown in the browser on the next page.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -71,7 +71,7 @@ In the absence of additional information, we would probably tend to favor the in
     
 ### Phenyl-Imidazole Browser
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-imidazole-browser-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -86,7 +86,7 @@ In the absence of additional information, we would probably tend to favor the in
     
 ### Limitations of Chemical Intuition
 
-Although in many cases chemical intuition can compensate for lack of knowledge, there are situations where in the absence essential data, counterproductive models are developed. This example illustrates this situation particularly well and shows the strength of structure-based analyses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/limitations-chemical-intuition-95d106d7'><i class='fa fa-play' aria-hidden='true'></i></button>Although in many cases chemical intuition can compensate for lack of knowledge, there are situations where in the absence essential data, counterproductive models are developed. This example illustrates this situation particularly well and shows the strength of structure-based analyses.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -100,7 +100,7 @@ Although in many cases chemical intuition can compensate for lack of knowledge, 
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-In order to discover therapeutic agents for treating the etiology of  Alzheimer's disease, Johnson &#38; Johnson addressed the inhibition of the aspartic protease BACE-1 (&beta;-Site APP Cleaving Enzyme), based on the observation that the inhibition of this enzyme lowers &beta;-amyloid levels in the brains of mice. A structure-based strategy was used, which is presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/bace-1-inhibitors-0c99b0b0'><i class='fa fa-play' aria-hidden='true'></i></button>In order to discover therapeutic agents for treating the etiology of  Alzheimer's disease, Johnson &#38; Johnson addressed the inhibition of the aspartic protease BACE-1 (&beta;-Site APP Cleaving Enzyme), based on the observation that the inhibition of this enzyme lowers &beta;-amyloid levels in the brains of mice. A structure-based strategy was used, which is presented in the following pages.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/bace_target.png){: loading=lazy }
@@ -121,7 +121,7 @@ In order to discover therapeutic agents for treating the etiology of  Alzheimer'
 ### Screening the J&#38;J Corporate Compound Collection
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-A random screening of the J&#38;J corporate compound collection led to the identification of a hit such as the 2-amino-3,4-dihydroquinazoline 1, having a Ki of 0.9 &Mu;M. The compound was selected for further studies.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/screening-jandj-corporate-compound-collection-4d274d85'><i class='fa fa-play' aria-hidden='true'></i></button>A random screening of the J&#38;J corporate compound collection led to the identification of a hit such as the 2-amino-3,4-dihydroquinazoline 1, having a Ki of 0.9 &micro;M. The compound was selected for further studies.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -136,7 +136,7 @@ A random screening of the J&#38;J corporate compound collection led to the ident
     
 ### Structural Determinants of the Biological Activity of 1
 
-Nothing was known about the structural determinants responsible for the inhibitory activity of compound 1. The J&#38;J group was interested in finding out how the hit compound 1 interacts with BACE-1, to take advantage of such knowledge to rationally develop more potent inhibitors. In the framework of collaboration with Astex Therapeutics, the X-ray structure of BACE-1 complexed with compound 1 was solved.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/structural-determinants-biological-activity-1-93dc86e4'><i class='fa fa-play' aria-hidden='true'></i></button>Nothing was known about the structural determinants responsible for the inhibitory activity of compound 1. The J&#38;J group was interested in finding out how the hit compound 1 interacts with BACE-1, to take advantage of such knowledge to rationally develop more potent inhibitors. In the framework of collaboration with Astex Therapeutics, the X-ray structure of BACE-1 complexed with compound 1 was solved.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -152,7 +152,7 @@ Nothing was known about the structural determinants responsible for the inhibito
     
 ### X-ray Structure of the Complex of 1 with BACE-1
 
-The X-ray structure of the complex of 1 with BACE-1 revealed several interesting features. Molecule 1 was found in an unexpected compact folded conformation, the side chain of the molecule bending back onto itself in a hairpin turn orientation enabling the N-cyclohexyl substituent to occupy the hydrophobic S1 pocket. An exquisite array of hydrogen bonds was formed between the ligand and the two aspartates of the catalytic site (see third button).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/x-ray-structure-complex-1-bace-1-979547ed'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structure of the complex of 1 with BACE-1 revealed several interesting features. Molecule 1 was found in an unexpected compact folded conformation, the side chain of the molecule bending back onto itself in a hairpin turn orientation enabling the N-cyclohexyl substituent to occupy the hydrophobic S1 pocket. An exquisite array of hydrogen bonds was formed between the ligand and the two aspartates of the catalytic site (see third button).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -180,7 +180,7 @@ The X-ray structure of the complex of 1 with BACE-1 revealed several interesting
     
 ### Flap Flexibility in Aspartyl Proteases
 
-It was also found that the BACE-1 flap (that is located over the active site of the enzyme), was pushed away by a distance of about 4 &#8491; when compared to the structure of the peptidic inhibitor OM99-2. This type of flexibility was also observed for the flap region of other aspartyl proteases such as HIV-1 and Renin.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/flap-flexibility-aspartyl-proteases-84bcd8d1'><i class='fa fa-play' aria-hidden='true'></i></button>It was also found that the BACE-1 flap (that is located over the active site of the enzyme), was pushed away by a distance of about 4 &#8491; when compared to the structure of the peptidic inhibitor OM99-2. This type of flexibility was also observed for the flap region of other aspartyl proteases such as HIV-1 and Renin.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -201,7 +201,7 @@ It was also found that the BACE-1 flap (that is located over the active site of 
     
 ### Compound with Increased Folding Capability
 
-The J&#38;J team looked for molecules that mimic the folded conformation of molecule 1 and designed compound 2. The molecule had a longer side-chain and could more easily adopt a hairpin conformation. Also for synthetic reasons the carbonyl of the benzoyl group present in 1 was replaced by an oxygen. This molecule was synthesized and proved to have a K<sub>i</sub> of 158 nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/compound-increased-folding-capability-9e77efb8'><i class='fa fa-play' aria-hidden='true'></i></button>The J&#38;J team looked for molecules that mimic the folded conformation of molecule 1 and designed compound 2. The molecule had a longer side-chain and could more easily adopt a hairpin conformation. Also for synthetic reasons the carbonyl of the benzoyl group present in 1 was replaced by an oxygen. This molecule was synthesized and proved to have a K<sub>i</sub> of 158 nM.
 
 
 === "2D"
@@ -219,7 +219,7 @@ The J&#38;J team looked for molecules that mimic the folded conformation of mole
     
 ### How to Gain Additional Binding
 
-Encouraged by the results obtained on compound 2 and the observation  that the hydrophobic S1' pocket of the enzyme was not occupied by the inhibitors, the J&#38;J team looked for molecules that could form favorable interactions with this pocket. This led to considering substituents having the S stereochemistry on the &alpha;-carbon of the side chain of the inhibitors and helped show that a cyclohexyl group fit perfectly  this pocket perfectly.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/how-to-gain-additional-binding-59897e10'><i class='fa fa-play' aria-hidden='true'></i></button>Encouraged by the results obtained on compound 2 and the observation  that the hydrophobic S1' pocket of the enzyme was not occupied by the inhibitors, the J&#38;J team looked for molecules that could form favorable interactions with this pocket. This led to considering substituents having the S stereochemistry on the &alpha;-carbon of the side chain of the inhibitors and helped show that a cyclohexyl group fit perfectly  this pocket perfectly.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -237,7 +237,7 @@ Encouraged by the results obtained on compound 2 and the observation  that the h
 ### Design of a More Potent Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-This idea led to the design of 3, which proved to be active at the nanomolar level. The enantiomers of 3 were prepared and  the biological activity was found to reside predominantly in the S enantiomer (3a) as predicted.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/design-more-potent-inhibitor-1fab6b27'><i class='fa fa-play' aria-hidden='true'></i></button>This idea led to the design of 3, which proved to be active at the nanomolar level. The enantiomers of 3 were prepared and  the biological activity was found to reside predominantly in the S enantiomer (3a) as predicted.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -253,7 +253,7 @@ This idea led to the design of 3, which proved to be active at the nanomolar lev
     
 ### X-Ray Structure of the Complex with 3a
 
-The complex of BACE-1 with 3a was solved and confirmed the predicted binding mode of molecule 3a: the occupancy of the S1' pocket by the newly introduced cyclohexyl, a folded conformation of the ligand that put the cyclohexyl group of the side-chain in the S1 pocket, and the network of hydrogen-bond interactions between the N-H groups of the ligand with the two aspartates of the catalytic site of the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/x-ray-structure-complex-3a-f323f443'><i class='fa fa-play' aria-hidden='true'></i></button>The complex of BACE-1 with 3a was solved and confirmed the predicted binding mode of molecule 3a: the occupancy of the S1' pocket by the newly introduced cyclohexyl, a folded conformation of the ligand that put the cyclohexyl group of the side-chain in the S1 pocket, and the network of hydrogen-bond interactions between the N-H groups of the ligand with the two aspartates of the catalytic site of the enzyme.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -280,7 +280,7 @@ The complex of BACE-1 with 3a was solved and confirmed the predicted binding mod
     
 ### Pharmacological Action of Compound 3a
 
-Compound 3a was further examined to assess its suitability as a lead. The compound showed some selectivity with respect of other aspartic proteases; it exhibited good potency in a cellular assay and proved to lower &beta;-amyloid in rat plasma after p.o. administration.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/pharmacological-action-compound-3a-3385396f'><i class='fa fa-play' aria-hidden='true'></i></button>Compound 3a was further examined to assess its suitability as a lead. The compound showed some selectivity with respect of other aspartic proteases; it exhibited good potency in a cellular assay and proved to lower &beta;-amyloid in rat plasma after p.o. administration.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/bace_.png){: loading=lazy }
@@ -294,7 +294,7 @@ Compound 3a was further examined to assess its suitability as a lead. The compou
     
 ### Important Structural Determinants for Binding
 
-The J&#38;J  group successfully  raised the potency of a weak inhibitor which was found by screening to the nano-molar level. Four important structural determinants were exploited in the design process and enabled the success of this phase of the project: the good anchorage of the 2-aminoquinazoline moiety to the aspartates of the catalytic site; the folded bioactive conformation adopted by the inhibitors enabling it to bind to the hydrophobic S1 pocket and the presence of a yet unexploited hydrophobic pocket in S1'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/important-structural-determinants-for-binding-f0780687'><i class='fa fa-play' aria-hidden='true'></i></button>The J&#38;J  group successfully  raised the potency of a weak inhibitor which was found by screening to the nano-molar level. Four important structural determinants were exploited in the design process and enabled the success of this phase of the project: the good anchorage of the 2-aminoquinazoline moiety to the aspartates of the catalytic site; the folded bioactive conformation adopted by the inhibitors enabling it to bind to the hydrophobic S1 pocket and the presence of a yet unexploited hydrophobic pocket in S1'.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -314,7 +314,7 @@ The J&#38;J  group successfully  raised the potency of a weak inhibitor which wa
     
 ### Summary
 
-A structure-based strategy that exploited X-ray crystallography and the docking of new prototypes enabled the rapid discovery of potent inhibitors such as 3a (Ki = 11 nM). The molecule showed good pharmacological properties and is currently being optimized to target Alzheimer's disease.  The synthetic effort would not have been given high priority without the insight provided by the crystal structure of the initial hit bound to BACE-1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/summary-fe0987b1'><i class='fa fa-play' aria-hidden='true'></i></button>A structure-based strategy that exploited X-ray crystallography and the docking of new prototypes enabled the rapid discovery of potent inhibitors such as 3a (Ki = 11 nM). The molecule showed good pharmacological properties and is currently being optimized to target Alzheimer's disease.  The synthetic effort would not have been given high priority without the insight provided by the crystal structure of the initial hit bound to BACE-1.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -337,7 +337,7 @@ A structure-based strategy that exploited X-ray crystallography and the docking 
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Antithrombotic drugs can be designed by targeting the inhibition of the coagulation cascade outlined below. It was suggested that inhibition of factor Xa would be more efficient than inhibiting thrombin for developing novel antithrombotic agents, on the basis of calculations that show that one molecule of factor Xa generates 138 molecules of thrombin. Here we present  the development of a design strategy that led to the discovery of a new and potent Factor Xa inhibitor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/therapeutic-utility-factor-xa-inhibitors-7b453443'><i class='fa fa-play' aria-hidden='true'></i></button>Antithrombotic drugs can be designed by targeting the inhibition of the coagulation cascade outlined below. It was suggested that inhibition of factor Xa would be more efficient than inhibiting thrombin for developing novel antithrombotic agents, on the basis of calculations that show that one molecule of factor Xa generates 138 molecules of thrombin. Here we present  the development of a design strategy that led to the discovery of a new and potent Factor Xa inhibitor.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -352,7 +352,7 @@ Antithrombotic drugs can be designed by targeting the inhibition of the coagulat
 ### DX-9065a : a Factor Xa Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-DX-9065a is a potent and  selective factor Xa inhibitor with an IC<sub>50</sub> of 41 nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/dx-9065a-factor-xa-inhibitor-9412c3f5'><i class='fa fa-play' aria-hidden='true'></i></button>DX-9065a is a potent and  selective factor Xa inhibitor with an IC<sub>50</sub> of 41 nM.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -376,7 +376,7 @@ DX-9065a is a potent and  selective factor Xa inhibitor with an IC<sub>50</sub> 
 ### Complex Between Factor Xa and DX-9065a
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The crystal structure of DX-9065a bound to factor Xa has been resolved. It is visualized here with some details.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/complex-between-factor-xa-dx-9065a-b8a43d56'><i class='fa fa-play' aria-hidden='true'></i></button>The crystal structure of DX-9065a bound to factor Xa has been resolved. It is visualized here with some details.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -398,7 +398,7 @@ The crystal structure of DX-9065a bound to factor Xa has been resolved. It is vi
     
 ### Analysis of the Factor Xa and DX-9065a Complex (1/4)
 
-DX-9065a binds to the receptor site with the naphthyl-amidine hydrogen bonding to Asp-189 in the S1 site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/analysis-factor-xa-dx-9065a-complex-14-0fb4b812'><i class='fa fa-play' aria-hidden='true'></i></button>DX-9065a binds to the receptor site with the naphthyl-amidine hydrogen bonding to Asp-189 in the S1 site.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/alt1_1_4_1_0_1.png){: loading=lazy }
@@ -417,7 +417,7 @@ DX-9065a binds to the receptor site with the naphthyl-amidine hydrogen bonding t
     
 #### Analysis of the Factor Xa and DX-9065a Complex (2/4)
 
-The carboxylic acid  makes hydrogen bonds with Gln-192.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/analysis-factor-xa-dx-9065a-complex-24-c1c8f1d9'><i class='fa fa-play' aria-hidden='true'></i></button>The carboxylic acid  makes hydrogen bonds with Gln-192.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/alt1_1_4_2_0_1.png){: loading=lazy }
@@ -436,7 +436,7 @@ The carboxylic acid  makes hydrogen bonds with Gln-192.
     
 #### Analysis of the Factor Xa and DX-9065a Complex (3/4)
 
-The acetimiodyl pyrrolidine group binds to the aryl binding pocket S4 in a cation hole created by the carbonyl groups of Lys-96 and Glu-97 together with the Glu-97 side-chain.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/analysis-factor-xa-dx-9065a-complex-34-40886f41'><i class='fa fa-play' aria-hidden='true'></i></button>The acetimiodyl pyrrolidine group binds to the aryl binding pocket S4 in a cation hole created by the carbonyl groups of Lys-96 and Glu-97 together with the Glu-97 side-chain.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/alt1_1_4_3_0_1.png){: loading=lazy }
@@ -455,7 +455,7 @@ The acetimiodyl pyrrolidine group binds to the aryl binding pocket S4 in a catio
     
 #### Analysis of the Factor Xa and DX-9065a Complex (4/4)
 
-The interactions of DX-9065a when it binds to factor Xa are represented in the following diagram.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/analysis-factor-xa-dx-9065a-complex-44-1eda7de0'><i class='fa fa-play' aria-hidden='true'></i></button>The interactions of DX-9065a when it binds to factor Xa are represented in the following diagram.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/fxa_1_4_4_0_1.png){: loading=lazy }
@@ -473,7 +473,7 @@ The interactions of DX-9065a when it binds to factor Xa are represented in the f
     
 ### Role of the Carboxylic Acid in Selectivity (1/3)
 
-The specificity of DX-9065a for binding to factor Xa rather than  thrombin is thought to stem for the favorable interaction of the carboxylate with the Gln-192 side-chain of factor Xa.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/role-carboxylic-acid-selectivity-13-e6e86f47'><i class='fa fa-play' aria-hidden='true'></i></button>The specificity of DX-9065a for binding to factor Xa rather than  thrombin is thought to stem for the favorable interaction of the carboxylate with the Gln-192 side-chain of factor Xa.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_10_s1.png){: loading=lazy }
@@ -487,7 +487,7 @@ The specificity of DX-9065a for binding to factor Xa rather than  thrombin is th
     
 #### Role of the Carboxylic Acid in Selectivity (2/3)
 
-The corresponding residue in thrombin is Glu-192 which is thought to be deprotonated; this would cause a strong repulsive interaction with the carboxylate moiety of DX-9065a.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/role-carboxylic-acid-selectivity-23-6f80e540'><i class='fa fa-play' aria-hidden='true'></i></button>The corresponding residue in thrombin is Glu-192 which is thought to be deprotonated; this would cause a strong repulsive interaction with the carboxylate moiety of DX-9065a.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -502,7 +502,7 @@ The corresponding residue in thrombin is Glu-192 which is thought to be deproton
     
 #### Role of the Carboxylic Acid in Selectivity (3/3)
 
-The following view shows the interactions of DX-9065a with both factor Xa (yellow) and thrombin (blue).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/role-carboxylic-acid-selectivity-33-f51b3979'><i class='fa fa-play' aria-hidden='true'></i></button>The following view shows the interactions of DX-9065a with both factor Xa (yellow) and thrombin (blue).
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_10_s3.png){: loading=lazy }
@@ -517,7 +517,7 @@ The following view shows the interactions of DX-9065a with both factor Xa (yello
 ### Initial Inhibitor Design
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-The design idea envisioned two phenyl-amidine groups in a molecule with one of them binding in the S1 pocket, and the second in the S4 pocket.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/initial-inhibitor-design-54835696'><i class='fa fa-play' aria-hidden='true'></i></button>The design idea envisioned two phenyl-amidine groups in a molecule with one of them binding in the S1 pocket, and the second in the S4 pocket.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/fxa_1_6_0_0_1.gif){: loading=lazy }
@@ -532,7 +532,7 @@ The design idea envisioned two phenyl-amidine groups in a molecule with one of t
 ### Design (step 1): Structural Moiety for Pocket S1
 *[Moiety]: Fragments, functional groups or portions of chemical compounds.
 
-It was assumed that the first phenyl-amidine group would enter the S1 pocket of factor Xa in a similar way as observed in the complex between trypsin and phenyl-amidine (shown below).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/design-step-1-structural-moiety-for-pocket-s1-e4075e3a'><i class='fa fa-play' aria-hidden='true'></i></button>It was assumed that the first phenyl-amidine group would enter the S1 pocket of factor Xa in a similar way as observed in the complex between trypsin and phenyl-amidine (shown below).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -540,14 +540,14 @@ It was assumed that the first phenyl-amidine group would enter the S1 pocket of 
 
 #### Phenyl-Amidine Entered into the S1 Pocket 
 
-This phenyl-amidine group was therefore entered into the S1 pocket of factor Xa, in order to form hydrogen bonds with the side-chains of Asp-189 and Gly-218.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-amidine-entered-into-s1-pocket-499d0e9d'><i class='fa fa-play' aria-hidden='true'></i></button>This phenyl-amidine group was therefore entered into the S1 pocket of factor Xa, in order to form hydrogen bonds with the side-chains of Asp-189 and Gly-218.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_15_s2.png){: loading=lazy }
 
 #### Phenyl-Amidine Oriented in Lowest Energy Orientation
 
-Finally, the lowest energy orientation (in yellow) of the phenyl-amidine group was calculated in the S1 pocket.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-amidine-oriented-lowest-energy-orientation-cc2827b7'><i class='fa fa-play' aria-hidden='true'></i></button>Finally, the lowest energy orientation (in yellow) of the phenyl-amidine group was calculated in the S1 pocket.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_15_s3.png){: loading=lazy }
@@ -562,7 +562,7 @@ Finally, the lowest energy orientation (in yellow) of the phenyl-amidine group w
 ### Design (step 2): Structural Moiety for Pocket S4
 *[Moiety]: Fragments, functional groups or portions of chemical compounds.
 
-The aryl-binding pocket S4 consists of three aromatic residues: Phe-174, Tyr-99 and Trp-215.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/design-step-2-structural-moiety-for-pocket-s4-863de8c7'><i class='fa fa-play' aria-hidden='true'></i></button>The aryl-binding pocket S4 consists of three aromatic residues: Phe-174, Tyr-99 and Trp-215.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -570,14 +570,14 @@ The aryl-binding pocket S4 consists of three aromatic residues: Phe-174, Tyr-99 
 
 #### Phenyl Ring Introduced in Pocket S4
 
-Initially, a phenyl ring was introduced in this pocket (S4) to find an optimal binding orientation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-ring-introduced-pocket-s4-3866b38e'><i class='fa fa-play' aria-hidden='true'></i></button>Initially, a phenyl ring was introduced in this pocket (S4) to find an optimal binding orientation.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_19_s2.png){: loading=lazy }
 
 #### Phenyl Substituted with an Amidine 
 
-The phenyl ring fragment was replaced with an amidine group, and the orientation of the phenyl-amidine moiety was then modeled to achieve optimal interactions in the S4 pocket.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-substituted-an-amidine-02537f7d'><i class='fa fa-play' aria-hidden='true'></i></button>The phenyl ring fragment was replaced with an amidine group, and the orientation of the phenyl-amidine moiety was then modeled to achieve optimal interactions in the S4 pocket.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -585,14 +585,14 @@ The phenyl ring fragment was replaced with an amidine group, and the orientation
 
 #### Stacking Interaction of Phenyl-Amidine with Trp-215
 
-Finally, an orientation was obtained where the amidine stacked  over Trp-215 (3D)
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/stacking-interaction-phenyl-amidine-trp-215-23b13a49'><i class='fa fa-play' aria-hidden='true'></i></button>Finally, an orientation was obtained where the amidine stacked  over Trp-215 (3D)
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_19_s4.png){: loading=lazy }
 
 #### Phenyl-Amidine Orientation
 
-Note that the orientation of the phenyl-amidine is different from the position of the DX-9065a acetimidoyl group (in purple).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-amidine-orientation-25becb7a'><i class='fa fa-play' aria-hidden='true'></i></button>Note that the orientation of the phenyl-amidine is different from the position of the DX-9065a acetimidoyl group (in purple).
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_19_s5.png){: loading=lazy }
@@ -606,13 +606,13 @@ Note that the orientation of the phenyl-amidine is different from the position o
     
 ### Design (step 3): Design of the Spacer
 
-Assuming the orientation of the phenyl-amidine groups in S1 and in S4 to be preferred, the design process consisted of connecting these fragments without disrupting their respective orientations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/design-step-3-design-spacer-741b15c8'><i class='fa fa-play' aria-hidden='true'></i></button>Assuming the orientation of the phenyl-amidine groups in S1 and in S4 to be preferred, the design process consisted of connecting these fragments without disrupting their respective orientations.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/fxa_1_9_1_0_1.png){: loading=lazy }
 #### Phenyl-Amidine Groups in their Preferred Orientations
 
-The following view shows the two phenyl-amidine groups in their preferred orientations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/phenyl-amidine-groups-their-preferred-orientations-5157abf7'><i class='fa fa-play' aria-hidden='true'></i></button>The following view shows the two phenyl-amidine groups in their preferred orientations.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_25_s2.png){: loading=lazy }
@@ -620,14 +620,14 @@ The following view shows the two phenyl-amidine groups in their preferred orient
 #### Spacer with three Atoms
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-A 3-atom spacer was found connecting the meta position of the phenyl-amidine located in S1 and the para position of the phenyl-amidine group located in S4.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/spacer-three-atoms-2692ccec'><i class='fa fa-play' aria-hidden='true'></i></button>A 3-atom spacer was found connecting the meta position of the phenyl-amidine located in S1 and the para position of the phenyl-amidine group located in S4.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/fxa_1_9_3_0_1.png){: loading=lazy }
 
 #### Candidate Prototype in the Catalytic Site 
 
-The two phenyl-amidino fragments and the 3-atom spacer are visualized here in the catalytic site of the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/candidate-prototype-catalytic-site-f1d3dbbd'><i class='fa fa-play' aria-hidden='true'></i></button>The two phenyl-amidino fragments and the 3-atom spacer are visualized here in the catalytic site of the enzyme.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/snap_v1_5_ext_c7_13_25_s4.png){: loading=lazy }
@@ -641,7 +641,7 @@ The two phenyl-amidino fragments and the 3-atom spacer are visualized here in th
     
 ### Design (step 4): Positioning of the Carboxylate
 
-Finally, the functionalization of the benzylic methylene of the phenyl-amidine group located in pocket S1 proved to be appropriate for introducing a carboxylate group to create favorable interactions with the side-chain of Gln-192, in a similar way as observed with the DX-9065a inhibitor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/design-step-4-positioning-carboxylate-6ff8acb0'><i class='fa fa-play' aria-hidden='true'></i></button>Finally, the functionalization of the benzylic methylene of the phenyl-amidine group located in pocket S1 proved to be appropriate for introducing a carboxylate group to create favorable interactions with the side-chain of Gln-192, in a similar way as observed with the DX-9065a inhibitor.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -656,7 +656,7 @@ Finally, the functionalization of the benzylic methylene of the phenyl-amidine g
     
 ### Discovery of a Lead Compound
 
-The initial prototype compound shown below was synthesized and proved to have a good binding affinity for factor Xa with Ki = 34 nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/discovery-lead-compound-8565bc80'><i class='fa fa-play' aria-hidden='true'></i></button>The initial prototype compound shown below was synthesized and proved to have a good binding affinity for factor Xa with Ki = 34 nM.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
 
@@ -670,7 +670,7 @@ The initial prototype compound shown below was synthesized and proved to have a 
     
 ### Optimization of the Designed Series
 
-The initial lead was further optimized. It was found that introducing a guanidine moiety (compound 21) significantly improved the inhibitory potency for Factor Xa (Ki = 9 nM) with a selectivity of about 10-fold as compared to thrombin.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/optimization-designed-series-272095d7'><i class='fa fa-play' aria-hidden='true'></i></button>The initial lead was further optimized. It was found that introducing a guanidine moiety (compound 21) significantly improved the inhibitory potency for Factor Xa (Ki = 9 nM) with a selectivity of about 10-fold as compared to thrombin.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -678,7 +678,7 @@ The initial lead was further optimized. It was found that introducing a guanidin
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/fxa_1_12_1_0_1.png){: loading=lazy }
 #### Interaction of Compound 21 with Factor Xa
 
-The following is a view of the interaction of compound 21 with factor Xa. Note that this guanidine analog fills the aryl-binding pocket more completely than the amidino group. It also extends deeper into the S4 pocket.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/interaction-compound-21-factor-xa-2983f99b'><i class='fa fa-play' aria-hidden='true'></i></button>The following is a view of the interaction of compound 21 with factor Xa. Note that this guanidine analog fills the aryl-binding pocket more completely than the amidino group. It also extends deeper into the S4 pocket.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -687,7 +687,7 @@ The following is a view of the interaction of compound 21 with factor Xa. Note t
 
 #### Finding an Optimal Spacer
 
-Attempts to extend even deeper into S4 with a 5-atom spacer (compound 23) or more did not lead to better compounds. The preferred distance proved to be close to the 3-atom spacer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/finding-an-optimal-spacer-9335c335'><i class='fa fa-play' aria-hidden='true'></i></button>Attempts to extend even deeper into S4 with a 5-atom spacer (compound 23) or more did not lead to better compounds. The preferred distance proved to be close to the 3-atom spacer.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -708,7 +708,7 @@ Attempts to extend even deeper into S4 with a 5-atom spacer (compound 23) or mor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-In the process of R&#38;D on  inhibitors of the EGF-R protein kinase as anticancer agents, Novartis discovered the pyrrolo-pyrimidine scaffold while Parke-Davis identified quinazoline structures. In both cases, the molecules proved to be competitive inhibitors of the ATP substrate, although the models used were different. In the following pages, we discuss  the structure-based analyses that were made by the two groups to prove the validity of their respective models. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/pyrrolo-pyrimidine-amp-quinazoline-egf-r-inhibitors-2734fac8'><i class='fa fa-play' aria-hidden='true'></i></button>In the process of R&#38;D on  inhibitors of the EGF-R protein kinase as anticancer agents, Novartis discovered the pyrrolo-pyrimidine scaffold while Parke-Davis identified quinazoline structures. In both cases, the molecules proved to be competitive inhibitors of the ATP substrate, although the models used were different. In the following pages, we discuss  the structure-based analyses that were made by the two groups to prove the validity of their respective models. 
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -734,7 +734,7 @@ In the process of R&#38;D on  inhibitors of the EGF-R protein kinase as anticanc
 ### Novartis and Parke-Davis Opposite Binding Models
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-This account is interesting:  not only because  each team succeeded in finding potent inhibitors in their own series, but also because of the unresolved disagreement. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/novartis-parke-davis-opposite-binding-models-dec4a19f'><i class='fa fa-play' aria-hidden='true'></i></button>This account is interesting:  not only because  each team succeeded in finding potent inhibitors in their own series, but also because of the unresolved disagreement. 
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -758,7 +758,7 @@ This account is interesting:  not only because  each team succeeded in finding p
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[Binding Modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The disagreement relates to how the molecules are recognized by the protein. The view shown here summarizes the binding mode imagined by each group for their own molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/controversy-novartis-amp-parke-davis-binding-modes-6c95d7de'><i class='fa fa-play' aria-hidden='true'></i></button>The disagreement relates to how the molecules are recognized by the protein. The view shown here summarizes the binding mode imagined by each group for their own molecules.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -767,7 +767,7 @@ The disagreement relates to how the molecules are recognized by the protein. The
 
 #### Parke-Davis Analyses
 
-The following view illustrates the binding mode used by Parke-Davis for its own series (left) and how they viewed the binding of the Novartis molecules (right).  
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/parke-davis-analyses-a9bd6358'><i class='fa fa-play' aria-hidden='true'></i></button>The following view illustrates the binding mode used by Parke-Davis for its own series (left) and how they viewed the binding of the Novartis molecules (right).  
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
@@ -775,7 +775,7 @@ The following view illustrates the binding mode used by Parke-Davis for its own 
 
 #### Novartis Analyses
 
-The following view illustrates the binding mode used by Novartis for its own series. It was shown on the previous page that two alternative binding modes can be imagined for the Novartis molecule, however  only one binding mode can apparently be modeled for the Parke-Davis compound. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/novartis-analyses-9a6305d9'><i class='fa fa-play' aria-hidden='true'></i></button>The following view illustrates the binding mode used by Novartis for its own series. It was shown on the previous page that two alternative binding modes can be imagined for the Novartis molecule, however  only one binding mode can apparently be modeled for the Parke-Davis compound. 
                 
                
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -800,7 +800,7 @@ The following view illustrates the binding mode used by Novartis for its own ser
 
 ### The Rational Drug Design Strategies
 
-Lead compounds were discovered through pharmacophore-based strategies. However, the crystal structure of a cyclic-AMP dependent kinase complexed with ATP, the cofactor of the protein kinases, revealed the key hydrogen bonds exploited by ATP in its binding to the kinase. This first crystallographic structure opened the door to a structure-based design perspective and facilitated the optimization of the leads.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/x-ray-structure-atp-bound-to-kinase-a4c4bdbb'><i class='fa fa-play' aria-hidden='true'></i></button>Lead compounds were discovered through pharmacophore-based strategies. However, the crystal structure of a cyclic-AMP dependent kinase complexed with ATP, the cofactor of the protein kinases, revealed the key hydrogen bonds exploited by ATP in its binding to the kinase. This first crystallographic structure opened the door to a structure-based design perspective and facilitated the optimization of the leads.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
 
@@ -820,7 +820,7 @@ Lead compounds were discovered through pharmacophore-based strategies. However, 
 ### Binding Mode of ATP
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-ATP, the cofactor of the protein kinases was found to anchor to the kinases in a bidentate manner with backbone atoms of two residues of the enzyme. This anchorage, reminiscent of the Watson-Crick mode of base pairing of adenine nucleotides, appeared to be a key determinant in the recognition of ATP by the kinases.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/binding-mode-atp-b5ca6a5e'><i class='fa fa-play' aria-hidden='true'></i></button>ATP, the cofactor of the protein kinases was found to anchor to the kinases in a bidentate manner with backbone atoms of two residues of the enzyme. This anchorage, reminiscent of the Watson-Crick mode of base pairing of adenine nucleotides, appeared to be a key determinant in the recognition of ATP by the kinases.
 *[bidentate]: Having two anchorage points
 
 
@@ -829,7 +829,7 @@ ATP, the cofactor of the protein kinases was found to anchor to the kinases in a
 ### Binding Mode of Staurosporine
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-Staurosporine is an ATP competitive potent protein kinase inhibitor. Despite its seemingly unrelated chemical structure it was shown that the compound could exploit the same hydrogen bond interactions as ATP.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/binding-mode-staurosporine-fd76c2e6'><i class='fa fa-play' aria-hidden='true'></i></button>Staurosporine is an ATP competitive potent protein kinase inhibitor. Despite its seemingly unrelated chemical structure it was shown that the compound could exploit the same hydrogen bond interactions as ATP.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -845,13 +845,13 @@ Staurosporine is an ATP competitive potent protein kinase inhibitor. Despite its
     
 ### Homology Model of EGF-R Catalytic Site
 
-The X-ray data also served in  the construction of a model of the EGF-R kinase by homology and the identification of different areas in the active site (the anchorage, the "sugar" pocket, and the "large" pocket).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/homology-model-egf-r-catalytic-site-4c3fc615'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray data also served in  the construction of a model of the EGF-R kinase by homology and the identification of different areas in the active site (the anchorage, the "sugar" pocket, and the "large" pocket).
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/egft_8_5_3_1.png){: loading=lazy }
 ### From Staurosporine to Pyrrolo-pyrimidine
 
-The Novartis predicted binding mode for Staurosporine proved to be correct as demonstrated by subsequent X-ray studies of complexes with other protein kinases. Novartis ascribed a binding mode exploiting the same hydrogen bond interactions to the pyrrolo-pyrimidine series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/from-staurosporine-to-pyrrolo-pyrimidine-90cf196c'><i class='fa fa-play' aria-hidden='true'></i></button>The Novartis predicted binding mode for Staurosporine proved to be correct as demonstrated by subsequent X-ray studies of complexes with other protein kinases. Novartis ascribed a binding mode exploiting the same hydrogen bond interactions to the pyrrolo-pyrimidine series.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
@@ -867,7 +867,7 @@ The Novartis predicted binding mode for Staurosporine proved to be correct as de
 ### The Novartis Binding Mode of Pyrrolo-pyrimidine
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The Novartis group placed the anilino moiety in the relative small region defined as the "sugar" pocket because the biological activities were  very sensitive to the substitution in the phenyl ring. For example only a para-fluoro substitution is accepted as opposed to all other analogs with a substitutions in para, (e.g. with a chlorine, a methyl or ethyl) which were inactive.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/novartis-binding-mode-pyrrolo-pyrimidine-b8eac2d0'><i class='fa fa-play' aria-hidden='true'></i></button>The Novartis group placed the anilino moiety in the relative small region defined as the "sugar" pocket because the biological activities were  very sensitive to the substitution in the phenyl ring. For example only a para-fluoro substitution is accepted as opposed to all other analogs with a substitutions in para, (e.g. with a chlorine, a methyl or ethyl) which were inactive.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -883,7 +883,7 @@ The Novartis group placed the anilino moiety in the relative small region define
     
 #### The Pyrrole Ring in the Large Pocket
 
-The pyrrole ring was placed in the "large" pocket area because substitutions of the heterocycle by many hydrophobic groups improved the biological activities. The analogs with two methyls, one methyl and one phenyl or two additional phenyl rings substantially increased  biological activities as shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/pyrrole-ring-large-pocket-681eae42'><i class='fa fa-play' aria-hidden='true'></i></button>The pyrrole ring was placed in the "large" pocket area because substitutions of the heterocycle by many hydrophobic groups improved the biological activities. The analogs with two methyls, one methyl and one phenyl or two additional phenyl rings substantially increased  biological activities as shown below.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -891,7 +891,7 @@ The pyrrole ring was placed in the "large" pocket area because substitutions of 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/egft_8_7_2_1.png){: loading=lazy }
 #### The Pyrrole Ring Pointing Towards the Sugar Pocket
 
-The "reverse" binding mode, with the pyrrole ring pointing towards the sugar pocket, is not a valid model. It eliminates the possibility of substitutions on the pyrrole ring. Such analogs were actually synthesized and increased the biological activities, which could not be accounted for by this model.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/pyrrole-ring-pointing-towards-sugar-pocket-612f3393'><i class='fa fa-play' aria-hidden='true'></i></button>The "reverse" binding mode, with the pyrrole ring pointing towards the sugar pocket, is not a valid model. It eliminates the possibility of substitutions on the pyrrole ring. Such analogs were actually synthesized and increased the biological activities, which could not be accounted for by this model.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -900,7 +900,7 @@ The "reverse" binding mode, with the pyrrole ring pointing towards the sugar poc
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/egft_8_7_3_1.png){: loading=lazy }
 ### Parke-Davis Analyses the Quinazoline Scaffold
 
-The rationale behind the Parke-Davis group's idea for modeling the binding mode of their quinazoline scaffold was based on systematic exploration of the anchorage capabilities of this scaffold. The two nitrogens of the quinazoline nucleus were shown to be essential for these  activities (inactive compounds are obtained when any of the nitrogens is replaced by a carbon). The Parke-Davis group concluded that both atoms should be used as hydrogen bond acceptors in the interaction with the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/parke-davis-analyses-quinazoline-scaffold-5d14f8c2'><i class='fa fa-play' aria-hidden='true'></i></button>The rationale behind the Parke-Davis group's idea for modeling the binding mode of their quinazoline scaffold was based on systematic exploration of the anchorage capabilities of this scaffold. The two nitrogens of the quinazoline nucleus were shown to be essential for these  activities (inactive compounds are obtained when any of the nitrogens is replaced by a carbon). The Parke-Davis group concluded that both atoms should be used as hydrogen bond acceptors in the interaction with the enzyme.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
@@ -908,7 +908,7 @@ The rationale behind the Parke-Davis group's idea for modeling the binding mode 
 #### Additional SAR Analyses made by Parke-Davis
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Substitution of the phenyl ring of the anilino side chain greatly reduced activities indicating limited bulk tolerance, and only the analog with bromine in meta showed improved activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/additional-sar-analyses-made-by-parke-davis-5ab070ec'><i class='fa fa-play' aria-hidden='true'></i></button>Substitution of the phenyl ring of the anilino side chain greatly reduced activities indicating limited bulk tolerance, and only the analog with bromine in meta showed improved activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -925,20 +925,20 @@ Substitution of the phenyl ring of the anilino side chain greatly reduced activi
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-All the elements assembled by the Parke-Davis group lead to  considering the following binding mode for the quinazoline series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/parke-davis-model-quinazoline-analogs-19746a98'><i class='fa fa-play' aria-hidden='true'></i></button>All the elements assembled by the Parke-Davis group lead to  considering the following binding mode for the quinazoline series.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/egft_8_9_1_1.png){: loading=lazy }
 #### Specificity Observed in EGF-R Kinase Inhibition
 
-An additional element that supported this model was the specificity observed in EGF-R activities. This can be explained by favorable hydrophobic interactions with Cys-751 that exist only in the EGF-R enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/specificity-observed-egf-r-kinase-inhibition-326a299d'><i class='fa fa-play' aria-hidden='true'></i></button>An additional element that supported this model was the specificity observed in EGF-R activities. This can be explained by favorable hydrophobic interactions with Cys-751 that exist only in the EGF-R enzyme.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/egft_8_9_2_1.png){: loading=lazy }
 #### Anilino Towards the Sugar Pocket not Reasonable
 
-The "reverse" binding mode, with the anilino side chain pointing towards the sugar pocket, is a model that does not explain the observed selectivity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/anilino-towards-sugar-pocket-not-reasonable-70803901'><i class='fa fa-play' aria-hidden='true'></i></button>The "reverse" binding mode, with the anilino side chain pointing towards the sugar pocket, is a model that does not explain the observed selectivity.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
@@ -953,7 +953,7 @@ The "reverse" binding mode, with the anilino side chain pointing towards the sug
 ### Parke-Davis Model Consistent with Observed SAR
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-This binding mode indicates that the available room around the nitrogen area is very limited, whereas a third ring can be fused to the bicyclic quinazoline ring without loss of binding affinity. Docking studies showed that the binding mode represented here satisfied all the observed SAR.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/parke-davis-model-consistent-observed-sar-d943c98e'><i class='fa fa-play' aria-hidden='true'></i></button>This binding mode indicates that the available room around the nitrogen area is very limited, whereas a third ring can be fused to the bicyclic quinazoline ring without loss of binding affinity. Docking studies showed that the binding mode represented here satisfied all the observed SAR.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -970,7 +970,7 @@ This binding mode indicates that the available room around the nitrogen area is 
 ### Binding Mode of the Pyrrolo-Pyrimidine Series
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The following example illustrates the binding mode of  pyrrolo-pyrimidine as imagined by Novartis or Parke-Davis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/binding-mode-pyrrolo-pyrimidine-series-f0d74ce3'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates the binding mode of  pyrrolo-pyrimidine as imagined by Novartis or Parke-Davis.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
@@ -986,7 +986,7 @@ The following example illustrates the binding mode of  pyrrolo-pyrimidine as ima
 ### Binding Mode of the Quinazoline Series
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The following example illustrates the binding mode of the quinazoline as imagined by Novartis or Parke-Davis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/binding-mode-quinazoline-series-ee5896f1'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates the binding mode of the quinazoline as imagined by Novartis or Parke-Davis.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
@@ -997,7 +997,7 @@ The following example illustrates the binding mode of the quinazoline as imagine
     ![](https://media.drugdesign.org/course/structure-based-design-case-studies/egft_8_11_2_1_f2.png){: loading=lazy }
 ### What is the Correct Solution?
 
-The dispute is not yet resolved. In principle, there are three possibilities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/what-is-correct-solution-c4f75658'><i class='fa fa-play' aria-hidden='true'></i></button>The dispute is not yet resolved. In principle, there are three possibilities.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1006,7 +1006,7 @@ The dispute is not yet resolved. In principle, there are three possibilities.
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The following example illustrates the X-ray structure of a complex of NU2058 with another protein kinase, CDK2, revealing an orientation of the ligand in a Novartis-like binding mode.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/ligand-observed-novartis-binding-mode-be2847f4'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates the X-ray structure of a complex of NU2058 with another protein kinase, CDK2, revealing an orientation of the ligand in a Novartis-like binding mode.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
@@ -1027,7 +1027,7 @@ The following example illustrates the X-ray structure of a complex of NU2058 wit
     
 #### Alignment with the Novartis Model
 
-The Novartis model (yellow) is displayed aligned with the X-ray structure of the NU2058 bound to CDK2.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/alignment-novartis-model-5d218f69'><i class='fa fa-play' aria-hidden='true'></i></button>The Novartis model (yellow) is displayed aligned with the X-ray structure of the NU2058 bound to CDK2.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/alt1_8_12_2_1.png){: loading=lazy }
@@ -1036,7 +1036,7 @@ The Novartis model (yellow) is displayed aligned with the X-ray structure of the
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The following example illustrates the X-ray structure of a complex of a 4-anilinoquinazoline derivative with the protein kinase p38, revealing an orientation of the ligand in a Parke-Davis-like binding mode.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/ligand-observed-parke-davis-binding-mode-e5d2d623'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates the X-ray structure of a complex of a 4-anilinoquinazoline derivative with the protein kinase p38, revealing an orientation of the ligand in a Parke-Davis-like binding mode.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
@@ -1066,14 +1066,14 @@ The following example illustrates the X-ray structure of a complex of a 4-anilin
     
 #### Alignment with the Parke-Davis Model
 
-The Parke-Davis model (yellow) is displayed aligned with the X-ray structure of the 4-anilinoquinazoline bound to p38.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/alignment-parke-davis-model-e4e52d31'><i class='fa fa-play' aria-hidden='true'></i></button>The Parke-Davis model (yellow) is displayed aligned with the X-ray structure of the 4-anilinoquinazoline bound to p38.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/alt1_8_13_2_1.png){: loading=lazy }
 
 #### X-Ray Resolution of Tarceva Bound to EGF-R Kinase
 
-Very recently, the crystal structure of the EGF-R kinase domain complexed with Tarceva (an inhibitor currently in development) has been determined. The orientation of the inhibitor in the complex corresponds to the Parke-Davis model and confirms the existence of a water molecule, as already observed in p38-inhibitor complexes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/x-ray-resolution-tarceva-bound-to-egf-r-kinase-64d27602'><i class='fa fa-play' aria-hidden='true'></i></button>Very recently, the crystal structure of the EGF-R kinase domain complexed with Tarceva (an inhibitor currently in development) has been determined. The orientation of the inhibitor in the complex corresponds to the Parke-Davis model and confirms the existence of a water molecule, as already observed in p38-inhibitor complexes.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1084,7 +1084,7 @@ Very recently, the crystal structure of the EGF-R kinase domain complexed with T
 
 ### Conclusion
 
-Two opposite models were derived from analyses of activities on the EGF-R kinase. Recent X-ray studies of closely related structures complexed with other kinases indicated that both binding modes could exist. This example showed that one must be prepared to consider more than one binding mode. This diversity created some complications in the analyses but also opened up a broader range of possibilities for the design of new structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/conclusion-94398b66'><i class='fa fa-play' aria-hidden='true'></i></button>Two opposite models were derived from analyses of activities on the EGF-R kinase. Recent X-ray studies of closely related structures complexed with other kinases indicated that both binding modes could exist. This example showed that one must be prepared to consider more than one binding mode. This diversity created some complications in the analyses but also opened up a broader range of possibilities for the design of new structures.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[binding modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
@@ -1095,10 +1095,11 @@ Two opposite models were derived from analyses of activities on the EGF-R kinase
 
 ### Additional Case Studies
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design-case-studies/additional-case-studies-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/structure-based-design-case-studies/sbdd_case_other_examples.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

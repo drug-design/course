@@ -18,7 +18,7 @@
 ### Importance of Molecular Graphics
 *[nce]: New Chemical Entity: a compound not previously described.
 
-One of the most important things for the molecular modeler is to visualize molecular structures and interactions in order to calibrate his intuition and to develop a feeling of the structures concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/importance-molecular-graphics-c5169cb6'><i class='fa fa-play' aria-hidden='true'></i></button>One of the most important things for the molecular modeler is to visualize molecular structures and interactions in order to calibrate his intuition and to develop a feeling of the structures concerned.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -28,7 +28,7 @@ One of the most important things for the molecular modeler is to visualize molec
 ### Almost Science Fiction
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Computer graphics enables us to visualize complex machinery underlying highly coordinated biological processes. Geometrical measurements, shape analyses, design and evaluation of candidate prototypes are all operations that are used daily by the usual locksmith but these operations are more complicated in drug discovery. Today, research teams using very unusual visual apparatus work hours and hours with 3D graphical displays and can virtually "enter" into the precise 3D structure of a protein and construct atom by atom an inhibitor that can lead to a drug that will stop the development of a disease. One would think that the following scene is taken from a science fiction movie but today it is possible with computer graphics!
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/almost-science-fiction-f2d9dedb'><i class='fa fa-play' aria-hidden='true'></i></button>Computer graphics enables us to visualize complex machinery underlying highly coordinated biological processes. Geometrical measurements, shape analyses, design and evaluation of candidate prototypes are all operations that are used daily by the usual locksmith but these operations are more complicated in drug discovery. Today, research teams using very unusual visual apparatus work hours and hours with 3D graphical displays and can virtually "enter" into the precise 3D structure of a protein and construct atom by atom an inhibitor that can lead to a drug that will stop the development of a disease. One would think that the following scene is taken from a science fiction movie but today it is possible with computer graphics!
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -44,7 +44,7 @@ Computer graphics enables us to visualize complex machinery underlying highly co
     
 ### History of Molecular Visualizations
 
-1970-1975: In the beginning, no graphical software programs existed for 3D drug design. Computers existed but they were mainframe computers. Physical models (plastic or metallic) were very popular and allowed "hand" manipulation of the three-dimensional structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/history-molecular-visualizations-b60b3626'><i class='fa fa-play' aria-hidden='true'></i></button>1970-1975: In the beginning, no graphical software programs existed for 3D drug design. Computers existed but they were mainframe computers. Physical models (plastic or metallic) were very popular and allowed "hand" manipulation of the three-dimensional structures.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -74,7 +74,7 @@ Computer graphics enables us to visualize complex machinery underlying highly co
     
 #### 1975-1978
 
-1975-1978: The second period witnessed the development of molecular modeling software in drug design. The output of these programs were generated numerically or with graphical representations produced by graphical plotters.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/1975-1978-62afdbea'><i class='fa fa-play' aria-hidden='true'></i></button>1975-1978: The second period witnessed the development of molecular modeling software in drug design. The output of these programs were generated numerically or with graphical representations produced by graphical plotters.
 *[molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 
 
@@ -82,14 +82,14 @@ Computer graphics enables us to visualize complex machinery underlying highly co
 
 #### 1978-1980
 
-1978-1980: One of the first commercially available graphical systems was "Tektronix" displays. They had poor resolution and no colors. They were so slow that it was not possible to envision that they could allow real-time rotations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/1978-1980-e4319834'><i class='fa fa-play' aria-hidden='true'></i></button>1978-1980: One of the first commercially available graphical systems was "Tektronix" displays. They had poor resolution and no colors. They were so slow that it was not possible to envision that they could allow real-time rotations.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/1_3_3_1.png){: loading=lazy }
 
 #### 1980-1995
 
-1980-1995: "Evans &#38; Sutherland" graphics system revolutionized molecular modeling. They provided colored pictures of excellent quality and included real time rotation and stereo. However the cost of a single display was $150,000! Towards the end of that period, "Silicon Graphics" introduced less expensive yet high performance workstations that were within the budget of most academic and industrial laboratories (approximately $ 30,000).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/1980-1995-67f43404'><i class='fa fa-play' aria-hidden='true'></i></button>1980-1995: "Evans &#38; Sutherland" graphics system revolutionized molecular modeling. They provided colored pictures of excellent quality and included real time rotation and stereo. However the cost of a single display was $150,000! Towards the end of that period, "Silicon Graphics" introduced less expensive yet high performance workstations that were within the budget of most academic and industrial laboratories (approximately $ 30,000).
 *[molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -98,7 +98,7 @@ Computer graphics enables us to visualize complex machinery underlying highly co
 
 #### 1995-now
 
-"1995-now": A large range of graphic workstations became available to meet the need of modeling applications ranging from simple, small molecules to complex macromolecules. Basic inexpensive systems like PC or Macintosh combined with efficient graphic software were available for less than $1.000 and provided visualization means that were accessible to all.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/1995-now-71da054f'><i class='fa fa-play' aria-hidden='true'></i></button>"1995-now": A large range of graphic workstations became available to meet the need of modeling applications ranging from simple, small molecules to complex macromolecules. Basic inexpensive systems like PC or Macintosh combined with efficient graphic software were available for less than $1.000 and provided visualization means that were accessible to all.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -106,7 +106,7 @@ Computer graphics enables us to visualize complex machinery underlying highly co
 
 ### Commercially Available Molecular Kits
 
-Hand-held commercial models have the advantage of being concrete objects that can be manipulated and provide a physical "feeling" of their actual geometrical features. It is not possible to construct on a routine basis proteins, neither is it easy to introduce a molecule in its active site or to superimpose together two or three proteins or two or three small molecules. Molecular graphic software programs offer great flexibility and include the visualization of color-coded properties that are associated to the different structural fragments.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/commercially-available-molecular-kits-7c9c21d1'><i class='fa fa-play' aria-hidden='true'></i></button>Hand-held commercial models have the advantage of being concrete objects that can be manipulated and provide a physical "feeling" of their actual geometrical features. It is not possible to construct on a routine basis proteins, neither is it easy to introduce a molecule in its active site or to superimpose together two or three proteins or two or three small molecules. Molecular graphic software programs offer great flexibility and include the visualization of color-coded properties that are associated to the different structural fragments.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -121,7 +121,7 @@ Hand-held commercial models have the advantage of being concrete objects that ca
     
 ### Progress in Graphical Hardware and Algorithms
 
-The simultaneous development of advanced graphic hardware and graphic algorithms for efficient visualization revolutionized the 3D displays.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/progress-graphical-hardware-algorithms-3b8c9ebe'><i class='fa fa-play' aria-hidden='true'></i></button>The simultaneous development of advanced graphic hardware and graphic algorithms for efficient visualization revolutionized the 3D displays.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -136,7 +136,7 @@ The simultaneous development of advanced graphic hardware and graphic algorithms
     
 #### Algorithm 1
 
-First steps in computer graphics were very disappointing. The following represents an attempt made in 1967 to represent the surface of a molecule with relatively advanced graphic displays based on successive sections of its volume.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/algorithm-1-3ccf8bb5'><i class='fa fa-play' aria-hidden='true'></i></button>First steps in computer graphics were very disappointing. The following represents an attempt made in 1967 to represent the surface of a molecule with relatively advanced graphic displays based on successive sections of its volume.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -144,7 +144,7 @@ First steps in computer graphics were very disappointing. The following represen
 
 #### Algorithm 2
 
-The following shows the quality of the pictures that can be generated with efficient graphical algorithms (open GL). The algorithms were developed to achieve optimal efficiency in terms of both quality and speed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/algorithm-2-ead3c281'><i class='fa fa-play' aria-hidden='true'></i></button>The following shows the quality of the pictures that can be generated with efficient graphical algorithms (open GL). The algorithms were developed to achieve optimal efficiency in terms of both quality and speed.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -153,7 +153,7 @@ The following shows the quality of the pictures that can be generated with effic
 
 ### Molecular Graphics Functions
 
-A molecular graphics system should provide the following three basic functions. Editing: Some type of "construction kit" must be available so that molecules can be built and modified. Visualization: Each molecule should be visualized in three-dimensions, color-coded and labeled. Manipulation: It must be possible to move and rotate molecules independently in any direction and about any axis and to manipulate their torsion angles.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/molecular-graphics-functions-e9e7669e'><i class='fa fa-play' aria-hidden='true'></i></button>A molecular graphics system should provide the following three basic functions. Editing: Some type of "construction kit" must be available so that molecules can be built and modified. Visualization: Each molecule should be visualized in three-dimensions, color-coded and labeled. Manipulation: It must be possible to move and rotate molecules independently in any direction and about any axis and to manipulate their torsion angles.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -170,7 +170,7 @@ A molecular graphics system should provide the following three basic functions. 
 
 ### The Perception of the Third Dimension
 
-Although defined in 3D, the molecular representations are visualized on a 2D computer screen. In drug design, good perception of the three-dimensional nature of the molecule is essential and many techniques of graphic software provide a three-dimensional illusion.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/perception-third-dimension-a2dbfb62'><i class='fa fa-play' aria-hidden='true'></i></button>Although defined in 3D, the molecular representations are visualized on a 2D computer screen. In drug design, good perception of the three-dimensional nature of the molecule is essential and many techniques of graphic software provide a three-dimensional illusion.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -179,14 +179,14 @@ Although defined in 3D, the molecular representations are visualized on a 2D com
 ### From 3D Coordinates to Screen Coordinates
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The representation of a molecule (3D object) on a graphic display actually consists of calculating a series of projections of the 3D object onto the 2D plane of the screen.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/from-3d-coordinates-to-screen-coordinates-9dab8403'><i class='fa fa-play' aria-hidden='true'></i></button>The representation of a molecule (3D object) on a graphic display actually consists of calculating a series of projections of the 3D object onto the 2D plane of the screen.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/2_2_1_1.png){: loading=lazy }
 #### 2D Projection is Not Sufficient
 
-The 2D projection is not sufficient. You have to rotate the object to perceive its 3D features. The following represents the crystal unit of Zirconium. Notice the difference when you rotate it!
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/2d-projection-is-not-sufficient-db3455c6'><i class='fa fa-play' aria-hidden='true'></i></button>The 2D projection is not sufficient. You have to rotate the object to perceive its 3D features. The following represents the crystal unit of Zirconium. Notice the difference when you rotate it!
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -194,7 +194,7 @@ The 2D projection is not sufficient. You have to rotate the object to perceive i
 
 ### Real Time Manipulation
 
-A real-time manipulation of the molecular structure representation, can provide a convincing three-dimensional illusion of the molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/real-time-manipulation-531f26bd'><i class='fa fa-play' aria-hidden='true'></i></button>A real-time manipulation of the molecular structure representation, can provide a convincing three-dimensional illusion of the molecules.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -202,7 +202,7 @@ A real-time manipulation of the molecular structure representation, can provide 
 
 ### Depth Cueing
 
-Depth cueing is a technique in which distant objects are drawn progressively darker. This creates the perception of depth in the representation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/depth-cueing-4fcbbc90'><i class='fa fa-play' aria-hidden='true'></i></button>Depth cueing is a technique in which distant objects are drawn progressively darker. This creates the perception of depth in the representation.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_2_4.png){: loading=lazy }
@@ -216,14 +216,14 @@ Depth cueing is a technique in which distant objects are drawn progressively dar
     
 ### Perspective
 
-Perspective is a technique in which distant objects are drawn progressively smaller.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/perspective-1e13df2b'><i class='fa fa-play' aria-hidden='true'></i></button>Perspective is a technique in which distant objects are drawn progressively smaller.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_2_5.gif){: loading=lazy }
 
 ### Stereo
 
-Whereas real-time manipulations provide a 3D feeling, stereo is critical to maintain that three-dimensional perception. Stereo perception involves presenting a left and right eye view of the molecule to the appropriate eye of the user. In this case, dividing the screen into two halves provides stereo and the left and right views are represented and are ready to be mentally superimposed by the user.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/stereo-09fd6e27'><i class='fa fa-play' aria-hidden='true'></i></button>Whereas real-time manipulations provide a 3D feeling, stereo is critical to maintain that three-dimensional perception. Stereo perception involves presenting a left and right eye view of the molecule to the appropriate eye of the user. In this case, dividing the screen into two halves provides stereo and the left and right views are represented and are ready to be mentally superimposed by the user.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -243,7 +243,7 @@ Whereas real-time manipulations provide a 3D feeling, stereo is critical to main
     
 ### Hardware Stereo
 
-Hardware stereo is a trick incorporated in graphics systems. The monitor runs at double the frequency so that the screen presents alternate eye views one after another. The user wears a pair of goggles containing liquid crystal shutters and an infrared emitter on the workstation synchronizes the visibility of the screen to each eye. These capabilities are sometimes incorporated in the hardware and software equipment of a workstation and are available to support effective hardware stereo.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/hardware-stereo-2f0a86b8'><i class='fa fa-play' aria-hidden='true'></i></button>Hardware stereo is a trick incorporated in graphics systems. The monitor runs at double the frequency so that the screen presents alternate eye views one after another. The user wears a pair of goggles containing liquid crystal shutters and an infrared emitter on the workstation synchronizes the visibility of the screen to each eye. These capabilities are sometimes incorporated in the hardware and software equipment of a workstation and are available to support effective hardware stereo.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -260,41 +260,41 @@ Hardware stereo is a trick incorporated in graphics systems. The monitor runs at
 
 ### 3D Representation of Small Molecules
 
-Molecules can be displayed with different rendering techniques including Line, Stick, Ball and Stick, CPK etc...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/3d-representation-small-molecules-4b0f87e4'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules can be displayed with different rendering techniques including Line, Stick, Ball and Stick, CPK etc...
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/menu1.png){: loading=lazy }
 #### Line
 
-This is the simplest and most common way to visualize molecules where the bonding arrangement is represented in 3D. This type of representation is also called "wireframe".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/line-7be48866'><i class='fa fa-play' aria-hidden='true'></i></button>This is the simplest and most common way to visualize molecules where the bonding arrangement is represented in 3D. This type of representation is also called "wireframe".
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_1_1.png){: loading=lazy }
 
 #### Stick
 
-In this type of representation the bonds are represented as tubes. It is also called "polytube".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/stick-b5b64e01'><i class='fa fa-play' aria-hidden='true'></i></button>In this type of representation the bonds are represented as tubes. It is also called "polytube".
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_1_2.png){: loading=lazy }
 
 #### Ball &#38; Stick
 
-Here the molecule is displayed as the assembly of atoms and bonds. Atoms are represented as small spheres and bonds as tubes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/ball-amp-stick-3de6e710'><i class='fa fa-play' aria-hidden='true'></i></button>Here the molecule is displayed as the assembly of atoms and bonds. Atoms are represented as small spheres and bonds as tubes.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_1_3.png){: loading=lazy }
 
 #### CPK
 
-In this type of representation the molecule is defined as a set of spheres of van der Walls radii of the individual atoms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/cpk-cb47d4aa'><i class='fa fa-play' aria-hidden='true'></i></button>In this type of representation the molecule is defined as a set of spheres of van der Walls radii of the individual atoms.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_1_4.png){: loading=lazy }
 
 ### Quality of Rendering
 
-Although considered as a sphere, in molecular graphics visualizations, an atom is treated as a polyhedron. A view calculated with a small number of faces is of poor quality; however by increasing the number of faces the quality increases.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/quality-rendering-54f360f9'><i class='fa fa-play' aria-hidden='true'></i></button>Although considered as a sphere, in molecular graphics visualizations, an atom is treated as a polyhedron. A view calculated with a small number of faces is of poor quality; however by increasing the number of faces the quality increases.
 
 
 === "Intro"
@@ -314,27 +314,27 @@ Although considered as a sphere, in molecular graphics visualizations, an atom i
     
 ### Atomic Color-Code Convention
 
-A color is associated with each type of atom. The following color-code convention is generally accepted and implemented in most popular molecular graphic systems.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/atomic-color-code-convention-0b49a884'><i class='fa fa-play' aria-hidden='true'></i></button>A color is associated with each type of atom. The following color-code convention is generally accepted and implemented in most popular molecular graphic systems.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/3_7_internet.gif){: loading=lazy }
 
 ### Coloring Molecules or Sets of Atoms
 
-Molecules can be colored in different ways: by atom-type, by molecule, by color, by properties etc...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/coloring-molecules-or-sets-atoms-d78aabdf'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules can be colored in different ways: by atom-type, by molecule, by color, by properties etc...
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/menu2.png){: loading=lazy }
 #### By Atom-type
 
-In this representation the atoms are colored according to the atomic color-code defined and a color is also given to half of the bonds of this atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/by-atom-type-67469767'><i class='fa fa-play' aria-hidden='true'></i></button>In this representation the atoms are colored according to the atomic color-code defined and a color is also given to half of the bonds of this atom.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_4_1.png){: loading=lazy }
 
 #### By Molecule
 
-A different color is given to each of the molecules visualized in the screen. It is useful when several molecules are superimposed to distinguish and recognize the individual molecules in the view.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/by-molecule-895104b0'><i class='fa fa-play' aria-hidden='true'></i></button>A different color is given to each of the molecules visualized in the screen. It is useful when several molecules are superimposed to distinguish and recognize the individual molecules in the view.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -342,21 +342,21 @@ A different color is given to each of the molecules visualized in the screen. It
 
 #### By Color
 
-All or part of a given molecule is visualized in one color. Interactive "picking" of the molecule or a set of atoms allows one to associate a color with a specified set.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/by-color-6fc2ea32'><i class='fa fa-play' aria-hidden='true'></i></button>All or part of a given molecule is visualized in one color. Interactive "picking" of the molecule or a set of atoms allows one to associate a color with a specified set.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_4_3.png){: loading=lazy }
 
 #### By Properties
 
-Various molecular properties can be visualized. The quantitative or qualitative variations can be color-coded defined and visualized for every element considered: atom, bond or the molecular surface.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/by-properties-8876a886'><i class='fa fa-play' aria-hidden='true'></i></button>Various molecular properties can be visualized. The quantitative or qualitative variations can be color-coded defined and visualized for every element considered: atom, bond or the molecular surface.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_4_4.png){: loading=lazy }
 
 ### Labeling Functionalities
 
-Various labels can be added: those which are associated with the molecules and those associated with the screen. The first ones move with the molecules (green) and the other ones are fixed (white).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/labeling-functionalities-dbf496ff'><i class='fa fa-play' aria-hidden='true'></i></button>Various labels can be added: those which are associated with the molecules and those associated with the screen. The first ones move with the molecules (green) and the other ones are fixed (white).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -364,21 +364,21 @@ Various labels can be added: those which are associated with the molecules and t
 
 #### Atom Labels
 
-If an entire molecule is represented in one color, it is not possible to recognize the different types of atoms. It is useful to label specific atoms in order to facilitate further analyses (e.g. hydrogen bonding capabilities or atomic mimicry).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/atom-labels-9d0838bc'><i class='fa fa-play' aria-hidden='true'></i></button>If an entire molecule is represented in one color, it is not possible to recognize the different types of atoms. It is useful to label specific atoms in order to facilitate further analyses (e.g. hydrogen bonding capabilities or atomic mimicry).
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_5_2.png){: loading=lazy }
 
 #### Atom Numbering
 
-This type of representation is useful when associated with computerized numerical treatments or to follow the 3D view associated with a publication in which some details are given and atoms are described by their number (Nitrogen 24, or hydroxyl of Ser-76).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/atom-numbering-94636b04'><i class='fa fa-play' aria-hidden='true'></i></button>This type of representation is useful when associated with computerized numerical treatments or to follow the 3D view associated with a publication in which some details are given and atoms are described by their number (Nitrogen 24, or hydroxyl of Ser-76).
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_5_3.png){: loading=lazy }
 
 ### Proteins Representation
 
-Macromolecules are complex entities. They can be displayed as small molecules using various techniques (ball and stick, space-filling, etc.). Other representations are specific to macromolecules and give an overview of the overall molecular architecture of the protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/proteins-representation-1b3126ca'><i class='fa fa-play' aria-hidden='true'></i></button>Macromolecules are complex entities. They can be displayed as small molecules using various techniques (ball and stick, space-filling, etc.). Other representations are specific to macromolecules and give an overview of the overall molecular architecture of the protein.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_3_6.png){: loading=lazy }
@@ -392,14 +392,14 @@ Macromolecules are complex entities. They can be displayed as small molecules us
     
 #### Carbon Alpha
 
-This representation is also called "carbon-&alpha; trace". It is useful for editing and aligning different proteins.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/carbon-alpha-c6e9b88c'><i class='fa fa-play' aria-hidden='true'></i></button>This representation is also called "carbon-&alpha; trace". It is useful for editing and aligning different proteins.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/alt1_3_6_2_1.png){: loading=lazy }
 
 #### Ribbon Representation
 
-Ribbon representations are specific to proteins and provide an overview of the overall molecular architecture (secondary structure) of the protein. &alpha;-helices, &beta;-sheets and &beta;-turns are easily recognized.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/ribbon-representation-f6caca82'><i class='fa fa-play' aria-hidden='true'></i></button>Ribbon representations are specific to proteins and provide an overview of the overall molecular architecture (secondary structure) of the protein. &alpha;-helices, &beta;-sheets and &beta;-turns are easily recognized.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -414,7 +414,7 @@ Ribbon representations are specific to proteins and provide an overview of the o
     
 #### Ribbon Types
 
-Here are different types of ribbon displays.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/ribbon-types-5667144c'><i class='fa fa-play' aria-hidden='true'></i></button>Here are different types of ribbon displays.
 
 
 === "Line"
@@ -434,7 +434,7 @@ Here are different types of ribbon displays.
 
 #### Visualization of Protein Properties
 
-The macromolecular structure can be color-coded according to various physico-chemical properties such as residue types, electrostatic or hydrophobicity. The representation of color-coded surfaces of molecular systems has revolutionized molecular design analyses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-protein-properties-8e8e8083'><i class='fa fa-play' aria-hidden='true'></i></button>The macromolecular structure can be color-coded according to various physico-chemical properties such as residue types, electrostatic or hydrophobicity. The representation of color-coded surfaces of molecular systems has revolutionized molecular design analyses.
 
 
 === "Line"
@@ -470,7 +470,7 @@ The macromolecular structure can be color-coded according to various physico-che
 
 ### Structure Manipulation &#38; Editing
 
-In molecular modeling, the computer software provides tools that interact with the molecules visualized onto the screen. The most basic structure manipulations are: translation of all molecules, translation of one molecule relative to another, rotation of all molecules, rotation of one molecule relative to another, rotation of flexible bonds in a molecule, and molecular editing. These operations also are useful for the superimposition of molecules or for the insertion of a small molecule into the cavity of a macromolecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/structure-manipulation-amp-editing-d4b13002'><i class='fa fa-play' aria-hidden='true'></i></button>In molecular modeling, the computer software provides tools that interact with the molecules visualized onto the screen. The most basic structure manipulations are: translation of all molecules, translation of one molecule relative to another, rotation of all molecules, rotation of one molecule relative to another, rotation of flexible bonds in a molecule, and molecular editing. These operations also are useful for the superimposition of molecules or for the insertion of a small molecule into the cavity of a macromolecule.
 *[molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -479,42 +479,42 @@ In molecular modeling, the computer software provides tools that interact with t
 
 #### Add Atoms Function
 
-3D Molecular Editing Functions - Add atoms
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/add-atoms-function-1f40ca9e'><i class='fa fa-play' aria-hidden='true'></i></button>3D Molecular Editing Functions - Add atoms
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_2_1.gif){: loading=lazy }
 
 #### Delete Atoms Function
 
-3D Molecular Editing Functions - Delete atoms
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/delete-atoms-function-24c3489a'><i class='fa fa-play' aria-hidden='true'></i></button>3D Molecular Editing Functions - Delete atoms
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_2_2.gif){: loading=lazy }
 
 #### Fuse Atoms Function
 
-3D Molecular Editing Functions - Fuse atoms
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/fuse-atoms-function-930a4bc5'><i class='fa fa-play' aria-hidden='true'></i></button>3D Molecular Editing Functions - Fuse atoms
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_2_3.gif){: loading=lazy }
 
 #### Connect atoms Function
 
-3D Molecular Editing Functions - Connect atoms
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/connect-atoms-function-791a7930'><i class='fa fa-play' aria-hidden='true'></i></button>3D Molecular Editing Functions - Connect atoms
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_2_4.gif){: loading=lazy }
 
 ### 3D Molecular Constructions
 
-A simple method for adding new atoms in a molecule is to add hydrogen atoms on a given atom and then exchange the hydrogen with another atom (e.g. C, N, O)
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/3d-molecular-constructions-5ab8d60f'><i class='fa fa-play' aria-hidden='true'></i></button>A simple method for adding new atoms in a molecule is to add hydrogen atoms on a given atom and then exchange the hydrogen with another atom (e.g. C, N, O)
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_3.gif){: loading=lazy }
 
 ### Real-Time Rotations, Translations and Zoom
 
-Current graphic displays offer real-time rotation and translation capabilities. Dials, joysticks and a mouse allow one to interactively manipulate items on the screen with a great deal of rotational and translational freedom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/real-time-rotations-translations-zoom-7f0ad54e'><i class='fa fa-play' aria-hidden='true'></i></button>Current graphic displays offer real-time rotation and translation capabilities. Dials, joysticks and a mouse allow one to interactively manipulate items on the screen with a great deal of rotational and translational freedom.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -522,35 +522,35 @@ Current graphic displays offer real-time rotation and translation capabilities. 
 
 #### Translations
 
-Translation Example: click on the molecule and drag the mouse.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/translations-da5ce6a8'><i class='fa fa-play' aria-hidden='true'></i></button>Translation Example: click on the molecule and drag the mouse.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_4_4_1.gif){: loading=lazy }
 
 #### Rotations
 
-Rotation example: click on the molecule and drag the mouse.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/rotations-58800d26'><i class='fa fa-play' aria-hidden='true'></i></button>Rotation example: click on the molecule and drag the mouse.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_4_2.gif){: loading=lazy }
 
 #### Zoom
 
-Zoom functionalities are important for the visualization. They allow global and local analyses to be made in a flexible fashion. Zoom example: click on the molecule and drag the mouse.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/zoom-37f36b1c'><i class='fa fa-play' aria-hidden='true'></i></button>Zoom functionalities are important for the visualization. They allow global and local analyses to be made in a flexible fashion. Zoom example: click on the molecule and drag the mouse.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_4_3.gif){: loading=lazy }
 
 ### Control of Torsion Angles
 
-Molecules have rotatable bonds defining many conformations. Dials, joysticks and a mouse allow to interactively rotate bonds with a single hand.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/control-torsion-angles-81167b75'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules have rotatable bonds defining many conformations. Dials, joysticks and a mouse allow to interactively rotate bonds with a single hand.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_4_6.gif){: loading=lazy }
 
 ### Slab and Clip
 
-Some molecular softwares incorporate "slab" functionalities. The aim of this operation is to visualize sections of the molecular volume. A projection plane can be moved and everything which is either above (top slab) or below (bottom slab) are removed. This allows one to better analyze for example the detailed volume of a macromolecular cavity or a free protein or with a bound ligand.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/slab-clip-52f71466'><i class='fa fa-play' aria-hidden='true'></i></button>Some molecular softwares incorporate "slab" functionalities. The aim of this operation is to visualize sections of the molecular volume. A projection plane can be moved and everything which is either above (top slab) or below (bottom slab) are removed. This allows one to better analyze for example the detailed volume of a macromolecular cavity or a free protein or with a bound ligand.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -562,7 +562,7 @@ Some molecular softwares incorporate "slab" functionalities. The aim of this ope
 ### Concept and Definition of Molecular Surfaces
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The surface of a molecule represents an important structural feature that allows to understand the properties of the compound. Various definitions of the molecular surface have been proposed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/concept-definition-molecular-surfaces-8bdb144e'><i class='fa fa-play' aria-hidden='true'></i></button>The surface of a molecule represents an important structural feature that allows to understand the properties of the compound. Various definitions of the molecular surface have been proposed.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -677,7 +677,7 @@ The surface of a molecule represents an important structural feature that allows
     
 #### Van der Waals
 
-The van der Waals surface: it corresponds to the molecular envelope containing atomic spheres of van der Waals radii.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/van-der-waals-07961602'><i class='fa fa-play' aria-hidden='true'></i></button>The van der Waals surface: it corresponds to the molecular envelope containing atomic spheres of van der Waals radii.
 
 
 === "Concept"
@@ -688,7 +688,7 @@ The van der Waals surface: it corresponds to the molecular envelope containing a
 
 #### Solvent
 
-The solvent accessible surface: it corresponds to the molecular envelope of the surface of each atom which is accessible to the center of a probe sphere of a given radius, generally 1.4 &#8491; (sphere including a water molecule).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/solvent-5a669327'><i class='fa fa-play' aria-hidden='true'></i></button>The solvent accessible surface: it corresponds to the molecular envelope of the surface of each atom which is accessible to the center of a probe sphere of a given radius, generally 1.4 &#8491; (sphere including a water molecule).
 
 
 === "Concept"
@@ -699,7 +699,7 @@ The solvent accessible surface: it corresponds to the molecular envelope of the 
 
 #### Connolly
 
-The Connolly surface is somewhat similar to the van der Waals, however it is mathematically defined in order to make it smoother. The Connolly surface is defined as the contact surface and the inward facing part of a probe sphere when it is simultaneously in contact with more than one atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/connolly-363949cd'><i class='fa fa-play' aria-hidden='true'></i></button>The Connolly surface is somewhat similar to the van der Waals, however it is mathematically defined in order to make it smoother. The Connolly surface is defined as the contact surface and the inward facing part of a probe sphere when it is simultaneously in contact with more than one atom.
 
 
 === "Concept"
@@ -732,7 +732,7 @@ The Connolly surface is somewhat similar to the van der Waals, however it is mat
     
 ### Surface Types
 
-The most popular ways to render molecular surfaces are the following:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/surface-types-f3ff85a3'><i class='fa fa-play' aria-hidden='true'></i></button>The most popular ways to render molecular surfaces are the following:
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/d1_5_3.png){: loading=lazy }
@@ -760,7 +760,7 @@ The most popular ways to render molecular surfaces are the following:
     
 #### Normal
 
-The soft surface is displayed here and represents the envelope of the molecules concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/normal-0a7a4cc9'><i class='fa fa-play' aria-hidden='true'></i></button>The soft surface is displayed here and represents the envelope of the molecules concerned.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -768,14 +768,14 @@ The soft surface is displayed here and represents the envelope of the molecules 
 
 #### Transparent
 
-This is the same previous surface but with full transparency, which is essential for analyzing the detailed structural elements.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/transparent-0ba6a968'><i class='fa fa-play' aria-hidden='true'></i></button>This is the same previous surface but with full transparency, which is essential for analyzing the detailed structural elements.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_5_3_2.png){: loading=lazy }
 
 #### Dots
 
-The surface is displayed as a set of dots regularly distributed on the surface. This kind of display is very convenient. It doesn't interfere with the displayed atoms and bonds of the chemical system and allows one to clearly see all the details of the molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/dots-cbee0db8'><i class='fa fa-play' aria-hidden='true'></i></button>The surface is displayed as a set of dots regularly distributed on the surface. This kind of display is very convenient. It doesn't interfere with the displayed atoms and bonds of the chemical system and allows one to clearly see all the details of the molecules.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -783,7 +783,7 @@ The surface is displayed as a set of dots regularly distributed on the surface. 
 
 ### Visualization of Properties on Molecular Surfaces
 
-Molecules are not inert entities. They have subtle physico-chemical properties (atomic charges, electrostatic potentials, hydrophobicity, polarizability) that strongly influence the way in which molecules interact with one another. The display of molecular surfaces that incorporates the added dimension of molecular properties will allow one to understand and predict how molecules interact with one another and dock with one another as well. It also aids in designing new molecules that will optimally bind to a target receptor. The corresponding surfaces can be displayed using color codes and contour lines.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-properties-on-molecular-surfaces-5602da23'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules are not inert entities. They have subtle physico-chemical properties (atomic charges, electrostatic potentials, hydrophobicity, polarizability) that strongly influence the way in which molecules interact with one another. The display of molecular surfaces that incorporates the added dimension of molecular properties will allow one to understand and predict how molecules interact with one another and dock with one another as well. It also aids in designing new molecules that will optimally bind to a target receptor. The corresponding surfaces can be displayed using color codes and contour lines.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -832,14 +832,14 @@ Molecules are not inert entities. They have subtle physico-chemical properties (
     
 #### Color Coded
 
-In color-coding procedures, each point of the molecular surface is color coded by the value of a given property. The following view displays the distribution of the electrostatic potential on the molecular surface.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/color-coded-784aafd9'><i class='fa fa-play' aria-hidden='true'></i></button>In color-coding procedures, each point of the molecular surface is color coded by the value of a given property. The following view displays the distribution of the electrostatic potential on the molecular surface.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_5_4_2.png){: loading=lazy }
 
 #### Visualization of Properties on Molecular Surfaces
 
-Contour lines are usually drawn in a plane like in geography. In the case of molecules, the contour lines are drawn on the 3D envelope of the molecule. The line connects points with the same value of the property (e.g. electrostatic potential) and a number is associated to the curve indicating the actual value of this property (e.g. energy). Contours with positive values are drawn in red while contours with negative values are drawn in blue.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-properties-on-molecular-surfaces-c882fdd7'><i class='fa fa-play' aria-hidden='true'></i></button>Contour lines are usually drawn in a plane like in geography. In the case of molecules, the contour lines are drawn on the 3D envelope of the molecule. The line connects points with the same value of the property (e.g. electrostatic potential) and a number is associated to the curve indicating the actual value of this property (e.g. energy). Contours with positive values are drawn in red while contours with negative values are drawn in blue.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/5_4_3_1.png){: loading=lazy }
@@ -858,7 +858,7 @@ Contour lines are usually drawn in a plane like in geography. In the case of mol
     
 ### The Visualization of Volumes
 
-The volume occupied by a molecule is an important molecular determinant: it can be visualized, manipulated and also calculated.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-volumes-1fc850bd'><i class='fa fa-play' aria-hidden='true'></i></button>The volume occupied by a molecule is an important molecular determinant: it can be visualized, manipulated and also calculated.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/5_5_0_1.png){: loading=lazy }
@@ -872,7 +872,7 @@ The volume occupied by a molecule is an important molecular determinant: it can 
     
 ### Mathematical Boolean Operations with Volumes
 
-Mathematical operations (e.g. logical Boolean treatments such as AND, NOT, OR) are useful. These kind of operations are essential for some drug design techniques, such as the Active Analog Approach. Operations such as addition or subtraction of volumes are also useful in measuring for example the quality of a superimposition or the amount of space that is occupied by a ligand in a receptor site. The following example displays the volume common to two molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/mathematical-boolean-operations-volumes-f4fbd7aa'><i class='fa fa-play' aria-hidden='true'></i></button>Mathematical operations (e.g. logical Boolean treatments such as AND, NOT, OR) are useful. These kind of operations are essential for some drug design techniques, such as the Active Analog Approach. Operations such as addition or subtraction of volumes are also useful in measuring for example the quality of a superimposition or the amount of space that is occupied by a ligand in a receptor site. The following example displays the volume common to two molecules.
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -897,14 +897,14 @@ Mathematical operations (e.g. logical Boolean treatments such as AND, NOT, OR) a
 
 ### Visualization of Hydrogen Bonds
 
-Molecules have rotatable bonds defining many conformations. Dials, joysticks and the mouse allow one to interactively rotate bonds with a single hand in order to maximize inter and intra molecular hydrogen bond interactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-hydrogen-bonds-10cbaaba'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules have rotatable bonds defining many conformations. Dials, joysticks and the mouse allow one to interactively rotate bonds with a single hand in order to maximize inter and intra molecular hydrogen bond interactions.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/internet_v1_d1_6_1.gif){: loading=lazy }
 
 ### Visualization of Molecular Bumps
 
-Unfavorable steric interactions (bumps) occurring between two molecules or between different structural entities of the same molecule can be displayed with molecular graphics in a simple way.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-molecular-bumps-73be1832'><i class='fa fa-play' aria-hidden='true'></i></button>Unfavorable steric interactions (bumps) occurring between two molecules or between different structural entities of the same molecule can be displayed with molecular graphics in a simple way.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -912,7 +912,7 @@ Unfavorable steric interactions (bumps) occurring between two molecules or betwe
 
 ### Surface Representations for Bump Analyses
 
-Surface representations are very useful for identifying bumps in the modeling of a ligand interacting with its target protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/surface-representations-for-bump-analyses-575939bd'><i class='fa fa-play' aria-hidden='true'></i></button>Surface representations are very useful for identifying bumps in the modeling of a ligand interacting with its target protein.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -920,7 +920,7 @@ Surface representations are very useful for identifying bumps in the modeling of
 
 ### Complementary Surface Properties
 
-It is possible to visualize the complementary features of a given property (e.g. lipophilicity, electrostatic potential etc.) of a ligand when it binds to its receptor. This can be done by displaying the property concerned onto the surface of the molecule when it is outside and inside the active site of the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/complementary-surface-properties-6f24bdf8'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to visualize the complementary features of a given property (e.g. lipophilicity, electrostatic potential etc.) of a ligand when it binds to its receptor. This can be done by displaying the property concerned onto the surface of the molecule when it is outside and inside the active site of the receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -936,7 +936,7 @@ It is possible to visualize the complementary features of a given property (e.g.
     
 #### Electrostatic Potentials
 
-Electrostatic potentials: a surface can be color-coded by electrostatic potentials and for example displayed in two colors (red &#38; blue) when the surface is either positive or negative. A good affinity between the ligand and the receptor occurs when positive regions (red) interact with negative ones (blue).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/electrostatic-potentials-49ae6c7f'><i class='fa fa-play' aria-hidden='true'></i></button>Electrostatic potentials: a surface can be color-coded by electrostatic potentials and for example displayed in two colors (red &#38; blue) when the surface is either positive or negative. A good affinity between the ligand and the receptor occurs when positive regions (red) interact with negative ones (blue).
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -946,28 +946,28 @@ Electrostatic potentials: a surface can be color-coded by electrostatic potentia
 
 #### Lipophilicity Potentials
 
-Lipophilicity potentials: favorable complementary features of lipophilicity potentials are achieved in interactions of the same type, namely hydrophobic-hydrophobic and lipophilic-lipophilic interactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/lipophilicity-potentials-ce9f4aed'><i class='fa fa-play' aria-hidden='true'></i></button>Lipophilicity potentials: favorable complementary features of lipophilicity potentials are achieved in interactions of the same type, namely hydrophobic-hydrophobic and lipophilic-lipophilic interactions.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/6_4_3_1.png){: loading=lazy }
 
 ### Visualization of Intramolecular Interaction
 
-Current workstations with their fast processors can do "bump-checking" (checking for steric contacts closer than van der Waals) to visualize hydrophobic interactions and hydrogen bonds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-intramolecular-interaction-e4393d6c'><i class='fa fa-play' aria-hidden='true'></i></button>Current workstations with their fast processors can do "bump-checking" (checking for steric contacts closer than van der Waals) to visualize hydrophobic interactions and hydrogen bonds.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/snap_v1_d1_6_5.png){: loading=lazy }
 
 ### Schematic Complex Interaction
 
-Schematic illustrations are useful in representing the interactions observed (or calculated) in a molecular complex. The following view represents a drawing generated automatically by the graphical program Ligplot and shows the detailed interactions of a small molecule and a protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/schematic-complex-interaction-080f154c'><i class='fa fa-play' aria-hidden='true'></i></button>Schematic illustrations are useful in representing the interactions observed (or calculated) in a molecular complex. The following view represents a drawing generated automatically by the graphical program Ligplot and shows the detailed interactions of a small molecule and a protein.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/6_6_0_1.png){: loading=lazy }
 
 ### Visualization of a Complex Cavity
 
-The following two views show the volume occupied by a ligand when it interacts with its target macromolecule. The view below focuses on the situation around the ligand (purple is volume of ligand and green is volume of target cavity).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/visualization-complex-cavity-ba413fea'><i class='fa fa-play' aria-hidden='true'></i></button>The following two views show the volume occupied by a ligand when it interacts with its target macromolecule. The view below focuses on the situation around the ligand (purple is volume of ligand and green is volume of target cavity).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -976,16 +976,17 @@ The following two views show the volume occupied by a ligand when it interacts w
 
 ### Overview of the Entire Complex
 
-While this view provides an overview of what the entire complex looks like.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/overview-entire-complex-757ed21e'><i class='fa fa-play' aria-hidden='true'></i></button>While this view provides an overview of what the entire complex looks like.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/6_7_2_1.png){: loading=lazy }
 
 ### Results of Quantum Mechanical Calculations
 
-Quantum mechanical calculations provide a way to measure many properties of the molecule including electronic densities, localized orbitals, molecular orbitals (in particular the LUMO and HOMO orbitals). They provide detailed insight into the electronic nature of the molecular structures. Instead of treating them numerically, it is recommended to use computer graphics to visualize this information and take advantage of the graphical capabilities to facilitate their analysis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-graphics/results-quantum-mechanical-calculations-1e95bbee'><i class='fa fa-play' aria-hidden='true'></i></button>Quantum mechanical calculations provide a way to measure many properties of the molecule including electronic densities, localized orbitals, molecular orbitals (in particular the LUMO and HOMO orbitals). They provide detailed insight into the electronic nature of the molecular structures. Instead of treating them numerically, it is recommended to use computer graphics to visualize this information and take advantage of the graphical capabilities to facilitate their analysis.
 
 
 ![](https://media.drugdesign.org/course/molecular-graphics/6_8_0_1.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

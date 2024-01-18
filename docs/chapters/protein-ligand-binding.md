@@ -15,7 +15,7 @@
 
 ### Receptor-Based Drug Design
 
-The aim of receptor structure-based drug design is to create new molecules with high affinity and with macromolecular receptors whose 3D structure is known. The molecules are conceived based on their 3D complementary features with the macromolecular target. In addition, one can exploit the molecular interactions to strengthen the binding of the current prototype (inhibitor, agonist or antagonist) into the active site of the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/receptor-based-drug-design-7f5665cd'><i class='fa fa-play' aria-hidden='true'></i></button>The aim of receptor structure-based drug design is to create new molecules with high affinity and with macromolecular receptors whose 3D structure is known. The molecules are conceived based on their 3D complementary features with the macromolecular target. In addition, one can exploit the molecular interactions to strengthen the binding of the current prototype (inhibitor, agonist or antagonist) into the active site of the receptor.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -27,14 +27,14 @@ The aim of receptor structure-based drug design is to create new molecules with 
 
 ### Macromolecular Targets
 
-Macromolecular targets are selected on the basis of their role in the biological system involved for the designated disease. Specific biological pathways can either be blocked or magnified to facilitate the desired therapeutic action. The most common targets of drugs are proteins.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/macromolecular-targets-9258f292'><i class='fa fa-play' aria-hidden='true'></i></button>Macromolecular targets are selected on the basis of their role in the biological system involved for the designated disease. Specific biological pathways can either be blocked or magnified to facilitate the desired therapeutic action. The most common targets of drugs are proteins.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/1_2_1_1.png){: loading=lazy }
 
 ### Mechanism of Action of Drugs
 
-Drugs act as inhibitors of enzymatic proteins by inhibiting the generation or degradation of molecular components of the cell (e.g. inhibition of enzymes which are essential for bacterial survival by antibiotics). They can act either as receptor agonists by mimicking the effect of an endogenous chemical signal (e.g. nicotine agonists in the treatment of Parkinson disease) or as antagonists, which blocks the signal (e.g. Substance P antagonists for the release of pain).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/mechanism-action-drugs-0d607d94'><i class='fa fa-play' aria-hidden='true'></i></button>Drugs act as inhibitors of enzymatic proteins by inhibiting the generation or degradation of molecular components of the cell (e.g. inhibition of enzymes which are essential for bacterial survival by antibiotics). They can act either as receptor agonists by mimicking the effect of an endogenous chemical signal (e.g. nicotine agonists in the treatment of Parkinson disease) or as antagonists, which blocks the signal (e.g. Substance P antagonists for the release of pain).
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -47,14 +47,14 @@ Drugs act as inhibitors of enzymatic proteins by inhibiting the generation or de
 ![](https://media.drugdesign.org/course/protein-ligand-binding/1_2_2_1.png){: loading=lazy }
 ### Drug Targets
 
-Drugs act on antibodies, structural proteins and ion channels (e.g. local anesthetics). Nucleic acids are also frequently used as targets. The interaction can be either direct (e.g. intercalation agents in the treatment of cancer) or indirect through proteins which regulate the replication and expression of genes. Lipids and saccharides also act as drug targets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/drug-targets-514c62a6'><i class='fa fa-play' aria-hidden='true'></i></button>Drugs act on antibodies, structural proteins and ion channels (e.g. local anesthetics). Nucleic acids are also frequently used as targets. The interaction can be either direct (e.g. intercalation agents in the treatment of cancer) or indirect through proteins which regulate the replication and expression of genes. Lipids and saccharides also act as drug targets.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/1_2_3_1.png){: loading=lazy }
 ### Contribution of Recombinant Technologies 
 
-The ability to reproduce significant recombinant proteins has had a great impact on the screening process and has facilitated the structure determination of many of these biologically relevant targets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/contribution-recombinant-technologies-39e87a4c'><i class='fa fa-play' aria-hidden='true'></i></button>The ability to reproduce significant recombinant proteins has had a great impact on the screening process and has facilitated the structure determination of many of these biologically relevant targets.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -62,7 +62,7 @@ The ability to reproduce significant recombinant proteins has had a great impact
 
 ### Operational Strategy: Docking
 
-Docking is an energy-based operation for exploring the binding modes of two interacting molecules. A docking procedure is used as a guide to identify the preferred orientation of a ligand interacting with a macromolecule. The ligand can accommodate small conformational changes to avoid steric repulsions and produce favorable interactions with the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/operational-strategy-docking-e3a18307'><i class='fa fa-play' aria-hidden='true'></i></button>Docking is an energy-based operation for exploring the binding modes of two interacting molecules. A docking procedure is used as a guide to identify the preferred orientation of a ligand interacting with a macromolecule. The ligand can accommodate small conformational changes to avoid steric repulsions and produce favorable interactions with the receptor.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[binding modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -74,7 +74,7 @@ Docking is an energy-based operation for exploring the binding modes of two inte
 
 ### The Analytical Process
 
-Receptor-based drug design proceeds in three steps: gathering all relevant data (data collection), in-depth analyses of the information (analysis) and the design of new molecules as a result of the analysis (design).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/analytical-process-b58fb09c'><i class='fa fa-play' aria-hidden='true'></i></button>Receptor-based drug design proceeds in three steps: gathering all relevant data (data collection), in-depth analyses of the information (analysis) and the design of new molecules as a result of the analysis (design).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -89,7 +89,7 @@ Receptor-based drug design proceeds in three steps: gathering all relevant data 
 
 ### Data Collection: X-Ray Crystallography
 
-The most current method to determine the 3D structure of macromolecules is by using X-ray crystallography. This technique requires the isolation, purification and crystallization of the protein, which is not always feasible. The results are usually deposited in the Brookhaven Protein Databank, which has more than 20 thousands structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/data-collection-x-ray-crystallography-9a897078'><i class='fa fa-play' aria-hidden='true'></i></button>The most current method to determine the 3D structure of macromolecules is by using X-ray crystallography. This technique requires the isolation, purification and crystallization of the protein, which is not always feasible. The results are usually deposited in the Brookhaven Protein Databank, which has more than 20 thousands structures.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/2_2_1_1.png){: loading=lazy }
@@ -231,7 +231,7 @@ The most current method to determine the 3D structure of macromolecules is by us
 ### Data Collection: NMR Spectroscopy
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 
-NMR techniques and electron diffraction have recently been used but are limited to small proteins (up to 100-120 amino acids).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/data-collection-nmr-spectroscopy-70558512'><i class='fa fa-play' aria-hidden='true'></i></button>NMR techniques and electron diffraction have recently been used but are limited to small proteins (up to 100-120 amino acids).
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -240,7 +240,7 @@ NMR techniques and electron diffraction have recently been used but are limited 
 
 ### Data Collection: Homology Models
 
-In the absence of a detailed 3D experimental structure, models of the macromolecular target may be used as surrogates. For example, if the primary sequence of a certain protein is known and it shares a certain degree of sequence homology with one or more proteins for which detailed structural information is available, it is possible to construct a model of the target protein using homology.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/data-collection-homology-models-c0e18e3c'><i class='fa fa-play' aria-hidden='true'></i></button>In the absence of a detailed 3D experimental structure, models of the macromolecular target may be used as surrogates. For example, if the primary sequence of a certain protein is known and it shares a certain degree of sequence homology with one or more proteins for which detailed structural information is available, it is possible to construct a model of the target protein using homology.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -248,7 +248,7 @@ In the absence of a detailed 3D experimental structure, models of the macromolec
 ![](https://media.drugdesign.org/course/protein-ligand-binding/2_2_3_1.png){: loading=lazy }
 ### Analysis
 
-Now that the raw data has been collected, one must generate additional data that can be deduced from the already existing information. This allows for the proper development of in-depth analyses that will generate new knowledge or hypotheses and the establishment of a rational link between the different components of the information. The aim of the analysis is to create a framework that integrates the knowledge that can be deduced from the structural elements that are essential for the biological activities and the stereo-chemical features of the receptor site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/analysis-2c6708f7'><i class='fa fa-play' aria-hidden='true'></i></button>Now that the raw data has been collected, one must generate additional data that can be deduced from the already existing information. This allows for the proper development of in-depth analyses that will generate new knowledge or hypotheses and the establishment of a rational link between the different components of the information. The aim of the analysis is to create a framework that integrates the knowledge that can be deduced from the structural elements that are essential for the biological activities and the stereo-chemical features of the receptor site.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -290,7 +290,7 @@ Now that the raw data has been collected, one must generate additional data that
     
 ### Design Phase
 
-The design process can be initiated when sufficient rationales are established for the creation of molecules conforming to the desired requirements. It aims at the creation of a new molecular entity with optimal binding to the receptor site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/design-phase-66a8bc38'><i class='fa fa-play' aria-hidden='true'></i></button>The design process can be initiated when sufficient rationales are established for the creation of molecules conforming to the desired requirements. It aims at the creation of a new molecular entity with optimal binding to the receptor site.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/2_4_0_1.png){: loading=lazy }
@@ -319,7 +319,7 @@ The design process can be initiated when sufficient rationales are established f
 ### Analysis of the Morphology of the Active Site
 *[holo]: 3D structure of a macromolecule with a bound ligand
 
-The shape and features of the active site are carefully analyzed. Its morphology is thoroughly inspected and broken into components such as pockets and clefts. The analysis of the morphology of an active site is greatly facilitated when a complex between interacting molecules is available.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/analysis-morphology-active-site-1f55398b'><i class='fa fa-play' aria-hidden='true'></i></button>The shape and features of the active site are carefully analyzed. Its morphology is thoroughly inspected and broken into components such as pockets and clefts. The analysis of the morphology of an active site is greatly facilitated when a complex between interacting molecules is available.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[holo]: 3D structure of a macromolecule with a bound ligand
 
@@ -329,7 +329,7 @@ The shape and features of the active site are carefully analyzed. Its morphology
 ### Morphology of the Active Site of a Protein Kinase
 *[holo]: 3D structure of a macromolecule with a bound ligand
 
-For example the catalytic site of the protein kinases can be well documented based on the binding of ATP, the common cofactor of all these enzymes. One could distinguish the adenine anchorage, the sugar and the phosphate pockets, as well as region I and II whose nature depends on the kinase considered. In the example shown here they both correspond to hydrophobic pockets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/morphology-active-site-protein-kinase-efe7283c'><i class='fa fa-play' aria-hidden='true'></i></button>For example the catalytic site of the protein kinases can be well documented based on the binding of ATP, the common cofactor of all these enzymes. One could distinguish the adenine anchorage, the sugar and the phosphate pockets, as well as region I and II whose nature depends on the kinase considered. In the example shown here they both correspond to hydrophobic pockets.
 
 
 === "2D"
@@ -341,7 +341,7 @@ For example the catalytic site of the protein kinases can be well documented bas
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[Ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-For data consisting of a complex of the macromolecule with a ligand, the detailed interactions of the ligand are analyzed for good fits, conformational changes, and potential bump areas.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/complexes-ligands-138e632f'><i class='fa fa-play' aria-hidden='true'></i></button>For data consisting of a complex of the macromolecule with a ligand, the detailed interactions of the ligand are analyzed for good fits, conformational changes, and potential bump areas.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -349,7 +349,7 @@ For data consisting of a complex of the macromolecule with a ligand, the detaile
 
 ### Forces That Contribute to the Binding
 
-Molecular interactions are controlled by different driving forces. The principal forces involved upon the binding of a ligand to a biological system are hydrophobic interactions, hydrogen bonding and electrostatic forces. It has been proposed that the hydrophobic component (which is non-directional) contributes primarily to affinity whereas hydrogen bonding and electrostatic interactions, because of their highly directional nature, contribute principally to specificity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/forces-that-contribute-to-binding-8389b883'><i class='fa fa-play' aria-hidden='true'></i></button>Molecular interactions are controlled by different driving forces. The principal forces involved upon the binding of a ligand to a biological system are hydrophobic interactions, hydrogen bonding and electrostatic forces. It has been proposed that the hydrophobic component (which is non-directional) contributes primarily to affinity whereas hydrogen bonding and electrostatic interactions, because of their highly directional nature, contribute principally to specificity.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -359,13 +359,13 @@ Molecular interactions are controlled by different driving forces. The principal
 
 ### The Molecular Recognition Process
 
-The main forces involved in molecular recognition are the following: electrostatic, hydrogen bonding and hydrophobic.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/molecular-recognition-process-71d79e25'><i class='fa fa-play' aria-hidden='true'></i></button>The main forces involved in molecular recognition are the following: electrostatic, hydrogen bonding and hydrophobic.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/menu1.png){: loading=lazy }
 #### Electrostatic
 
-At long-distances, the electrostatic forces are dominant and control the preliminary approach of the ligand molecule to the active site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/electrostatic-a8b1244a'><i class='fa fa-play' aria-hidden='true'></i></button>At long-distances, the electrostatic forces are dominant and control the preliminary approach of the ligand molecule to the active site.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -374,7 +374,7 @@ At long-distances, the electrostatic forces are dominant and control the prelimi
 
 #### Hydrogen Bonding
 
-At medium-range distances, in addition to the electrostatic forces, hydrogen bonds begin to be formed. They start to establish anchorage points for positioning the ligand more precisely.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/hydrogen-bonding-b2adfb52'><i class='fa fa-play' aria-hidden='true'></i></button>At medium-range distances, in addition to the electrostatic forces, hydrogen bonds begin to be formed. They start to establish anchorage points for positioning the ligand more precisely.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -383,7 +383,7 @@ At medium-range distances, in addition to the electrostatic forces, hydrogen bon
 
 #### Hydrophobic
 
-At shorter distances, and this is the last step of the process, hydrophobic forces become the dominant driving force.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/hydrophobic-44079406'><i class='fa fa-play' aria-hidden='true'></i></button>At shorter distances, and this is the last step of the process, hydrophobic forces become the dominant driving force.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -391,7 +391,7 @@ At shorter distances, and this is the last step of the process, hydrophobic forc
 
 ### Hydrophobic Interactions
 
-In aqueous media hydrophobic groups tend to cluster in order to reduce non-polar surface areas exposed to water. The following table gives a list of the 9 hydrophobic residues out of the 20 naturally occurring amino acid residues present in protein structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/hydrophobic-interactions-3fe271d2'><i class='fa fa-play' aria-hidden='true'></i></button>In aqueous media hydrophobic groups tend to cluster in order to reduce non-polar surface areas exposed to water. The following table gives a list of the 9 hydrophobic residues out of the 20 naturally occurring amino acid residues present in protein structures.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/3_5_0_1.png){: loading=lazy }
@@ -429,7 +429,7 @@ In aqueous media hydrophobic groups tend to cluster in order to reduce non-polar
     
 ### Consider Hydrophobic Interactions
 
-The driving force of hydrophobic interactions between a ligand and a receptor is to reduce the exposure of hydrophobic moieties of the ligand to water. In addition, there is a favorable interaction between lipophilic groups in contact (mainly dispersion interactions). High occupancy of hydrophobic pockets of the receptor by a ligand leads to favorable van der Waals attractions, which results in increasing the binding affinity. Therefore, the more empty space in the binding site, the weaker the affinity of the ligand. Note that, although the hydrophobic interactions are weak, there are a lot of them, so the effect can be substantial.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/consider-hydrophobic-interactions-dac02b78'><i class='fa fa-play' aria-hidden='true'></i></button>The driving force of hydrophobic interactions between a ligand and a receptor is to reduce the exposure of hydrophobic moieties of the ligand to water. In addition, there is a favorable interaction between lipophilic groups in contact (mainly dispersion interactions). High occupancy of hydrophobic pockets of the receptor by a ligand leads to favorable van der Waals attractions, which results in increasing the binding affinity. Therefore, the more empty space in the binding site, the weaker the affinity of the ligand. Note that, although the hydrophobic interactions are weak, there are a lot of them, so the effect can be substantial.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -472,7 +472,7 @@ The driving force of hydrophobic interactions between a ligand and a receptor is
     
 ### Elementary Hydrophobic Interactions
 
-Examples of hydrophobic interactions found in X-ray complexes between various amino acids and ligands are presented here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/elementary-hydrophobic-interactions-0ae1f868'><i class='fa fa-play' aria-hidden='true'></i></button>Examples of hydrophobic interactions found in X-ray complexes between various amino acids and ligands are presented here.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -514,7 +514,7 @@ Examples of hydrophobic interactions found in X-ray complexes between various am
     
 ### Example of Hydrophobic Binding
 
-An example that illustrates the importance of hydrophobic interactions is the design of thyroid hormone analogues. The thyroxine-prealbumin complex was used as a model for the interaction of thyroid hormones with the nuclear thyroid hormone receptor. It was observed that thyroxine fills effectively only five of the six existing pockets of prealbumin. In order to improve the hydrophobic contacts with the sixth pocket, the bromo atom was replaced by a fused phenyl ring (the naphthyl derivative). As expected this substitution led to an increase in binding affinity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/example-hydrophobic-binding-f898d14b'><i class='fa fa-play' aria-hidden='true'></i></button>An example that illustrates the importance of hydrophobic interactions is the design of thyroid hormone analogues. The thyroxine-prealbumin complex was used as a model for the interaction of thyroid hormones with the nuclear thyroid hormone receptor. It was observed that thyroxine fills effectively only five of the six existing pockets of prealbumin. In order to improve the hydrophobic contacts with the sixth pocket, the bromo atom was replaced by a fused phenyl ring (the naphthyl derivative). As expected this substitution led to an increase in binding affinity.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
@@ -530,7 +530,7 @@ An example that illustrates the importance of hydrophobic interactions is the de
     
 ### Strengthening Hydrophobic Interactions
 
-It can be clearly seen that the naphthyl derivative fills the hydrophobic pocket better than the thyroxine-analog.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/strengthening-hydrophobic-interactions-681575d5'><i class='fa fa-play' aria-hidden='true'></i></button>It can be clearly seen that the naphthyl derivative fills the hydrophobic pocket better than the thyroxine-analog.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -539,7 +539,7 @@ It can be clearly seen that the naphthyl derivative fills the hydrophobic pocket
 
 ### Hydrogen Bond Features
 
-Hydrogen bonds are directional and contribute to the positioning of a molecular fragment in a precise orientation in the active site of a protein. Multiple hydrogen bonds can "zip" the ligand into place.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/hydrogen-bond-features-a1b0d1b6'><i class='fa fa-play' aria-hidden='true'></i></button>Hydrogen bonds are directional and contribute to the positioning of a molecular fragment in a precise orientation in the active site of a protein. Multiple hydrogen bonds can "zip" the ligand into place.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -589,7 +589,7 @@ Hydrogen bonds are directional and contribute to the positioning of a molecular 
     
 ### Proteins Capabilities in Hydrogen Bonding
 
-A protein has many hydrogen bond donor and acceptor groups. In addition to the backbone peptidic moiety that can form hydrogen bonds with the C=O or the N-H, hydrogen bonds can be formed with the side chains of the residues.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/proteins-capabilities-hydrogen-bonding-fd691f6b'><i class='fa fa-play' aria-hidden='true'></i></button>A protein has many hydrogen bond donor and acceptor groups. In addition to the backbone peptidic moiety that can form hydrogen bonds with the C=O or the N-H, hydrogen bonds can be formed with the side chains of the residues.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -638,7 +638,7 @@ A protein has many hydrogen bond donor and acceptor groups. In addition to the b
     
 ### Consider Hydrogen Bond Formations
 
-Hydrogen bonds formed between ligand and receptor are at the expense of bonds broken between ligand and solvent and between receptor and solvent. As a result of the release of water molecules, the breaking of their hydrogen bonds and the formation of new hydrogen bonds with the ligand occurred.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/consider-hydrogen-bond-formations-c00a937d'><i class='fa fa-play' aria-hidden='true'></i></button>Hydrogen bonds formed between ligand and receptor are at the expense of bonds broken between ligand and solvent and between receptor and solvent. As a result of the release of water molecules, the breaking of their hydrogen bonds and the formation of new hydrogen bonds with the ligand occurred.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -689,7 +689,7 @@ Hydrogen bonds formed between ligand and receptor are at the expense of bonds br
     
 ### Elementary Hydrogen Bond Interactions
 
-Examples of hydrogen bond interactions found in X-ray complexes between various amino acids and ligands are presented here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/elementary-hydrogen-bond-interactions-e6c09954'><i class='fa fa-play' aria-hidden='true'></i></button>Examples of hydrogen bond interactions found in X-ray complexes between various amino acids and ligands are presented here.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -741,7 +741,7 @@ Examples of hydrogen bond interactions found in X-ray complexes between various 
     
 ### Example of the Hydrogen Bond Binding
 
-The binding of guanine analogs to the active site of purine nucleoside phosphorylase is an excellent example of the importance of the formation of hydrogen bonds. In this case the formation of one additional hydrogen bond increased the biological activity 100 times.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/example-hydrogen-bond-binding-f773405b'><i class='fa fa-play' aria-hidden='true'></i></button>The binding of guanine analogs to the active site of purine nucleoside phosphorylase is an excellent example of the importance of the formation of hydrogen bonds. In this case the formation of one additional hydrogen bond increased the biological activity 100 times.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -754,7 +754,7 @@ The binding of guanine analogs to the active site of purine nucleoside phosphory
 
 ### Electrostatic Interactions
 
-Electrostatic interactions occur between polar or charged groups. The following residues contribute to the formation of electrostatic (coulombic or salt-bridge) interactions in proteins. Salt bridges are most stabilizing when they are somewhat shielded from solvent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/electrostatic-interactions-13ea5c1e'><i class='fa fa-play' aria-hidden='true'></i></button>Electrostatic interactions occur between polar or charged groups. The following residues contribute to the formation of electrostatic (coulombic or salt-bridge) interactions in proteins. Salt bridges are most stabilizing when they are somewhat shielded from solvent.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -778,7 +778,7 @@ Electrostatic interactions occur between polar or charged groups. The following 
     
 ### Elementary Electrostatic Interactions
 
-Examples of electrostatic interactions found in X-ray complexes between various amino acids and ligands are presented here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/elementary-electrostatic-interactions-f995d440'><i class='fa fa-play' aria-hidden='true'></i></button>Examples of electrostatic interactions found in X-ray complexes between various amino acids and ligands are presented here.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -805,7 +805,7 @@ Examples of electrostatic interactions found in X-ray complexes between various 
     
 ### Strength of Electrostatic Interactions
 
-Electrostatic interactions such as salt bridges and charge-assisted hydrogen bonds appear to be significantly stronger than neutral hydrogen bonds (in the range of -12 and -25 kJ/mol). This interaction energy is moderated by protonic solvents.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/strength-electrostatic-interactions-ad7492d1'><i class='fa fa-play' aria-hidden='true'></i></button>Electrostatic interactions such as salt bridges and charge-assisted hydrogen bonds appear to be significantly stronger than neutral hydrogen bonds (in the range of -12 and -25 kJ/mol). This interaction energy is moderated by protonic solvents.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/snap_v1_c5_3_17.png){: loading=lazy }
@@ -829,7 +829,7 @@ Electrostatic interactions such as salt bridges and charge-assisted hydrogen bon
     
 ### Example of Electrostatic Interactions
 
-Replacement of the hydroxyl group by an amino substituent resulted in a 400 times more potent neuraminidase (NA) inhibitor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/example-electrostatic-interactions-11c2270f'><i class='fa fa-play' aria-hidden='true'></i></button>Replacement of the hydroxyl group by an amino substituent resulted in a 400 times more potent neuraminidase (NA) inhibitor.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -843,7 +843,7 @@ Replacement of the hydroxyl group by an amino substituent resulted in a 400 time
     
 ### Increase of Potency by the Formation of a Salt Bridge
 
-The increase of potency is due to the formation of a salt bridge between the amino group and the carboxylate of Glu-119.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/increase-potency-by-formation-salt-bridge-b7d47cff'><i class='fa fa-play' aria-hidden='true'></i></button>The increase of potency is due to the formation of a salt bridge between the amino group and the carboxylate of Glu-119.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -852,7 +852,7 @@ The increase of potency is due to the formation of a salt bridge between the ami
 ### OH Analog Much Less Potent
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-The OH analog is 400 times less potent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/oh-analog-much-less-potent-12201e2d'><i class='fa fa-play' aria-hidden='true'></i></button>The OH analog is 400 times less potent.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -863,7 +863,7 @@ The OH analog is 400 times less potent.
 ### An Example of a Tight Ligand-Receptor Interaction
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Biotin is an enzyme cofactor which functions as a carrier of activated carbon dioxide. One of the tightest binding ligand-receptor pairs known is the complex between biotin and streptavidin (Ki = 0.1 pM). This tight binding is a consequence of high degree of shape and electrostatic complementarity between the ligand and the receptor. In addition, as a result of the binding of the ligand to the receptor, five ordered water molecules from the binding pocket of apo streptavidin are released.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/an-example-tight-ligand-receptor-interaction-75cd6ce4'><i class='fa fa-play' aria-hidden='true'></i></button>Biotin is an enzyme cofactor which functions as a carrier of activated carbon dioxide. One of the tightest binding ligand-receptor pairs known is the complex between biotin and streptavidin (Ki = 0.1 pM). This tight binding is a consequence of high degree of shape and electrostatic complementarity between the ligand and the receptor. In addition, as a result of the binding of the ligand to the receptor, five ordered water molecules from the binding pocket of apo streptavidin are released.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -878,7 +878,7 @@ Biotin is an enzyme cofactor which functions as a carrier of activated carbon di
 
 ### The X-ray Structure of the Biotin/Streptavidin
 
-The crystal structure of the complex Biotin/Streptavidin has been resolved and is visualized here with some details.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/x-ray-structure-biotinstreptavidin-a3337c88'><i class='fa fa-play' aria-hidden='true'></i></button>The crystal structure of the complex Biotin/Streptavidin has been resolved and is visualized here with some details.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -897,7 +897,7 @@ The crystal structure of the complex Biotin/Streptavidin has been resolved and i
 ### The Binding Mode of Biotin with Streptavidin (1/4)
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The stabilization of the complex is a result of the favorable interactions between a ligand and a receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/binding-mode-biotin-streptavidin-14-3709c935'><i class='fa fa-play' aria-hidden='true'></i></button>The stabilization of the complex is a result of the favorable interactions between a ligand and a receptor.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -909,7 +909,7 @@ The stabilization of the complex is a result of the favorable interactions betwe
 
 #### 2
 
-The structure of this complex reveals a very complimentary steric fit between the ligand and the protein. Most of the accessible solvent surface of biotin is buried within streptavidin. The only exposed solvent group of biotin is the carboxylate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/binding-mode-biotin-streptavidin-24-b5ab75b9'><i class='fa fa-play' aria-hidden='true'></i></button>The structure of this complex reveals a very complimentary steric fit between the ligand and the protein. Most of the accessible solvent surface of biotin is buried within streptavidin. The only exposed solvent group of biotin is the carboxylate.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -919,7 +919,7 @@ The structure of this complex reveals a very complimentary steric fit between th
 #### The Binding Mode of Biotin with Streptavidin (3/4)
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-In addition to steric complementarity, there exists a very extended hydrogen bond network:The urea carbonyl makes three hydrogen bonds to the side chains of Tyr43, Ser27 and Asn23 with an approximately tetrahedral geometry.The two urea NH's form hydrogen bonds with Ser45 and Asp128 and the sulfur atom with Thr90.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/binding-mode-biotin-streptavidin-34-474d049b'><i class='fa fa-play' aria-hidden='true'></i></button>In addition to steric complementarity, there exists a very extended hydrogen bond network:The urea carbonyl makes three hydrogen bonds to the side chains of Tyr43, Ser27 and Asn23 with an approximately tetrahedral geometry.The two urea NH's form hydrogen bonds with Ser45 and Asp128 and the sulfur atom with Thr90.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -928,7 +928,7 @@ In addition to steric complementarity, there exists a very extended hydrogen bon
 #### The Binding Mode of Biotin with Streptavidin (4/4)
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The side-chain carboxylate of biotin forms a charge-assisted hydrogen bond with Asn49 and a hydrogen bond with Ser88.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/binding-mode-biotin-streptavidin-44-41cdc8e7'><i class='fa fa-play' aria-hidden='true'></i></button>The side-chain carboxylate of biotin forms a charge-assisted hydrogen bond with Asn49 and a hydrogen bond with Ser88.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
@@ -939,7 +939,7 @@ The side-chain carboxylate of biotin forms a charge-assisted hydrogen bond with 
 
 ### Flexibility of the Receptor
 
-A receptor possesses very flexible structural elements. The following is an example of the HIV-1 protease. X-ray crystallographic studies have shown that the tips of the flaps of this enzyme are capable of undergoing a 7 &#8491; movement between the free and the complex enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/flexibility-receptor-1d822b27'><i class='fa fa-play' aria-hidden='true'></i></button>A receptor possesses very flexible structural elements. The following is an example of the HIV-1 protease. X-ray crystallographic studies have shown that the tips of the flaps of this enzyme are capable of undergoing a 7 &#8491; movement between the free and the complex enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -970,7 +970,7 @@ A receptor possesses very flexible structural elements. The following is an exam
 ### Flexibility of The Ligand
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-The flexibility of a ligand has direct consequences on the binding capabilities of the molecule and on the potency of the biological action. To understand ligand interactions, the bioactive conformation of the ligand and its probability of existence are of central importance. Making a flexible molecule rigid is a common strategy used to discover potent analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/flexibility-ligand-23db088a'><i class='fa fa-play' aria-hidden='true'></i></button>The flexibility of a ligand has direct consequences on the binding capabilities of the molecule and on the potency of the biological action. To understand ligand interactions, the bioactive conformation of the ligand and its probability of existence are of central importance. Making a flexible molecule rigid is a common strategy used to discover potent analogs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -982,7 +982,7 @@ The flexibility of a ligand has direct consequences on the binding capabilities 
 
 ### Entropic Effects
 
-From an entropic viewpoint, many aspects of complex formation are unfavorable as they result in the loss of conformational degrees of freedom for both the protein and the ligand. Therefore, highly favorable enthalpic contacts between the protein and the ligand must compensate for this entropic loss. Moreover, the more rigid the ligand is, the less rotational entropy is lost upon binding, giving higher affinity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/entropic-effects-fdbab805'><i class='fa fa-play' aria-hidden='true'></i></button>From an entropic viewpoint, many aspects of complex formation are unfavorable as they result in the loss of conformational degrees of freedom for both the protein and the ligand. Therefore, highly favorable enthalpic contacts between the protein and the ligand must compensate for this entropic loss. Moreover, the more rigid the ligand is, the less rotational entropy is lost upon binding, giving higher affinity.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1015,7 +1015,7 @@ From an entropic viewpoint, many aspects of complex formation are unfavorable as
 
 ### Solvation and Desolvation
 
-The binding of a ligand to a protein is a complex process in which the interacting entities become partially desolvated. This subtle thermodynamically driven chain of events leads to the formation of favorable interactions between the ligand and the protein. For example upon binding, hydrophobic moieties of the ligand enter into hydrophobic pockets of the receptor to minimize the contact with water.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/solvation-desolvation-eba698c3'><i class='fa fa-play' aria-hidden='true'></i></button>The binding of a ligand to a protein is a complex process in which the interacting entities become partially desolvated. This subtle thermodynamically driven chain of events leads to the formation of favorable interactions between the ligand and the protein. For example upon binding, hydrophobic moieties of the ligand enter into hydrophobic pockets of the receptor to minimize the contact with water.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1025,7 +1025,7 @@ The binding of a ligand to a protein is a complex process in which the interacti
 
 ### The Role of the Solvent
 
-The aqueous solvent plays a crucial role in determining the conformational preferences and interaction forces of ligands and receptors. In particular, the hydrophobic effect (also called hydrophobic collapse) is caused by the unfavorable interaction of non-polar groups with water molecules, they tend to cluster together to exclude water and minimize the area of interaction with water. The interpretation of this phenomenon is that water-water interactions are the most favorable interactions and in effect, the water squeezes out the hydrophobes so it can interact with itself, leaving the hydrophobes to interact with themselves.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/role-solvent-af96152c'><i class='fa fa-play' aria-hidden='true'></i></button>The aqueous solvent plays a crucial role in determining the conformational preferences and interaction forces of ligands and receptors. In particular, the hydrophobic effect (also called hydrophobic collapse) is caused by the unfavorable interaction of non-polar groups with water molecules, they tend to cluster together to exclude water and minimize the area of interaction with water. The interpretation of this phenomenon is that water-water interactions are the most favorable interactions and in effect, the water squeezes out the hydrophobes so it can interact with itself, leaving the hydrophobes to interact with themselves.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1036,7 +1036,7 @@ The aqueous solvent plays a crucial role in determining the conformational prefe
 
 ### Relay with Water Molecules
 
-A ligand can bind directly to a receptor or indirectly through water molecules that are located between the ligand and the protein, establishing a hydrogen-bond network between them. The following example illustrates the case of a ligand where one water molecule contributes to the binding of the ligand.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/relay-water-molecules-c2a6f170'><i class='fa fa-play' aria-hidden='true'></i></button>A ligand can bind directly to a receptor or indirectly through water molecules that are located between the ligand and the protein, establishing a hydrogen-bond network between them. The following example illustrates the case of a ligand where one water molecule contributes to the binding of the ligand.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1045,7 +1045,7 @@ A ligand can bind directly to a receptor or indirectly through water molecules t
 
 ### Relay with Several Water Molecules
 
-In addition to one water molecule connecting the protein and the ligand (on the right side of the adenine nucleus), two other water molecules are also contributing to the binding of this ligand (on the left side of the view).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/relay-several-water-molecules-91d61d12'><i class='fa fa-play' aria-hidden='true'></i></button>In addition to one water molecule connecting the protein and the ligand (on the right side of the adenine nucleus), two other water molecules are also contributing to the binding of this ligand (on the left side of the view).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -1053,7 +1053,7 @@ In addition to one water molecule connecting the protein and the ligand (on the 
 
 ### Relay with Water Molecule Having Four H-Bonds
 
-This other example illustrates the binding of a peptide-based molecule to the HIV-1 protease through a water molecule. The water molecule accepts two hydrogen bonds and donates another two; the four hydrogen bonds are in a tetrahedral geometry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/relay-water-molecule-having-four-h-bonds-ba334dc5'><i class='fa fa-play' aria-hidden='true'></i></button>This other example illustrates the binding of a peptide-based molecule to the HIV-1 protease through a water molecule. The water molecule accepts two hydrogen bonds and donates another two; the four hydrogen bonds are in a tetrahedral geometry.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/snap_v1_c5_6_2_s3.png){: loading=lazy }
@@ -1067,7 +1067,7 @@ This other example illustrates the binding of a peptide-based molecule to the HI
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[Binding Modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-When an X-ray structure of a complex is available for a given ligand, the design is normally conceived with the assumption that the binding mode of the analog will be similar to that of the reference molecule. This has proven to be valid in many cases.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/binding-modes-predicted-by-analogy-189c4f7d'><i class='fa fa-play' aria-hidden='true'></i></button>When an X-ray structure of a complex is available for a given ligand, the design is normally conceived with the assumption that the binding mode of the analog will be similar to that of the reference molecule. This has proven to be valid in many cases.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1087,7 +1087,7 @@ When an X-ray structure of a complex is available for a given ligand, the design
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[Binding Modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-However experimental evidence indicates that this assumption may not be always valid. The following illustrates the case of molecules that were assumed to be of the same structure but experimental studies revealed unexpected binding modes. In many cases, the "unexpected" observation simply comes from insufficient development of the analyses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/inversion-binding-modes-bbac107e'><i class='fa fa-play' aria-hidden='true'></i></button>However experimental evidence indicates that this assumption may not be always valid. The following illustrates the case of molecules that were assumed to be of the same structure but experimental studies revealed unexpected binding modes. In many cases, the "unexpected" observation simply comes from insufficient development of the analyses.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[binding modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -1098,7 +1098,7 @@ However experimental evidence indicates that this assumption may not be always v
 ### Inverted Binding Mode of Olomoucine
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-ATP is the natural ligand of the protein kinases. A number of crystallographic studies of ATP and adenine-like analogs revealed the binding mode of the molecules of this family.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/inverted-binding-mode-olomoucine-fa25603a'><i class='fa fa-play' aria-hidden='true'></i></button>ATP is the natural ligand of the protein kinases. A number of crystallographic studies of ATP and adenine-like analogs revealed the binding mode of the molecules of this family.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1130,7 +1130,7 @@ ATP is the natural ligand of the protein kinases. A number of crystallographic s
     
 #### X-Ray Structure of ATP Bound to a Protein Kinase
 
-The X-ray structure of the complex between ATP and the protein kinase CDK2 has been solved and confirms its now classical binding mode observed in all the kinases analyzed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/x-ray-structure-atp-bound-to-protein-kinase-7ccd1c8f'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structure of the complex between ATP and the protein kinase CDK2 has been solved and confirms its now classical binding mode observed in all the kinases analyzed.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -1140,7 +1140,7 @@ The X-ray structure of the complex between ATP and the protein kinase CDK2 has b
 
 #### Intuitive 2D Alignment for Olomoucine
 
-Olomoucine, a relatively selective inhibitor of the CDK2 kinase has an adenine-based scaffold that is also present in ATP. It was therefore anticipated that Olomoucine would have a comparable binding mode, corresponding to the following alignment.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/intuitive-2d-alignment-for-olomoucine-8d2ac8c4'><i class='fa fa-play' aria-hidden='true'></i></button>Olomoucine, a relatively selective inhibitor of the CDK2 kinase has an adenine-based scaffold that is also present in ATP. It was therefore anticipated that Olomoucine would have a comparable binding mode, corresponding to the following alignment.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
@@ -1149,7 +1149,7 @@ Olomoucine, a relatively selective inhibitor of the CDK2 kinase has an adenine-b
 #### Experimental  Binding Mode of Olomoucine
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The X-ray structure of the complex of Olomoucine with CDK2 reveals an entirely different binding mode and corresponds to an alignment with ATP that was unexpected.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/experimental-binding-mode-olomoucine-eeb0c28b'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structure of the complex of Olomoucine with CDK2 reveals an entirely different binding mode and corresponds to an alignment with ATP that was unexpected.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
 
@@ -1158,7 +1158,7 @@ The X-ray structure of the complex of Olomoucine with CDK2 reveals an entirely d
 #### Origin of the Inverted Binding Mode of Olomoucine
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-Modeling analyses show that for steric reasons the Olomoucine molecule cannot conform to the binding of the authentic ligand ATP. The molecule binds to the catalytic site in a different orientation and another network of hydrogen bonds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/origin-inverted-binding-mode-olomoucine-3afccb03'><i class='fa fa-play' aria-hidden='true'></i></button>Modeling analyses show that for steric reasons the Olomoucine molecule cannot conform to the binding of the authentic ligand ATP. The molecule binds to the catalytic site in a different orientation and another network of hydrogen bonds.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -1167,7 +1167,7 @@ Modeling analyses show that for steric reasons the Olomoucine molecule cannot co
 ### Inverted Binding Mode of Methotrexate
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-Dihydrofolate and methotrexate bind to the catalytic site of dihydrofolate reductase. Both have a rather long side chain (R) that is the same in the two molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/inverted-binding-mode-methotrexate-75c84af5'><i class='fa fa-play' aria-hidden='true'></i></button>Dihydrofolate and methotrexate bind to the catalytic site of dihydrofolate reductase. Both have a rather long side chain (R) that is the same in the two molecules.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/snap_v1_c5_7_4_s1.png){: loading=lazy }
@@ -1219,7 +1219,7 @@ Dihydrofolate and methotrexate bind to the catalytic site of dihydrofolate reduc
     
 #### Intuitive 2D Alignment for Methotrexate
 
-By simple observation of their chemical structures, it seems logical to imagine that the two molecules adopt similar binding modes, with the two structures aligned in the following way.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/intuitive-2d-alignment-for-methotrexate-2005f2f0'><i class='fa fa-play' aria-hidden='true'></i></button>By simple observation of their chemical structures, it seems logical to imagine that the two molecules adopt similar binding modes, with the two structures aligned in the following way.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[binding modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1230,7 +1230,7 @@ By simple observation of their chemical structures, it seems logical to imagine 
 #### Experimental  Binding Mode of Methotrexate 
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-The X-ray structures of the complexes between the dihydrofolate and the methotrexate molecules indicate an entirely different binding mode for the two molecules, each molecule binding to the catalytic site upside down, relative to the other, while the methotrexate was found to be protonated.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/experimental-binding-mode-methotrexate-6fd4e449'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structures of the complexes between the dihydrofolate and the methotrexate molecules indicate an entirely different binding mode for the two molecules, each molecule binding to the catalytic site upside down, relative to the other, while the methotrexate was found to be protonated.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1240,7 +1240,7 @@ The X-ray structures of the complexes between the dihydrofolate and the methotre
 #### Origin of the Inverted Binding Mode of Methotrexate
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-This can be understood by the better match of 3D distribution of the electrostatic properties of the two molecules by inverting one of them.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/origin-inverted-binding-mode-methotrexate-fc4327de'><i class='fa fa-play' aria-hidden='true'></i></button>This can be understood by the better match of 3D distribution of the electrostatic properties of the two molecules by inverting one of them.
 
 
 ![](https://media.drugdesign.org/course/protein-ligand-binding/snap_v1_c5_7_4_s4.png){: loading=lazy }
@@ -1249,7 +1249,7 @@ This can be understood by the better match of 3D distribution of the electrostat
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-When a sufficient number of analogs of a lead molecule are synthesized and tested, analysis of the resulting structure-activity relationships allows one to visualize the probable complementary receptor surface of this series of analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/binding-mode-predicted-from-sar-f214123d'><i class='fa fa-play' aria-hidden='true'></i></button>When a sufficient number of analogs of a lead molecule are synthesized and tested, analysis of the resulting structure-activity relationships allows one to visualize the probable complementary receptor surface of this series of analogs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[structure-activity relationships]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1261,7 +1261,7 @@ When a sufficient number of analogs of a lead molecule are synthesized and teste
 ### Analyzing Ligand-Receptor Binding
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Computer graphics provide a powerful tool for analyzing the fit of a ligand into a complex macromolecular environment. Moreover computerized methods provide quantitative content to the detailed interaction energies involved in the binding of a molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/analyzing-ligand-receptor-binding-302c78d5'><i class='fa fa-play' aria-hidden='true'></i></button>Computer graphics provide a powerful tool for analyzing the fit of a ligand into a complex macromolecular environment. Moreover computerized methods provide quantitative content to the detailed interaction energies involved in the binding of a molecule.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -1270,7 +1270,7 @@ Computer graphics provide a powerful tool for analyzing the fit of a ligand into
 ### Ligand-Binding Predictions
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-The accurate and fast prediction of the binding energy for a protein-ligand complex is very important for the effective design and optimization of lead compounds. However, this is not an easy task. The binding of a ligand to a protein is a complex process.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/ligand-binding-predictions-1d5a0733'><i class='fa fa-play' aria-hidden='true'></i></button>The accurate and fast prediction of the binding energy for a protein-ligand complex is very important for the effective design and optimization of lead compounds. However, this is not an easy task. The binding of a ligand to a protein is a complex process.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -1278,7 +1278,7 @@ The accurate and fast prediction of the binding energy for a protein-ligand comp
 
 ### Visual Analyses
 
-Advanced computer graphics systems including stereo, real time rotations, volume and surface rendering provide in-depth analyses of the 3D stereo-chemical features of the active site of a protein and the favorable or unfavorable interaction of atoms or groups of atoms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/visual-analyses-c8721f5b'><i class='fa fa-play' aria-hidden='true'></i></button>Advanced computer graphics systems including stereo, real time rotations, volume and surface rendering provide in-depth analyses of the 3D stereo-chemical features of the active site of a protein and the favorable or unfavorable interaction of atoms or groups of atoms.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1286,7 +1286,7 @@ Advanced computer graphics systems including stereo, real time rotations, volume
 
 ### Docking Analyses
 
-There are many forces that are involved in the intermolecular association or binding between two molecules. An energy-driven docking procedure that takes into account van der Waals, hydrogen bonding and electrostatic forces allows one to "dock" a ligand to a binding site by optimizing the interaction of the ligand and its receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/docking-analyses-35c54fc7'><i class='fa fa-play' aria-hidden='true'></i></button>There are many forces that are involved in the intermolecular association or binding between two molecules. An energy-driven docking procedure that takes into account van der Waals, hydrogen bonding and electrostatic forces allows one to "dock" a ligand to a binding site by optimizing the interaction of the ligand and its receptor.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1362,7 +1362,7 @@ There are many forces that are involved in the intermolecular association or bin
     
 #### Manual Docking with Computer Graphics
 
-In manual methods ligands are constructed interactively in the active site of a macromolecular target by using computer graphic systems and then the complex is minimized. However, it is not easy to find the global-energy-minimum structure because many alternative conformations need to be explored to identify the preferred binding mode of a given molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/manual-docking-computer-graphics-69ad4764'><i class='fa fa-play' aria-hidden='true'></i></button>In manual methods ligands are constructed interactively in the active site of a macromolecular target by using computer graphic systems and then the complex is minimized. However, it is not easy to find the global-energy-minimum structure because many alternative conformations need to be explored to identify the preferred binding mode of a given molecule.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -1373,7 +1373,7 @@ In manual methods ligands are constructed interactively in the active site of a 
 
 #### Automated Methods for Docking
 
-Automated docking methods allow one to explore a number of possibilities in a systematic way. They allow a much more complete exploration of alternative binding modes as compared to interactive manual docking.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/automated-methods-for-docking-4be917cc'><i class='fa fa-play' aria-hidden='true'></i></button>Automated docking methods allow one to explore a number of possibilities in a systematic way. They allow a much more complete exploration of alternative binding modes as compared to interactive manual docking.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[binding modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
@@ -1382,7 +1382,7 @@ Automated docking methods allow one to explore a number of possibilities in a sy
 
 ### Calculation of Binding Energies
 
-The accurate and fast prediction of the binding constant for a protein-ligand complex is very important for the effective design and optimization of lead compounds. Goodford proposed to evaluate the interaction energy on a grid of test points surrounding the target. This exploration reveals "hot areas" where favorable interactions can take place.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/calculation-binding-energies-4cec0f5b'><i class='fa fa-play' aria-hidden='true'></i></button>The accurate and fast prediction of the binding constant for a protein-ligand complex is very important for the effective design and optimization of lead compounds. Goodford proposed to evaluate the interaction energy on a grid of test points surrounding the target. This exploration reveals "hot areas" where favorable interactions can take place.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -1436,7 +1436,7 @@ The accurate and fast prediction of the binding constant for a protein-ligand co
 ### Free Energy Perturbation Techniques
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Free energy perturbation (FEP) calculation is an approach developed to calculate binding energies. Using a closed thermodynamic cycle (where the free energy between two states is independent of the path considered), molecular dynamics, and the experimental binding free energy of one inhibitor (&Delta;G1), FEP allows one to calculate free energy of new inhibitors (&Delta;G3). The method requires substantial computer time and thus it should not be used on a routine basis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/free-energy-perturbation-techniques-ffc85ebe'><i class='fa fa-play' aria-hidden='true'></i></button>Free energy perturbation (FEP) calculation is an approach developed to calculate binding energies. Using a closed thermodynamic cycle (where the free energy between two states is independent of the path considered), molecular dynamics, and the experimental binding free energy of one inhibitor (&Delta;G1), FEP allows one to calculate free energy of new inhibitors (&Delta;G3). The method requires substantial computer time and thus it should not be used on a routine basis.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1495,7 +1495,7 @@ Free energy perturbation (FEP) calculation is an approach developed to calculate
 ### Energies from Force Field Calculations
 *[Force Field]: A set of mathematical equations and parameters used for assessing the energy of a given chemical system.
 
-The binding constant (K) of a ligand to its receptor is related to the ligand/receptor interaction energy (&Delta;H) via: &Delta;G = &Delta;H - T&Delta;S = -RT lnK. If we assume the entropy change is the same for each molecule then we can write: &Delta;H = - RT lnK where the entalpy change on binding (interaction energy) is proportional to the log of the binding constant. The interaction energy can be calculated by force-field calculation as the sum of van der Waals and electrostatic interactions between the ligand and the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/energies-from-force-field-calculations-7513fac2'><i class='fa fa-play' aria-hidden='true'></i></button>The binding constant (K) of a ligand to its receptor is related to the ligand/receptor interaction energy (&Delta;H) via: &Delta;G = &Delta;H - T&Delta;S = -RT lnK. If we assume the entropy change is the same for each molecule then we can write: &Delta;H = - RT lnK where the entalpy change on binding (interaction energy) is proportional to the log of the binding constant. The interaction energy can be calculated by force-field calculation as the sum of van der Waals and electrostatic interactions between the ligand and the receptor.
 *[force-field]: A set of mathematical equations and parameters used for assessing the energy of a given chemical system.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1511,7 +1511,7 @@ The binding constant (K) of a ligand to its receptor is related to the ligand/re
     
 #### Correlation with Biological Activities
 
-This hypothesis has been shown to work in a handful of systems. In the case of HIV-1 protease inhibitors, we have X-ray data of co-crystallized ligand/receptor complexes of homologous series. A high correlation (r = 0.78) between the calculated interaction energy and biological activity (IC<sub>50</sub>) of a training set of 33 closely related HIV-1 protease inhibitors was observed. It was employed successfully to predict the potency of potential inhibitors such as the indane derivative, which is a precursor of indinavir.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/correlation-biological-activities-bfdaf09f'><i class='fa fa-play' aria-hidden='true'></i></button>This hypothesis has been shown to work in a handful of systems. In the case of HIV-1 protease inhibitors, we have X-ray data of co-crystallized ligand/receptor complexes of homologous series. A high correlation (r = 0.78) between the calculated interaction energy and biological activity (IC<sub>50</sub>) of a training set of 33 closely related HIV-1 protease inhibitors was observed. It was employed successfully to predict the potency of potential inhibitors such as the indane derivative, which is a precursor of indinavir.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1521,7 +1521,7 @@ This hypothesis has been shown to work in a handful of systems. In the case of H
 ![](https://media.drugdesign.org/course/protein-ligand-binding/9_7_2_1.png){: loading=lazy }
 ### Energies from Scoring Functions
 
-Scoring functions are algorithms that assign a numerical score to a given ligand inside a receptor. The score should ideally give a measure of the ligand-protein binding constant. "Complementarity Score" are of moderate accuracy; the following illustrates the results obtained in the prediction of the binding constants of thermolysin inhibitors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/energies-from-scoring-functions-ca22b88c'><i class='fa fa-play' aria-hidden='true'></i></button>Scoring functions are algorithms that assign a numerical score to a given ligand inside a receptor. The score should ideally give a measure of the ligand-protein binding constant. "Complementarity Score" are of moderate accuracy; the following illustrates the results obtained in the prediction of the binding constants of thermolysin inhibitors.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1552,7 +1552,7 @@ Scoring functions are algorithms that assign a numerical score to a given ligand
     
 ### Limitations of Scoring Functions
 
-One of the limitations of scoring functions is that the conformational energy of the ligand is not taken into account. The predictions can be improved by calculating the difference of free energy between the docked conformation and the global minimum of the ligand.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/limitations-scoring-functions-3c25cf21'><i class='fa fa-play' aria-hidden='true'></i></button>One of the limitations of scoring functions is that the conformational energy of the ligand is not taken into account. The predictions can be improved by calculating the difference of free energy between the docked conformation and the global minimum of the ligand.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1563,7 +1563,7 @@ One of the limitations of scoring functions is that the conformational energy of
 
 ### Calculating Desolvation Energies
 
-Accounting for solvent effects (e.g solvation/desolvation energies) is important for understanding of ligand-receptor interactions. Methods are now available to model the effects of solvents on both small and macromolecular solutes ranging from solvent continuum models to the incorporation of discrete solvent shells.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/calculating-desolvation-energies-629dd690'><i class='fa fa-play' aria-hidden='true'></i></button>Accounting for solvent effects (e.g solvation/desolvation energies) is important for understanding of ligand-receptor interactions. Methods are now available to model the effects of solvents on both small and macromolecular solutes ranging from solvent continuum models to the incorporation of discrete solvent shells.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -1620,7 +1620,7 @@ Accounting for solvent effects (e.g solvation/desolvation energies) is important
 
 ### Conclusion
 
-To summarize, receptor-based drug design is an approach, ligand-receptor complementary features is a concept, and docking treatments is a technique.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/conclusion-593c08be'><i class='fa fa-play' aria-hidden='true'></i></button>To summarize, receptor-based drug design is an approach, ligand-receptor complementary features is a concept, and docking treatments is a technique.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -1628,4 +1628,5 @@ To summarize, receptor-based drug design is an approach, ligand-receptor complem
 ![](https://media.drugdesign.org/course/protein-ligand-binding/10_1_0_1.png){: loading=lazy }
 
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

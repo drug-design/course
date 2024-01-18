@@ -20,7 +20,7 @@
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-The two compounds represented here are H2-antagonists. It is difficult to imagine how they can mimic each other. On the following page we present  the 3D mimicry between these two structures, a model that was exploited for the design of entirely novel antagonists.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/two-very-different-h2-antagonists-5d6feeaa'><i class='fa fa-play' aria-hidden='true'></i></button>The two compounds represented here are H2-antagonists. It is difficult to imagine how they can mimic each other. On the following page we present  the 3D mimicry between these two structures, a model that was exploited for the design of entirely novel antagonists.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -38,7 +38,7 @@ The two compounds represented here are H2-antagonists. It is difficult to imagin
     
 ### Cimetidine has a Folded Conformation
 
-As revealed by X-ray analyses, cimetidine exists in a folded conformation, favored by the formation of an intra-molecular hydrogen bond between a nitrogen atom of the imidazole and a N-H group of the side chain.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/cimetidine-has-folded-conformation-bf4e408b'><i class='fa fa-play' aria-hidden='true'></i></button>As revealed by X-ray analyses, cimetidine exists in a folded conformation, favored by the formation of an intra-molecular hydrogen bond between a nitrogen atom of the imidazole and a N-H group of the side chain.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -53,7 +53,7 @@ As revealed by X-ray analyses, cimetidine exists in a folded conformation, favor
 ### 3D Mimicry between Cimetidine and Triazole
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The observed biological activities  can now be understood by examining  this conformation for cimetidine that now mimics the triazole molecule well. Such analyses were virtually impossible by simple  observation  of the 2D chemical formulas of the molecules but the resulting 3D model (see button "3D mimicry") provides a good basis  for the design of novel H2-antagonists.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/3d-mimicry-between-cimetidine-triazole-20d53ea9'><i class='fa fa-play' aria-hidden='true'></i></button>The observed biological activities  can now be understood by examining  this conformation for cimetidine that now mimics the triazole molecule well. Such analyses were virtually impossible by simple  observation  of the 2D chemical formulas of the molecules but the resulting 3D model (see button "3D mimicry") provides a good basis  for the design of novel H2-antagonists.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -84,7 +84,7 @@ The observed biological activities  can now be understood by examining  this con
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Substance P is a member of the tachykinin family of peptides and plays a role in the transmission of pain in the central nervous system. Three different receptors for the mammalian tachykinins have been identified (NK-1, NK-2 and NK-3) and belong to the G-protein coupled receptors family. Substance P is recognized by the NK-1 receptor. Although its 3D structure is unknown, the conformation of substance P when bound to this receptor has been postulated. Here we present  how this conformation has been exploited for the design of non-peptide mimics with nano-molar activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/substance-p-ligand-cns-receptors-89af4c22'><i class='fa fa-play' aria-hidden='true'></i></button>Substance P is a member of the tachykinin family of peptides and plays a role in the transmission of pain in the central nervous system. Three different receptors for the mammalian tachykinins have been identified (NK-1, NK-2 and NK-3) and belong to the G-protein coupled receptors family. Substance P is recognized by the NK-1 receptor. Although its 3D structure is unknown, the conformation of substance P when bound to this receptor has been postulated. Here we present  how this conformation has been exploited for the design of non-peptide mimics with nano-molar activities.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -93,7 +93,7 @@ Substance P is a member of the tachykinin family of peptides and plays a role in
 ### Conformation of Substance P
 *[nce]: New Chemical Entity: a compound not previously described.
 
-A model of the conformation of substance P was postulated by Convert et al., based on NMR and SAR analyses. The Novartis team recognized that mimicking the Phe7-Phe8 template (in red in the figure) was a good strategy to find  non-peptide substance P antagonists.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/conformation-substance-p-4ccde8e7'><i class='fa fa-play' aria-hidden='true'></i></button>A model of the conformation of substance P was postulated by Convert et al., based on NMR and SAR analyses. The Novartis team recognized that mimicking the Phe7-Phe8 template (in red in the figure) was a good strategy to find  non-peptide substance P antagonists.
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
@@ -123,7 +123,7 @@ A model of the conformation of substance P was postulated by Convert et al., bas
 ### Template for Mimicking the Phe-Phe Moiety
 *[Moiety]: Fragments, functional groups or portions of chemical compounds.
 
-A six membered ring scaffold with two 1,3 substituents was imagined as a candidate template for mimicking the 8 &#8491; distance to unravel the phenyl rings of Phe-7 and Phe-8.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/template-for-mimicking-phe-phe-moiety-f92b5bbb'><i class='fa fa-play' aria-hidden='true'></i></button>A six membered ring scaffold with two 1,3 substituents was imagined as a candidate template for mimicking the 8 &#8491; distance to unravel the phenyl rings of Phe-7 and Phe-8.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -134,7 +134,7 @@ A six membered ring scaffold with two 1,3 substituents was imagined as a candida
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-Novel molecules were designed along this line and very potent Substance P antagonists were discovered. CGP47899 is an example of a successfully designed antagonist that mimics the Phe-Phe portion of the substance P substrate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/successful-discovery-sp-antagonists-edfdfa57'><i class='fa fa-play' aria-hidden='true'></i></button>Novel molecules were designed along this line and very potent Substance P antagonists were discovered. CGP47899 is an example of a successfully designed antagonist that mimics the Phe-Phe portion of the substance P substrate.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -150,7 +150,7 @@ Novel molecules were designed along this line and very potent Substance P antago
 ### A Phe-Phe Mimic of Substance P
 *[nce]: New Chemical Entity: a compound not previously described.
 
-By looking at the 2D formulas of CGP47899 and Substance P, the 3D mimicry between these two structures is not immediately apparent.  The central Phe7-Phe8 structure of the peptide is fully drawn, to indicate which fragment of substance P was addressed to be mimicked. The 3D superimposition of the two molecules is shown on the following page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/phe-phe-mimic-substance-p-baaef03d'><i class='fa fa-play' aria-hidden='true'></i></button>By looking at the 2D formulas of CGP47899 and Substance P, the 3D mimicry between these two structures is not immediately apparent.  The central Phe7-Phe8 structure of the peptide is fully drawn, to indicate which fragment of substance P was addressed to be mimicked. The 3D superimposition of the two molecules is shown on the following page.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -160,7 +160,7 @@ By looking at the 2D formulas of CGP47899 and Substance P, the 3D mimicry betwee
 ### Mimicry of CGP-47899 and Substance P
 *[nce]: New Chemical Entity: a compound not previously described.
 
-In the 3D representations, we can see how effectively two phenyl groups of CGP47899 superimpose on the Phe7-Phe8 fragment of Substance P. The superimposition of the two compounds in 3D allows us to understand why CGP47899 is a good mimic of Substance P.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/mimicry-cgp-47899-substance-p-6f955d4c'><i class='fa fa-play' aria-hidden='true'></i></button>In the 3D representations, we can see how effectively two phenyl groups of CGP47899 superimpose on the Phe7-Phe8 fragment of Substance P. The superimposition of the two compounds in 3D allows us to understand why CGP47899 is a good mimic of Substance P.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -176,7 +176,7 @@ In the 3D representations, we can see how effectively two phenyl groups of CGP47
 ### Reference Set of Hypolipemic Agents
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Clofibrate (atromide-S) has been used for the last 30 years in the treatment of arteriosclerotic diseases by lowering cholesterol and triglycerides in blood. A great variety of clofibrate analogs have been studied showing that a second benzene ring enhances potency; treloxinate is one example.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/reference-set-hypolipemic-agents-7ba3ca26'><i class='fa fa-play' aria-hidden='true'></i></button>Clofibrate (atromide-S) has been used for the last 30 years in the treatment of arteriosclerotic diseases by lowering cholesterol and triglycerides in blood. A great variety of clofibrate analogs have been studied showing that a second benzene ring enhances potency; treloxinate is one example.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -204,7 +204,7 @@ Clofibrate (atromide-S) has been used for the last 30 years in the treatment of 
     
 ### Design of a New Hypolipemic Agent
 
-RU 25961 is a new hypolipemic agent that was designed on the basis of its 3D similarity with treloxinate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/design-new-hypolipemic-agent-71c5368c'><i class='fa fa-play' aria-hidden='true'></i></button>RU 25961 is a new hypolipemic agent that was designed on the basis of its 3D similarity with treloxinate.
 
 
 === "2D"
@@ -233,7 +233,7 @@ RU 25961 is a new hypolipemic agent that was designed on the basis of its 3D sim
     
 ### RU 25961 is a 3D Mimic of Treloxinate
 
-Although having entirely different 2D chemical structures, RU 25961 and treloxinate mimic each other. Not only are the shapes of the two molecules similar, but they also present the same distribution of physicochemical properties in 3D.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/ru-25961-is-3d-mimic-treloxinate-c7e82fcd'><i class='fa fa-play' aria-hidden='true'></i></button>Although having entirely different 2D chemical structures, RU 25961 and treloxinate mimic each other. Not only are the shapes of the two molecules similar, but they also present the same distribution of physicochemical properties in 3D.
 
 
 === "Surface"
@@ -262,7 +262,7 @@ Although having entirely different 2D chemical structures, RU 25961 and treloxin
     
 ### Browser of Hypolipemic Agents
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/browser-hypolipemic-agents-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -270,7 +270,7 @@ Although having entirely different 2D chemical structures, RU 25961 and treloxin
 
 ### Methyl Treloxinate
 
-Treloxinate analog compounds were synthesized to optimize the series. Methyl-treloxinates were prepared by introducing the methyl substituent on the methylene bridge of the eight-membered ring. This molecule exists as a mixture of "cis" and "trans" isomers depending on the relative stereochemistry of the two substituents of the eight-membered ring. The cis isomer was shown to be more active and the trans isomer less active than the reference treloxinate compound.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/methyl-treloxinate-b9e1aaad'><i class='fa fa-play' aria-hidden='true'></i></button>Treloxinate analog compounds were synthesized to optimize the series. Methyl-treloxinates were prepared by introducing the methyl substituent on the methylene bridge of the eight-membered ring. This molecule exists as a mixture of "cis" and "trans" isomers depending on the relative stereochemistry of the two substituents of the eight-membered ring. The cis isomer was shown to be more active and the trans isomer less active than the reference treloxinate compound.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -282,7 +282,7 @@ Treloxinate analog compounds were synthesized to optimize the series. Methyl-tre
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-The difference in the observed activities  between  the cis and trans isomers of methyl treloxinate can be understood by looking at their 3D features as compared to RU-25961. The mimicry between treloxinate and RU-25961 is more pronounced with the cis isomer, as indicated by the location of the additional methyl substituent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/biological-activities-cis-trans-isomers-047cfab3'><i class='fa fa-play' aria-hidden='true'></i></button>The difference in the observed activities  between  the cis and trans isomers of methyl treloxinate can be understood by looking at their 3D features as compared to RU-25961. The mimicry between treloxinate and RU-25961 is more pronounced with the cis isomer, as indicated by the location of the additional methyl substituent.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -305,7 +305,7 @@ The difference in the observed activities  between  the cis and trans isomers of
     
 ### Browser of Hypolipemic Agents
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/browser-hypolipemic-agents-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -331,7 +331,7 @@ The difference in the observed activities  between  the cis and trans isomers of
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Poly (ADP-ribose) Polymerase-1 (PARP-1) inhibitors can be useful in the repair of DNA damage induced by radiation during cancer therapy.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/therapeutic-utility-parp-1-inhibitors-f0895479'><i class='fa fa-play' aria-hidden='true'></i></button>Poly (ADP-ribose) Polymerase-1 (PARP-1) inhibitors can be useful in the repair of DNA damage induced by radiation during cancer therapy.
 *[f DNA ]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -349,7 +349,7 @@ Poly (ADP-ribose) Polymerase-1 (PARP-1) inhibitors can be useful in the repair o
 ### 3-Amino Benzamide PARP-1 Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Early PARP-1 inhibitors were analogs of 3-aminobenzamide (Molecule 1) that lacked specificity and potency. Subsequent designs of constrained analogs locking the carboxamide moiety in its probable bioactive conformation (2, 3 and 4) yielded compounds with poor potency;  however 3 and 4 were able to induce the desired biological properties at high concentrations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/3-amino-benzamide-parp-1-inhibitor-3a3f2fdd'><i class='fa fa-play' aria-hidden='true'></i></button>Early PARP-1 inhibitors were analogs of 3-aminobenzamide (Molecule 1) that lacked specificity and potency. Subsequent designs of constrained analogs locking the carboxamide moiety in its probable bioactive conformation (2, 3 and 4) yielded compounds with poor potency;  however 3 and 4 were able to induce the desired biological properties at high concentrations.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -369,7 +369,7 @@ Early PARP-1 inhibitors were analogs of 3-aminobenzamide (Molecule 1) that lacke
     
 ### Design with Carboxamide Geometry Locked
 
-The design of tricyclic analogs B and C of compound A was considered. Further analyses led to the rejection of B because of potential problems in both synthesis and stability. The tricyclic molecule C emerged as a promising candidate that could mimic  the initial reference compound 4 (NU-1085) well.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/design-carboxamide-geometry-locked-0470a239'><i class='fa fa-play' aria-hidden='true'></i></button>The design of tricyclic analogs B and C of compound A was considered. Further analyses led to the rejection of B because of potential problems in both synthesis and stability. The tricyclic molecule C emerged as a promising candidate that could mimic  the initial reference compound 4 (NU-1085) well.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -379,7 +379,7 @@ The design of tricyclic analogs B and C of compound A was considered. Further an
 ### 3D Mimicry between Structure C and NU-1085
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The following view illustrates the mimicry between the candidate structure C and the reference compound 4 (NU-1085).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/3d-mimicry-between-structure-c-nu-1085-01216dba'><i class='fa fa-play' aria-hidden='true'></i></button>The following view illustrates the mimicry between the candidate structure C and the reference compound 4 (NU-1085).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -395,7 +395,7 @@ The following view illustrates the mimicry between the candidate structure C and
     
 ### Synthesis of the Designed Tricyclic Compounds
 
-Prototype candidates were synthesized and led to the discovery of potent inhibitors. SAR indicate that the carboxamide hydrogen is essential; its replacement by a methyl group leads to a complete loss of binding affinity. Structure 22 represents a 25-fold increase in efficacy when compared to the reference 4 (NU-1085) molecule and shows the best biological profile in cellular assays.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/synthesis-designed-tricyclic-compounds-7a919090'><i class='fa fa-play' aria-hidden='true'></i></button>Prototype candidates were synthesized and led to the discovery of potent inhibitors. SAR indicate that the carboxamide hydrogen is essential; its replacement by a methyl group leads to a complete loss of binding affinity. Structure 22 represents a 25-fold increase in efficacy when compared to the reference 4 (NU-1085) molecule and shows the best biological profile in cellular assays.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -414,7 +414,7 @@ Prototype candidates were synthesized and led to the discovery of potent inhibit
 ### Validation of the Concept by X-Ray Crystallography
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The design concept was validated by X-ray crystallographic analyses of complexes with PARP-1. Here are visualized compound 22 and NU-1098 (the methoxy-analog of 4) bound to the catalytic site of the protein. In particular it shows the bound geometry of the amino-benzamide pharmacophore and also explains the importance of the carboxamide hydrogen that is liganded to Gly-863.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/validation-concept-by-x-ray-crystallography-ab533c82'><i class='fa fa-play' aria-hidden='true'></i></button>The design concept was validated by X-ray crystallographic analyses of complexes with PARP-1. Here are visualized compound 22 and NU-1098 (the methoxy-analog of 4) bound to the catalytic site of the protein. In particular it shows the bound geometry of the amino-benzamide pharmacophore and also explains the importance of the carboxamide hydrogen that is liganded to Gly-863.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -460,7 +460,7 @@ The design concept was validated by X-ray crystallographic analyses of complexes
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-Angiotensin-II is the octapeptide substrate of Angiotensin-II receptors. Losartan is a potent angiotensin-II antagonist, a new class of anti-hypertensive agents. Its scaffold was discovered by traditional screening and further optimized for potency and selectivity. An interesting question is whether  Losartan and Angiotensin-II have 3D features in common; in other words is Losartan a 3D mimic of Angiotensin-II ?  Arguments in favor of this hypothesis are presented on the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/antagonists-angiotensin-ii-receptors-9f5a6129'><i class='fa fa-play' aria-hidden='true'></i></button>Angiotensin-II is the octapeptide substrate of Angiotensin-II receptors. Losartan is a potent angiotensin-II antagonist, a new class of anti-hypertensive agents. Its scaffold was discovered by traditional screening and further optimized for potency and selectivity. An interesting question is whether  Losartan and Angiotensin-II have 3D features in common; in other words is Losartan a 3D mimic of Angiotensin-II ?  Arguments in favor of this hypothesis are presented on the following pages.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -478,7 +478,7 @@ Angiotensin-II is the octapeptide substrate of Angiotensin-II receptors. Losarta
 ### Losartan as a Mimic of Angiotensin-II (1/5)
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The tetrazole of Losartan can mimic the C-terminal carboxylate of the peptidic Angiotensin-II.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/losartan-as-mimic-angiotensin-ii-15-8ec23b10'><i class='fa fa-play' aria-hidden='true'></i></button>The tetrazole of Losartan can mimic the C-terminal carboxylate of the peptidic Angiotensin-II.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -499,7 +499,7 @@ The tetrazole of Losartan can mimic the C-terminal carboxylate of the peptidic A
 ### Losartan as a Mimic of Angiotensin-II (2/5)
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The imidazole ring of Losartan is in the vicinity of the histidine ring of Angiotensin-II.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/losartan-as-mimic-angiotensin-ii-25-c81679d6'><i class='fa fa-play' aria-hidden='true'></i></button>The imidazole ring of Losartan is in the vicinity of the histidine ring of Angiotensin-II.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -520,7 +520,7 @@ The imidazole ring of Losartan is in the vicinity of the histidine ring of Angio
 ### Losartan as a Mimic of Angiotensin-II (3/5)
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The hydroxyl-methyl group of Losartan is close to the hydroxyl group of the tyrosine of Angiotensin-II.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/losartan-as-mimic-angiotensin-ii-35-a84971de'><i class='fa fa-play' aria-hidden='true'></i></button>The hydroxyl-methyl group of Losartan is close to the hydroxyl group of the tyrosine of Angiotensin-II.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -541,7 +541,7 @@ The hydroxyl-methyl group of Losartan is close to the hydroxyl group of the tyro
 ### Losartan as a Mimic of Angiotensin-II (4/5)
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The hydrophobic butyl chain of Losartan mimics the alkyl chain of the isoleucine aminoacid of Angiotensin-II.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/losartan-as-mimic-angiotensin-ii-45-ec4eed0a'><i class='fa fa-play' aria-hidden='true'></i></button>The hydrophobic butyl chain of Losartan mimics the alkyl chain of the isoleucine aminoacid of Angiotensin-II.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -562,7 +562,7 @@ The hydrophobic butyl chain of Losartan mimics the alkyl chain of the isoleucine
 ### Losartan as a Mimic of Angiotensin-II (5/5)
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The biphenyl template of Losartan is in close proximity with the phenyl and proline rings of Angiotensin-II that mimic a &beta;-turn conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/losartan-as-mimic-angiotensin-ii-55-8e86a366'><i class='fa fa-play' aria-hidden='true'></i></button>The biphenyl template of Losartan is in close proximity with the phenyl and proline rings of Angiotensin-II that mimic a &beta;-turn conformation.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -586,7 +586,7 @@ The biphenyl template of Losartan is in close proximity with the phenyl and prol
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/browser-angiotensin-ii-antagonists-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -612,7 +612,7 @@ The biphenyl template of Losartan is in close proximity with the phenyl and prol
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[Ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-MK-329 was found to be a very potent and selective CCK receptor antagonist with an affinity comparable to that of the native peptide. Lorglumide, an analog of glutamic acid, was also known to have good CCK selectivity but poor potency. On the following pages we discuss how analysis of the molecular mimicry features of these two molecules led to the design and discovery of potent analogs of the poorly active Lorglumide molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/design-cholecystokinin-receptor-ligands-e2b19e0d'><i class='fa fa-play' aria-hidden='true'></i></button>MK-329 was found to be a very potent and selective CCK receptor antagonist with an affinity comparable to that of the native peptide. Lorglumide, an analog of glutamic acid, was also known to have good CCK selectivity but poor potency. On the following pages we discuss how analysis of the molecular mimicry features of these two molecules led to the design and discovery of potent analogs of the poorly active Lorglumide molecule.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
@@ -628,7 +628,7 @@ MK-329 was found to be a very potent and selective CCK receptor antagonist with 
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-By using pharmacophore alignments, two pharmacophoric elements were found between the non-peptide antagonist MK-329 and Lorglumide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/pharmacophore-analysis-cck-a-antagonists-13-203bc907'><i class='fa fa-play' aria-hidden='true'></i></button>By using pharmacophore alignments, two pharmacophoric elements were found between the non-peptide antagonist MK-329 and Lorglumide.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -651,7 +651,7 @@ By using pharmacophore alignments, two pharmacophoric elements were found betwee
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-The hypothesis was that the indolecarboxamide in MK-329 is mimicked by substituting the phenyl ring of the Lorglumide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/pharmacophore-analysis-cck-a-antagonists-23-c0596fc7'><i class='fa fa-play' aria-hidden='true'></i></button>The hypothesis was that the indolecarboxamide in MK-329 is mimicked by substituting the phenyl ring of the Lorglumide.
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_c3_1_8_s2.png){: loading=lazy }
@@ -670,7 +670,7 @@ The hypothesis was that the indolecarboxamide in MK-329 is mimicked by substitut
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-The n-pentyl group of Lorglumid  mimics the hydrophobic phenyl and benzo groups of MK-329.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/pharmacophore-analysis-cck-a-antagonists-33-78498182'><i class='fa fa-play' aria-hidden='true'></i></button>The n-pentyl group of Lorglumid  mimics the hydrophobic phenyl and benzo groups of MK-329.
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_c3_1_8_s3.png){: loading=lazy }
@@ -685,7 +685,7 @@ The n-pentyl group of Lorglumid  mimics the hydrophobic phenyl and benzo groups 
 ### Design of a New Lorglumide Analog
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-On the basis of a previous pharmacophore hypothesis, a new analog of Lorglumide was designed. Replacing the phenyl ring with an indole group increased the affinity for the CCK receptor by a factor of 3.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/design-new-lorglumide-analog-3c77fa32'><i class='fa fa-play' aria-hidden='true'></i></button>On the basis of a previous pharmacophore hypothesis, a new analog of Lorglumide was designed. Replacing the phenyl ring with an indole group increased the affinity for the CCK receptor by a factor of 3.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
@@ -710,7 +710,7 @@ On the basis of a previous pharmacophore hypothesis, a new analog of Lorglumide 
 
 ### Farnesyltransferase, a Target in Oncology
 
-Farnesyltransferase (FTase) is a zinc metalloenzyme that catalyzes farnesylation of proteins with a carboxyl terminal sequence CAAX, where C is cysteine, A is an aliphatic amino-acid and X is methionine, serine, alanine, glutamine or cysteine. FTase is a biological target in oncology owing to its involvement in the Ras pathway. In the following pages we present how several potent and selective non-peptidic inhibitors were discovered by fully exploiting the mimicry with a reference peptide ligand.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/farnesyltransferase-target-oncology-b4f53122'><i class='fa fa-play' aria-hidden='true'></i></button>Farnesyltransferase (FTase) is a zinc metalloenzyme that catalyzes farnesylation of proteins with a carboxyl terminal sequence CAAX, where C is cysteine, A is an aliphatic amino-acid and X is methionine, serine, alanine, glutamine or cysteine. FTase is a biological target in oncology owing to its involvement in the Ras pathway. In the following pages we present how several potent and selective non-peptidic inhibitors were discovered by fully exploiting the mimicry with a reference peptide ligand.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -720,7 +720,7 @@ Farnesyltransferase (FTase) is a zinc metalloenzyme that catalyzes farnesylation
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/far_2_1_0_0_1.png){: loading=lazy }
 ### X-ray Structure of FTase with a Tetrapeptide
 
-A crystal structure of FTase with the Ac-Cys-Val-Ile-Selenomethionine-OH tetrapeptide shows that the ligand adopts an extended conformation in which the cysteine thiol group coordinates to the catalytic zinc ion. The Cys-Val-Ile-Met peptide inhibits FTase in vitro (IC<sub>50</sub> = 340 nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/x-ray-structure-ftase-tetrapeptide-3188b0fe'><i class='fa fa-play' aria-hidden='true'></i></button>A crystal structure of FTase with the Ac-Cys-Val-Ile-Selenomethionine-OH tetrapeptide shows that the ligand adopts an extended conformation in which the cysteine thiol group coordinates to the catalytic zinc ion. The Cys-Val-Ile-Met peptide inhibits FTase in vitro (IC<sub>50</sub> = 340 nM).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -735,7 +735,7 @@ A crystal structure of FTase with the Ac-Cys-Val-Ile-Selenomethionine-OH tetrape
     
 ### Binding Interactions of CAAX Substrate for FTase
 
-The interactions of the Ac-Cys-Val-Ile-Met(Se)-OH ligand are schematically represented in the diagram below. This structure can be a starting point for the design of peptidomimetics and non-peptide inhibitors of the FTase.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/binding-interactions-caax-substrate-for-ftase-76346ea7'><i class='fa fa-play' aria-hidden='true'></i></button>The interactions of the Ac-Cys-Val-Ile-Met(Se)-OH ligand are schematically represented in the diagram below. This structure can be a starting point for the design of peptidomimetics and non-peptide inhibitors of the FTase.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -745,21 +745,21 @@ The interactions of the Ac-Cys-Val-Ile-Met(Se)-OH ligand are schematically repre
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/far_2_3_0_0_1.png){: loading=lazy }
 ### 4-Aminobenzoic Spacer to Replace Val-Ile Dipeptide
 
-The following modifications of the initial tetrapeptide were made: (1) a rigid 4-aminobenzoic spacer to replace the Val-Ile dipeptide fragment and (2) the replacement of the cysteine amide bond by a methyleneamino group. The resulting molecule 2 proved to inhibit FTase with an IC<sub>50</sub> of 267 nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/4-aminobenzoic-spacer-to-replace-val-ile-dipeptide-d02a1ac3'><i class='fa fa-play' aria-hidden='true'></i></button>The following modifications of the initial tetrapeptide were made: (1) a rigid 4-aminobenzoic spacer to replace the Val-Ile dipeptide fragment and (2) the replacement of the cysteine amide bond by a methyleneamino group. The resulting molecule 2 proved to inhibit FTase with an IC<sub>50</sub> of 267 nM.
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/far_2_4_1_0_1.png){: loading=lazy }
 
 ### Superposition with X-Ray Structure of Initial Tripeptide
 
-The view shown here visualizes the superposition of compound 2 (in blue) with the crystal structure of the initial tetrapeptide and illustrates the underlying design idea.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/superposition-x-ray-structure-initial-tripeptide-7cbd7ed3'><i class='fa fa-play' aria-hidden='true'></i></button>The view shown here visualizes the superposition of compound 2 (in blue) with the crystal structure of the initial tetrapeptide and illustrates the underlying design idea.
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_farnesyl4_s2.png){: loading=lazy }
 
 ### The Simple Aromatic Central Ring is not Sufficient
 
-The 4-aminobenzoic moiety mimics the corresponding Val-Ile backbone however the simple aromatic ring does not reach the volume occupied by the side-chains of the dipeptide. Substituted analogs were designed to improve the overlap with the reference peptide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/simple-aromatic-central-ring-is-not-sufficient-fbbae0fa'><i class='fa fa-play' aria-hidden='true'></i></button>The 4-aminobenzoic moiety mimics the corresponding Val-Ile backbone however the simple aromatic ring does not reach the volume occupied by the side-chains of the dipeptide. Substituted analogs were designed to improve the overlap with the reference peptide.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -773,7 +773,7 @@ The 4-aminobenzoic moiety mimics the corresponding Val-Ile backbone however the 
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The substitution of the phenyl at the 2-position significantly enhances potency. Not only a phenyl group but other substituents such as 2-thienyl or 1-naphthyl also yield potent inhibitors. The methyl ester of the initial phenyl derivative showed significant potency in inhibiting Ras farnesylation in whole cells.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/analogs-significantly-enhanced-potency-2ba33f8c'><i class='fa fa-play' aria-hidden='true'></i></button>The substitution of the phenyl at the 2-position significantly enhances potency. Not only a phenyl group but other substituents such as 2-thienyl or 1-naphthyl also yield potent inhibitors. The methyl ester of the initial phenyl derivative showed significant potency in inhibiting Ras farnesylation in whole cells.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -783,7 +783,7 @@ The substitution of the phenyl at the 2-position significantly enhances potency.
 ### 3D Mimicry of FTI-276 and Reference Tetrapeptide
 *[nce]: New Chemical Entity: a compound not previously described.
 
-This view shows the 3D mimicry of the 2-phenyl-4-aminobenzoic acid analog (FTI-276, in yellow) with the crystal structure of the reference tetrapeptide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/3d-mimicry-fti-276-reference-tetrapeptide-5e30468d'><i class='fa fa-play' aria-hidden='true'></i></button>This view shows the 3D mimicry of the 2-phenyl-4-aminobenzoic acid analog (FTI-276, in yellow) with the crystal structure of the reference tetrapeptide.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -793,7 +793,7 @@ This view shows the 3D mimicry of the 2-phenyl-4-aminobenzoic acid analog (FTI-2
 ### Docking of FTI-276 and Reference Tetrapeptide
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The tetrapeptide and the FTI-276 inhibitor are shown docked in the catalytic site of the enzyme. Both ligands possess a hydrophobic fragment (isoleucine/phenyl) that penetrates deep into a hydrophobic pocket of the enzyme. Note that the absence of significant interactions with the amide fragment located between the Val and Ile residues justifies the design of hydrophobic spacers in this region.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/docking-fti-276-reference-tetrapeptide-65774f20'><i class='fa fa-play' aria-hidden='true'></i></button>The tetrapeptide and the FTI-276 inhibitor are shown docked in the catalytic site of the enzyme. Both ligands possess a hydrophobic fragment (isoleucine/phenyl) that penetrates deep into a hydrophobic pocket of the enzyme. Note that the absence of significant interactions with the amide fragment located between the Val and Ile residues justifies the design of hydrophobic spacers in this region.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -805,7 +805,7 @@ The tetrapeptide and the FTI-276 inhibitor are shown docked in the catalytic sit
 
 ### Terphenyl to Replace the Central Val-Ile Dipeptide
 
-A similar design considering a terphenyl template also proved to be successful. For example FTI-289 is a very potent inhibitor of FTase, with an IC<sub>50</sub> of 20 nM. Moreover, FTI-2297 (IC<sub>50</sub> = 380 nM) demonstrates the possibility of discovering inhibitors with no chiral centers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/terphenyl-to-replace-central-val-ile-dipeptide-fb8ab659'><i class='fa fa-play' aria-hidden='true'></i></button>A similar design considering a terphenyl template also proved to be successful. For example FTI-289 is a very potent inhibitor of FTase, with an IC<sub>50</sub> of 20 nM. Moreover, FTI-2297 (IC<sub>50</sub> = 380 nM) demonstrates the possibility of discovering inhibitors with no chiral centers.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -813,7 +813,7 @@ A similar design considering a terphenyl template also proved to be successful. 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/far_2_7_1_0_1.png){: loading=lazy }
 ### Alignment of FTI-289 with Cys-Val-Ile-Met
 
-The following view visualizes the alignment of FTI-289 with the X-ray structure of the Cys-Val-Ile-Met tetrapeptide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/alignment-fti-289-cys-val-ile-met-9f99d133'><i class='fa fa-play' aria-hidden='true'></i></button>The following view visualizes the alignment of FTI-289 with the X-ray structure of the Cys-Val-Ile-Met tetrapeptide.
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_farnesyl7_s2.png){: loading=lazy }
@@ -821,7 +821,7 @@ The following view visualizes the alignment of FTI-289 with the X-ray structure 
 ### Potent and Selective Farnesyltransferase Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Very recently Abbott discovered fully non-peptidic and achiral inhibitors. For example Abbott-21 is a potent inhibitor of FTase (IC<sub>50</sub> = 0.39 nM), FTase/GTase selective (>300-fold) and cellularly active (<80 nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/potent-selective-farnesyltransferase-inhibitor-34023b48'><i class='fa fa-play' aria-hidden='true'></i></button>Very recently Abbott discovered fully non-peptidic and achiral inhibitors. For example Abbott-21 is a potent inhibitor of FTase (IC<sub>50</sub> = 0.39 nM), FTase/GTase selective (>300-fold) and cellularly active (<80 nM).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -841,7 +841,7 @@ Very recently Abbott discovered fully non-peptidic and achiral inhibitors. For e
     
 ### X-ray of  Abbott-21 bound to  Farnesyltransferase
 
-The X-ray crystal structure of the Abbott-21 inhibitor bound to the farnesyltransferase proved that it fulfilled the design criteria presented in the preceding pages. In addition, this confirms that enhanced activities and selectivity can be achieved by mimicking the Ile - and not Val - of the reference tetrapeptide. Note the two hydrogen bonds created with the cyano fragments and the coordination with the zinc atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/x-ray-abbott-21-bound-to-farnesyltransferase-ec4bf69c'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray crystal structure of the Abbott-21 inhibitor bound to the farnesyltransferase proved that it fulfilled the design criteria presented in the preceding pages. In addition, this confirms that enhanced activities and selectivity can be achieved by mimicking the Ile - and not Val - of the reference tetrapeptide. Note the two hydrogen bonds created with the cyano fragments and the coordination with the zinc atom.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -853,7 +853,7 @@ The X-ray crystal structure of the Abbott-21 inhibitor bound to the farnesyltran
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/browser-farnesyltransferase-inhibitors-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -873,7 +873,7 @@ The X-ray crystal structure of the Abbott-21 inhibitor bound to the farnesyltran
 *[agonists]: A chemical substance capable of activating a given receptor.
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-The Mdm2 and p53 genes normally form a negative feedback loop in cells to monitor and regulate p53 ability to limit growth. p53 is an attractive therapeutic target in oncology because its tumor suppressor activity can be stimulated to eradicate tumor cells. A recent approach to stimulate p53 activity is based on the inhibition of the p53-Mdm2 interaction with synthetic molecules. Peptide and non-peptide inhibitors were found by molecular mimicry, as explained on the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/antagonists-mdm2-p53-interaction-a2da31c7'><i class='fa fa-play' aria-hidden='true'></i></button>The Mdm2 and p53 genes normally form a negative feedback loop in cells to monitor and regulate p53 ability to limit growth. p53 is an attractive therapeutic target in oncology because its tumor suppressor activity can be stimulated to eradicate tumor cells. A recent approach to stimulate p53 activity is based on the inhibition of the p53-Mdm2 interaction with synthetic molecules. Peptide and non-peptide inhibitors were found by molecular mimicry, as explained on the following pages.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -885,7 +885,7 @@ The Mdm2 and p53 genes normally form a negative feedback loop in cells to monito
 ### Mdm2 Bound to p53 Transactivation Domain (1/4)
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-The crystal structure of the 109-residue amino terminal domain of the Mdm2 protein bound to a 15-residue peptide from the transactivation domain of p53 reveals the nature of the interaction.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/mdm2-bound-to-p53-transactivation-domain-14-de0f7df5'><i class='fa fa-play' aria-hidden='true'></i></button>The crystal structure of the 109-residue amino terminal domain of the Mdm2 protein bound to a 15-residue peptide from the transactivation domain of p53 reveals the nature of the interaction.
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
 
@@ -899,7 +899,7 @@ The crystal structure of the 109-residue amino terminal domain of the Mdm2 prote
 #### Mdm2 Bound to p53 Transactivation Domain (2/4)
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-In particular the presence of a deep hydrophobic cleft on the surface of Mdm2 was found.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/mdm2-bound-to-p53-transactivation-domain-24-247b818f'><i class='fa fa-play' aria-hidden='true'></i></button>In particular the presence of a deep hydrophobic cleft on the surface of Mdm2 was found.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
@@ -915,7 +915,7 @@ In particular the presence of a deep hydrophobic cleft on the surface of Mdm2 wa
 #### Mdm2 Bound to p53 Transactivation Domain (3/4)
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-This cleft accommodates the p53 peptide, which adopts an amphipathic &alpha;-helix conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/mdm2-bound-to-p53-transactivation-domain-34-91867b2b'><i class='fa fa-play' aria-hidden='true'></i></button>This cleft accommodates the p53 peptide, which adopts an amphipathic &alpha;-helix conformation.
 *[amphipathic]: With both hydrophilic and hydrophobic properties.
 
 
@@ -929,7 +929,7 @@ This cleft accommodates the p53 peptide, which adopts an amphipathic &alpha;-hel
 #### Mdm2 Bound to p53 Transactivation Domain (4/4)
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-Moreover, the interaction is dominated by complementary geometric features involving a triad of p53 amino-acids Phe-19, Trp-23 and Leu-26 that penetrate deep into the Mdm2 cleft.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/mdm2-bound-to-p53-transactivation-domain-44-b96c0fa2'><i class='fa fa-play' aria-hidden='true'></i></button>Moreover, the interaction is dominated by complementary geometric features involving a triad of p53 amino-acids Phe-19, Trp-23 and Leu-26 that penetrate deep into the Mdm2 cleft.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
@@ -944,7 +944,7 @@ Moreover, the interaction is dominated by complementary geometric features invol
 ### Systematic SAR Studies
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-A systematic SAR study made on a 12-mer reference peptide antagonist, and replacing each amino-acid individually by each of the other 19 possible amino-acids, revealed the importance of the three amino-acids Phe-19, Trp-23 and Leu-26 that are "not permitted" replacements.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/systematic-sar-studies-01495edf'><i class='fa fa-play' aria-hidden='true'></i></button>A systematic SAR study made on a 12-mer reference peptide antagonist, and replacing each amino-acid individually by each of the other 19 possible amino-acids, revealed the importance of the three amino-acids Phe-19, Trp-23 and Leu-26 that are "not permitted" replacements.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -967,7 +967,7 @@ A systematic SAR study made on a 12-mer reference peptide antagonist, and replac
     
 ### Contribution of the Amino-Acids to the Binding
 
-Advanced theoretical calculations (computational alanine-scanning) served to estimate the contribution of each amino-acid of a small peptide antagonist derived from the p53 transactivation domain.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/contribution-amino-acids-to-binding-45ae391e'><i class='fa fa-play' aria-hidden='true'></i></button>Advanced theoretical calculations (computational alanine-scanning) served to estimate the contribution of each amino-acid of a small peptide antagonist derived from the p53 transactivation domain.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -977,7 +977,7 @@ Advanced theoretical calculations (computational alanine-scanning) served to est
 ### 3D Structure of the Pharmacophore
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-The structural studies therefore reveal the importance of the three amino-acids of the p53 protein: Phe-19, Trp-23 and Leu-26. They define a pharmacophore that can serve as a starting point for the design of new inhibitors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/3d-structure-pharmacophore-025d84a4'><i class='fa fa-play' aria-hidden='true'></i></button>The structural studies therefore reveal the importance of the three amino-acids of the p53 protein: Phe-19, Trp-23 and Leu-26. They define a pharmacophore that can serve as a starting point for the design of new inhibitors.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -991,7 +991,7 @@ The structural studies therefore reveal the importance of the three amino-acids 
 *[Antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 
-The Novartis group succeeded in discovering potent peptide antagonists, which started by a phage display study that led to the identification of an initial lead represented by peptide 1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/novartis-5-nm-peptide-like-antagonist-c4bdf7ef'><i class='fa fa-play' aria-hidden='true'></i></button>The Novartis group succeeded in discovering potent peptide antagonists, which started by a phage display study that led to the identification of an initial lead represented by peptide 1.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -1009,21 +1009,21 @@ The Novartis group succeeded in discovering potent peptide antagonists, which st
     
 #### Peptide 2 Designed to Stabilize Helical Conformations 
 
-In the second phase, residues that do not interact with Mdm2 (e.g. Asp and Gly) were modified in order to stabilize the &alpha;-helix conformation. C-&alpha; disubstituted amino-acids are known to stabilize &alpha; and 3<sub>10</sub>-helices. Peptide 2 was developed along this line and showed an IC<sub>50</sub> of 2.2 &Mu;M.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/peptide-2-designed-to-stabilize-helical-conformations-33da6cb0'><i class='fa fa-play' aria-hidden='true'></i></button>In the second phase, residues that do not interact with Mdm2 (e.g. Asp and Gly) were modified in order to stabilize the &alpha;-helix conformation. C-&alpha; disubstituted amino-acids are known to stabilize &alpha; and 3<sub>10</sub>-helices. Peptide 2 was developed along this line and showed an IC<sub>50</sub> of 2.2 &micro;M.
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/mdm_p2_4_2_0_1.png){: loading=lazy }
 #### Peptide 3 Designed for a Salt Bridge with a Tyrosine
 
-The proximity of the p-53 peptide residue Tyr-22 and the Mdm2 Lys-94 side chain led to the idea of replacing the tyrosine by a group that would form a salt bridge with the amino group of Lys-94; this led to peptide 3 with an IC<sub>50</sub> of 314 nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/peptide-3-designed-for-salt-bridge-tyrosine-b5368a5b'><i class='fa fa-play' aria-hidden='true'></i></button>The proximity of the p-53 peptide residue Tyr-22 and the Mdm2 Lys-94 side chain led to the idea of replacing the tyrosine by a group that would form a salt bridge with the amino group of Lys-94; this led to peptide 3 with an IC<sub>50</sub> of 314 nM.
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/mdm_p2_4_3_0_1.png){: loading=lazy }
 #### Filling Empty Space Identified by Modeling 
 
-Modeling analyses revealed the existence of an empty space located in the direction of the 6-position of the indole ring. This space corresponded to the volume of a methyl group or a chlorine atom. Both molecules showed a major increase in binding affinity (e.g. IC<sub>50</sub> of 5 nM for peptide 4).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/filling-empty-space-identified-by-modeling-80c2a46b'><i class='fa fa-play' aria-hidden='true'></i></button>Modeling analyses revealed the existence of an empty space located in the direction of the 6-position of the indole ring. This space corresponded to the volume of a methyl group or a chlorine atom. Both molecules showed a major increase in binding affinity (e.g. IC<sub>50</sub> of 5 nM for peptide 4).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
@@ -1035,7 +1035,7 @@ Modeling analyses revealed the existence of an empty space located in the direct
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-Further efforts to develop the discovered peptide inhibitors did not succeed. Novartis came to the conclusion that they were "by no means drugs". The peptide-like molecules were shown to have very poor activity in cellular assays. At this stage, looking for non-peptidic inhibitors using a de novo design strategy might be the way to discover useful compounds with good cellular activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/problems-peptide-based-antagonists-1c5e62e9'><i class='fa fa-play' aria-hidden='true'></i></button>Further efforts to develop the discovered peptide inhibitors did not succeed. Novartis came to the conclusion that they were "by no means drugs". The peptide-like molecules were shown to have very poor activity in cellular assays. At this stage, looking for non-peptidic inhibitors using a de novo design strategy might be the way to discover useful compounds with good cellular activities.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1044,7 +1044,7 @@ Further efforts to develop the discovered peptide inhibitors did not succeed. No
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/mdm_p2_5_0_0_1.png){: loading=lazy }
 ### The Bicyclo [2.2.1]-Heptane Scaffold
 
-A de novo approach was considered with the bicyclo [2.2.1]-heptane scaffold shown below. This is the first report of a de novo attempt to design non-peptidic molecules to antagonize the Mdm2-p53 interaction.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/bicyclo-221-heptane-scaffold-89ca0135'><i class='fa fa-play' aria-hidden='true'></i></button>A de novo approach was considered with the bicyclo [2.2.1]-heptane scaffold shown below. This is the first report of a de novo attempt to design non-peptidic molecules to antagonize the Mdm2-p53 interaction.
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
 
@@ -1080,7 +1080,7 @@ A de novo approach was considered with the bicyclo [2.2.1]-heptane scaffold show
 ### Designed Scaffold Aligned with the Pharmacophore
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-The alignment of the molecular geometry of the most active bicyclo [2.2.1]-heptane derivative with the p53 pharmacophore indicates that the design could be improved. The molecule has poor biological activities in-vitro but was shown to be capable of inducing apoptosis on some tumor cell lines.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/designed-scaffold-aligned-pharmacophore-bc5fea10'><i class='fa fa-play' aria-hidden='true'></i></button>The alignment of the molecular geometry of the most active bicyclo [2.2.1]-heptane derivative with the p53 pharmacophore indicates that the design could be improved. The molecule has poor biological activities in-vitro but was shown to be capable of inducing apoptosis on some tumor cell lines.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[apo]: 3D structure of a macromolecule without a ligand
 
@@ -1091,11 +1091,11 @@ The alignment of the molecular geometry of the most active bicyclo [2.2.1]-hepta
 
 ### Additional Case Studies
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='3d-mimic-design-case-studies/additional-case-studies-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/3d_mimic_case_other_examples.png){: loading=lazy }
 
 
-Copyright © 2022 drugdesign.org
+Copyright © 2024 drugdesign.org

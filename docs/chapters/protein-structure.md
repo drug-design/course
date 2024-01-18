@@ -15,7 +15,7 @@
 
 ### Proteins are Fundamental to Life
 
-Proteins form the very basis of life. They are the most abundant macromolecules in living cells. Thousands of different proteins can be found in a single cell, and proteins have been identified in all parts of all cells. Virtually every property that characterizes a living organism is affected by proteins. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/proteins-are-fundamental-to-life-82d5935c'><i class='fa fa-play' aria-hidden='true'></i></button>Proteins form the very basis of life. They are the most abundant macromolecules in living cells. Thousands of different proteins can be found in a single cell, and proteins have been identified in all parts of all cells. Virtually every property that characterizes a living organism is affected by proteins. 
       
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -24,14 +24,14 @@ Proteins form the very basis of life. They are the most abundant macromolecules 
 
 ### Great Diversity of Protein Biological Functions
 
-The primary responsibility of proteins is to execute the tasks directed by genomic information. The proteins act like the workhorses of the cells, they display high diversity and a wide variety of specialized functions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/great-diversity-protein-biological-functions-3c5ee504'><i class='fa fa-play' aria-hidden='true'></i></button>The primary responsibility of proteins is to execute the tasks directed by genomic information. The proteins act like the workhorses of the cells, they display high diversity and a wide variety of specialized functions.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/various_function.gif){: loading=lazy }
 
 ### Chemical Nature of Proteins
 
-All proteins are linear polymers made up of various combinations of 20 amino acids, and are composed mainly of C, H, O and N atoms. The amino acid sequence that defines the protein is determined by the transcription of the genetic code. Remarkably, a cell can produce proteins with different properties and activities by assembling the same 20 amino acids in many different combinations and sequences.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/chemical-nature-proteins-305cc615'><i class='fa fa-play' aria-hidden='true'></i></button>All proteins are linear polymers made up of various combinations of 20 amino acids, and are composed mainly of C, H, O and N atoms. The amino acid sequence that defines the protein is determined by the transcription of the genetic code. Remarkably, a cell can produce proteins with different properties and activities by assembling the same 20 amino acids in many different combinations and sequences.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -39,7 +39,7 @@ All proteins are linear polymers made up of various combinations of 20 amino aci
 
 ### Structural Diversity of Proteins
 
-The great diversity of the functional properties of proteins is directly related to their subtle three-dimensional structures. Every protein has a unique 3D structure that determines its function.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/structural-diversity-proteins-a1ede2d2'><i class='fa fa-play' aria-hidden='true'></i></button>The great diversity of the functional properties of proteins is directly related to their subtle three-dimensional structures. Every protein has a unique 3D structure that determines its function.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -51,7 +51,7 @@ The great diversity of the functional properties of proteins is directly related
 ### Importance of Protein 3D Structures
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The formation of a protein in its biologically active form requires the folding of the protein into a precise three-dimensional structure. Changes in this structure (for example by denaturation)  are consistently associated with  loss of function of that protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/importance-protein-3d-structures-a58e0459'><i class='fa fa-play' aria-hidden='true'></i></button>The formation of a protein in its biologically active form requires the folding of the protein into a precise three-dimensional structure. Changes in this structure (for example by denaturation)  are consistently associated with  loss of function of that protein.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -59,7 +59,7 @@ The formation of a protein in its biologically active form requires the folding 
 ### Protein Folding
 *[Protein Folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 
-The process by which a linear amino acid sequence of a protein is converted into a precise three-dimensional architecture is a key issue in biochemistry, and is known as the 'protein folding' problem.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/protein-folding-502ae9dc'><i class='fa fa-play' aria-hidden='true'></i></button>The process by which a linear amino acid sequence of a protein is converted into a precise three-dimensional architecture is a key issue in biochemistry, and is known as the 'protein folding' problem.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[protein folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -81,7 +81,7 @@ The process by which a linear amino acid sequence of a protein is converted into
     
 #### Anfinsen's Dogma
 
-The first and most important clue to the protein folding puzzle comes from  classic experiments by Christian Anfinsen who demonstrated that denaturated ribonuclease spontaneously refolds into its active conformation in vitro. This proved that there is sufficient information in the protein sequence to determine its correct folding.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/anfinsens-dogma-e77f6532'><i class='fa fa-play' aria-hidden='true'></i></button>The first and most important clue to the protein folding puzzle comes from  classic experiments by Christian Anfinsen who demonstrated that denaturated ribonuclease spontaneously refolds into its active conformation in vitro. This proved that there is sufficient information in the protein sequence to determine its correct folding.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[protein folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 
@@ -96,7 +96,7 @@ The first and most important clue to the protein folding puzzle comes from  clas
     
 #### Anfinsen's Dogma and Levinthal's Paradox
 
-The underlying principle that can be deduced from Anfisen's experiment is that the energetically favored state of a protein coincides with its correctly folded one. However, Levinthal demonstrated that a systematic random search of all possible conformations of the protein would take an infinite amount of time until the most stable form is found, whereas in real cells this occurs within seconds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/anfinsens-dogma-levinthals-paradox-d4adefd7'><i class='fa fa-play' aria-hidden='true'></i></button>The underlying principle that can be deduced from Anfisen's experiment is that the energetically favored state of a protein coincides with its correctly folded one. However, Levinthal demonstrated that a systematic random search of all possible conformations of the protein would take an infinite amount of time until the most stable form is found, whereas in real cells this occurs within seconds.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/2_2_2_0_1.png){: loading=lazy }
@@ -109,7 +109,7 @@ The underlying principle that can be deduced from Anfisen's experiment is that t
     
 #### The Pathway Theory and Energy Funnels
 
-The most plausible hypothesis was that folding follows a limited number of pathways, until the protein reaches the final fold. Thus, the search for a free energy minima is more like balls rolling down funnels rather than balls rolling aimlessly on a flat surface. The funnel energy landscape thus accommodates  folding kinetics and thermodynamic stability.  
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/pathway-theory-energy-funnels-9b6e9ea1'><i class='fa fa-play' aria-hidden='true'></i></button>The most plausible hypothesis was that folding follows a limited number of pathways, until the protein reaches the final fold. Thus, the search for a free energy minima is more like balls rolling down funnels rather than balls rolling aimlessly on a flat surface. The funnel energy landscape thus accommodates  folding kinetics and thermodynamic stability.  
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -144,7 +144,7 @@ The most plausible hypothesis was that folding follows a limited number of pathw
 #### Mechanisms of Protein Folding
 *[Protein Folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 
-Many intricate mechanisms were put forward to describe simple pathways of protein folding. Some of these models include the initial formation of secondary structure elements,  the initial formation of compact shapes by hydrophobic collapses, or even more complicated combinations of these two processes which are beyond the scope of this chapter.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/mechanisms-protein-folding-5ec340fa'><i class='fa fa-play' aria-hidden='true'></i></button>Many intricate mechanisms were put forward to describe simple pathways of protein folding. Some of these models include the initial formation of secondary structure elements,  the initial formation of compact shapes by hydrophobic collapses, or even more complicated combinations of these two processes which are beyond the scope of this chapter.
 *[protein folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 
 
@@ -213,7 +213,7 @@ Many intricate mechanisms were put forward to describe simple pathways of protei
     
 #### The Protein Misfolding Problem
 
-In real cells the protein folding process seems to be more complex. An unexpected mechanism was observed where proteins called "chaperons" were discovered, whose role is to keep proteins from getting out of their right folding path. This finding cast doubt on the validity of Anfinsen's thermodynamic model under cellular conditions and prompted the search of improved models.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/protein-misfolding-problem-bcbb84f6'><i class='fa fa-play' aria-hidden='true'></i></button>In real cells the protein folding process seems to be more complex. An unexpected mechanism was observed where proteins called "chaperons" were discovered, whose role is to keep proteins from getting out of their right folding path. This finding cast doubt on the validity of Anfinsen's thermodynamic model under cellular conditions and prompted the search of improved models.
 *[protein folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -243,7 +243,7 @@ In real cells the protein folding process seems to be more complex. An unexpecte
     
 ### Challenge in Understanding Protein Structure
 
-Despite the exciting advances in our understanding of protein folding in the last decade, it remains an unresolved enigma. The prediction of the 3D structure of a protein from sequence data alone is a formidable challenge.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/challenge-understanding-protein-structure-63cb14fc'><i class='fa fa-play' aria-hidden='true'></i></button>Despite the exciting advances in our understanding of protein folding in the last decade, it remains an unresolved enigma. The prediction of the 3D structure of a protein from sequence data alone is a formidable challenge.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[protein folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 
@@ -265,7 +265,7 @@ Despite the exciting advances in our understanding of protein folding in the las
 
 ### Amino acids: Building Blocks of Proteins
 
-Amino Acids are the building blocks of proteins. All proteins, from the most ancient lines of bacteria to the most complex forms of life, are constructed with the same basic set of 20 amino acids existing in nature. In the following view you can see the full name of each  amino acid as well as its three-letter and one-letter codes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/amino-acids-building-blocks-proteins-fc216081'><i class='fa fa-play' aria-hidden='true'></i></button>Amino Acids are the building blocks of proteins. All proteins, from the most ancient lines of bacteria to the most complex forms of life, are constructed with the same basic set of 20 amino acids existing in nature. In the following view you can see the full name of each  amino acid as well as its three-letter and one-letter codes.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -273,7 +273,7 @@ Amino Acids are the building blocks of proteins. All proteins, from the most anc
 ![](https://media.drugdesign.org/course/protein-structure/3_1_0_0_1.png){: loading=lazy }
 ### &alpha;-Amino Acids
 
-The amino acids found in proteins have the following general topology called the &alpha;-structure. An &alpha;-amino acid is characterized by a central carbon atom (called the C&alpha;), which is connected to the following four groups: (1) amino; (2) carboxyl; (3) hydrogen atom and (4) distinctive R group - often referred to as the "side chain".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/alpha-amino-acids-7bd5b3b0'><i class='fa fa-play' aria-hidden='true'></i></button>The amino acids found in proteins have the following general topology called the &alpha;-structure. An &alpha;-amino acid is characterized by a central carbon atom (called the C&alpha;), which is connected to the following four groups: (1) amino; (2) carboxyl; (3) hydrogen atom and (4) distinctive R group - often referred to as the "side chain".
 
 
 ![](https://media.drugdesign.org/course/protein-structure/alpha_amino_acid.png){: loading=lazy }
@@ -282,7 +282,7 @@ The amino acids found in proteins have the following general topology called the
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-With four different groups connected to the central sp<sup>3</sup> carbon &alpha;, &alpha;-amino acids are chiral and possess two stereoisomers: the L and the D enantiomers. The amino acids in nearly all natural proteins have the L stereochemistry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/alpha-amino-acid-stereoisomers-7c549418'><i class='fa fa-play' aria-hidden='true'></i></button>With four different groups connected to the central sp<sup>3</sup> carbon &alpha;, &alpha;-amino acids are chiral and possess two stereoisomers: the L and the D enantiomers. The amino acids in nearly all natural proteins have the L stereochemistry.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -300,26 +300,26 @@ With four different groups connected to the central sp<sup>3</sup> carbon &alpha
     
 ### Diversity of the Properties of Amino Acids
 
-Each of the twenty amino acids has unique physico-chemical properties depending on the nature of its side chain (R group). The amino acid side chains vary in size, shape, charge, hydrogen bonding capacity, hydrophobic character and chemical reactivity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/diversity-properties-amino-acids-c2502821'><i class='fa fa-play' aria-hidden='true'></i></button>Each of the twenty amino acids has unique physico-chemical properties depending on the nature of its side chain (R group). The amino acid side chains vary in size, shape, charge, hydrogen bonding capacity, hydrophobic character and chemical reactivity.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/3_4_0_0_1.png){: loading=lazy }
 #### Amino Acids Properties
 
-The following browser provides the 2D and 3D structure of all 20 standard amino acids, together with their main properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/amino-acids-properties-c1df3859'><i class='fa fa-play' aria-hidden='true'></i></button>The following browser provides the 2D and 3D structure of all 20 standard amino acids, together with their main properties.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/amino_properties.gif){: loading=lazy }
 
 #### Classification of Amino Acids Properties
 
-The amino acids can be classified and organized in different groups, based on their various physico-chemical properties as indicated in the following diagram.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/classification-amino-acids-properties-6fc979c3'><i class='fa fa-play' aria-hidden='true'></i></button>The amino acids can be classified and organized in different groups, based on their various physico-chemical properties as indicated in the following diagram.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/3_4_2_0_1.png){: loading=lazy }
 ### Non-Standard Amino Acids
 
-In addition to the standard set of twenty amino acids that are found in all proteins, other amino acids have been found in certain types of proteins. Some examples are shown here. Most of them are the result of biochemical transformations of a standard amino acid, after its incorporation into the protein sequence.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/non-standard-amino-acids-449f2ba7'><i class='fa fa-play' aria-hidden='true'></i></button>In addition to the standard set of twenty amino acids that are found in all proteins, other amino acids have been found in certain types of proteins. Some examples are shown here. Most of them are the result of biochemical transformations of a standard amino acid, after its incorporation into the protein sequence.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -351,14 +351,14 @@ In addition to the standard set of twenty amino acids that are found in all prot
 
 ### Amino Acids are Linked by Peptide Bonds
 
-Amino acids can be covalently linked together by the formation of an amide bond between the &alpha;-amino group of one amino acid and the &alpha;-carboxyl group of another amino acid. The resulting amide bond is known as "peptide bond". The formation of a dipeptide from two amino acids in a condensation reaction is accompanied by the removal of a water molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/amino-acids-are-linked-by-peptide-bonds-b74af240'><i class='fa fa-play' aria-hidden='true'></i></button>Amino acids can be covalently linked together by the formation of an amide bond between the &alpha;-amino group of one amino acid and the &alpha;-carboxyl group of another amino acid. The resulting amide bond is known as "peptide bond". The formation of a dipeptide from two amino acids in a condensation reaction is accompanied by the removal of a water molecule.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/4_1_1_0_0.png){: loading=lazy }
 #### Peptide Biosynthesis
 
-In the cell, amino acids are chemically linked by the biochemical process of translation, or protein biosynthesis. The polymer biosynthesis is a template-directed reaction catalyzed by the ribosome.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/peptide-biosynthesis-67fbd68a'><i class='fa fa-play' aria-hidden='true'></i></button>In the cell, amino acids are chemically linked by the biochemical process of translation, or protein biosynthesis. The polymer biosynthesis is a template-directed reaction catalyzed by the ribosome.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/biosynthese.gif){: loading=lazy }
@@ -373,7 +373,7 @@ In the cell, amino acids are chemically linked by the biochemical process of tra
     
 #### Polymer Amino-Acids
 
-A series of amino acids joined by peptide bonds form a polypeptide chain. Each amino acid unit is called a "residue". A polypeptide chain consists of a regularly repeating part, called the "main chain" or the "backbone" and a variable part, comprising the distinctive side chains.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/polymer-amino-acids-eb53aef0'><i class='fa fa-play' aria-hidden='true'></i></button>A series of amino acids joined by peptide bonds form a polypeptide chain. Each amino acid unit is called a "residue". A polypeptide chain consists of a regularly repeating part, called the "main chain" or the "backbone" and a variable part, comprising the distinctive side chains.
 
 
 === "2D chain"
@@ -392,27 +392,27 @@ A series of amino acids joined by peptide bonds form a polypeptide chain. Each a
 
 ### Length of Proteins
 
-Most natural polypeptide chains contain between 50 and 2000 amino acid residues. Shorter chains are called oligopeptides or simply peptides. The following histogram shows the length of the proteins in the E-coli proteome.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/length-proteins-76a16505'><i class='fa fa-play' aria-hidden='true'></i></button>Most natural polypeptide chains contain between 50 and 2000 amino acid residues. Shorter chains are called oligopeptides or simply peptides. The following histogram shows the length of the proteins in the E-coli proteome.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/4_2_0_0_1.png){: loading=lazy }
 ### More than One Polypeptide Chain
 
-Some proteins contain a single polypeptide chain, whereas others may aggregate to form dimeric, trimeric and multimeric clusters. The polypeptide chains in these clusters can be either identical or different.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/more-than-one-polypeptide-chain-df7ef988'><i class='fa fa-play' aria-hidden='true'></i></button>Some proteins contain a single polypeptide chain, whereas others may aggregate to form dimeric, trimeric and multimeric clusters. The polypeptide chains in these clusters can be either identical or different.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/4_3_0_0_1.png){: loading=lazy }
 ### Conjugated Proteins
 
-There are proteins that incorporate non-peptidic molecules in their overall structure, either bonded covalently or positioned by other forces. These are called conjugated proteins, and the non-peptide components are referred to as prosthetic groups. The prosthetic moieties play an essential role in protein function. Conjugated proteins are classified according to the chemical nature of their prosthetic group. For example:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/conjugated-proteins-00db3964'><i class='fa fa-play' aria-hidden='true'></i></button>There are proteins that incorporate non-peptidic molecules in their overall structure, either bonded covalently or positioned by other forces. These are called conjugated proteins, and the non-peptide components are referred to as prosthetic groups. The prosthetic moieties play an essential role in protein function. Conjugated proteins are classified according to the chemical nature of their prosthetic group. For example:
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/4_4_0_0_1.png){: loading=lazy }
 ### Examples of Conjugated Proteins
 
-Examples of known structures of conjugated proteins are shown here. The protein is visualized by a ribbon representation with relevant residues represented by sticks. The prosthetic group is shown in a "ball and stick" representation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/examples-conjugated-proteins-17c0798f'><i class='fa fa-play' aria-hidden='true'></i></button>Examples of known structures of conjugated proteins are shown here. The protein is visualized by a ribbon representation with relevant residues represented by sticks. The prosthetic group is shown in a "ball and stick" representation.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/conjugated_protein.gif){: loading=lazy }
@@ -444,7 +444,7 @@ Examples of known structures of conjugated proteins are shown here. The protein 
     
 ### Cross-Linked Polypeptide Chains
 
-In some proteins, two cysteine side chains are located close together so that their thiol groups can be oxidized to produce a covalently dimeric amino acid joined by a disulfide bond (bridge). This dimeric amino acid is known as "Cystine". The covalent cross-linking helps to stabilize the protein structure. Intramolecular disulfide bonds are mainly found in proteins that are in the extracellular space (e.g. digestive enzymes, hormones).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/cross-linked-polypeptide-chains-4f131cc0'><i class='fa fa-play' aria-hidden='true'></i></button>In some proteins, two cysteine side chains are located close together so that their thiol groups can be oxidized to produce a covalently dimeric amino acid joined by a disulfide bond (bridge). This dimeric amino acid is known as "Cystine". The covalent cross-linking helps to stabilize the protein structure. Intramolecular disulfide bonds are mainly found in proteins that are in the extracellular space (e.g. digestive enzymes, hormones).
 
 
 ![](https://media.drugdesign.org/course/protein-structure/cysteine_bond.gif){: loading=lazy }
@@ -475,14 +475,14 @@ In some proteins, two cysteine side chains are located close together so that th
 
 ### Peptide Bonds are Planar
 
-The peptide bond is essentially planar. All the atoms in the central amide bond lie in the same plane.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/peptide-bonds-are-planar-055e951e'><i class='fa fa-play' aria-hidden='true'></i></button>The peptide bond is essentially planar. All the atoms in the central amide bond lie in the same plane.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/planar.gif){: loading=lazy }
 
 ### Why the Peptide Bond is Planar?
 
-The chemical nature of the peptide bond explains this geometric preference. The lone pair on the nitrogen atom can delocalize into the adjacent carbonyl as illustrated in the following resonance structure. Thus, the peptide bond has a considerable double-bond character, which prevents free rotation about this bond and favors a planar geometry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/why-peptide-bond-is-planar-6d1a20f7'><i class='fa fa-play' aria-hidden='true'></i></button>The chemical nature of the peptide bond explains this geometric preference. The lone pair on the nitrogen atom can delocalize into the adjacent carbonyl as illustrated in the following resonance structure. Thus, the peptide bond has a considerable double-bond character, which prevents free rotation about this bond and favors a planar geometry.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -492,7 +492,7 @@ The chemical nature of the peptide bond explains this geometric preference. The 
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-The restricted rotation about the planar peptide bond allows the amide moieties to exist as discrete "s-cis" and "s-trans" isomers. In proteins, the great majority of peptide bonds are s-trans.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/cis-trans-isomers-peptide-bond-65769abe'><i class='fa fa-play' aria-hidden='true'></i></button>The restricted rotation about the planar peptide bond allows the amide moieties to exist as discrete "s-cis" and "s-trans" isomers. In proteins, the great majority of peptide bonds are s-trans.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -510,7 +510,7 @@ The restricted rotation about the planar peptide bond allows the amide moieties 
 #### Trans Isomer Favored
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-The preference of the s-trans over the s-cis isomer can be explained by steric clashes between the amino acids side chains attached to the &alpha;-carbon which hinder formation of the s-cis isomer. In other words, the s-trans isomer is intrinsically favored energetically due to fewer repulsions between non-bonded atoms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/trans-isomer-favored-7fb428f4'><i class='fa fa-play' aria-hidden='true'></i></button>The preference of the s-trans over the s-cis isomer can be explained by steric clashes between the amino acids side chains attached to the &alpha;-carbon which hinder formation of the s-cis isomer. In other words, the s-trans isomer is intrinsically favored energetically due to fewer repulsions between non-bonded atoms.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -522,7 +522,7 @@ The preference of the s-trans over the s-cis isomer can be explained by steric c
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-For proline the situation is different because the steric differences between cis and trans isomers are minimal. In folded proteins about 10% of the proline-peptide bonds are found in the cis conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/isomers-proline-4641252e'><i class='fa fa-play' aria-hidden='true'></i></button>For proline the situation is different because the steric differences between cis and trans isomers are minimal. In folded proteins about 10% of the proline-peptide bonds are found in the cis conformation.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -533,7 +533,7 @@ For proline the situation is different because the steric differences between ci
 
 ### Peptide Torsion Angles
 
-The torsion angles along the polypeptide chain are called omega (&Omega;) (the peptide bond), phi (&Phi;) and psi (&Psi;) (see view below). Unlike the peptide bond, the bonds defined by the torsion angles &Phi; and &Psi; are single &Sigma;-bonds and can  rotate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/peptide-torsion-angles-2f2f3d3d'><i class='fa fa-play' aria-hidden='true'></i></button>The torsion angles along the polypeptide chain are called omega (&Omega;) (the peptide bond), phi (&Phi;) and psi (&Psi;) (see view below). Unlike the peptide bond, the bonds defined by the torsion angles &Phi; and &Psi; are single &Sigma;-bonds and can  rotate.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -542,7 +542,7 @@ The torsion angles along the polypeptide chain are called omega (&Omega;) (the p
 #### Conformational Freedom
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The free rotation about two rotatable bonds of each amino acid allows adjacent rigid peptide units to rotate about these bonds, and as a consequence the polypeptide chain can fold in many different ways. The exact geometry of a polypeptide chain is defined by the respective  &Phi; and &Psi; values.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/conformational-freedom-c88d6968'><i class='fa fa-play' aria-hidden='true'></i></button>The free rotation about two rotatable bonds of each amino acid allows adjacent rigid peptide units to rotate about these bonds, and as a consequence the polypeptide chain can fold in many different ways. The exact geometry of a polypeptide chain is defined by the respective  &Phi; and &Psi; values.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -551,7 +551,7 @@ The free rotation about two rotatable bonds of each amino acid allows adjacent r
 
 #### Conformational Complexity of Polypeptide Chains
 
-With two rotatable bonds for each amino acid, the conformational complexity of any polypeptide chain is huge. Just taking the three energetically favored staggered conformation for each rotatable bond yields the following results:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/conformational-complexity-polypeptide-chains-7df2ec49'><i class='fa fa-play' aria-hidden='true'></i></button>With two rotatable bonds for each amino acid, the conformational complexity of any polypeptide chain is huge. Just taking the three energetically favored staggered conformation for each rotatable bond yields the following results:
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -559,7 +559,7 @@ With two rotatable bonds for each amino acid, the conformational complexity of a
 
 ### Not All &Phi;/&Psi; Torsion Angles are Possible
 
-Whereas there is considerable conformational freedom around the &Phi; and &Psi; angles due to steric repulsions, not all torsion angles are possible. For example, in the situation illustrated below the combination of &Psi;=180 and &Phi;=0 is "disallowed" due to steric clashes between the two carbonyl groups.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/not-all-phipsi-torsion-angles-are-possible-9fb53661'><i class='fa fa-play' aria-hidden='true'></i></button>Whereas there is considerable conformational freedom around the &Phi; and &Psi; angles due to steric repulsions, not all torsion angles are possible. For example, in the situation illustrated below the combination of &Psi;=180 and &Phi;=0 is "disallowed" due to steric clashes between the two carbonyl groups.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -567,7 +567,7 @@ Whereas there is considerable conformational freedom around the &Phi; and &Psi; 
 
 ### The Ramachandran Plot
 
-G.N. Ramachandran used computer models of small polypeptides to systematically explore possible &Phi; and &Psi; combinations in polypeptide chains. Each combination of the two torsion angles was structurally examined to identify favorable interactions or steric clashes between atoms. The distribution of &Phi; and &Psi; angles can be plotted in two-dimensions in the so-called Ramachandran plot (see next pages).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/ramachandran-plot-365936b8'><i class='fa fa-play' aria-hidden='true'></i></button>G.N. Ramachandran used computer models of small polypeptides to systematically explore possible &Phi; and &Psi; combinations in polypeptide chains. Each combination of the two torsion angles was structurally examined to identify favorable interactions or steric clashes between atoms. The distribution of &Phi; and &Psi; angles can be plotted in two-dimensions in the so-called Ramachandran plot (see next pages).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -597,34 +597,34 @@ G.N. Ramachandran used computer models of small polypeptides to systematically e
     
 #### &Phi; and &Psi; Distribution
 
-For all amino acids except glycine, the following Ramachandran plot describes the allowed and disallowed  &Phi;-&Psi; torsion angle combinations. The white areas correspond to disallowed conformations (where atoms clash). The blue areas correspond to allowed conformations. Borderline regions in which the atoms are allowed to come a little bit closer together appear in light blue.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/phi-psi-distribution-615b97d7'><i class='fa fa-play' aria-hidden='true'></i></button>For all amino acids except glycine, the following Ramachandran plot describes the allowed and disallowed  &Phi;-&Psi; torsion angle combinations. The white areas correspond to disallowed conformations (where atoms clash). The blue areas correspond to allowed conformations. Borderline regions in which the atoms are allowed to come a little bit closer together appear in light blue.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/5_6_1_0_1.png){: loading=lazy }
 #### Interactive Ramachandran Plot
 
-The following is an interactive Ramachandran plot for Ala-Ala-Ala tripeptide. Each point on the plot shows the &Phi; and &Psi; values for the central Ala residue in the tripeptide.  By clicking on a given point in the diagram you can visualize the corresponding 3D structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/interactive-ramachandran-plot-45725434'><i class='fa fa-play' aria-hidden='true'></i></button>The following is an interactive Ramachandran plot for Ala-Ala-Ala tripeptide. Each point on the plot shows the &Phi; and &Psi; values for the central Ala residue in the tripeptide.  By clicking on a given point in the diagram you can visualize the corresponding 3D structure.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/ramachandran_plot2.gif){: loading=lazy }
 
 #### Torsion Angles Observed in Proteins
 
-By displaying all sets of &Phi;/&Psi; torsion angles observed in a given protein (here, the lysozyme protein) on top of a Ramachandran plot, the fit between the predicted and observed values can be checked (note that glycine residues are not included in this diagram).  
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/torsion-angles-observed-proteins-aa22be38'><i class='fa fa-play' aria-hidden='true'></i></button>By displaying all sets of &Phi;/&Psi; torsion angles observed in a given protein (here, the lysozyme protein) on top of a Ramachandran plot, the fit between the predicted and observed values can be checked (note that glycine residues are not included in this diagram).  
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/5_6_3_0_1.png){: loading=lazy }
 #### Glycine Residue Torsion Angles
 
-In the case of glycine the situation is different because this residue has no side chain, which allows for a broader range of &Phi;/&Psi; values. Including the glycine residues torsion angles of the protein considered (lysozyme) on top of the general Ramachandran plot (pink triangles), often  results in &Phi;/&Psi; values that are located in the seemingly disallowed area.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/glycine-residue-torsion-angles-2124d649'><i class='fa fa-play' aria-hidden='true'></i></button>In the case of glycine the situation is different because this residue has no side chain, which allows for a broader range of &Phi;/&Psi; values. Including the glycine residues torsion angles of the protein considered (lysozyme) on top of the general Ramachandran plot (pink triangles), often  results in &Phi;/&Psi; values that are located in the seemingly disallowed area.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/5_6_4_0_1.png){: loading=lazy }
 ### Side Chain Conformations
 
-For similar reasons (as for the geometry of the backbone) the conformational possibilities of the side chains are also restricted. The distinct, low energy conformations of a given residue are called side chain rotamers. For example the nine rotamers of the side chain of aspartate are shown here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/side-chain-conformations-9b0c50ac'><i class='fa fa-play' aria-hidden='true'></i></button>For similar reasons (as for the geometry of the backbone) the conformational possibilities of the side chains are also restricted. The distinct, low energy conformations of a given residue are called side chain rotamers. For example the nine rotamers of the side chain of aspartate are shown here.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/side_chain_conformation.gif){: loading=lazy }
@@ -643,14 +643,14 @@ For similar reasons (as for the geometry of the backbone) the conformational pos
     
 #### Side Chain Atomic and 3D Nomenclature
 
-The side chain atoms of amino acids and the corresponding torsion angles are called by letters of the Greek alphabet. Here, for example, the Lysine residue is shown. Amino acids may have up to five possible torsions within their side chain, depending on the structure of the residue.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/side-chain-atomic-3d-nomenclature-c6ee1c1d'><i class='fa fa-play' aria-hidden='true'></i></button>The side chain atoms of amino acids and the corresponding torsion angles are called by letters of the Greek alphabet. Here, for example, the Lysine residue is shown. Amino acids may have up to five possible torsions within their side chain, depending on the structure of the residue.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/5_7_1_0_1.png){: loading=lazy }
 #### Side Chain Conformations
 
-In principle, the torsion angles adopted by side chain residues should be close to theoretical equilibrium values, which minimize close contacts between adjacent atoms of the residue (e.g. staggered in the case of a sp<sup>3</sup>-sp<sup>3</sup> bond and eclipsed for a sp<sup>2</sup>-sp<sup>3</sup> bond). However, some combinations of torsion angles can create unfavorable interactions between distant atoms. For example a staggered conformation of the leucine residue with steric clashes is shown in the view below (for clarity hydrogen atoms have been omitted).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/side-chain-conformations-51ab43da'><i class='fa fa-play' aria-hidden='true'></i></button>In principle, the torsion angles adopted by side chain residues should be close to theoretical equilibrium values, which minimize close contacts between adjacent atoms of the residue (e.g. staggered in the case of a sp<sup>3</sup>-sp<sup>3</sup> bond and eclipsed for a sp<sup>2</sup>-sp<sup>3</sup> bond). However, some combinations of torsion angles can create unfavorable interactions between distant atoms. For example a staggered conformation of the leucine residue with steric clashes is shown in the view below (for clarity hydrogen atoms have been omitted).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -658,7 +658,7 @@ In principle, the torsion angles adopted by side chain residues should be close 
 
 #### Non-Rotameric Side Chain Conformations
 
-The side chain conformations are highly affected by external parameters, such as ligand binding and protein packing. Consequently, commonly up to 10% of the side chains in a protein adopt non-regular (rotameric) conformations. For example, in the following enzyme non-rotameric side chains are shown with green carbon atoms.   Note that three of these residues were found to interact with the ligand molecule (white) in the complex.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/non-rotameric-side-chain-conformations-2a286d7e'><i class='fa fa-play' aria-hidden='true'></i></button>The side chain conformations are highly affected by external parameters, such as ligand binding and protein packing. Consequently, commonly up to 10% of the side chains in a protein adopt non-regular (rotameric) conformations. For example, in the following enzyme non-rotameric side chains are shown with green carbon atoms.   Note that three of these residues were found to interact with the ligand molecule (white) in the complex.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -691,7 +691,7 @@ The side chain conformations are highly affected by external parameters, such as
 
 ### Protein Structure Complexity
 
-The most striking feature of the folded conformation of a protein is its complexity, revealing the organization and the relationships of thousands of atoms in three-dimensional space. We will ease our way into the confusing jumble of atomic coordinates, distances, torsions angles and interactions with a short overview of protein architecture.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/protein-structure-complexity-07eb5aff'><i class='fa fa-play' aria-hidden='true'></i></button>The most striking feature of the folded conformation of a protein is its complexity, revealing the organization and the relationships of thousands of atoms in three-dimensional space. We will ease our way into the confusing jumble of atomic coordinates, distances, torsions angles and interactions with a short overview of protein architecture.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -705,13 +705,13 @@ The most striking feature of the folded conformation of a protein is its complex
     
 ### The Four Levels of Protein Architecture
 
-There are four levels in the hierarchy of the protein structure that represent different levels of structural complexity. They correspond to the primary, secondary, tertiary and quaternary levels of the protein structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/four-levels-protein-architecture-41b29297'><i class='fa fa-play' aria-hidden='true'></i></button>There are four levels in the hierarchy of the protein structure that represent different levels of structural complexity. They correspond to the primary, secondary, tertiary and quaternary levels of the protein structure.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/6_2_0_0_1.png){: loading=lazy }
 #### Primary Structure
 
-The first and most fundamental level of a protein is its primary structure, which describes the atomic connectivities of the protein. The primary structure is defined by the amino acid sequence and may include cystines that are formed during cross-linking.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/primary-structure-4121661b'><i class='fa fa-play' aria-hidden='true'></i></button>The first and most fundamental level of a protein is its primary structure, which describes the atomic connectivities of the protein. The primary structure is defined by the amino acid sequence and may include cystines that are formed during cross-linking.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -719,7 +719,7 @@ The first and most fundamental level of a protein is its primary structure, whic
 
 #### Secondary Structure
 
-The next level of protein structure, the secondary structure, includes local regular conformations of the polypeptide chain. The two major elements of the secondary structure are the &alpha;-helix and the &beta;-sheet.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/secondary-structure-bcfd0f38'><i class='fa fa-play' aria-hidden='true'></i></button>The next level of protein structure, the secondary structure, includes local regular conformations of the polypeptide chain. The two major elements of the secondary structure are the &alpha;-helix and the &beta;-sheet.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -727,14 +727,14 @@ The next level of protein structure, the secondary structure, includes local reg
 
 #### Tertiary Structure
 
-The tertiary structure of a protein is the overall 3D architecture of the folded polypeptide chain which also includes the assembly of the various secondary structure elements in 3D.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/tertiary-structure-2e02f97c'><i class='fa fa-play' aria-hidden='true'></i></button>The tertiary structure of a protein is the overall 3D architecture of the folded polypeptide chain which also includes the assembly of the various secondary structure elements in 3D.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/tertiary.gif){: loading=lazy }
 
 #### Quaternary Structure
 
-Finally, proteins consisting of more than one polypeptide chain display a quaternary structure, which refers to the spatial relationship between the individual polypeptide chains (subunits).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/quaternary-structure-e814e23a'><i class='fa fa-play' aria-hidden='true'></i></button>Finally, proteins consisting of more than one polypeptide chain display a quaternary structure, which refers to the spatial relationship between the individual polypeptide chains (subunits).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -742,14 +742,14 @@ Finally, proteins consisting of more than one polypeptide chain display a quater
 
 ### Forces Involved in Protein Stability
 
-Protein stability arises from many noncovalent interactions such as hydrogen-bonding, hydrophobic and electrostatic interactions. Their individual forces are weak (many hundred times weaker than the strength of a covalent bond), but their great number and broad distribution create a cooperative effect that dictates how the protein fold into a conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/forces-involved-protein-stability-d10f2e53'><i class='fa fa-play' aria-hidden='true'></i></button>Protein stability arises from many noncovalent interactions such as hydrogen-bonding, hydrophobic and electrostatic interactions. Their individual forces are weak (many hundred times weaker than the strength of a covalent bond), but their great number and broad distribution create a cooperative effect that dictates how the protein fold into a conformation.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/6_3_0_0_1.jpg){: loading=lazy }
 
 ### Proteins are not Static
 
-Proteins are not motionless under physiological conditions. Thermodynamic vibrations of the atoms may induce movement of entire regions of the protein. Dynamic changes of protein conformations range from local side chain rearrangements to complex backbone motions such as the hinge bending illustrated below. Conformational changes are key elements for the biological function of the protein. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/proteins-are-not-static-4564ed12'><i class='fa fa-play' aria-hidden='true'></i></button>Proteins are not motionless under physiological conditions. Thermodynamic vibrations of the atoms may induce movement of entire regions of the protein. Dynamic changes of protein conformations range from local side chain rearrangements to complex backbone motions such as the hinge bending illustrated below. Conformational changes are key elements for the biological function of the protein. 
 
 
 ![](https://media.drugdesign.org/course/protein-structure/protein_not_static.gif){: loading=lazy }
@@ -777,13 +777,13 @@ Proteins are not motionless under physiological conditions. Thermodynamic vibrat
     
 ### Representing Protein Structures
 
-Various representations are used to visualize protein structures, each type highlighting a specific feature of the considered structure. The most common visualization techniques are illustrated here using the thioredoxin protein as an example.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/representing-protein-structures-2d805dd9'><i class='fa fa-play' aria-hidden='true'></i></button>Various representations are used to visualize protein structures, each type highlighting a specific feature of the considered structure. The most common visualization techniques are illustrated here using the thioredoxin protein as an example.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/6_5_0_0_1.png){: loading=lazy }
 #### Wireframe Representation
 
-The wireframe representation consists of a visualization of the bonding arrangement of the atoms of the protein in 3D (for clarity non-essential hydrogen atoms are not included). In all visualization softwares an additional functionality displays the hydrogen bonds. The coloring scheme is the following: carbon (grey), oxygen (red), nitrogen (blue) and sulfur (yellow).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/wireframe-representation-be5d0508'><i class='fa fa-play' aria-hidden='true'></i></button>The wireframe representation consists of a visualization of the bonding arrangement of the atoms of the protein in 3D (for clarity non-essential hydrogen atoms are not included). In all visualization softwares an additional functionality displays the hydrogen bonds. The coloring scheme is the following: carbon (grey), oxygen (red), nitrogen (blue) and sulfur (yellow).
 
 
 ![](https://media.drugdesign.org/course/protein-structure/display_wireframe.png){: loading=lazy }
@@ -795,7 +795,7 @@ The wireframe representation consists of a visualization of the bonding arrangem
     
 #### Ball and Stick Representation
 
-Interesting details of  protein folding can be revealed by removing the side chains and only displaying  the heavy atoms of the backbone. Here, the backbone is displayed as an assembly of atoms and the bonds are visualized in a "ball and stick" representation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/ball-stick-representation-8a0363b0'><i class='fa fa-play' aria-hidden='true'></i></button>Interesting details of  protein folding can be revealed by removing the side chains and only displaying  the heavy atoms of the backbone. Here, the backbone is displayed as an assembly of atoms and the bonds are visualized in a "ball and stick" representation.
 *[protein folding]: A spontaneous process directed by the physical and chemical properties of the amino acid sequence that dictate the folding of a protein into a particular conformation.
 
 
@@ -808,7 +808,7 @@ Interesting details of  protein folding can be revealed by removing the side cha
     
 #### C&alpha; Trace Representation
 
-A simpler way to visualize the general fold of a polypeptide chain is to use a C&alpha; trace. The C&alpha; trace representation is a line that connects the &alpha; carbon positions of each amino acid residue (note that the "bonds" shown here do not correspond to real ones).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/calpha-trace-representation-1841e1d1'><i class='fa fa-play' aria-hidden='true'></i></button>A simpler way to visualize the general fold of a polypeptide chain is to use a C&alpha; trace. The C&alpha; trace representation is a line that connects the &alpha; carbon positions of each amino acid residue (note that the "bonds" shown here do not correspond to real ones).
 
 
 ![](https://media.drugdesign.org/course/protein-structure/display_calpha.png){: loading=lazy }
@@ -820,7 +820,7 @@ A simpler way to visualize the general fold of a polypeptide chain is to use a C
     
 #### Ribbon Representation
 
-The ribbon representation provides an overview of the overall folding of the protein. &alpha;-Helices and &beta;-sheets are easily recognized. The coloring scheme here shows the various secondary structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/ribbon-representation-14cca1aa'><i class='fa fa-play' aria-hidden='true'></i></button>The ribbon representation provides an overview of the overall folding of the protein. &alpha;-Helices and &beta;-sheets are easily recognized. The coloring scheme here shows the various secondary structures.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -833,7 +833,7 @@ The ribbon representation provides an overview of the overall folding of the pro
     
 #### Cartoon Representation
 
-This is a cartoon-type representation showing the folding of the protein in a C&alpha; trace framework. In this type of visualization &alpha;-helices are represented as cylinders and &beta;-strands as flat arrows.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/cartoon-representation-5ec811c4'><i class='fa fa-play' aria-hidden='true'></i></button>This is a cartoon-type representation showing the folding of the protein in a C&alpha; trace framework. In this type of visualization &alpha;-helices are represented as cylinders and &beta;-strands as flat arrows.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/display_cartoon.png){: loading=lazy }
@@ -845,7 +845,7 @@ This is a cartoon-type representation showing the folding of the protein in a C&
     
 #### Space Filling - CPK Representation
 
-The atoms are shown here as CPK spheres with their volume corresponding to the van der Waals radii of the atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/space-filling---cpk-representation-27576d49'><i class='fa fa-play' aria-hidden='true'></i></button>The atoms are shown here as CPK spheres with their volume corresponding to the van der Waals radii of the atom.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/display_cpk.png){: loading=lazy }
@@ -857,7 +857,7 @@ The atoms are shown here as CPK spheres with their volume corresponding to the v
     
 #### Surface Representation
 
-The surface representation visualizes the molecular envelope of the protein. Moreover, a color-code property can be used for the graphical representation of the surface (in the example below: the electrostatic potential).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/surface-representation-cf156d74'><i class='fa fa-play' aria-hidden='true'></i></button>The surface representation visualizes the molecular envelope of the protein. Moreover, a color-code property can be used for the graphical representation of the surface (in the example below: the electrostatic potential).
 
 
 ![](https://media.drugdesign.org/course/protein-structure/display_surface.png){: loading=lazy }
@@ -871,14 +871,14 @@ The surface representation visualizes the molecular envelope of the protein. Mor
 
 ### Primary Structure
 
-The primary structure of a protein accounts for its covalent structure. Thus, the primary structure is a linear description of the sequence of amino acids of the protein (and may include post-translational modifications, such as glycosylation, phosphorylation and the locations of disulfide bonds). The relative spatial arrangement of the linked amino acids is not specified in this context.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/primary-structure-ddadc682'><i class='fa fa-play' aria-hidden='true'></i></button>The primary structure of a protein accounts for its covalent structure. Thus, the primary structure is a linear description of the sequence of amino acids of the protein (and may include post-translational modifications, such as glycosylation, phosphorylation and the locations of disulfide bonds). The relative spatial arrangement of the linked amino acids is not specified in this context.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/7_1_0_0_1.png){: loading=lazy }
 ### Unique Primary Structure for Each Protein
 
-In 1953 Frederick Sanger determined the first amino acid sequence of a protein (it was for the hormone insulin). He showed that proteins have a unique amino acid sequence. All molecules of a given protein are identical, and the sequence of a protein is unique.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/unique-primary-structure-for-each-protein-7450218f'><i class='fa fa-play' aria-hidden='true'></i></button>In 1953 Frederick Sanger determined the first amino acid sequence of a protein (it was for the hormone insulin). He showed that proteins have a unique amino acid sequence. All molecules of a given protein are identical, and the sequence of a protein is unique.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -886,7 +886,7 @@ In 1953 Frederick Sanger determined the first amino acid sequence of a protein (
 ### Primary Sequence and Protein Properties
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The amino acid sequence of a protein is genetically determined. It governs all its chemical and biological properties and can be considered as carrying indirect information on higher levels of the protein architecture. Moreover, it can be seen as a link between the genetic message in the DNA and the three-dimensional structure that preforms the biological function of the protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/primary-sequence-protein-properties-b8307e24'><i class='fa fa-play' aria-hidden='true'></i></button>The amino acid sequence of a protein is genetically determined. It governs all its chemical and biological properties and can be considered as carrying indirect information on higher levels of the protein architecture. Moreover, it can be seen as a link between the genetic message in the DNA and the three-dimensional structure that preforms the biological function of the protein.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -897,14 +897,14 @@ The amino acid sequence of a protein is genetically determined. It governs all i
 
 ### Secondary Structure
 
-The secondary structure refers to recurring local conformations of the polypeptide chain backbone. The two major elements of the secondary structure are the &alpha;-helix and the &beta;-sheet.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/secondary-structure-5e08d87a'><i class='fa fa-play' aria-hidden='true'></i></button>The secondary structure refers to recurring local conformations of the polypeptide chain backbone. The two major elements of the secondary structure are the &alpha;-helix and the &beta;-sheet.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/8_1_0_0_1.png){: loading=lazy }
 #### Periodic and Non Periodic Secondary Structure Elements
 
-The concept of regular repeating elements was initially introduced by Linus Pauling and Robert Corey when they proposed periodic elements for the &alpha;-helix and for the &beta;-sheet. Subsequently, other local non-periodic structural elements, such as turns and specific loops were identified.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/periodic-non-periodic-secondary-structure-elements-b0e6060e'><i class='fa fa-play' aria-hidden='true'></i></button>The concept of regular repeating elements was initially introduced by Linus Pauling and Robert Corey when they proposed periodic elements for the &alpha;-helix and for the &beta;-sheet. Subsequently, other local non-periodic structural elements, such as turns and specific loops were identified.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -924,13 +924,13 @@ The concept of regular repeating elements was initially introduced by Linus Paul
     
 #### Hydrogen Bonds in Secondary Structure Elements
 
-All the secondary structure elements are folded by linking the C=O and N-H groups of the backbone together by means of hydrogen bonds. Experimental secondary structures are usually slightly distorted when compared to their ideal theoretical geometry, however the hydrogen bond pattern is still maintained.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/hydrogen-bonds-secondary-structure-elements-10020a4a'><i class='fa fa-play' aria-hidden='true'></i></button>All the secondary structure elements are folded by linking the C=O and N-H groups of the backbone together by means of hydrogen bonds. Experimental secondary structures are usually slightly distorted when compared to their ideal theoretical geometry, however the hydrogen bond pattern is still maintained.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/8_1_2_0_1.png){: loading=lazy }
 ### The &alpha;-Helix
 
-The &alpha;-helix is the best known and most abundant form of local regular structures found in proteins. In this structure the C=O and N-H groups of all the peptide units are hydrogen-bonded. The C=O hydrogen bond acceptors and their corresponding N-H donor groups are separated by four amino acids (i.e. Oi and Ni+4) in the polypeptide chain.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/alpha-helix-2876320f'><i class='fa fa-play' aria-hidden='true'></i></button>The &alpha;-helix is the best known and most abundant form of local regular structures found in proteins. In this structure the C=O and N-H groups of all the peptide units are hydrogen-bonded. The C=O hydrogen bond acceptors and their corresponding N-H donor groups are separated by four amino acids (i.e. Oi and Ni+4) in the polypeptide chain.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/alpha_helix.gif){: loading=lazy }
@@ -964,7 +964,7 @@ The &alpha;-helix is the best known and most abundant form of local regular stru
     
 #### Packing of the &alpha;-Helix
 
-By rotating the &alpha;-helix visualized here you can see the tight  pack of backbone atoms. The side chains (represented by green spheres in the C&beta; position) extend outwards, also in a helical array.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/packing-alpha-helix-e9eb1f0d'><i class='fa fa-play' aria-hidden='true'></i></button>By rotating the &alpha;-helix visualized here you can see the tight  pack of backbone atoms. The side chains (represented by green spheres in the C&beta; position) extend outwards, also in a helical array.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -972,7 +972,7 @@ By rotating the &alpha;-helix visualized here you can see the tight  pack of bac
 
 #### &Phi; and &Psi; Torsion Angles of the &alpha;-Helix
 
-The &alpha;-helix can be defined by its &Phi; and &Psi; torsion angles. When all of the residues of a polypeptide stretch have &Phi; and &Psi; angles of approximately -57&#176; and -47&#176; respectively, these residues form an &alpha;-helix.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/phi-psi-torsion-angles-alpha-helix-34ce7562'><i class='fa fa-play' aria-hidden='true'></i></button>The &alpha;-helix can be defined by its &Phi; and &Psi; torsion angles. When all of the residues of a polypeptide stretch have &Phi; and &Psi; angles of approximately -57&#176; and -47&#176; respectively, these residues form an &alpha;-helix.
 
 
 === "3D"
@@ -984,7 +984,7 @@ The &alpha;-helix can be defined by its &Phi; and &Psi; torsion angles. When all
 #### Two Enantiomeric &alpha;-Helices
 *[Enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
-In fact two enantiomeric &alpha;-helix structures can be defined: the right-handed (clockwise) and left-handed (counterclockwise) helices (with &Phi;/&Psi; values of -57&#176;/-47&#176; and +57&#176;/+47&#176;, respectively). The right-handed &alpha; helix is by far the most abundant form found in proteins.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/two-enantiomeric-alpha-helices-5c0abcd1'><i class='fa fa-play' aria-hidden='true'></i></button>In fact two enantiomeric &alpha;-helix structures can be defined: the right-handed (clockwise) and left-handed (counterclockwise) helices (with &Phi;/&Psi; values of -57&#176;/-47&#176; and +57&#176;/+47&#176;, respectively). The right-handed &alpha; helix is by far the most abundant form found in proteins.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
@@ -995,7 +995,7 @@ In fact two enantiomeric &alpha;-helix structures can be defined: the right-hand
     ![](https://media.drugdesign.org/course/protein-structure/8_2_3_2_1.png){: loading=lazy }
 #### Geometry Described with Pitch and Rise
 
-The helical structure repeats itself every 360&#176;, in which the distance translated along the helical axis is 5.4 &#8491;, which is the "pitch" of the helix. &alpha;-Helices have 3.6 amino acid residues per turn. That means that the distance translated along the helical axis for one residue is 5.4/3.6 or 1.5 &#8491;: thus the &alpha;-helix has a rise per residue of 1.5 &#8491; (see figure below).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/geometry-described-pitch-rise-2c2804e3'><i class='fa fa-play' aria-hidden='true'></i></button>The helical structure repeats itself every 360&#176;, in which the distance translated along the helical axis is 5.4 &#8491;, which is the "pitch" of the helix. &alpha;-Helices have 3.6 amino acid residues per turn. That means that the distance translated along the helical axis for one residue is 5.4/3.6 or 1.5 &#8491;: thus the &alpha;-helix has a rise per residue of 1.5 &#8491; (see figure below).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1004,7 +1004,7 @@ The helical structure repeats itself every 360&#176;, in which the distance tran
 
 #### Helix Macro-Dipole
 
-In an &alpha;-helix the peptide planes are roughly parallel to the helix axis; the dipoles of the peptide bonds are therefore aligned in the same direction. The cumulative effect results in a substantial macro-dipole for the helix. The charges associated to the macro-dipole are about 0.5-0.7 electronic units, with a positive value at the amino end, and a negative charge at the carboxyl end.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/helix-macro-dipole-7e75c58c'><i class='fa fa-play' aria-hidden='true'></i></button>In an &alpha;-helix the peptide planes are roughly parallel to the helix axis; the dipoles of the peptide bonds are therefore aligned in the same direction. The cumulative effect results in a substantial macro-dipole for the helix. The charges associated to the macro-dipole are about 0.5-0.7 electronic units, with a positive value at the amino end, and a negative charge at the carboxyl end.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/macro_dipole.gif){: loading=lazy }
@@ -1030,7 +1030,7 @@ In an &alpha;-helix the peptide planes are roughly parallel to the helix axis; t
 #### Amphipathic Character of the &alpha; Helix
 *[Amphipathic]: With both hydrophilic and hydrophobic properties.
 
-Many &alpha;-helices are amphipathic, i.e. they consist of hydrophobic  non-polar side chains along one side of the helical cylinder, and hydrophilic polar residues along the other side. These helices have a hydrophobic moment and they often aggregate with other hydrophobic surfaces. The amphipathic nature of a helix is best seen by use of a helical wheel, which is a projection of the helix looking down at the main axis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/amphipathic-character-alpha-helix-6207fa29'><i class='fa fa-play' aria-hidden='true'></i></button>Many &alpha;-helices are amphipathic, i.e. they consist of hydrophobic  non-polar side chains along one side of the helical cylinder, and hydrophilic polar residues along the other side. These helices have a hydrophobic moment and they often aggregate with other hydrophobic surfaces. The amphipathic nature of a helix is best seen by use of a helical wheel, which is a projection of the helix looking down at the main axis.
 *[amphipathic]: With both hydrophilic and hydrophobic properties.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1054,7 +1054,7 @@ Many &alpha;-helices are amphipathic, i.e. they consist of hydrophobic  non-pola
     
 ### 3(10)-Helix and &pi;-Helix
 
-There are at least three well-identified regular helices types in proteins. All the helices visualized here consist of a string of 16 amino acids colored according to the atom types with the side chains represented as green spheres. The following view shows the ideal right-handed &alpha;-helix, the more stretched 3<sub>10</sub> helix, and the more compact &pi;-helix.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/310-helix-pi-helix-a3e3807e'><i class='fa fa-play' aria-hidden='true'></i></button>There are at least three well-identified regular helices types in proteins. All the helices visualized here consist of a string of 16 amino acids colored according to the atom types with the side chains represented as green spheres. The following view shows the ideal right-handed &alpha;-helix, the more stretched 3<sub>10</sub> helix, and the more compact &pi;-helix.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1074,7 +1074,7 @@ There are at least three well-identified regular helices types in proteins. All 
     
 #### Helices Geometrical Parameters
 
-The parameters of the three types of helices presented in the previous page are summarized here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/helices-geometrical-parameters-f8ba996b'><i class='fa fa-play' aria-hidden='true'></i></button>The parameters of the three types of helices presented in the previous page are summarized here.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1085,14 +1085,14 @@ The parameters of the three types of helices presented in the previous page are 
 #### Occurrence of Helices in Proteins
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The &alpha;-helix is found in many proteins. The 3<sub>10</sub>-helix structure is much less widespread and may be found at the beginning or at the end of an &alpha;-helix (in a stretch of up to 4 residues). The &pi;-helix appears to be extremely rare and is considered to be unstable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/occurrence-helices-proteins-935b2fc1'><i class='fa fa-play' aria-hidden='true'></i></button>The &alpha;-helix is found in many proteins. The 3<sub>10</sub>-helix structure is much less widespread and may be found at the beginning or at the end of an &alpha;-helix (in a stretch of up to 4 residues). The &pi;-helix appears to be extremely rare and is considered to be unstable.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/8_3_2_0_1.png){: loading=lazy }
 ### The &beta;-Sheet
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The &beta;-pleated sheet or simply "&beta;-sheet" is another major structural element in proteins. As in the &alpha;-helix, the structural elements of the &beta;-sheet are held together by hydrogen bonds between N-H and C=O groups of peptide units.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/beta-sheet-c7afbd43'><i class='fa fa-play' aria-hidden='true'></i></button>The &beta;-pleated sheet or simply "&beta;-sheet" is another major structural element in proteins. As in the &alpha;-helix, the structural elements of the &beta;-sheet are held together by hydrogen bonds between N-H and C=O groups of peptide units.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1162,7 +1162,7 @@ The &beta;-pleated sheet or simply "&beta;-sheet" is another major structural el
     
 #### The &beta;-Strand Unit
 
-The basic unit of the &beta;-sheet is a single polypeptide chain with an extended, zigzag like conformation, called the &beta;-strand. The side chains (green spheres) of neighboring residues in the &beta;-strand point in opposite directions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/beta-strand-unit-4c076013'><i class='fa fa-play' aria-hidden='true'></i></button>The basic unit of the &beta;-sheet is a single polypeptide chain with an extended, zigzag like conformation, called the &beta;-strand. The side chains (green spheres) of neighboring residues in the &beta;-strand point in opposite directions.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1171,14 +1171,14 @@ The basic unit of the &beta;-sheet is a single polypeptide chain with an extende
 #### &Phi; and &Psi; Torsion Angles in &beta;-Sheets
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-A relatively broad range of extended structures is sterically possible. Typical values are &Psi;=140&#176; and &Phi;=-130&#176;.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/phi-psi-torsion-angles-beta-sheets-4365d448'><i class='fa fa-play' aria-hidden='true'></i></button>A relatively broad range of extended structures is sterically possible. Typical values are &Psi;=140&#176; and &Phi;=-130&#176;.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/8_4_2_0_1.png){: loading=lazy }
 #### Stability of the &beta;-Sheet
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Although unstrained, a &beta;-strand alone is not a stable conformation because of the lack of favorable interactions between non-bonded atoms. The strands are much more stable when two or more strands are associated by main chain hydrogen bond interactions, and form a sheet.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/stability-beta-sheet-068c4ae9'><i class='fa fa-play' aria-hidden='true'></i></button>Although unstrained, a &beta;-strand alone is not a stable conformation because of the lack of favorable interactions between non-bonded atoms. The strands are much more stable when two or more strands are associated by main chain hydrogen bond interactions, and form a sheet.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1187,7 +1187,7 @@ Although unstrained, a &beta;-strand alone is not a stable conformation because 
 #### Parallel and Anti-Parallel &beta;-Sheets
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Adjacent strands in a &beta;-sheet can be either parallel (same direction of the polypeptide chain) or anti-parallel (opposite direction of the polypeptide chain). The hydrogen bonding pattern in the two sheets is somewhat different.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/parallel-anti-parallel-beta-sheets-c0f6ac77'><i class='fa fa-play' aria-hidden='true'></i></button>Adjacent strands in a &beta;-sheet can be either parallel (same direction of the polypeptide chain) or anti-parallel (opposite direction of the polypeptide chain). The hydrogen bonding pattern in the two sheets is somewhat different.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1197,7 +1197,7 @@ Adjacent strands in a &beta;-sheet can be either parallel (same direction of the
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-There is no special preference observed for parallel or anti-parallel &beta;-sheet formation. However, small parallel sheets are relatively rare, probably because of a lower intrinsic stability relative to the anti-parallel form. In a protein, one can find pure parallel or anti-parallel &beta;-sheets, and also a combination of both types.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/occurrence-beta-sheets-proteins-3d283a2f'><i class='fa fa-play' aria-hidden='true'></i></button>There is no special preference observed for parallel or anti-parallel &beta;-sheet formation. However, small parallel sheets are relatively rare, probably because of a lower intrinsic stability relative to the anti-parallel form. In a protein, one can find pure parallel or anti-parallel &beta;-sheets, and also a combination of both types.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1207,7 +1207,7 @@ There is no special preference observed for parallel or anti-parallel &beta;-she
 #### Twist of the &beta;-sheet
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The &beta;-sheet model theoretically presented was planar; however most &beta;-sheets observed in proteins are twisted with a twist that is always left-handed (as indicated below). The twist of the sheet results from a torsion in the strand of about 0&#176;-30&#176; per residue.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/twist-beta-sheet-101bed33'><i class='fa fa-play' aria-hidden='true'></i></button>The &beta;-sheet model theoretically presented was planar; however most &beta;-sheets observed in proteins are twisted with a twist that is always left-handed (as indicated below). The twist of the sheet results from a torsion in the strand of about 0&#176;-30&#176; per residue.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1215,7 +1215,7 @@ The &beta;-sheet model theoretically presented was planar; however most &beta;-s
 
 ### Turns
 
-Another important type of secondary elements is the turn, which is used to reverse the direction of the polypeptide chain. Various types of turns are found in proteins, which differ in the number of residues, the backbone torsion angles, and the hydrogen bond pattern. Here are some examples:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/turns-42175e9b'><i class='fa fa-play' aria-hidden='true'></i></button>Another important type of secondary elements is the turn, which is used to reverse the direction of the polypeptide chain. Various types of turns are found in proteins, which differ in the number of residues, the backbone torsion angles, and the hydrogen bond pattern. Here are some examples:
 
 
 ![](https://media.drugdesign.org/course/protein-structure/turn.png){: loading=lazy }
@@ -1254,7 +1254,7 @@ Another important type of secondary elements is the turn, which is used to rever
     
 #### &beta;-Turns
 
-Type I and Type II &beta;-turns are frequently found in protein structures. In these turn types a hydrogen bond is formed between the backbone C=O group and N-H group separated by one residue (i.e. hydrogen bond between residue i and residue i+3 of the turn).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/beta-turns-880b49cc'><i class='fa fa-play' aria-hidden='true'></i></button>Type I and Type II &beta;-turns are frequently found in protein structures. In these turn types a hydrogen bond is formed between the backbone C=O group and N-H group separated by one residue (i.e. hydrogen bond between residue i and residue i+3 of the turn).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1262,13 +1262,13 @@ Type I and Type II &beta;-turns are frequently found in protein structures. In t
 
 #### &Phi; and &Psi; Torsion Angles of &beta; Turns
 
-Different &beta;-turns have different conformations. The torsion angles for residues i+1 and i+2 in type I and type II &beta;-turns are indicated in the following Ramachandran plot. Note that in a type II &beta;-turn, residue i+2 lies in a region that was allowed only for glycine dipeptides.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/phi-psi-torsion-angles-beta-turns-3557da5c'><i class='fa fa-play' aria-hidden='true'></i></button>Different &beta;-turns have different conformations. The torsion angles for residues i+1 and i+2 in type I and type II &beta;-turns are indicated in the following Ramachandran plot. Note that in a type II &beta;-turn, residue i+2 lies in a region that was allowed only for glycine dipeptides.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/8_5_2_0_1.png){: loading=lazy }
 ### Non-Regular Coil and Loops
 
-Approximately 80-90% of the residues in proteins can be classified as participating in secondary structures (&alpha;-helix, &beta;-sheet or turn). All other residues possess non-regular structures that are described as "coils" or "loops".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/non-regular-coil-loops-996d2a88'><i class='fa fa-play' aria-hidden='true'></i></button>Approximately 80-90% of the residues in proteins can be classified as participating in secondary structures (&alpha;-helix, &beta;-sheet or turn). All other residues possess non-regular structures that are described as "coils" or "loops".
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1294,14 +1294,14 @@ Approximately 80-90% of the residues in proteins can be classified as participat
     
 #### Coil
 
-A "coil" is the terminology which is used to describe the structure of a polypeptide chain that does not fall into the categories of helix, sheet or turn.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/coil-c461445b'><i class='fa fa-play' aria-hidden='true'></i></button>A "coil" is the terminology which is used to describe the structure of a polypeptide chain that does not fall into the categories of helix, sheet or turn.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/8_6_1_0_1.png){: loading=lazy }
 #### Loops
 
-A loop is any stretch of a non-regular polypeptide chain connecting secondary structures. Among the many possible loop conformations, several specific structures have been identified and added to the repertoire of secondary structures. One type of loop-like chain is the &Omega;-loop which is visualized below (in white).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/loops-a12debe2'><i class='fa fa-play' aria-hidden='true'></i></button>A loop is any stretch of a non-regular polypeptide chain connecting secondary structures. Among the many possible loop conformations, several specific structures have been identified and added to the repertoire of secondary structures. One type of loop-like chain is the &Omega;-loop which is visualized below (in white).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1316,7 +1316,7 @@ A loop is any stretch of a non-regular polypeptide chain connecting secondary st
 
 ### Super-Secondary Structures and Motifs
 
-Secondary structural elements can be combined to define precise three-dimensional architectures. In many cases it is possible to identify recurring patterns of secondary structure organization in many different proteins, even with completely different sequences. These patterns are called super-secondary structures or structural motifs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/super-secondary-structures-motifs-72c25927'><i class='fa fa-play' aria-hidden='true'></i></button>Secondary structural elements can be combined to define precise three-dimensional architectures. In many cases it is possible to identify recurring patterns of secondary structure organization in many different proteins, even with completely different sequences. These patterns are called super-secondary structures or structural motifs.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1324,20 +1324,20 @@ Secondary structural elements can be combined to define precise three-dimensiona
 ![](https://media.drugdesign.org/course/protein-structure/9_1_0_0_1.png){: loading=lazy }
 ### Classification of Super-Secondary Structures
 
-There are three main classes of super-secondary structures: all-&alpha;, all-&beta; and mixed &alpha;/&beta; structures. Simple super-secondary structures consist of 2 to 3 secondary elements. These can be assembled into larger super-secondary structures that are sometimes referred as "folds".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/classification-super-secondary-structures-aee3c87c'><i class='fa fa-play' aria-hidden='true'></i></button>There are three main classes of super-secondary structures: all-&alpha;, all-&beta; and mixed &alpha;/&beta; structures. Simple super-secondary structures consist of 2 to 3 secondary elements. These can be assembled into larger super-secondary structures that are sometimes referred as "folds".
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/9_2_0_0_1.png){: loading=lazy }
 ### All &beta; super-secondary structures
 
-Representative &beta;-super-secondary structures are illustrated in the following pages. The super-secondary structures are represented by both their 3D architecture and by their 2D schematic topological arrangement.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/all-beta-super-secondary-structures-36ee45a7'><i class='fa fa-play' aria-hidden='true'></i></button>Representative &beta;-super-secondary structures are illustrated in the following pages. The super-secondary structures are represented by both their 3D architecture and by their 2D schematic topological arrangement.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/9_3_0_0_1.png){: loading=lazy }
 #### &beta;-Hairpin
 
-The "&beta;-hairpin" is one of the simplest and most common super-secondary structures. It includes two consecutive anti-parallel &beta;-strands connected by a loop. The loop itself is referred to as the &beta;-hairpin. &beta;-hairpins adopt a specific conformation which depends on their length and sequence. The length is usually less than 7 residues and often consists of only two residues. The two-residues &beta;-hairpin super-secondary structure adopts one of the classical &beta;-turn conformations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/beta-hairpin-2ce17d57'><i class='fa fa-play' aria-hidden='true'></i></button>The "&beta;-hairpin" is one of the simplest and most common super-secondary structures. It includes two consecutive anti-parallel &beta;-strands connected by a loop. The loop itself is referred to as the &beta;-hairpin. &beta;-hairpins adopt a specific conformation which depends on their length and sequence. The length is usually less than 7 residues and often consists of only two residues. The two-residues &beta;-hairpin super-secondary structure adopts one of the classical &beta;-turn conformations.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1372,7 +1372,7 @@ The "&beta;-hairpin" is one of the simplest and most common super-secondary stru
     
 #### &beta;-Meander
 
-&beta;-hairpins can be combined into consecutive anti-parallel &beta;-strands and form the "&beta;-meander" super-secondary structure. Try to find three other &beta;-meander motifs in this 3D structure! 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/beta-meander-5c3de916'><i class='fa fa-play' aria-hidden='true'></i></button>&beta;-hairpins can be combined into consecutive anti-parallel &beta;-strands and form the "&beta;-meander" super-secondary structure. Try to find three other &beta;-meander motifs in this 3D structure! 
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1393,7 +1393,7 @@ The "&beta;-hairpin" is one of the simplest and most common super-secondary stru
 #### Greek-Key
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Another combination of &beta;-strands is the "Greek-key" super-secondary structure. This is a four-stranded &beta;-sheet motif which is characterized by the topology indicated below. In 3D, this motif can adopt a variety of architectures, either with all four strands in the same &beta;-sheet or in two different sheets, as seen here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/greek-key-1163fe51'><i class='fa fa-play' aria-hidden='true'></i></button>Another combination of &beta;-strands is the "Greek-key" super-secondary structure. This is a four-stranded &beta;-sheet motif which is characterized by the topology indicated below. In 3D, this motif can adopt a variety of architectures, either with all four strands in the same &beta;-sheet or in two different sheets, as seen here.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1413,13 +1413,13 @@ Another combination of &beta;-strands is the "Greek-key" super-secondary structu
     
 ### All &alpha; Super-Secondary Structures
 
-Representative &alpha;-super-secondary structures are illustrated in the following pages. The super-secondary structures are described by both their 2D schematic topological arrangement and their 3D architecture.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/all-alpha-super-secondary-structures-423851b4'><i class='fa fa-play' aria-hidden='true'></i></button>Representative &alpha;-super-secondary structures are illustrated in the following pages. The super-secondary structures are described by both their 2D schematic topological arrangement and their 3D architecture.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/9_4_0_0_1.png){: loading=lazy }
 #### &alpha;&alpha;-Hairpin
 
-Helix hairpin or "&alpha;&alpha;-hairpin"  loops connect two sequential &alpha;-helices which lie adjacent in space and run approximately anti-parallel. Note the tight packing between the two helices, which is usually achieved by hydrophobic interactions between the side chains.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/alphaalpha-hairpin-72993c0f'><i class='fa fa-play' aria-hidden='true'></i></button>Helix hairpin or "&alpha;&alpha;-hairpin"  loops connect two sequential &alpha;-helices which lie adjacent in space and run approximately anti-parallel. Note the tight packing between the two helices, which is usually achieved by hydrophobic interactions between the side chains.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1439,7 +1439,7 @@ Helix hairpin or "&alpha;&alpha;-hairpin"  loops connect two sequential &alpha;-
     
 #### &alpha;&alpha;-Corners
 
-"&alpha;&alpha;-corners" are short loops which connect helices that are roughly perpendicular. An example is illustrated below (in white).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/alphaalpha-corners-cceaef91'><i class='fa fa-play' aria-hidden='true'></i></button>"&alpha;&alpha;-corners" are short loops which connect helices that are roughly perpendicular. An example is illustrated below (in white).
 
 
 ![](https://media.drugdesign.org/course/protein-structure/alpha_alpha_corners.png){: loading=lazy }
@@ -1453,7 +1453,7 @@ Helix hairpin or "&alpha;&alpha;-hairpin"  loops connect two sequential &alpha;-
     
 #### EF Hand
 
-Some super-secondary structures have important functions, for example the "EF hand", which is used for calcium binding. This is a view of a helix-loop-helix in which the two helices are roughly perpendicular. The loop is made up of about 12 residues with a conserved sequence.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/ef-hand-dea7150d'><i class='fa fa-play' aria-hidden='true'></i></button>Some super-secondary structures have important functions, for example the "EF hand", which is used for calcium binding. This is a view of a helix-loop-helix in which the two helices are roughly perpendicular. The loop is made up of about 12 residues with a conserved sequence.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1483,7 +1483,7 @@ Some super-secondary structures have important functions, for example the "EF ha
     
 #### Helix-Turn-Helix
 
-Another important functional helix-loop-helix super secondary structure is called the "helix-turn-helix" (HTH), although it does not include a true reverse turn geometry. This super secondary structure is used for DNA binding. The HTH is generally composed of two &alpha;-helices connected by a short loop of usually 4 conserved residues. The helices are oriented at about 120&#176;. One helix (the yellow helix in the view) is the DNA recognition helix which lies in the DNA major groove.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/helix-turn-helix-e1571ce2'><i class='fa fa-play' aria-hidden='true'></i></button>Another important functional helix-loop-helix super secondary structure is called the "helix-turn-helix" (HTH), although it does not include a true reverse turn geometry. This super secondary structure is used for DNA binding. The HTH is generally composed of two &alpha;-helices connected by a short loop of usually 4 conserved residues. The helices are oriented at about 120&#176;. One helix (the yellow helix in the view) is the DNA recognition helix which lies in the DNA major groove.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/helix_turn_helix.gif){: loading=lazy }
@@ -1507,7 +1507,7 @@ Another important functional helix-loop-helix super secondary structure is calle
     
 #### Four-Helix Bundle
 
-The "Four-Helix Bundle", in which 4 &alpha;-helices are packed together, is another type of common super-secondary structure. This motif has several topologies, as can be seen here. Typically the tight packing of the helices is a result of the amphipathic nature of the helices that puts hydrophobic residues in the interface between the helices and the polar side chains on the outside surface.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/four-helix-bundle-26ecb4e4'><i class='fa fa-play' aria-hidden='true'></i></button>The "Four-Helix Bundle", in which 4 &alpha;-helices are packed together, is another type of common super-secondary structure. This motif has several topologies, as can be seen here. Typically the tight packing of the helices is a result of the amphipathic nature of the helices that puts hydrophobic residues in the interface between the helices and the polar side chains on the outside surface.
 *[amphipathic]: With both hydrophilic and hydrophobic properties.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1573,13 +1573,13 @@ The "Four-Helix Bundle", in which 4 &alpha;-helices are packed together, is anot
     
 ### Mixed &alpha; &#38; &beta; Super-Secondary Structures
 
-Representative &alpha;/&beta;-super-secondary structures are described in the following pages. The super-secondary structures are represented by both their 2D schematic topological arrangement and their 3D architecture.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/mixed-alpha-amp-beta-super-secondary-structures-e84722fd'><i class='fa fa-play' aria-hidden='true'></i></button>Representative &alpha;/&beta;-super-secondary structures are described in the following pages. The super-secondary structures are represented by both their 2D schematic topological arrangement and their 3D architecture.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/9_5_0_0_1.png){: loading=lazy }
 #### &beta;-&alpha;-&beta; Motif
 
-The "&beta;-&alpha;-&beta;" super-secondary structure consists of a &beta;-strand-loop-&alpha;-helix-loop-&beta;-strand. This motif connects two parallel strands and is found in  proteins that have parallel &beta;-sheets. The three secondary structure elements are tightly packed and create a hydrophobic core. The loop regions in the motif can vary in length from one residue to more than 100 residues. The &beta;-&alpha;-&beta; motif is almost always found with a right-handed fold.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/beta-alpha-beta-motif-dd53cb0b'><i class='fa fa-play' aria-hidden='true'></i></button>The "&beta;-&alpha;-&beta;" super-secondary structure consists of a &beta;-strand-loop-&alpha;-helix-loop-&beta;-strand. This motif connects two parallel strands and is found in  proteins that have parallel &beta;-sheets. The three secondary structure elements are tightly packed and create a hydrophobic core. The loop regions in the motif can vary in length from one residue to more than 100 residues. The &beta;-&alpha;-&beta; motif is almost always found with a right-handed fold.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1614,7 +1614,7 @@ The "&beta;-&alpha;-&beta;" super-secondary structure consists of a &beta;-stran
     
 #### Rossmann Fold
 
-An extension of the &beta;-&alpha;-&beta; super-secondary structure can lead to the "Rossmann fold" that is often present in nucleotide-binding proteins. This is a &beta;-&alpha;-&beta;-&alpha;-&beta; motif in which the strands form a parallel &beta;-sheet and the helices lie anti-parallel to the strands on one side of the sheet.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/rossmann-fold-df98cdd1'><i class='fa fa-play' aria-hidden='true'></i></button>An extension of the &beta;-&alpha;-&beta; super-secondary structure can lead to the "Rossmann fold" that is often present in nucleotide-binding proteins. This is a &beta;-&alpha;-&beta;-&alpha;-&beta; motif in which the strands form a parallel &beta;-sheet and the helices lie anti-parallel to the strands on one side of the sheet.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1636,7 +1636,7 @@ An extension of the &beta;-&alpha;-&beta; super-secondary structure can lead to 
 
 ### Tertiary Structure
 
-A combination of all the secondary structure elements and frequently occurring super-secondary structure elements in single polypeptide chains give rise to the tertiary structure of the protein. Thus the tertiary structure refers to the spatial arrangement of all the amino acids atoms in a single polypeptide chain.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/tertiary-structure-40089be2'><i class='fa fa-play' aria-hidden='true'></i></button>A combination of all the secondary structure elements and frequently occurring super-secondary structure elements in single polypeptide chains give rise to the tertiary structure of the protein. Thus the tertiary structure refers to the spatial arrangement of all the amino acids atoms in a single polypeptide chain.
 
 
 === "Wireframe"
@@ -1652,7 +1652,7 @@ A combination of all the secondary structure elements and frequently occurring s
     
 ### Domains in the Tertiary Structure
 
-A single polypeptide chain can fold into two or more compact, local and semi-independent structural units which are known as "domains". Domains range in size from about 25 to 500 residues and are frequently connected by only one flexible segment (in light blue).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/domains-tertiary-structure-a664f8fd'><i class='fa fa-play' aria-hidden='true'></i></button>A single polypeptide chain can fold into two or more compact, local and semi-independent structural units which are known as "domains". Domains range in size from about 25 to 500 residues and are frequently connected by only one flexible segment (in light blue).
 
 
 ![](https://media.drugdesign.org/course/protein-structure/domains_in_the_tertiary_structure.png){: loading=lazy }
@@ -1692,7 +1692,7 @@ A single polypeptide chain can fold into two or more compact, local and semi-ind
 #### Domains and Sequence
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Typically, domains are colinear in sequence, but occasionally a domain will have two or more patches of non sequential segments of the polypeptide chain, and hence will have multiple polypeptide links between domains. By following the chain in this example you can see that the central domain (A) is built of two non-sequential segments (red and pink).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/domains-sequence-5a69c230'><i class='fa fa-play' aria-hidden='true'></i></button>Typically, domains are colinear in sequence, but occasionally a domain will have two or more patches of non sequential segments of the polypeptide chain, and hence will have multiple polypeptide links between domains. By following the chain in this example you can see that the central domain (A) is built of two non-sequential segments (red and pink).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1706,7 +1706,7 @@ Typically, domains are colinear in sequence, but occasionally a domain will have
     
 #### Domains and Function
 
-Some proteins have distinct functions for each domain (example gapdh visualized below). In other proteins the function is shared between domains. Ligand binding often occurs in the cleft between two domains (see example fpg).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/domains-function-7eb0f227'><i class='fa fa-play' aria-hidden='true'></i></button>Some proteins have distinct functions for each domain (example gapdh visualized below). In other proteins the function is shared between domains. Ligand binding often occurs in the cleft between two domains (see example fpg).
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1728,7 +1728,7 @@ Some proteins have distinct functions for each domain (example gapdh visualized 
     
 ### New Look on Proteins Levels of Architecture
 
-The boundary between secondary and tertiary structure is blurred. Super-secondary elements and domains are intermediate levels between secondary and tertiary structures. For this reason super-secondary elements and domains are sometimes considered to be a subset of the tertiary structure and sometimes a distinct level of the protein architecture.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/new-look-on-proteins-levels-architecture-f5b45bd8'><i class='fa fa-play' aria-hidden='true'></i></button>The boundary between secondary and tertiary structure is blurred. Super-secondary elements and domains are intermediate levels between secondary and tertiary structures. For this reason super-secondary elements and domains are sometimes considered to be a subset of the tertiary structure and sometimes a distinct level of the protein architecture.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1751,7 +1751,7 @@ The boundary between secondary and tertiary structure is blurred. Super-secondar
     
 #### Blurred Boundaries
 
-Note that not all helices and strands in a protein necessarily belong to a super-secondary element. Although proteins include secondary and tertiary structures, they do not necessarily include super-secondary elements and domains. Furthermore, some elements (such as the 4-helix bundle) can be considered to be a super-secondary element or domain or the full tertiary structure, depending on the context.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/blurred-boundaries-89d7e96f'><i class='fa fa-play' aria-hidden='true'></i></button>Note that not all helices and strands in a protein necessarily belong to a super-secondary element. Although proteins include secondary and tertiary structures, they do not necessarily include super-secondary elements and domains. Furthermore, some elements (such as the 4-helix bundle) can be considered to be a super-secondary element or domain or the full tertiary structure, depending on the context.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -1779,7 +1779,7 @@ Note that not all helices and strands in a protein necessarily belong to a super
     
 ### Tertiary Structure Patterns: Folds
 
-Each tertiary structure can be defined by its exact fold. Thus, different proteins have the same fold if they have the same major secondary structures in the same spatial arrangement and with the same topological connections.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/tertiary-structure-patterns-folds-c8ea5152'><i class='fa fa-play' aria-hidden='true'></i></button>Each tertiary structure can be defined by its exact fold. Thus, different proteins have the same fold if they have the same major secondary structures in the same spatial arrangement and with the same topological connections.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/10_4_0_0_1.png){: loading=lazy }
@@ -1882,7 +1882,7 @@ Each tertiary structure can be defined by its exact fold. Thus, different protei
     
 #### Fold Diversity
 
-From the enormous variability in amino acid sequences found in proteins, one might expect a great diversity of folds, but X-ray crystallography has demonstrated that this is not the case. The tertiary structures of proteins tend to be conserved with frequent occurrences of similar patterns. Many proteins have the same or similar fold, even if there is no obvious evolutionary relation between them.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/fold-diversity-b9cca9e9'><i class='fa fa-play' aria-hidden='true'></i></button>From the enormous variability in amino acid sequences found in proteins, one might expect a great diversity of folds, but X-ray crystallography has demonstrated that this is not the case. The tertiary structures of proteins tend to be conserved with frequent occurrences of similar patterns. Many proteins have the same or similar fold, even if there is no obvious evolutionary relation between them.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1904,7 +1904,7 @@ From the enormous variability in amino acid sequences found in proteins, one mig
     
 #### Protein Folds and Function
 
-It is important to note that sharing a common fold is not necessarily linked to any functional classification. In general, a certain type of function is not restricted to a certain fold and a certain fold is not restricted to a certain type of function. For example, the following two enzymes (chymotrypsin and subtilisin) are serine proteases: they share the same catalytic mechanism, however they fold in an entirely different way.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/protein-folds-function-64813a1b'><i class='fa fa-play' aria-hidden='true'></i></button>It is important to note that sharing a common fold is not necessarily linked to any functional classification. In general, a certain type of function is not restricted to a certain fold and a certain fold is not restricted to a certain type of function. For example, the following two enzymes (chymotrypsin and subtilisin) are serine proteases: they share the same catalytic mechanism, however they fold in an entirely different way.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -1921,14 +1921,14 @@ It is important to note that sharing a common fold is not necessarily linked to 
     
 #### Classification of Protein Folds
 
-Most of the known proteins and protein domain folds can be classified into three major groups according to their secondary structure content: all (or mainly) &alpha;, all (or mainly) &beta;, or mixed &alpha;-&beta; folds. Selected examples of the three major fold types are presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/classification-protein-folds-95ecdfdf'><i class='fa fa-play' aria-hidden='true'></i></button>Most of the known proteins and protein domain folds can be classified into three major groups according to their secondary structure content: all (or mainly) &alpha;, all (or mainly) &beta;, or mixed &alpha;-&beta; folds. Selected examples of the three major fold types are presented in the following pages.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/10_4_3_0_1.png){: loading=lazy }
 #### Mainly &alpha; Folds
 
-Mainly-&alpha;-folds include tertiary structures and domains which primarily contain &alpha;-helices. Some examples are illustrated here:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/mainly-alpha-folds-78a1e519'><i class='fa fa-play' aria-hidden='true'></i></button>Mainly-&alpha;-folds include tertiary structures and domains which primarily contain &alpha;-helices. Some examples are illustrated here:
 
 
 === "Up and Down Bundle"
@@ -1982,7 +1982,7 @@ Mainly-&alpha;-folds include tertiary structures and domains which primarily con
     
 #### Mainly &beta; Folds
 
-Mainly-&beta;-folds include tertiary structures and domains that contain primarily &beta;-strands usually in an anti-parallel arrangement. Some common examples are represented here:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/mainly-beta-folds-41c6f27d'><i class='fa fa-play' aria-hidden='true'></i></button>Mainly-&beta;-folds include tertiary structures and domains that contain primarily &beta;-strands usually in an anti-parallel arrangement. Some common examples are represented here:
 
 
 === "Sandwich"
@@ -2098,7 +2098,7 @@ Mainly-&beta;-folds include tertiary structures and domains that contain primari
     
 #### Mixed &alpha;-&beta; Folds
 
-Mixed &alpha;-&beta; folds include both &alpha;-helices and &beta;-strands. This is the most variable class of tertiary structures and domains, some examples are shown here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/mixed-alpha-beta-folds-b06d40d8'><i class='fa fa-play' aria-hidden='true'></i></button>Mixed &alpha;-&beta; folds include both &alpha;-helices and &beta;-strands. This is the most variable class of tertiary structures and domains, some examples are shown here.
 
 
 === "Barrel"
@@ -2149,7 +2149,7 @@ Mixed &alpha;-&beta; folds include both &alpha;-helices and &beta;-strands. This
     
 #### Databases of Folds
 
-Each type of class includes several fold types that can be further broken down into subcategories. The hierarchical arrangement of all known protein and proteins domain structures can be found in the SCOP and the CATH databases. FSSP is an additional database of automatic fold classification; however it is a non-hierarchic database.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/databases-folds-bda737e7'><i class='fa fa-play' aria-hidden='true'></i></button>Each type of class includes several fold types that can be further broken down into subcategories. The hierarchical arrangement of all known protein and proteins domain structures can be found in the SCOP and the CATH databases. FSSP is an additional database of automatic fold classification; however it is a non-hierarchic database.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/10_4_4_0_1.png){: loading=lazy }
@@ -2174,7 +2174,7 @@ Each type of class includes several fold types that can be further broken down i
 
 ### Quaternary Structure
 
-Many proteins, such as the hemoglobin represented here, have more than one polypeptide chain. The different polypeptide chains are called subunits, monomers or protomers. The quaternary structure of a protein refers to the spatial arrangements of its subunits without regard to the internal geometry of the subunit.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/quaternary-structure-73c65dae'><i class='fa fa-play' aria-hidden='true'></i></button>Many proteins, such as the hemoglobin represented here, have more than one polypeptide chain. The different polypeptide chains are called subunits, monomers or protomers. The quaternary structure of a protein refers to the spatial arrangements of its subunits without regard to the internal geometry of the subunit.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/quaternary_structure.png){: loading=lazy }
@@ -2186,7 +2186,7 @@ Many proteins, such as the hemoglobin represented here, have more than one polyp
     
 ### Dimers, Trimers, Tetramers etc...
 
-The subunit aggregation leads to the formation of protein oligomers which are named for their number of  interacting subunits: dimer, trimer, tetramer, etc...  The associated subunits can vary from small dimers such as the HIV-1 protease to very large systems such as this chaperon in GroEL tetradecamer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/dimers-trimers-tetramers-etc-554bd2e4'><i class='fa fa-play' aria-hidden='true'></i></button>The subunit aggregation leads to the formation of protein oligomers which are named for their number of  interacting subunits: dimer, trimer, tetramer, etc...  The associated subunits can vary from small dimers such as the HIV-1 protease to very large systems such as this chaperon in GroEL tetradecamer.
 
 
 === "dimer"
@@ -2206,7 +2206,7 @@ The subunit aggregation leads to the formation of protein oligomers which are na
     
 ### Homo-Oligomers: Identical Polypeptide Chains
 
-The subunits in a protein may be identical. In this case, the resulting homo oligomers are usually symmetrical and almost always exhibit rotational symmetry about one or more axes. Several examples are shown below, according to their symmetry group.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/homo-oligomers-identical-polypeptide-chains-ecc80cdf'><i class='fa fa-play' aria-hidden='true'></i></button>The subunits in a protein may be identical. In this case, the resulting homo oligomers are usually symmetrical and almost always exhibit rotational symmetry about one or more axes. Several examples are shown below, according to their symmetry group.
 
 
 === "C2"
@@ -2240,7 +2240,7 @@ The subunits in a protein may be identical. In this case, the resulting homo oli
     
 ### Hetero-Oligomers: Different Polypeptide Chains
 
-More than one type of subunit can aggregate together to form the protein unit. In this case it is also common to find multiple copies of various subunits. For example the F1 ATPase has three copies of two different subunits (blue and purple subunits) and three more unique subunits (red, yellow, and green subunits).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/hetero-oligomers-different-polypeptide-chains-37474eba'><i class='fa fa-play' aria-hidden='true'></i></button>More than one type of subunit can aggregate together to form the protein unit. In this case it is also common to find multiple copies of various subunits. For example the F1 ATPase has three copies of two different subunits (blue and purple subunits) and three more unique subunits (red, yellow, and green subunits).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2255,14 +2255,14 @@ More than one type of subunit can aggregate together to form the protein unit. I
 
 ### Structural Classification of Proteins
 
-Generally, proteins fall into three main classes, based on their overall 3D structure and their functional role; these are known as Globular,  Membrane and Fibrous proteins.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/structural-classification-proteins-6b300c85'><i class='fa fa-play' aria-hidden='true'></i></button>Generally, proteins fall into three main classes, based on their overall 3D structure and their functional role; these are known as Globular,  Membrane and Fibrous proteins.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/12_1_0_0_1.png){: loading=lazy }
 ### Globular Proteins
 
-Most proteins which are found in the aqueous, intracellular environment or in the plasma are globular. They have  a somewhat spherical shape or they are made of several compact domains.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/globular-proteins-3af40da6'><i class='fa fa-play' aria-hidden='true'></i></button>Most proteins which are found in the aqueous, intracellular environment or in the plasma are globular. They have  a somewhat spherical shape or they are made of several compact domains.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/globular_protein.png){: loading=lazy }
@@ -2274,7 +2274,7 @@ Most proteins which are found in the aqueous, intracellular environment or in th
     
 #### Hydrophilic Surface and Hydrophobic Core
 
-The globular nature of proteins can be explained by their interactions with the surrounding aqueous solvent. Proteins fold in such a way that most residues with non-polar side chains are buried in the center, creating the protein's hydrophobic core (green side chains), whereas most residues with polar side chains remain exposed on the protein surface (yellow side chains).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/hydrophilic-surface-hydrophobic-core-ee926e32'><i class='fa fa-play' aria-hidden='true'></i></button>The globular nature of proteins can be explained by their interactions with the surrounding aqueous solvent. Proteins fold in such a way that most residues with non-polar side chains are buried in the center, creating the protein's hydrophobic core (green side chains), whereas most residues with polar side chains remain exposed on the protein surface (yellow side chains).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2287,7 +2287,7 @@ The globular nature of proteins can be explained by their interactions with the 
     
 #### Hydrophobic Effect
 
-The burial of non-polar residues inside the core of the protein by reducing  unfavorable interactions with the surrounding water is known as the "hydrophobic effect". The hydrophobic effect is considered to be one of the most important forces that contributes to the tertiary and also the quaternary structure of globular proteins. The interpretation of this phenomenon is that water-water interactions are the most favorable interactions and in effect, the water squeezes out the hydrophobes so it can interact with itself, leaving the hydrophobes to interact with themselves.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/hydrophobic-effect-39659279'><i class='fa fa-play' aria-hidden='true'></i></button>The burial of non-polar residues inside the core of the protein by reducing  unfavorable interactions with the surrounding water is known as the "hydrophobic effect". The hydrophobic effect is considered to be one of the most important forces that contributes to the tertiary and also the quaternary structure of globular proteins. The interpretation of this phenomenon is that water-water interactions are the most favorable interactions and in effect, the water squeezes out the hydrophobes so it can interact with itself, leaving the hydrophobes to interact with themselves.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2300,7 +2300,7 @@ The burial of non-polar residues inside the core of the protein by reducing  unf
     
 #### Hydration Layer
 
-Globular proteins in aqueous solutions are surrounded by a hydration layer. Fixed water molecules (cyan spheres) occur primarily in positions where they can hydrogen bond to polar groups of the protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/hydration-layer-431a7c49'><i class='fa fa-play' aria-hidden='true'></i></button>Globular proteins in aqueous solutions are surrounded by a hydration layer. Fixed water molecules (cyan spheres) occur primarily in positions where they can hydrogen bond to polar groups of the protein.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/hydration_layer.png){: loading=lazy }
@@ -2312,7 +2312,7 @@ Globular proteins in aqueous solutions are surrounded by a hydration layer. Fixe
     
 ### Membrane Proteins
 
-Another class of proteins includes proteins that are attached to biological membranes. This unique class of proteins adapts its structural features according to the extent of interaction with the membrane. The figure describes the characteristic features of the seven transmembrane helix G protein coupled receptors (GPCRs), a family of membrane proteins that cross the cell membrane seven times. They represent an important group of pharmaceutical targets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/membrane-proteins-5201b892'><i class='fa fa-play' aria-hidden='true'></i></button>Another class of proteins includes proteins that are attached to biological membranes. This unique class of proteins adapts its structural features according to the extent of interaction with the membrane. The figure describes the characteristic features of the seven transmembrane helix G protein coupled receptors (GPCRs), a family of membrane proteins that cross the cell membrane seven times. They represent an important group of pharmaceutical targets.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/membrane_b1.12.6.png){: loading=lazy }
@@ -2387,7 +2387,7 @@ Another class of proteins includes proteins that are attached to biological memb
     
 #### The Lipid Bilayer
 
-The biological membranes create the cell's physical barriers and compartments, and regulate the molecular traffic across its boundaries. The membrane architecture is the well-known lipid bilayer in which the lipids' hydrophilic polar heads stick out and the hydrophobic tails form the membrane core.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/lipid-bilayer-edc5198e'><i class='fa fa-play' aria-hidden='true'></i></button>The biological membranes create the cell's physical barriers and compartments, and regulate the molecular traffic across its boundaries. The membrane architecture is the well-known lipid bilayer in which the lipids' hydrophilic polar heads stick out and the hydrophobic tails form the membrane core.
 
 
 === "Phospholipid"
@@ -2404,21 +2404,21 @@ The biological membranes create the cell's physical barriers and compartments, a
     
 #### Membrane Model
 
-A variety of proteins are linked or embedded in the lipid bilayer and play various roles. Altogether, the lipids and the proteins in the membrane are best described by the dynamic system of the "fluid mosaic model" in which the individual lipid and protein molecules are free to diffuse and  interact in the plane of the bilayer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/membrane-model-fd2da6e1'><i class='fa fa-play' aria-hidden='true'></i></button>A variety of proteins are linked or embedded in the lipid bilayer and play various roles. Altogether, the lipids and the proteins in the membrane are best described by the dynamic system of the "fluid mosaic model" in which the individual lipid and protein molecules are free to diffuse and  interact in the plane of the bilayer.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/12_3_2_0_1.png){: loading=lazy }
 #### Membrane Proteins Types
 
-Different proteins associate with membranes to various extents. Peripheral proteins have a fairly shallow penetration of the membrane surface and possess the same structural features as globular proteins. Integral proteins penetrate deep into the lipid bilayer; these proteins have special structural features that will be discussed in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/membrane-proteins-types-b87433cf'><i class='fa fa-play' aria-hidden='true'></i></button>Different proteins associate with membranes to various extents. Peripheral proteins have a fairly shallow penetration of the membrane surface and possess the same structural features as globular proteins. Integral proteins penetrate deep into the lipid bilayer; these proteins have special structural features that will be discussed in the following pages.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/12_3_3_0_1.png){: loading=lazy }
 #### Transmembrane Protein Surface
 
-The transmembrane segment of integral membrane proteins must be stable in the hydrophobic hydrocarbon oil-like interior of the lipid bilayer. As a consequence, most of the amino acid side chains that are on the surface of the transmembrane protein must be non-polar (colored in green in the view).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/transmembrane-protein-surface-f8e3ae7d'><i class='fa fa-play' aria-hidden='true'></i></button>The transmembrane segment of integral membrane proteins must be stable in the hydrophobic hydrocarbon oil-like interior of the lipid bilayer. As a consequence, most of the amino acid side chains that are on the surface of the transmembrane protein must be non-polar (colored in green in the view).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2432,7 +2432,7 @@ The transmembrane segment of integral membrane proteins must be stable in the hy
     
 #### Transmembrane Protein Folds
 
-Furthermore, the polar peptide bond units need to be 'covered' (by creating hydrogen bonds), in order to lower the thermodynamic cost of transferring them to the hydrocarbon interior. This can be achieved either with &alpha;-helices (where all peptide bonds are H-bonded internally), or with &beta;-sheet closed structures such as the &beta;-barrel. Currently all transmembrane proteins of known three-dimensional structure correspond to one of these two types.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/transmembrane-protein-folds-eb226942'><i class='fa fa-play' aria-hidden='true'></i></button>Furthermore, the polar peptide bond units need to be 'covered' (by creating hydrogen bonds), in order to lower the thermodynamic cost of transferring them to the hydrocarbon interior. This can be achieved either with &alpha;-helices (where all peptide bonds are H-bonded internally), or with &beta;-sheet closed structures such as the &beta;-barrel. Currently all transmembrane proteins of known three-dimensional structure correspond to one of these two types.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2453,14 +2453,14 @@ Furthermore, the polar peptide bond units need to be 'covered' (by creating hydr
     
 ### Fibrous Proteins
 
-Fibrous proteins tend to be long, thin, insoluble in water and arranged to form fibers by associations side by side to construct macroscopic structures - a feature that is important for their structural roles. Most fibrous proteins have regular, extended structures as we will see in the examples that follow.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/fibrous-proteins-0ccc0042'><i class='fa fa-play' aria-hidden='true'></i></button>Fibrous proteins tend to be long, thin, insoluble in water and arranged to form fibers by associations side by side to construct macroscopic structures - a feature that is important for their structural roles. Most fibrous proteins have regular, extended structures as we will see in the examples that follow.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/protein-structure/spider_web.png){: loading=lazy }
 #### Collagen
 
-Collagen is the most abundant protein of the human body (it is the matrix protein for bones and skin). Collagen exists as a triple helix in which the individual polypeptide chains helices are very extended (3 &#8491; rise per residue). Each chain is about 1000 residues long (3000 &#8491; in length). The sequence is characterized by Gly residues in every third position, and is also rich in Pro residues with about half of their side chains being hydroxylated. Covalent linking of Lys residues between the polypeptide chains enhances the strength of this structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/collagen-de986592'><i class='fa fa-play' aria-hidden='true'></i></button>Collagen is the most abundant protein of the human body (it is the matrix protein for bones and skin). Collagen exists as a triple helix in which the individual polypeptide chains helices are very extended (3 &#8491; rise per residue). Each chain is about 1000 residues long (3000 &#8491; in length). The sequence is characterized by Gly residues in every third position, and is also rich in Pro residues with about half of their side chains being hydroxylated. Covalent linking of Lys residues between the polypeptide chains enhances the strength of this structure.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2474,7 +2474,7 @@ Collagen is the most abundant protein of the human body (it is the matrix protei
     
 #### &alpha;-Keratin
 
-&alpha;-keratin is used to form hair, fingernails and skin; it can exist as a dimeric or a trimeric &alpha;-helical coiled coil. Each chain is made up of about 300 residues (450 &#8491; in length). Disulfide bonds which are formed between Cys side chains enhance the strength of the structure. The coiled coil structure visualized here comes from another protein, tropomyosin, which is present in the muscles.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/alpha-keratin-76510241'><i class='fa fa-play' aria-hidden='true'></i></button>&alpha;-keratin is used to form hair, fingernails and skin; it can exist as a dimeric or a trimeric &alpha;-helical coiled coil. Each chain is made up of about 300 residues (450 &#8491; in length). Disulfide bonds which are formed between Cys side chains enhance the strength of the structure. The coiled coil structure visualized here comes from another protein, tropomyosin, which is present in the muscles.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2488,7 +2488,7 @@ Collagen is the most abundant protein of the human body (it is the matrix protei
     
 #### Silk Fibroin
 
-Silk fibroin is synthesized by spiders for their webs and by silkworms for their cocoons. The architecture of this fibrous protein (made up of &beta;-sheet structures) is illustrated in this theoretical model. The silk fibroin sequence is characterized by specific glycine and alanine rich repeats. Bulky regions with valine and tyrosine residues interrupt the &beta;-sheet stacks and allow for stretchiness.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/silk-fibroin-ca8f4354'><i class='fa fa-play' aria-hidden='true'></i></button>Silk fibroin is synthesized by spiders for their webs and by silkworms for their cocoons. The architecture of this fibrous protein (made up of &beta;-sheet structures) is illustrated in this theoretical model. The silk fibroin sequence is characterized by specific glycine and alanine rich repeats. Bulky regions with valine and tyrosine residues interrupt the &beta;-sheet stacks and allow for stretchiness.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -2505,20 +2505,20 @@ Silk fibroin is synthesized by spiders for their webs and by silkworms for their
 
 ### The History
 
-Thus little by little, the idea that the biological function of proteins can be understood in terms of their 3D structure has proved to be true. Today, almost half a century after Kendrew and Perutz solved the myoglobin and hemoglobin structures, protein structures have become key features in biology, medicine, and biotechnology.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/history-5aa7c9a5'><i class='fa fa-play' aria-hidden='true'></i></button>Thus little by little, the idea that the biological function of proteins can be understood in terms of their 3D structure has proved to be true. Today, almost half a century after Kendrew and Perutz solved the myoglobin and hemoglobin structures, protein structures have become key features in biology, medicine, and biotechnology.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
 ![](https://media.drugdesign.org/course/protein-structure/13_1_0_0_1.png){: loading=lazy }
 ### The Pharmaceutical Connection
 
-Protein structures are highly important for the pharmaceutical industry whose role is to convert the knowledge acquired in many areas into useful drugs. 3D structures of disease-relevant proteins are used for the rational design and development of drugs and diagnostic tools. Examples of some protein structures that have served as a basis for the successful design of drugs are shown here (move the mouse to visualize their respective therapeutic areas).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/pharmaceutical-connection-1f6ed16c'><i class='fa fa-play' aria-hidden='true'></i></button>Protein structures are highly important for the pharmaceutical industry whose role is to convert the knowledge acquired in many areas into useful drugs. 3D structures of disease-relevant proteins are used for the rational design and development of drugs and diagnostic tools. Examples of some protein structures that have served as a basis for the successful design of drugs are shown here (move the mouse to visualize their respective therapeutic areas).
 
 
 ![](https://media.drugdesign.org/course/protein-structure/13_2_0_0_1.png){: loading=lazy }
 ### A Fascinating Field
 
-This terminates our introduction to Protein Structure. We hope that this chapter has increased your understanding of the complex world of protein structure. The tremendous increase in our knowledge generated by this field, its rapid application and conversion into useful drugs, as well as the beauty of protein structure and function will continue to nurture research focusing on the discovery and application of the subtle machinery underlying life processes. In the years to come progress and advances will doubtless be achieved, far beyond what we can imagine today. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-structure/fascinating-field-be724f5f'><i class='fa fa-play' aria-hidden='true'></i></button>This terminates our introduction to Protein Structure. We hope that this chapter has increased your understanding of the complex world of protein structure. The tremendous increase in our knowledge generated by this field, its rapid application and conversion into useful drugs, as well as the beauty of protein structure and function will continue to nurture research focusing on the discovery and application of the subtle machinery underlying life processes. In the years to come progress and advances will doubtless be achieved, far beyond what we can imagine today. 
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -2529,4 +2529,6 @@ This terminates our introduction to Protein Structure. We hope that this chapter
      
     [](http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId=1I4Y) 
     
-Copyright © 2022 drugdesign.org
+
+
+Copyright © 2024 drugdesign.org

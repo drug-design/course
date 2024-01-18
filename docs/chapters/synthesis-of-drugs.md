@@ -16,7 +16,7 @@
 
 ### Why to Synthesize a New Molecule?
 
-Synthetic organic chemistry is a powerful field that governs much of drug discovery and development. It enables us access to new chemical compounds such as analogs of natural products or novel synthetic structures that can be used as probes to understand biological events and the derivation of useful therapeutic agents. It also plays a pivotal role in the preparation of the necessary quantities for clinical trials and bulk production of the drug when it becomes commercialized.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/why-to-synthesize-new-molecule-fc43f2d9'><i class='fa fa-play' aria-hidden='true'></i></button>Synthetic organic chemistry is a powerful field that governs much of drug discovery and development. It enables us access to new chemical compounds such as analogs of natural products or novel synthetic structures that can be used as probes to understand biological events and the derivation of useful therapeutic agents. It also plays a pivotal role in the preparation of the necessary quantities for clinical trials and bulk production of the drug when it becomes commercialized.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -33,41 +33,41 @@ Synthetic organic chemistry is a powerful field that governs much of drug discov
     
 #### Drug Discovery
 
-The synthesis of new molecules plays a key role in the drug discovery process. A drug candidate results from a lengthy and intense research activity where many molecules are synthesized and extensively tested. This generates informative structure-activity relationships for the conversion of this knowledge in the optimization and development of the drug candidate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/drug-discovery-7bd417ce'><i class='fa fa-play' aria-hidden='true'></i></button>The synthesis of new molecules plays a key role in the drug discovery process. A drug candidate results from a lengthy and intense research activity where many molecules are synthesized and extensively tested. This generates informative structure-activity relationships for the conversion of this knowledge in the optimization and development of the drug candidate.
 *[structure-activity relationships]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/intro.png){: loading=lazy }
 #### Bulk Production
 
-The manufacturing and bulk production of a drug is costly and involves heavy industrial installations. Millions of dollars can be saved by reducing the production costs of a drug. For example, for more than 60 years the commercial synthesis of Vitamin C has involved a six-step chemical process. Recently, an intelligent modification of the synthetic process has shortened it to only three major steps. More than 110,000 tons of Vitamin C are produced annually; the economical and ecological impact on what has become a $1 billion-plus industry are considerable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/bulk-production-a88e7c9b'><i class='fa fa-play' aria-hidden='true'></i></button>The manufacturing and bulk production of a drug is costly and involves heavy industrial installations. Millions of dollars can be saved by reducing the production costs of a drug. For example, for more than 60 years the commercial synthesis of Vitamin C has involved a six-step chemical process. Recently, an intelligent modification of the synthetic process has shortened it to only three major steps. More than 110,000 tons of Vitamin C are produced annually; the economical and ecological impact on what has become a $1 billion-plus industry are considerable.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/bulk.png){: loading=lazy }
 ### Goal of the Synthesis
 
-The aim of the synthesis is to prepare a target compound (TC, the drug candidate) which is synthesized by converting the starting material (SM) after a series of chemical interconversions have been carried out. A, B ... are intermediate products, whereas X, &Psi;, &Omega; ... represent the reagents and conditions of the chemical reactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/goal-synthesis-1fadfb65'><i class='fa fa-play' aria-hidden='true'></i></button>The aim of the synthesis is to prepare a target compound (TC, the drug candidate) which is synthesized by converting the starting material (SM) after a series of chemical interconversions have been carried out. A, B ... are intermediate products, whereas X, &Psi;, &Omega; ... represent the reagents and conditions of the chemical reactions.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/goal.png){: loading=lazy }
 ### General Requirements before Starting
 
-Before starting an organic drug synthesis, the requirements are generally well established. The target compound should be of low molecular weight. We need cheap, non toxic, readily available materials and keep the synthesis short. Whenever possible, stereospecific reactions with high yields must be planned. The reactions should be adaptable to large-scale production methods with intermediate products that are easy to isolate, purify and identify.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/general-requirements-before-starting-95099b3b'><i class='fa fa-play' aria-hidden='true'></i></button>Before starting an organic drug synthesis, the requirements are generally well established. The target compound should be of low molecular weight. We need cheap, non toxic, readily available materials and keep the synthesis short. Whenever possible, stereospecific reactions with high yields must be planned. The reactions should be adaptable to large-scale production methods with intermediate products that are easy to isolate, purify and identify.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/requirements.png){: loading=lazy }
 ### Number of Steps and Intermediates
 
-Drug synthesis is a multiple step process. The strategy consists of moving from SM to TC with a minimum number of steps. It is extremely important to address the issue of reducing the number of steps: in drug discovery this accelerates the discovery cycle, and in process manufacturing this reduces production costs of the drug. For example, nifedipine is synthesized in 2 steps, viagra and zyvox in 9, lipitor and cephalexin in more than 11 steps.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/number-steps-intermediates-d89233eb'><i class='fa fa-play' aria-hidden='true'></i></button>Drug synthesis is a multiple step process. The strategy consists of moving from SM to TC with a minimum number of steps. It is extremely important to address the issue of reducing the number of steps: in drug discovery this accelerates the discovery cycle, and in process manufacturing this reduces production costs of the drug. For example, nifedipine is synthesized in 2 steps, viagra and zyvox in 9, lipitor and cephalexin in more than 11 steps.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/steps.png){: loading=lazy }
 ### Measurable Reaction's Characteristics
 
-Many characteristics of a reaction can be observed and measured as the reaction proceeds. These typically include the yield, the reaction rate, the intermediates formed and the products obtained. Some of these are discussed in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/measurable-reactions-characteristics-5c0759a0'><i class='fa fa-play' aria-hidden='true'></i></button>Many characteristics of a reaction can be observed and measured as the reaction proceeds. These typically include the yield, the reaction rate, the intermediates formed and the products obtained. Some of these are discussed in the following pages.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -76,28 +76,28 @@ Many characteristics of a reaction can be observed and measured as the reaction 
 
 #### Yield
 
-The yield of a reaction is a percentage that indicates the amount of product actually obtained as compared to the theoretical yield (which is the amount of product predicted to form on the basis of the balanced chemical equation). A yield of 80% is good per step. Note that a five step reaction with an average yield of 80% for each step would give an overall yield of only 33%: this shows that overall yields drop off rapidly even with high yields at each stage. It may be possible to increase the effectiveness of a given step by changing the experimental conditions such as the reagents, the temperature, the time or the catalysts.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/yield-52057572'><i class='fa fa-play' aria-hidden='true'></i></button>The yield of a reaction is a percentage that indicates the amount of product actually obtained as compared to the theoretical yield (which is the amount of product predicted to form on the basis of the balanced chemical equation). A yield of 80% is good per step. Note that a five step reaction with an average yield of 80% for each step would give an overall yield of only 33%: this shows that overall yields drop off rapidly even with high yields at each stage. It may be possible to increase the effectiveness of a given step by changing the experimental conditions such as the reagents, the temperature, the time or the catalysts.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/yield_5_steps.png){: loading=lazy }
 #### Reaction Rate
 
-Chemical reactions occur at different rates. Some reactions are extremely fast while others are very slow, depending on the nature of the reactants and products and the conditions under which the reaction takes place. Factors that affect reaction rates include temperature, the concentration of the reactants, the pH, the physical state of reactants, the presence of a catalyst and light.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/reaction-rate-3c1fa418'><i class='fa fa-play' aria-hidden='true'></i></button>Chemical reactions occur at different rates. Some reactions are extremely fast while others are very slow, depending on the nature of the reactants and products and the conditions under which the reaction takes place. Factors that affect reaction rates include temperature, the concentration of the reactants, the pH, the physical state of reactants, the presence of a catalyst and light.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/rate.png){: loading=lazy }
 #### Product Selectivity
 
-The result of a reaction between a reactant and a reagent is not always a unique product; multiple competing reactions can take place and produce different products. Normally for the synthesis of a drug, only one of the products is needed and the reaction is optimized to maximize the formation of the desired compound as far as possible.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/product-selectivity-2f92ad92'><i class='fa fa-play' aria-hidden='true'></i></button>The result of a reaction between a reactant and a reagent is not always a unique product; multiple competing reactions can take place and produce different products. Normally for the synthesis of a drug, only one of the products is needed and the reaction is optimized to maximize the formation of the desired compound as far as possible.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/selectivity.png){: loading=lazy }
 #### Regioselectivity and Regiospecificity
 
-Above we saw that a reaction can yield different products, and these products are not isomers. However, there are reactions that produce isomeric products, such as regioselective reactions. A simple example is illustrated below, where the reaction of HBr with propene gives 1-bromopropane and 2-bromopropane (if this regioselective reaction had given only one product it would have been called "regiospecific").
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/regioselectivity-regiospecificity-2e96ad7b'><i class='fa fa-play' aria-hidden='true'></i></button>Above we saw that a reaction can yield different products, and these products are not isomers. However, there are reactions that produce isomeric products, such as regioselective reactions. A simple example is illustrated below, where the reaction of HBr with propene gives 1-bromopropane and 2-bromopropane (if this regioselective reaction had given only one product it would have been called "regiospecific").
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -106,20 +106,20 @@ Above we saw that a reaction can yield different products, and these products ar
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/regio.png){: loading=lazy }
 #### Stereoselectivity and Stereospecificity
 
-A reaction is stereoselective when there is preferential formation of one stereoisomer over another. A reaction is sometimes termed stereospecific when there is very high stereoselectivity. Stereoselectivity is an important variable in the synthesis of many drugs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/stereoselectivity-stereospecificity-8d5ec719'><i class='fa fa-play' aria-hidden='true'></i></button>A reaction is stereoselective when there is preferential formation of one stereoisomer over another. A reaction is sometimes termed stereospecific when there is very high stereoselectivity. Stereoselectivity is an important variable in the synthesis of many drugs.
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/stereselec.png){: loading=lazy }
 ### Thermodynamic and Kinetic Properties of the Reaction
 
-Thermodynamics and kinetics control the course of every chemical reaction. A reaction can be thermodynamically controlled (when the product composition is governed by the equilibrium thermodynamics of the system), or kinetically controlled (when the product composition is governed by competing rates of formation of products), in which case the formation of the product with the lowest activation energy is favored.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/thermodynamic-kinetic-properties-reaction-427f5b60'><i class='fa fa-play' aria-hidden='true'></i></button>Thermodynamics and kinetics control the course of every chemical reaction. A reaction can be thermodynamically controlled (when the product composition is governed by the equilibrium thermodynamics of the system), or kinetically controlled (when the product composition is governed by competing rates of formation of products), in which case the formation of the product with the lowest activation energy is favored.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/thermo_and_kinetics.png){: loading=lazy }
 #### Thermodynamics
 
-The enolization of keto-3 steroids is an example of a thermodynamically controlled reaction. The composition of the two enols obtained is dictated by their relative energies: there is a difference of 2.4 kJ/mol, in favor of the &Delta;<sup>2</sup> enol.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/thermodynamics-9857f991'><i class='fa fa-play' aria-hidden='true'></i></button>The enolization of keto-3 steroids is an example of a thermodynamically controlled reaction. The composition of the two enols obtained is dictated by their relative energies: there is a difference of 2.4 kJ/mol, in favor of the &Delta;<sup>2</sup> enol.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -139,7 +139,7 @@ The enolization of keto-3 steroids is an example of a thermodynamically controll
     
 #### Kinetics
 
-The nucleophilic attack of a ketone in a chiral environment is under kinetic control: unequal amounts of enantiomeric alcohols are produced because the two diastereoisomeric transition states do not have the same energy.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/kinetics-38359ceb'><i class='fa fa-play' aria-hidden='true'></i></button>The nucleophilic attack of a ketone in a chiral environment is under kinetic control: unequal amounts of enantiomeric alcohols are produced because the two diastereoisomeric transition states do not have the same energy.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
@@ -147,21 +147,21 @@ The nucleophilic attack of a ketone in a chiral environment is under kinetic con
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/energies.png){: loading=lazy }
 #### Determinants of a Chemical Reaction
 
-Thermodynamic and kinetic properties determine the course of a chemical reaction. The reaction is driven by the energies of the reagents and products (thermodynamics) and of the transition states (kinetics). Steric, electronic and solvent effects for instance contribute to the energies of such molecular systems.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/determinants-chemical-reaction-71aa05ec'><i class='fa fa-play' aria-hidden='true'></i></button>Thermodynamic and kinetic properties determine the course of a chemical reaction. The reaction is driven by the energies of the reagents and products (thermodynamics) and of the transition states (kinetics). Steric, electronic and solvent effects for instance contribute to the energies of such molecular systems.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/properties.png){: loading=lazy }
 ##### Steric Effects
 
-Steric effects can influence conformational preferences or stabilizing transition states of reactions. They control the course of the regioselectivity of many reactions such as additions, eliminations, substitutions or rearrangements. For example the regioselective formation of the less crowded alkene in the following Hofmann elimination is due to steric effects resulting in the low energy of the corresponding transition state.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/steric-effects-57c2c2cc'><i class='fa fa-play' aria-hidden='true'></i></button>Steric effects can influence conformational preferences or stabilizing transition states of reactions. They control the course of the regioselectivity of many reactions such as additions, eliminations, substitutions or rearrangements. For example the regioselective formation of the less crowded alkene in the following Hofmann elimination is due to steric effects resulting in the low energy of the corresponding transition state.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/steric_effect.png){: loading=lazy }
 ##### Electronics Effects
 
-Electronic effects can influence the resonance, the inductive effects, the stereoelectronic features, the basicity of nucleophiles, the acidity of electrophiles, the stabilization of ionic structures etc... The classical case is the ortho, meta or para substitutions in Friedel Crafts reactions. In the example below we see how the rate of N-Nitrosation of N-Benzylpivalamides can be accelerated by para electron-donating groups.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/electronics-effects-34253d79'><i class='fa fa-play' aria-hidden='true'></i></button>Electronic effects can influence the resonance, the inductive effects, the stereoelectronic features, the basicity of nucleophiles, the acidity of electrophiles, the stabilization of ionic structures etc... The classical case is the ortho, meta or para substitutions in Friedel Crafts reactions. In the example below we see how the rate of N-Nitrosation of N-Benzylpivalamides can be accelerated by para electron-donating groups.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -176,7 +176,7 @@ Electronic effects can influence the resonance, the inductive effects, the stere
     
 ##### Solvent Effects
 
-The solvent performs the mechanical but vital role of allowing immiscible reactants to come together rapidly. The example shown below illustrates the influence of the solvent in a Still-Wittig rearrangement yielding opposite stereoselectivities depending on the nature of the solvent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/solvent-effects-2f7152f2'><i class='fa fa-play' aria-hidden='true'></i></button>The solvent performs the mechanical but vital role of allowing immiscible reactants to come together rapidly. The example shown below illustrates the influence of the solvent in a Still-Wittig rearrangement yielding opposite stereoselectivities depending on the nature of the solvent.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -192,14 +192,14 @@ The solvent performs the mechanical but vital role of allowing immiscible reacta
 ### How to Influence a Reaction?
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Because of their complexity, the chemist is less concerned with the energies of the products or the transition states, and is more interested in practical ways of influencing the reaction so it can be oriented towards the desired end products. The concrete parameters that the chemist can influence are for example the choice of the reactants, reagents, concentrations, temperature, catalyst, pH, solvent, etc...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/how-to-influence-reaction-5dd921b2'><i class='fa fa-play' aria-hidden='true'></i></button>Because of their complexity, the chemist is less concerned with the energies of the products or the transition states, and is more interested in practical ways of influencing the reaction so it can be oriented towards the desired end products. The concrete parameters that the chemist can influence are for example the choice of the reactants, reagents, concentrations, temperature, catalyst, pH, solvent, etc...
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/influence_var.png){: loading=lazy }
 #### Reactant Choice
 
-Once a reaction has been selected it can be influenced by changing various experimental parameters - first and foremost, the choice of the reactants and reagents. In the example below (molecules that are important in the discovery of EGF-R kinase inhibitors) the nature of the halogen in position 6 proved to be critical for enabling the reaction to take place. A fluorine atom in position 6 is easily displaced by primary and secondary amines, whereas chlorine in the same position cannot be displaced by amines or other nucleophiles.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/reactant-choice-3fc31eb9'><i class='fa fa-play' aria-hidden='true'></i></button>Once a reaction has been selected it can be influenced by changing various experimental parameters - first and foremost, the choice of the reactants and reagents. In the example below (molecules that are important in the discovery of EGF-R kinase inhibitors) the nature of the halogen in position 6 proved to be critical for enabling the reaction to take place. A fluorine atom in position 6 is easily displaced by primary and secondary amines, whereas chlorine in the same position cannot be displaced by amines or other nucleophiles.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -216,14 +216,14 @@ Once a reaction has been selected it can be influenced by changing various exper
     
 #### Reagent Choice
 
-The example below illustrates how it is possible to direct the stereoselectivity of a reaction by modifying the reagent. It shows how it is possible to influence the course of the reaction towards the desired product with the right choice of the nucleophile.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/reagent-choice-b0d5e201'><i class='fa fa-play' aria-hidden='true'></i></button>The example below illustrates how it is possible to direct the stereoselectivity of a reaction by modifying the reagent. It shows how it is possible to influence the course of the reaction towards the desired product with the right choice of the nucleophile.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/reactant2.png){: loading=lazy }
 #### Reaction Conditions
 
-Once a specific reaction has been selected, it is implemented - which is one of the chemist's most time consuming jobs. A whole set of conditions need to be defined: the reagents, the time, the temperature, the concentration or the physical state of the reactants, the solvent, the pH, the catalysts and their combinations to obtain the desired product. In the example below, 50 trials were carried out before the best set of conditions (with a yield of 96%) was found. In unfavorable conditions, the reaction does not work well and cannot be rectified.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/reaction-conditions-7138d0d1'><i class='fa fa-play' aria-hidden='true'></i></button>Once a specific reaction has been selected, it is implemented - which is one of the chemist's most time consuming jobs. A whole set of conditions need to be defined: the reagents, the time, the temperature, the concentration or the physical state of the reactants, the solvent, the pH, the catalysts and their combinations to obtain the desired product. In the example below, 50 trials were carried out before the best set of conditions (with a yield of 96%) was found. In unfavorable conditions, the reaction does not work well and cannot be rectified.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -232,7 +232,7 @@ Once a specific reaction has been selected, it is implemented - which is one of 
 #### Influence of pH
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The following example illustrates how a Friedel-Crafts acylation in water can be sensitive to pH. At pH 7.5 the indolic system is efficiently acylated with ethyl glyoxylate. At this pH the yields are as high as 95%; they drop to 17% at pH 11.3.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/influence-ph-841ec446'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates how a Friedel-Crafts acylation in water can be sensitive to pH. At pH 7.5 the indolic system is efficiently acylated with ethyl glyoxylate. At this pH the yields are as high as 95%; they drop to 17% at pH 11.3.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/ph_variation.png){: loading=lazy }
@@ -246,7 +246,7 @@ The following example illustrates how a Friedel-Crafts acylation in water can be
 #### Influence of the Solvent
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The solvent can substantially affect the solvation of reactants, products or transition states resulting in variations in the regioselectivity, reaction rate or equilibrium of a reaction. From solvent to solvent the solvation energies may vary by up to 40 kJ/mol.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/influence-solvent-75fcf4c1'><i class='fa fa-play' aria-hidden='true'></i></button>The solvent can substantially affect the solvation of reactants, products or transition states resulting in variations in the regioselectivity, reaction rate or equilibrium of a reaction. From solvent to solvent the solvation energies may vary by up to 40 kJ/mol.
 
 
 === "Regioselectivity"
@@ -257,7 +257,7 @@ The solvent can substantially affect the solvation of reactants, products or tra
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/solv_equil.png){: loading=lazy }
 #### Catalysts
 
-The role of the catalyst is to facilitate the formation of the desired product by reducing the activation energy of the reaction. Over the last few decades chemists have devised a vast range of chiral and non-chiral catalysts that contain complex inorganic, organic and biological catalysts that are designed for specific reactions such as Suzuki coupling, asymmetric metathesis etc....
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/catalysts-2b512785'><i class='fa fa-play' aria-hidden='true'></i></button>The role of the catalyst is to facilitate the formation of the desired product by reducing the activation energy of the reaction. Over the last few decades chemists have devised a vast range of chiral and non-chiral catalysts that contain complex inorganic, organic and biological catalysts that are designed for specific reactions such as Suzuki coupling, asymmetric metathesis etc....
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/catalyzers.png){: loading=lazy }
@@ -267,14 +267,14 @@ The role of the catalyst is to facilitate the formation of the desired product b
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/catalyzers_f2.png){: loading=lazy }
 ### Tools for Following the Progression of a Reaction
 
-Because a reaction takes place in many steps, it is important to have the right tools to make sure that the compounds obtained at each step are the expected ones. Did the reaction take place? Was the reaction complete? How many products are in the flask? What is the main product? These are some of the questions which need to be answered. There is a broad range of analytical tools available to monitor the progression of a chemical reaction. Spectroscopy and chromatography are the most indispensable means used in all laboratories. It is possible to rely on a single analytical method or in a combination or several of them.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/tools-for-following-progression-reaction-8f33562e'><i class='fa fa-play' aria-hidden='true'></i></button>Because a reaction takes place in many steps, it is important to have the right tools to make sure that the compounds obtained at each step are the expected ones. Did the reaction take place? Was the reaction complete? How many products are in the flask? What is the main product? These are some of the questions which need to be answered. There is a broad range of analytical tools available to monitor the progression of a chemical reaction. Spectroscopy and chromatography are the most indispensable means used in all laboratories. It is possible to rely on a single analytical method or in a combination or several of them.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/tools.png){: loading=lazy }
 #### Spectroscopy
 
-Spectroscopy is an important tool to test for the correct progression of the synthesis of a drug. A spectrum can be obtained (absorption or emission), that provides a fingerprint that is characteristic of the molecular structure concerned. It can be compared to the spectrum of a known compound, or analyzed in terms of the chemical structure of the compound considered. Analytical spectroscopic tools include mass spectroscopy, infrared, nuclear magnetic resonance, ultraviolet, circular dichroism and X-ray crystallography.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/spectroscopy-e1378aa9'><i class='fa fa-play' aria-hidden='true'></i></button>Spectroscopy is an important tool to test for the correct progression of the synthesis of a drug. A spectrum can be obtained (absorption or emission), that provides a fingerprint that is characteristic of the molecular structure concerned. It can be compared to the spectrum of a known compound, or analyzed in terms of the chemical structure of the compound considered. Analytical spectroscopic tools include mass spectroscopy, infrared, nuclear magnetic resonance, ultraviolet, circular dichroism and X-ray crystallography.
 *[nuclear magnetic resonance]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -291,14 +291,14 @@ Spectroscopy is an important tool to test for the correct progression of the syn
     
 ##### Mass Spectra (MS)
 
-In mass spectrometry, a substance is bombarded with an electron beam with sufficient energy to fragment the molecule. The ions generated are accelerated through a magnetic field and are sorted on the basis of a mass-to-charge ratio. A precise molecular mass is obtained and the analysis of the spectrum involves re-assembling the fragments to generate the exact structure of the original molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/mass-spectra-ms-77473a08'><i class='fa fa-play' aria-hidden='true'></i></button>In mass spectrometry, a substance is bombarded with an electron beam with sufficient energy to fragment the molecule. The ions generated are accelerated through a magnetic field and are sorted on the basis of a mass-to-charge ratio. A precise molecular mass is obtained and the analysis of the spectrum involves re-assembling the fragments to generate the exact structure of the original molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/ms.png){: loading=lazy }
 ##### Infrared (IR)
 
-Absorption of infrared radiation results in the excitation of vibrational, rotational and bending modes of groups of atoms, while the molecule itself remains in its electronic ground state. The functional groups present in the molecule can easily be identified through their characteristic absorption wavelengths.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/infrared-ir-833bc21f'><i class='fa fa-play' aria-hidden='true'></i></button>Absorption of infrared radiation results in the excitation of vibrational, rotational and bending modes of groups of atoms, while the molecule itself remains in its electronic ground state. The functional groups present in the molecule can easily be identified through their characteristic absorption wavelengths.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/cd.png){: loading=lazy }
@@ -307,7 +307,7 @@ Absorption of infrared radiation results in the excitation of vibrational, rotat
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Nuclear magnetic resonance is a spectroscopic technique that provides information about the number and types of atoms in a molecule. NMR spectrometers are tuned to certain nuclei such as <sup>1</sup>H, <sup>13</sup>C, <sup>19</sup>F and <sup>31</sup>P. Absorption in the low-energy radio-frequency part of the spectrum causes excitation of nuclear spin states; high-resolution spectroscopy distinguishes atoms in different locations in the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/nuclear-magnetic-resonance-nmr-49d58ea4'><i class='fa fa-play' aria-hidden='true'></i></button>Nuclear magnetic resonance is a spectroscopic technique that provides information about the number and types of atoms in a molecule. NMR spectrometers are tuned to certain nuclei such as <sup>1</sup>H, <sup>13</sup>C, <sup>19</sup>F and <sup>31</sup>P. Absorption in the low-energy radio-frequency part of the spectrum causes excitation of nuclear spin states; high-resolution spectroscopy distinguishes atoms in different locations in the molecule.
 *[Nuclear magnetic resonance]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -316,7 +316,7 @@ Nuclear magnetic resonance is a spectroscopic technique that provides informatio
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/uv.png){: loading=lazy }
 ##### Ultraviolet (UV)
 
-Absorption or emission of ultraviolet or visible light by a molecule depends on electronic transitions between molecular orbital energy levels in the molecule. UV spectra can be used to identify an unknown compound by comparative analyses. It is not used to identify the presence of functional groups, but rather to show relationships as conjugation. UV spectra may be also used to determine the concentration of a compound in a mixture.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/ultraviolet-uv-45f6c8b6'><i class='fa fa-play' aria-hidden='true'></i></button>Absorption or emission of ultraviolet or visible light by a molecule depends on electronic transitions between molecular orbital energy levels in the molecule. UV spectra can be used to identify an unknown compound by comparative analyses. It is not used to identify the presence of functional groups, but rather to show relationships as conjugation. UV spectra may be also used to determine the concentration of a compound in a mixture.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -324,7 +324,7 @@ Absorption or emission of ultraviolet or visible light by a molecule depends on 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/ir.png){: loading=lazy }
 ##### Circular Dichroism (CD) and Optical Rotatory Dispersion (ORD)
 
-Circular dichroism is used for the spectroscopic analysis of chiral molecules by measuring differences in the absorption of left-handed polarized light versus right-handed polarized light, which arise from the structural asymmetry of the chiral moieties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/circular-dichroism-cd-optical-rotatory-dispersion-ord-64e8ecf2'><i class='fa fa-play' aria-hidden='true'></i></button>Circular dichroism is used for the spectroscopic analysis of chiral molecules by measuring differences in the absorption of left-handed polarized light versus right-handed polarized light, which arise from the structural asymmetry of the chiral moieties.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
@@ -332,7 +332,7 @@ Circular dichroism is used for the spectroscopic analysis of chiral molecules by
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/cd1.png){: loading=lazy }
 ##### X-rays
 
-Solid state X-ray crystallography is used to reveal the structure of a compound, information that could be invaluable when its 2D formula is problematic. For example, Dorothy Hodgkin and her team at Oxford were able to demonstrate the structure of penicillin by the resolution of its X-ray diffraction data. Dorothy Hodgkin was awarded the Nobel Prize in chemistry (in 1964) for this achievement that enabled chemists to develop synthetic ways to make this antibiotic - and many related analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/x-rays-f510d52f'><i class='fa fa-play' aria-hidden='true'></i></button>Solid state X-ray crystallography is used to reveal the structure of a compound, information that could be invaluable when its 2D formula is problematic. For example, Dorothy Hodgkin and her team at Oxford were able to demonstrate the structure of penicillin by the resolution of its X-ray diffraction data. Dorothy Hodgkin was awarded the Nobel Prize in chemistry (in 1964) for this achievement that enabled chemists to develop synthetic ways to make this antibiotic - and many related analogs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -341,7 +341,7 @@ Solid state X-ray crystallography is used to reveal the structure of a compound,
 
 #### Chromatography
 
-Analytical chromatography is essential for following the progression of a synthesis. Based on differential migration of solutes, it can identify reagents, reactants and products that are present in the reaction mixture (by comparing it with the corresponding pure compounds). The technique was developed in the 1940s with paper chromatography, and in the 1950s with gas (GC) and thin layer chromatography (TLC). Today modern chromatography has generated a broad spectrum of techniques including high performance liquid chromatography (HPLC) for both analytical and preparative purposes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/chromatography-01728416'><i class='fa fa-play' aria-hidden='true'></i></button>Analytical chromatography is essential for following the progression of a synthesis. Based on differential migration of solutes, it can identify reagents, reactants and products that are present in the reaction mixture (by comparing it with the corresponding pure compounds). The technique was developed in the 1940s with paper chromatography, and in the 1950s with gas (GC) and thin layer chromatography (TLC). Today modern chromatography has generated a broad spectrum of techniques including high performance liquid chromatography (HPLC) for both analytical and preparative purposes.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -354,14 +354,14 @@ Analytical chromatography is essential for following the progression of a synthe
 ##### High Performance Liquid Chromatography (HPLC)
 *[nce]: New Chemical Entity: a compound not previously described.
 
-High performance liquid chromatography is a tool for quantifying and analyzing mixtures of chemical compounds. The method was developed in the mid-1970s and has become the most popular method of analysis because it is easy to use.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/high-performance-liquid-chromatography-hplc-c3b5aa8a'><i class='fa fa-play' aria-hidden='true'></i></button>High performance liquid chromatography is a tool for quantifying and analyzing mixtures of chemical compounds. The method was developed in the mid-1970s and has become the most popular method of analysis because it is easy to use.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nmr.png){: loading=lazy }
 ##### Chiral Chromatography
 
-The separation of enantiomers by chiral HPLC is a useful method for the analysis of chiral substances. It can be a very efficient method for the separation of racemic compounds, to control the optical purity and also for the preparation of optically pure drugs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/chiral-chromatography-2f4a0b67'><i class='fa fa-play' aria-hidden='true'></i></button>The separation of enantiomers by chiral HPLC is a useful method for the analysis of chiral substances. It can be a very efficient method for the separation of racemic compounds, to control the optical purity and also for the preparation of optically pure drugs.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -372,19 +372,19 @@ The separation of enantiomers by chiral HPLC is a useful method for the analysis
 
 ### Strategy Like a General in the Battle
 
-The synthesis of the target compound can be viewed as a battle in which the strategy that is best suited to achieving the upcoming goal is applied. The current status must be permanently assessed and the strategy revised. The medicinal chemist must find the appropriate reagents at minimum price and the best synthetic scheme to achieve this goal as quickly as possible.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/strategy-like-general-battle-076cdb24'><i class='fa fa-play' aria-hidden='true'></i></button>The synthesis of the target compound can be viewed as a battle in which the strategy that is best suited to achieving the upcoming goal is applied. The current status must be permanently assessed and the strategy revised. The medicinal chemist must find the appropriate reagents at minimum price and the best synthetic scheme to achieve this goal as quickly as possible.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/how_analyze.png){: loading=lazy }
 ### Flexibility in the Strategy
 
-Many syntheses contain surprises and the chemist must be prepared to circumvent difficulties. "Flexibility" is the keyword and must be present at multiple levels, as discussed in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/flexibility-strategy-d4cfaa03'><i class='fa fa-play' aria-hidden='true'></i></button>Many syntheses contain surprises and the chemist must be prepared to circumvent difficulties. "Flexibility" is the keyword and must be present at multiple levels, as discussed in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/escaliers4.png){: loading=lazy }
 #### Flexibility in the Synthetic Program
 
-In terms of chemistry, the synthetic scheme must be as flexible as possible. As many problems as possible must be predicted in advance at the design stages of a chemical program, so that there are alternative solutions available if a reaction fails to work.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/flexibility-synthetic-program-f4aa5e7a'><i class='fa fa-play' aria-hidden='true'></i></button>In terms of chemistry, the synthetic scheme must be as flexible as possible. As many problems as possible must be predicted in advance at the design stages of a chemical program, so that there are alternative solutions available if a reaction fails to work.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -392,33 +392,33 @@ In terms of chemistry, the synthetic scheme must be as flexible as possible. As 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/escaliers5.png){: loading=lazy }
 #### Flexibility in the Target Molecule
 
-Flexibility should be uppermost in the chemist's mind. After all a chemist "synthesizes" an idea rather than a molecule... In chemistry if the result diverges from the expected outcome, you need to return to the hypothesis. Based on accumulated knowledge and imagination, another molecule must be designed that fits the working hypotheses better than the original one.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/flexibility-target-molecule-cffbfc62'><i class='fa fa-play' aria-hidden='true'></i></button>Flexibility should be uppermost in the chemist's mind. After all a chemist "synthesizes" an idea rather than a molecule... In chemistry if the result diverges from the expected outcome, you need to return to the hypothesis. Based on accumulated knowledge and imagination, another molecule must be designed that fits the working hypotheses better than the original one.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/escaliers6.png){: loading=lazy }
 #### Nicolaou Statement on the Trip to Ithaca
 
-K.C. Nicolaou use to say says that organic synthesis is like the journey from Troy to Ithaca: this trip is full of adventure and new discoveries; encounters with Laistrygonians and Cyclops... For the medicinal chemist a second journey begins when the molecule enters the cycle of biological testing...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/nicolaou-statement-on-trip-to-ithaca-60983301'><i class='fa fa-play' aria-hidden='true'></i></button>K.C. Nicolaou use to say says that organic synthesis is like the journey from Troy to Ithaca: this trip is full of adventure and new discoveries; encounters with Laistrygonians and Cyclops... For the medicinal chemist a second journey begins when the molecule enters the cycle of biological testing...
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/retro_trip.png){: loading=lazy }
 ### Linear and Convergent Strategy
 
-The synthesis of the molecule is like putting together a jigsaw puzzle. You can assemble complementary blocks, or you can make certain regions independently and then connect them. In organic synthesis, these two approaches are known as the linear and convergent strategies.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/linear-convergent-strategy-5bc0219a'><i class='fa fa-play' aria-hidden='true'></i></button>The synthesis of the molecule is like putting together a jigsaw puzzle. You can assemble complementary blocks, or you can make certain regions independently and then connect them. In organic synthesis, these two approaches are known as the linear and convergent strategies.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/lin_con.png){: loading=lazy }
 #### Linear Strategy
 
-In a linear strategy the molecule is constructed in a stepwise fashion, following a linear reaction sequence. The global yield of a linear synthesis decreases exponentially with the number of steps. Brevetoxine can be synthesized in 83 steps with an average yield of 91% per step, however the global yield is only 0.043% !
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/linear-strategy-4edca209'><i class='fa fa-play' aria-hidden='true'></i></button>In a linear strategy the molecule is constructed in a stepwise fashion, following a linear reaction sequence. The global yield of a linear synthesis decreases exponentially with the number of steps. Brevetoxine can be synthesized in 83 steps with an average yield of 91% per step, however the global yield is only 0.043% !
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/linear.png){: loading=lazy }
 ##### Example: Captopril Linear Synthesis
 
-Captopril can be synthesized in four steps according to the linear synthesis shown below, that starts from 2-methylacrylic acid.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/example-captopril-linear-synthesis-471b5a72'><i class='fa fa-play' aria-hidden='true'></i></button>Captopril can be synthesized in four steps according to the linear synthesis shown below, that starts from 2-methylacrylic acid.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/linear_ex.png){: loading=lazy }
@@ -431,13 +431,13 @@ Captopril can be synthesized in four steps according to the linear synthesis sho
     
 #### Convergent Strategy
 
-In the convergent synthesis two or more direct precursors of a target are constructed independently and then assembled in the last step of the synthesis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/convergent-strategy-52cd6c86'><i class='fa fa-play' aria-hidden='true'></i></button>In the convergent synthesis two or more direct precursors of a target are constructed independently and then assembled in the last step of the synthesis.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/convergent.png){: loading=lazy }
 ##### Convergent Advantage
 
-Convergent routes present advantages over linear approaches with respect to speed, time, yields and manpower. Furthermore they have greater flexibility for producing series of analogs. The impact of low yield reactions is less dramatic in a convergent than in a linear approach, as illustrated in the theoretical examples below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/convergent-advantage-a4aa57f4'><i class='fa fa-play' aria-hidden='true'></i></button>Convergent routes present advantages over linear approaches with respect to speed, time, yields and manpower. Furthermore they have greater flexibility for producing series of analogs. The impact of low yield reactions is less dramatic in a convergent than in a linear approach, as illustrated in the theoretical examples below.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -447,7 +447,7 @@ Convergent routes present advantages over linear approaches with respect to spee
 ##### Example: Losartan Convergent Synthesis
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Losartan can be synthesized in a convergent manner as shown below. The imidazole and biphenyl precursors 4 and 8 are first prepared separately from (1 and 2) and (5 and 6), respectively, and they react together in one of the last steps of the synthesis to give the cyano analog 9, which is then transformed into the desired losartan drug 10 with the desired tetrazole moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/example-losartan-convergent-synthesis-4a52d408'><i class='fa fa-play' aria-hidden='true'></i></button>Losartan can be synthesized in a convergent manner as shown below. The imidazole and biphenyl precursors 4 and 8 are first prepared separately from (1 and 2) and (5 and 6), respectively, and they react together in one of the last steps of the synthesis to give the cyano analog 9, which is then transformed into the desired losartan drug 10 with the desired tetrazole moiety.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -473,7 +473,7 @@ Losartan can be synthesized in a convergent manner as shown below. The imidazole
     
 ### How to Analyze a Molecule for Synthesis?
 
-Molecules have their own identity and capabilities and the chemist assesses the molecular complexity of the target in terms of characteristics such as those indicated in the list below. However, the analyses depend entirely on the chemist's experience and creativity in combining chemical reactions and selecting the best of a set of possible routes to making the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/how-to-analyze-molecule-for-synthesis-12180cc9'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules have their own identity and capabilities and the chemist assesses the molecular complexity of the target in terms of characteristics such as those indicated in the list below. However, the analyses depend entirely on the chemist's experience and creativity in combining chemical reactions and selecting the best of a set of possible routes to making the molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -482,33 +482,33 @@ Molecules have their own identity and capabilities and the chemist assesses the 
 ### Three Methods for the Design of a Synthetic Program
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Having assessed the complexity of the target molecule, the next step is to find how to synthesize it. There are three basic methods: (1) adapt a known synthetic scheme; (2) use a building block strategy and (3) start from scratch.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/three-methods-for-design-synthetic-program-8d59cbf0'><i class='fa fa-play' aria-hidden='true'></i></button>Having assessed the complexity of the target molecule, the next step is to find how to synthesize it. There are three basic methods: (1) adapt a known synthetic scheme; (2) use a building block strategy and (3) start from scratch.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/methods_design.png){: loading=lazy }
 ### Adapt Known Synthetic Schemes
 
-Adapting known synthetic schemes involves using available synthetical knowledge about other molecules. Rather than re-inventing the wheel, the chemist looks for similar molecules that have already been synthesized by other groups and decides whether the existing methods can be adapted for the synthesis of the target compound.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/adapt-known-synthetic-schemes-5ae6b3b1'><i class='fa fa-play' aria-hidden='true'></i></button>Adapting known synthetic schemes involves using available synthetical knowledge about other molecules. Rather than re-inventing the wheel, the chemist looks for similar molecules that have already been synthesized by other groups and decides whether the existing methods can be adapted for the synthesis of the target compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/start.png){: loading=lazy }
 #### Literature and Patent Searches
 
-Chemical Abstracts, Beilstein, literature and patent searches provide useful ways for finding synthetic schemes that could be adapted for the preparation of the new molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/literature-patent-searches-540013b8'><i class='fa fa-play' aria-hidden='true'></i></button>Chemical Abstracts, Beilstein, literature and patent searches provide useful ways for finding synthetic schemes that could be adapted for the preparation of the new molecule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/litterature.png){: loading=lazy }
 #### Database Searching with Computer Programs
 
-Today most information can be accessed through specialized databases. Database searching provides effective means for finding synthetic pathways and is a source of inspiration for the preparation of target compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/database-searching-computer-programs-ca4c6da9'><i class='fa fa-play' aria-hidden='true'></i></button>Today most information can be accessed through specialized databases. Database searching provides effective means for finding synthetic pathways and is a source of inspiration for the preparation of target compounds.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/database.png){: loading=lazy }
 ### Consider a Building Block Strategy
 
-Unlike the existing knowledge adaptation of known synthetic schemes, the building block strategy aims at exploiting existing starting material. The building block strategy consists of incorporating elaborated and readily available fragments in the synthesis. The recognition of useful building blocks for a target molecule is of outmost importance because it can substantially simplify the chemical pathway.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/consider-building-block-strategy-61ca9847'><i class='fa fa-play' aria-hidden='true'></i></button>Unlike the existing knowledge adaptation of known synthetic schemes, the building block strategy aims at exploiting existing starting material. The building block strategy consists of incorporating elaborated and readily available fragments in the synthesis. The recognition of useful building blocks for a target molecule is of outmost importance because it can substantially simplify the chemical pathway.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -516,14 +516,14 @@ Unlike the existing knowledge adaptation of known synthetic schemes, the buildin
 
 #### Small Commercial Building Blocks
 
-The small building blocks for the synthesis of a novel drug must be commercially available and cheap. This is an issue that a medicinal chemist must constantly keep in mind.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/small-commercial-building-blocks-c0a8c8eb'><i class='fa fa-play' aria-hidden='true'></i></button>The small building blocks for the synthesis of a novel drug must be commercially available and cheap. This is an issue that a medicinal chemist must constantly keep in mind.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/block_commercial.png){: loading=lazy }
 #### Elaborated Building Blocks
 
-For semi-synthesis purposes, elaborated building blocks can be obtained from naturally occurring compounds. A great number of analogs can then be prepared with such scaffolds. Examples of moieties that can be either purchased or prepared are shown here in the taxol, codeine, staurosporine and penicillin families.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/elaborated-building-blocks-a749ded4'><i class='fa fa-play' aria-hidden='true'></i></button>For semi-synthesis purposes, elaborated building blocks can be obtained from naturally occurring compounds. A great number of analogs can then be prepared with such scaffolds. Examples of moieties that can be either purchased or prepared are shown here in the taxol, codeine, staurosporine and penicillin families.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
@@ -539,7 +539,7 @@ For semi-synthesis purposes, elaborated building blocks can be obtained from nat
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/Peni_analogs.png){: loading=lazy }
 ### Starting from Scratch - Retrosynthetic Analysis
 
-When no analogy with a known molecule and no building block can be found, a synthetic route has to be invented 'from scratch'. Although the design is relatively straightforward for a simple structure, a method is needed when the molecule is complicated. "Retrosynthetic analysis" is an important method for analyzing and partitioning the problem. This is presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/starting-from-scratch---retrosynthetic-analysis-2e5958ee'><i class='fa fa-play' aria-hidden='true'></i></button>When no analogy with a known molecule and no building block can be found, a synthetic route has to be invented 'from scratch'. Although the design is relatively straightforward for a simple structure, a method is needed when the molecule is complicated. "Retrosynthetic analysis" is an important method for analyzing and partitioning the problem. This is presented in the following pages.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -547,7 +547,7 @@ When no analogy with a known molecule and no building block can be found, a synt
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/scratch.png){: loading=lazy }
 #### Retrosynthetic Strategy
 
-In retrosynthetic analysis, a synthesis is planned by reasoning backward from the desired product. The approach was formalized by E.J. Corey (1990 Nobel Prize in Chemistry) by using standard rules. The steps are described using retrosynthetic arrows drawn as => and meaning "is synthesized from".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-strategy-816100b1'><i class='fa fa-play' aria-hidden='true'></i></button>In retrosynthetic analysis, a synthesis is planned by reasoning backward from the desired product. The approach was formalized by E.J. Corey (1990 Nobel Prize in Chemistry) by using standard rules. The steps are described using retrosynthetic arrows drawn as => and meaning "is synthesized from".
 
 
 === "Linear"
@@ -624,38 +624,38 @@ In retrosynthetic analysis, a synthesis is planned by reasoning backward from th
     
 ##### Disconnection of Strategic Bonds
 
-In retrosynthesis the bonds of the target molecule are systematically disconnected to reveal the structures of precursor molecules (in orange in the figure), which are then examined in a similar way. One particularly useful tool in identifying good disconnections is to look at the relationship between functional groups. The key bonds that reveal the synthetic strategy are known as the "strategic bonds" and the reactive components of a synthetic step are called "synthons".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/disconnection-strategic-bonds-40eb9845'><i class='fa fa-play' aria-hidden='true'></i></button>In retrosynthesis the bonds of the target molecule are systematically disconnected to reveal the structures of precursor molecules (in orange in the figure), which are then examined in a similar way. One particularly useful tool in identifying good disconnections is to look at the relationship between functional groups. The key bonds that reveal the synthetic strategy are known as the "strategic bonds" and the reactive components of a synthetic step are called "synthons".
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/principle_synthon.png){: loading=lazy }
 ##### Strategic Bonds Revealed by Small Modifications
 
-The aim of retrosynthesis is to find disconnections and uncover strategic bonds that lead to simple starting material. Sometimes a disconnection can only be found if a small modification of a functional group is introduced into the molecule (in the example below, A was changed to A'). The most common transformations are: functional group addition (FGA), functional group interconversion (FGI) and functional group removal (FGR).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/strategic-bonds-revealed-by-small-modifications-e6a8d288'><i class='fa fa-play' aria-hidden='true'></i></button>The aim of retrosynthesis is to find disconnections and uncover strategic bonds that lead to simple starting material. Sometimes a disconnection can only be found if a small modification of a functional group is introduced into the molecule (in the example below, A was changed to A'). The most common transformations are: functional group addition (FGA), functional group interconversion (FGI) and functional group removal (FGR).
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/retro_func_modif.png){: loading=lazy }
 ###### FGA
 
-An example of functional group addition (FGA) is illustrated below. The transform introduced (addition of a methyl ester next to the carbonyl) cleverly increases the complexity of the target molecule: a Dieckmann reaction on the cyclobutane diester derivative leads to the desired structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/fga-2d1f6d69'><i class='fa fa-play' aria-hidden='true'></i></button>An example of functional group addition (FGA) is illustrated below. The transform introduced (addition of a methyl ester next to the carbonyl) cleverly increases the complexity of the target molecule: a Dieckmann reaction on the cyclobutane diester derivative leads to the desired structure.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/fga.png){: loading=lazy }
 ###### FGI
 
-An example with successive functional group interconversions (or interchanges) (FGI) is shown below. Finally, the target compound can be prepared from acetone as starting material.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/fgi-dfe98617'><i class='fa fa-play' aria-hidden='true'></i></button>An example with successive functional group interconversions (or interchanges) (FGI) is shown below. Finally, the target compound can be prepared from acetone as starting material.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/fgi.png){: loading=lazy }
 ###### FGR
 
-An example of functional group removal (FGR) is shown below. The two phenyl groups are temporarily removed from the target structure, and are introduced in due time with a Grignard reaction. The synthesis is based on simple starting material such as ethyl acrylate, piperidine and bromobenzene (for the Grignard).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/fgr-c52b6de7'><i class='fa fa-play' aria-hidden='true'></i></button>An example of functional group removal (FGR) is shown below. The two phenyl groups are temporarily removed from the target structure, and are introduced in due time with a Grignard reaction. The synthesis is based on simple starting material such as ethyl acrylate, piperidine and bromobenzene (for the Grignard).
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/fgr.png){: loading=lazy }
 ##### The Retrosynthetic Process
 
-The retrosynthetic process has often been compared to a game of chess. Organic synthesis is a science and a fine art in which masters such as Corey, introduced logical rules that are now the canon of every undergraduate synthetic chemistry course. The process starts by recognizing the key functional groups of the target compound and their possible transformations (e.g. FGA, FGI and FGR). Strategic bonds are then disconnected and assessed to see whether they lead to simple starting material.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-process-0128a27a'><i class='fa fa-play' aria-hidden='true'></i></button>The retrosynthetic process has often been compared to a game of chess. Organic synthesis is a science and a fine art in which masters such as Corey, introduced logical rules that are now the canon of every undergraduate synthetic chemistry course. The process starts by recognizing the key functional groups of the target compound and their possible transformations (e.g. FGA, FGI and FGR). Strategic bonds are then disconnected and assessed to see whether they lead to simple starting material.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -663,7 +663,7 @@ The retrosynthetic process has often been compared to a game of chess. Organic s
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/algorithm_retro.png){: loading=lazy }
 ##### From TC to SM
 
-Disconnecting in the middle of the molecule or at branch points from chains may yield useful simplifications. After locating the functional groups and their relationships all C-X and C-C bonds are then systematically disconnected, until available starting material is found. Retrosynthetic schemes provide useful material for thinking about ways precursors can be prepared and whether they correspond to reliable reactions. The chemistry associated to a disconnection is usually obvious; however in the intermediate steps the transformations of precursors may require more creativity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/from-tc-to-sm-0e29b652'><i class='fa fa-play' aria-hidden='true'></i></button>Disconnecting in the middle of the molecule or at branch points from chains may yield useful simplifications. After locating the functional groups and their relationships all C-X and C-C bonds are then systematically disconnected, until available starting material is found. Retrosynthetic schemes provide useful material for thinking about ways precursors can be prepared and whether they correspond to reliable reactions. The chemistry associated to a disconnection is usually obvious; however in the intermediate steps the transformations of precursors may require more creativity.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/analysis_retro.png){: loading=lazy }
@@ -677,13 +677,13 @@ Disconnecting in the middle of the molecule or at branch points from chains may 
     
 ##### The Synthetic Program
 
-As long as a retrosynthetic pathway does not end up with accessible starting material, the analysis is worth nothing. The most promising scheme finally adopted represents "the project": it serves to define phases, milestones and work plans for the group of chemists involved in the synthetic program.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/synthetic-program-6acbb5a8'><i class='fa fa-play' aria-hidden='true'></i></button>As long as a retrosynthetic pathway does not end up with accessible starting material, the analysis is worth nothing. The most promising scheme finally adopted represents "the project": it serves to define phases, milestones and work plans for the group of chemists involved in the synthetic program.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/project.png){: loading=lazy }
 ##### The Tetrodotoxin Example
 
-The tetrodotoxin example is illustrated here; it shows the retrosynthetic scheme adopted by the Kishi group, and how the synthesis was developed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/tetrodotoxin-example-bb17b31e'><i class='fa fa-play' aria-hidden='true'></i></button>The tetrodotoxin example is illustrated here; it shows the retrosynthetic scheme adopted by the Kishi group, and how the synthesis was developed.
 
 
 === "Retrosynthesis"
@@ -704,14 +704,14 @@ The tetrodotoxin example is illustrated here; it shows the retrosynthetic scheme
     
 ##### Simple Exercise in Retrosynthesis
 
-Suppose we want to synthesize the compound shown below, and in our laboratory we only have ethanol, acetone and all the inorganic reagents available. How do we proceed?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/simple-exercise-retrosynthesis-a187a9c6'><i class='fa fa-play' aria-hidden='true'></i></button>Suppose we want to synthesize the compound shown below, and in our laboratory we only have ethanol, acetone and all the inorganic reagents available. How do we proceed?
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/retro_p1.png){: loading=lazy }
 ###### Retrosynthesis
 
-Two retrosynthetic routes are feasible. We can use the reagents CH<sub>3</sub>COCH<sub>3</sub> and CH<sub>3</sub>CH<sub>2</sub>MgCl, or, alternatively, CH<sub>3</sub>COCH<sub>2</sub>CH<sub>3</sub> and CH<sub>3</sub>MgCl. We choose the first option because butanone is not available in the laboratory.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthesis-76c76f08'><i class='fa fa-play' aria-hidden='true'></i></button>Two retrosynthetic routes are feasible. We can use the reagents CH<sub>3</sub>COCH<sub>3</sub> and CH<sub>3</sub>CH<sub>2</sub>MgCl, or, alternatively, CH<sub>3</sub>COCH<sub>2</sub>CH<sub>3</sub> and CH<sub>3</sub>MgCl. We choose the first option because butanone is not available in the laboratory.
 
 
 === "Retro-1"
@@ -720,40 +720,40 @@ Two retrosynthetic routes are feasible. We can use the reagents CH<sub>3</sub>CO
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/retro_p3.png){: loading=lazy }
 ###### Synthesis
 
-The synthesis based on the chosen retrosynthetic route adopted can then be implemented. Starting with ethanol the desired compound is obtained as follows.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/synthesis-5374390d'><i class='fa fa-play' aria-hidden='true'></i></button>The synthesis based on the chosen retrosynthetic route adopted can then be implemented. Starting with ethanol the desired compound is obtained as follows.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/retro_country.png){: loading=lazy }
 #### Disconnection Methods for Retrosynthesis
 
-The disconnection method plays a central role in retrosynthetic analyses. For a drug to be prepared, there are three ways to break or make a bond which can be used in retrosynthetic analyses. These are known as the homolytic, the heterolytic and the pericyclic disconnections.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/disconnection-methods-for-retrosynthesis-73b01864'><i class='fa fa-play' aria-hidden='true'></i></button>The disconnection method plays a central role in retrosynthetic analyses. For a drug to be prepared, there are three ways to break or make a bond which can be used in retrosynthetic analyses. These are known as the homolytic, the heterolytic and the pericyclic disconnections.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/disconnection.png){: loading=lazy }
 ##### Homolytic Disconnection
 
-Homolytic fission is a free radical disconnection. Free radical disconnections are generally not very useful in the synthesis of novel drugs because the reconnection reaction proceeds through free radical mechanisms, which usually produce mixtures and are not desirable in the synthesis of a drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/homolytic-disconnection-283038f8'><i class='fa fa-play' aria-hidden='true'></i></button>Homolytic fission is a free radical disconnection. Free radical disconnections are generally not very useful in the synthesis of novel drugs because the reconnection reaction proceeds through free radical mechanisms, which usually produce mixtures and are not desirable in the synthesis of a drug.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/homolytic.png){: loading=lazy }
 ##### Heterolytic Disconnection
 
-Heterolytic disconnections are very useful because they result in the formation of electrophile and nucleophile species. Such species are synthons that can be converted into a reagent for the initiation or the propagation of a synthetic scheme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/heterolytic-disconnection-d754e8a5'><i class='fa fa-play' aria-hidden='true'></i></button>Heterolytic disconnections are very useful because they result in the formation of electrophile and nucleophile species. Such species are synthons that can be converted into a reagent for the initiation or the propagation of a synthetic scheme.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/heterolytic.png){: loading=lazy }
 ##### Pericyclic Bond Disconnection
 
-Rings that carry an electron-withdrawing group can be disconnected by a reverse pericyclic mechanism (i.e. Diels-Alder). Such disconnections are useful in synthetic medicinal chemistry because they lead to synthons that can be converted to reagents.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/pericyclic-bond-disconnection-6ff58e7a'><i class='fa fa-play' aria-hidden='true'></i></button>Rings that carry an electron-withdrawing group can be disconnected by a reverse pericyclic mechanism (i.e. Diels-Alder). Such disconnections are useful in synthetic medicinal chemistry because they lead to synthons that can be converted to reagents.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/pericyclic.png){: loading=lazy }
 ### Combining the Three Synthetic Methods
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-A synthesis can be based on existing knowledge, on existing material, or on creative design. A good synthetic route is generally an intelligent combination of all three, incorporating known and reliable chemical reactions, readily available compounds, and a good dose of ingenuity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/combining-three-synthetic-methods-ee242cd8'><i class='fa fa-play' aria-hidden='true'></i></button>A synthesis can be based on existing knowledge, on existing material, or on creative design. A good synthetic route is generally an intelligent combination of all three, incorporating known and reliable chemical reactions, readily available compounds, and a good dose of ingenuity.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -762,7 +762,7 @@ A synthesis can be based on existing knowledge, on existing material, or on crea
 
 ### Principles of Synthetic Tactics
 
-Once the global strategy has been defined, a plan of attack is formulated, which defines specific actions to achieve the goal. These actions consist of a set of maneuvers, each of which requires adequate available resources to achieve the ultimate goal.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/principles-synthetic-tactics-db7742f3'><i class='fa fa-play' aria-hidden='true'></i></button>Once the global strategy has been defined, a plan of attack is formulated, which defines specific actions to achieve the goal. These actions consist of a set of maneuvers, each of which requires adequate available resources to achieve the ultimate goal.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -770,19 +770,19 @@ Once the global strategy has been defined, a plan of attack is formulated, which
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/pri_tactic.png){: loading=lazy }
 ### Reaction Classifications
 
-One of the best ways to organize a plan of attack is to use operational classifications of chemical reactions. There are different ways of characterizing organic reactions, which are useful tools for recognizing patterns of chemical reactivity. These are crucial to the design of a reaction. Some of these classifications are presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/reaction-classifications-c4a10a8d'><i class='fa fa-play' aria-hidden='true'></i></button>One of the best ways to organize a plan of attack is to use operational classifications of chemical reactions. There are different ways of characterizing organic reactions, which are useful tools for recognizing patterns of chemical reactivity. These are crucial to the design of a reaction. Some of these classifications are presented in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/reaction_classification.png){: loading=lazy }
 #### By Changes Occurring in the Reactant Molecules
 
-When considering the structural changes occurring in the reactant molecules, it is useful to distinguish broad classes of reactions such as addition, elimination, substitution and rearrangements.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/by-changes-occurring-reactant-molecules-e91a8dc0'><i class='fa fa-play' aria-hidden='true'></i></button>When considering the structural changes occurring in the reactant molecules, it is useful to distinguish broad classes of reactions such as addition, elimination, substitution and rearrangements.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/structural_chg.png){: loading=lazy }
 #### By Reaction Types
 
-It is sometimes useful to describe reactions in terms of changes of properties (e.g. oxidation state, acidity etc...) or in terms of species that seek out charged centers (e.g. nucleophiles, electrophiles). In the example below, we look at the oxidation changes of the carbon atoms of the double bond: one has been oxidized (C2) and the other (C3) reduced. Note that this type of description is independent of the mechanism.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/by-reaction-types-af0062f9'><i class='fa fa-play' aria-hidden='true'></i></button>It is sometimes useful to describe reactions in terms of changes of properties (e.g. oxidation state, acidity etc...) or in terms of species that seek out charged centers (e.g. nucleophiles, electrophiles). In the example below, we look at the oxidation changes of the carbon atoms of the double bond: one has been oxidized (C2) and the other (C3) reduced. Note that this type of description is independent of the mechanism.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -790,7 +790,7 @@ It is sometimes useful to describe reactions in terms of changes of properties (
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/by_reaction_type.png){: loading=lazy }
 #### By Functional Groups
 
-Functional groups characterize the reactivity of molecules. Since most reactions occur at, or adjacent to functional groups, it is useful to identify them in terms of chemical functionality. Below are given some examples of functional groups with their most characteristic reactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/by-functional-groups-a82a3b80'><i class='fa fa-play' aria-hidden='true'></i></button>Functional groups characterize the reactivity of molecules. Since most reactions occur at, or adjacent to functional groups, it is useful to identify them in terms of chemical functionality. Below are given some examples of functional groups with their most characteristic reactions.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -808,28 +808,28 @@ Functional groups characterize the reactivity of molecules. Since most reactions
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/by_functional_gp_f5.png){: loading=lazy }
 ### Protecting Groups
 
-The design of a synthetic pathway often requires a reaction to be carried out at a certain center of the molecule. However, another center may interfere and undergo a similar undesired reaction. The synthetic medicinal chemist must find a way to protect the one center and allow the reaction to occur at the other one. For example if the dipeptide Phe-Gly is needed, it can be prepared by the condensation of the two amino-acids Phe and Gly; however if these amino-acids are not properly protected, the reaction can produce a mixture of the Phe-Gly, Phe-Phe, Gly-Phe and Gly-Gly dipeptides.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/protecting-groups-73620560'><i class='fa fa-play' aria-hidden='true'></i></button>The design of a synthetic pathway often requires a reaction to be carried out at a certain center of the molecule. However, another center may interfere and undergo a similar undesired reaction. The synthetic medicinal chemist must find a way to protect the one center and allow the reaction to occur at the other one. For example if the dipeptide Phe-Gly is needed, it can be prepared by the condensation of the two amino-acids Phe and Gly; however if these amino-acids are not properly protected, the reaction can produce a mixture of the Phe-Gly, Phe-Phe, Gly-Phe and Gly-Gly dipeptides.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/protecting.png){: loading=lazy }
 #### Protecting Reactive Centers
 
-Protecting groups are necessary to protect a reactive center that at a certain step should not be modified. Their role is to mask the particular center in order to allow a transformation to be carried out elsewhere in a molecule. In our example, the Phe-Gly dipeptide can be obtained quantitatively, by protecting the amino of the phenylalanine (N-protection) and the carboxyl of the glycine (O-protection).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/protecting-reactive-centers-4c9c70a0'><i class='fa fa-play' aria-hidden='true'></i></button>Protecting groups are necessary to protect a reactive center that at a certain step should not be modified. Their role is to mask the particular center in order to allow a transformation to be carried out elsewhere in a molecule. In our example, the Phe-Gly dipeptide can be obtained quantitatively, by protecting the amino of the phenylalanine (N-protection) and the carboxyl of the glycine (O-protection).
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/protect2.png){: loading=lazy }
 #### Requirements for Protecting Groups
 
-The protecting groups must have the following requirements: (a) easy to attach to the appropriate functional group; (b) form a stable structure that is not affected by the reaction conditions and reagents; (c) easy to remove once it is not required; (d) can be converted into another structure as part of the synthesis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/requirements-for-protecting-groups-2b9b55ba'><i class='fa fa-play' aria-hidden='true'></i></button>The protecting groups must have the following requirements: (a) easy to attach to the appropriate functional group; (b) form a stable structure that is not affected by the reaction conditions and reagents; (c) easy to remove once it is not required; (d) can be converted into another structure as part of the synthesis.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/requi_protecting.png){: loading=lazy }
 #### Protection and Deprotection of Amino Acids
 
-Amino groups are normally protected by converting them to amides whereas carboxyl groups are converted to esters. Examples of amino protecting groups are benzyloxycarbonyl (abbreviated as Z or Cbz) and tert-butyloxycarbonyl (Boc) that are introduced using the chloride. When needed, the protecting group can be easily removed: Cbz can be removed with catalytic hydrogenolysis under very mild conditions or HBr in acetic acid; and Boc can be removed with trifluoroacetic acid in methylene chloride or HBr in acetic acid.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/protection-deprotection-amino-acids-f4da5486'><i class='fa fa-play' aria-hidden='true'></i></button>Amino groups are normally protected by converting them to amides whereas carboxyl groups are converted to esters. Examples of amino protecting groups are benzyloxycarbonyl (abbreviated as Z or Cbz) and tert-butyloxycarbonyl (Boc) that are introduced using the chloride. When needed, the protecting group can be easily removed: Cbz can be removed with catalytic hydrogenolysis under very mild conditions or HBr in acetic acid; and Boc can be removed with trifluoroacetic acid in methylene chloride or HBr in acetic acid.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -840,46 +840,46 @@ Amino groups are normally protected by converting them to amides whereas carboxy
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/z_boc_deprotect_f2.png){: loading=lazy }
 ### Examples of Protecting Groups
 
-A variety of protecting groups for a certain functional group can be used and then removed at the intermediate or final steps of the synthesis. Some examples are presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/examples-protecting-groups-43823891'><i class='fa fa-play' aria-hidden='true'></i></button>A variety of protecting groups for a certain functional group can be used and then removed at the intermediate or final steps of the synthesis. Some examples are presented in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/protec_ex.png){: loading=lazy }
 #### Alcohol Protection
 
-Several groups can be used for alcohol protection such as triphenylmethyl (trityl) acetate or trifluoroacetate. These groups may need different conditions for their removal: for example, trityl needs acid conditions while acetate or trifluoroacetate need base conditions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/alcohol-protection-866f3511'><i class='fa fa-play' aria-hidden='true'></i></button>Several groups can be used for alcohol protection such as triphenylmethyl (trityl) acetate or trifluoroacetate. These groups may need different conditions for their removal: for example, trityl needs acid conditions while acetate or trifluoroacetate need base conditions.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/protect_alcohols.png){: loading=lazy }
 #### Carboxylic Acid Protection
 
-The carboxylic group is one of the most common groups that must be protected during synthesis. Two examples of protecting groups and corresponding removal reagents are given below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/carboxylic-acid-protection-11fd58f6'><i class='fa fa-play' aria-hidden='true'></i></button>The carboxylic group is one of the most common groups that must be protected during synthesis. Two examples of protecting groups and corresponding removal reagents are given below.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/protect_cooh.png){: loading=lazy }
 #### Amine Protection
 
-Amine groups are often present and need to be protected properly. In particular peptide synthesis requires their selective protection and removal.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/amine-protection-002ff30e'><i class='fa fa-play' aria-hidden='true'></i></button>Amine groups are often present and need to be protected properly. In particular peptide synthesis requires their selective protection and removal.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/protect_amines.png){: loading=lazy }
 #### Phenol Protection
 
-The hydroxyl group of alcohols and phenols frequently requires protection. The benzyl group is a suitable protecting group which can be removed by catalytic hydrogenation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/phenol-protection-6e1b848a'><i class='fa fa-play' aria-hidden='true'></i></button>The hydroxyl group of alcohols and phenols frequently requires protection. The benzyl group is a suitable protecting group which can be removed by catalytic hydrogenation.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/protect_phenols.png){: loading=lazy }
 ### How to Assess the Quality of a Synthesis?
 
-There is no single correct pathway to the synthesis of a molecule. Some routes, however, are better than others. Measurable means for assessing the quality of a synthesis exist and include: the number of steps, good selectivity, good yields, economy of raw material and mild reaction conditions. Other factors are difficult to quantify but are also important, such as the creativity and elegance, practicality and convenience of the steps, flexibility with respect to problems, lack of involvement of toxic compounds or laborious purification procedures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/how-to-assess-quality-synthesis-3e1abdd2'><i class='fa fa-play' aria-hidden='true'></i></button>There is no single correct pathway to the synthesis of a molecule. Some routes, however, are better than others. Measurable means for assessing the quality of a synthesis exist and include: the number of steps, good selectivity, good yields, economy of raw material and mild reaction conditions. Other factors are difficult to quantify but are also important, such as the creativity and elegance, practicality and convenience of the steps, flexibility with respect to problems, lack of involvement of toxic compounds or laborious purification procedures.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/quality_synthesis.png){: loading=lazy }
 #### Syntheses of Swainsonine
 
-Swainsonine illustrates how a molecule can be synthesized by many different routes. Look at the corresponding articles and rank them in terms of your own preference.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/syntheses-swainsonine-57de6bc5'><i class='fa fa-play' aria-hidden='true'></i></button>Swainsonine illustrates how a molecule can be synthesized by many different routes. Look at the corresponding articles and rank them in terms of your own preference.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -972,7 +972,7 @@ Swainsonine illustrates how a molecule can be synthesized by many different rout
 
 ### Why Chiral Drugs?
 
-Biological receptors are chiral and involve a high degree of stereoselectivity. Chiral molecules are often used in drug research because of their 3D molecular arrangement, which is particularly adapted for meeting the stereochemical requirements of the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/why-chiral-drugs-0a6b683b'><i class='fa fa-play' aria-hidden='true'></i></button>Biological receptors are chiral and involve a high degree of stereoselectivity. Chiral molecules are often used in drug research because of their 3D molecular arrangement, which is particularly adapted for meeting the stereochemical requirements of the receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -982,7 +982,7 @@ Biological receptors are chiral and involve a high degree of stereoselectivity. 
 
 ### Examples of Chiral Drugs
 
-Many drugs are chiral. In fact, over 50% of the top-selling 500 pharmaceutical drugs on the market in 2004 were chiral molecules. Examples of some well known chiral drugs are shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/examples-chiral-drugs-bfc2bfcc'><i class='fa fa-play' aria-hidden='true'></i></button>Many drugs are chiral. In fact, over 50% of the top-selling 500 pharmaceutical drugs on the market in 2004 were chiral molecules. Examples of some well known chiral drugs are shown below.
 
 
 === "chiral 1"
@@ -997,7 +997,7 @@ Many drugs are chiral. In fact, over 50% of the top-selling 500 pharmaceutical d
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/chiral_ex_p5.png){: loading=lazy }
 ### Multiple Aspects of Molecular Chirality
 
-The stereochemical course of a reaction is influenced by factors such as reactant and transition state energies, as well as the conformational and electronic properties. These properties are extensively presented in other chapters of this course, and the reader is invited to review them for more detail. In the following pages we focus on synthetic methods for preparing chiral molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/multiple-aspects-molecular-chirality-a41cff64'><i class='fa fa-play' aria-hidden='true'></i></button>The stereochemical course of a reaction is influenced by factors such as reactant and transition state energies, as well as the conformational and electronic properties. These properties are extensively presented in other chapters of this course, and the reader is invited to review them for more detail. In the following pages we focus on synthetic methods for preparing chiral molecules.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1006,7 +1006,7 @@ The stereochemical course of a reaction is influenced by factors such as reactan
 *[Enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[Enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
-As a consequence of the difference in molecular shape of enantiomers and the high degree of chirality of biological receptors, only one enantiomer is generally the active principle.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/active-inactive-enantiomers-e877b5af'><i class='fa fa-play' aria-hidden='true'></i></button>As a consequence of the difference in molecular shape of enantiomers and the high degree of chirality of biological receptors, only one enantiomer is generally the active principle.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -1016,7 +1016,7 @@ As a consequence of the difference in molecular shape of enantiomers and the hig
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/acitve_enantiomer.gif){: loading=lazy }
 ### 'Chiral Switch' : From a Racemic to a Chiral Drug
 
-In the late 1980s, most chiral drugs were commercialized as racemic mixtures. In many cases, one of the enantiomers was found to have more favorable therapeutic and pharmacokinetic characteristics only after commercialization of the racemate. A new trend known as 'chiral switching' has recently emerged, which aims at the development of single enantiomers of commercial racemate drugs. Since 1990, the proportion of single-enantiomer drugs approved as new chemical entities has been consistently greater than that of racemates. Today, market approval of a racemate has become much more stringent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/chiral-switch-from-racemic-to-chiral-drug-84727ae6'><i class='fa fa-play' aria-hidden='true'></i></button>In the late 1980s, most chiral drugs were commercialized as racemic mixtures. In many cases, one of the enantiomers was found to have more favorable therapeutic and pharmacokinetic characteristics only after commercialization of the racemate. A new trend known as 'chiral switching' has recently emerged, which aims at the development of single enantiomers of commercial racemate drugs. Since 1990, the proportion of single-enantiomer drugs approved as new chemical entities has been consistently greater than that of racemates. Today, market approval of a racemate has become much more stringent.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1037,7 +1037,7 @@ In the late 1980s, most chiral drugs were commercialized as racemic mixtures. In
 ### Advantages of Single Enantiomer Drugs
 *[Enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
-The advantages of single enantiomer drugs are multiple. These involve its pharmacokinetic properties, selectivity and patent related aspects, all of which are detailed in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/advantages-single-enantiomer-drugs-4c96a82d'><i class='fa fa-play' aria-hidden='true'></i></button>The advantages of single enantiomer drugs are multiple. These involve its pharmacokinetic properties, selectivity and patent related aspects, all of which are detailed in the following pages.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -1046,7 +1046,7 @@ The advantages of single enantiomer drugs are multiple. These involve its pharma
 #### Pharmacokinetic Properties
 *[Pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 
-Because of their different 3D configurations, the pharmacodynamic and pharmacokinetic properties of enantiomers are likely to be different. When this is found to be true and one of the enantiomers has greater therapeutic and pharmacokinetic characteristics, a single enantiomer drug presents health benefits including an improved safety margin and other advantages such as those indicated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/pharmacokinetic-properties-7b4f641d'><i class='fa fa-play' aria-hidden='true'></i></button>Because of their different 3D configurations, the pharmacodynamic and pharmacokinetic properties of enantiomers are likely to be different. When this is found to be true and one of the enantiomers has greater therapeutic and pharmacokinetic characteristics, a single enantiomer drug presents health benefits including an improved safety margin and other advantages such as those indicated below.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[pharmacodynamic]: The study of the effects of drugs on the body and the relationship between drug concentration and effect.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -1056,7 +1056,7 @@ Because of their different 3D configurations, the pharmacodynamic and pharmacoki
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/avantage_enan.png){: loading=lazy }
 ##### Perhexiline
 
-Perhexiline (an anti-angina drug), is an example of the different pharmacokinetic properties of enantiomers. The racemic of perhexiline was withdrawn from the market because it killed individuals in whom the wrong enantiomer was more slowly metabolized and who accumulated gram quantities of it. If the developers of the racemate had been aware of this noxious effect, they would have marketed a drug with only the fast-clearing enantiomer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/perhexiline-9161534a'><i class='fa fa-play' aria-hidden='true'></i></button>Perhexiline (an anti-angina drug), is an example of the different pharmacokinetic properties of enantiomers. The racemic of perhexiline was withdrawn from the market because it killed individuals in whom the wrong enantiomer was more slowly metabolized and who accumulated gram quantities of it. If the developers of the racemate had been aware of this noxious effect, they would have marketed a drug with only the fast-clearing enantiomer.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -1067,49 +1067,49 @@ Perhexiline (an anti-angina drug), is an example of the different pharmacokineti
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/pharmaco.png){: loading=lazy }
 #### Selectivity
 
-When one enantiomer is responsible for the activity of interest, its paired 'inactive' enantiomer also has properties and effects that may not be negligible. It can interact with other receptors, cause side effects and be toxic. Some examples to illustrate this are given in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/selectivity-2af88c9e'><i class='fa fa-play' aria-hidden='true'></i></button>When one enantiomer is responsible for the activity of interest, its paired 'inactive' enantiomer also has properties and effects that may not be negligible. It can interact with other receptors, cause side effects and be toxic. Some examples to illustrate this are given in the following pages.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/select.png){: loading=lazy }
 ##### Ritalin
 
-Ritalin is used to treat attention deficit hyperactivity disorder (ADHD). The (R,R) enantiomer of ritalin has the anti-ADHD effect whereas the (S,S) form acts as an antidepressant.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/ritalin-58ae8ea3'><i class='fa fa-play' aria-hidden='true'></i></button>Ritalin is used to treat attention deficit hyperactivity disorder (ADHD). The (R,R) enantiomer of ritalin has the anti-ADHD effect whereas the (S,S) form acts as an antidepressant.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/ritaline.png){: loading=lazy }
 ##### Penicillamine
 
-Penicillamine is an anti-arthritic drug. Most of the anti-arthritic activity of penicillamine resides in the (S)-enantiomer whereas the (R) form is extremely toxic.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/penicillamine-25a6d2d3'><i class='fa fa-play' aria-hidden='true'></i></button>Penicillamine is an anti-arthritic drug. Most of the anti-arthritic activity of penicillamine resides in the (S)-enantiomer whereas the (R) form is extremely toxic.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/penicillamine.png){: loading=lazy }
 ##### Ethambutol
 
-Ethambutol is a tuberculostatic drug. The (S,S) enantiomer of ethambutol is a tuberculostatic agent whereas the (R,R) enantiomer is toxic (causes optical neuritis that can lead to blindness).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/ethambutol-b5841c92'><i class='fa fa-play' aria-hidden='true'></i></button>Ethambutol is a tuberculostatic drug. The (S,S) enantiomer of ethambutol is a tuberculostatic agent whereas the (R,R) enantiomer is toxic (causes optical neuritis that can lead to blindness).
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/ethambutol.png){: loading=lazy }
 ##### Ketamine
 
-Ketamine is an anesthetic drug. The S-enantiomer of ketamine possesses the anesthetic activity; the R-enantiomer can cause hallucinations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/ketamine-7f9a62ef'><i class='fa fa-play' aria-hidden='true'></i></button>Ketamine is an anesthetic drug. The S-enantiomer of ketamine possesses the anesthetic activity; the R-enantiomer can cause hallucinations.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/ketamine.png){: loading=lazy }
 ##### L-Dopa
 
-Levodopa (L-dopa) is an anti-Parkinsonian drug that is commercialized in an enantiomerically pure form because the D-form is toxic and causes serious side effects (such as granulocytopenia).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/l-dopa-4ef970e1'><i class='fa fa-play' aria-hidden='true'></i></button>Levodopa (L-dopa) is an anti-Parkinsonian drug that is commercialized in an enantiomerically pure form because the D-form is toxic and causes serious side effects (such as granulocytopenia).
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/l-dopa.png){: loading=lazy }
 #### Patent Position
 
-Chiral switching can be a useful marketing strategy for a company aiming at extending its patent franchise and interested in protecting itself from generic companies. For example the AstraZeneca patent for the ulcer drug Prisolec expired in 2002; the company successfully launched Nexium in 2001, the S-enantiomer of Prisolec. This enabled the company to keep its share of the market intact.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/patent-position-3f08d356'><i class='fa fa-play' aria-hidden='true'></i></button>Chiral switching can be a useful marketing strategy for a company aiming at extending its patent franchise and interested in protecting itself from generic companies. For example the AstraZeneca patent for the ulcer drug Prisolec expired in 2002; the company successfully launched Nexium in 2001, the S-enantiomer of Prisolec. This enabled the company to keep its share of the market intact.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -1118,7 +1118,7 @@ Chiral switching can be a useful marketing strategy for a company aiming at exte
 ### Three Methods to Obtain Chiral Molecules
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-There are three approaches of obtaining a chiral molecule. The first consists of the synthesis of the racemate, followed by the separation of the enantiomers. The second is an asymmetric route for preparing the molecule with the proper stereochemistry. The third approach consists of extracting the chiral principle from natural sources (plants, animals).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/three-methods-to-obtain-chiral-molecules-787e3a70'><i class='fa fa-play' aria-hidden='true'></i></button>There are three approaches of obtaining a chiral molecule. The first consists of the synthesis of the racemate, followed by the separation of the enantiomers. The second is an asymmetric route for preparing the molecule with the proper stereochemistry. The third approach consists of extracting the chiral principle from natural sources (plants, animals).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -1128,7 +1128,7 @@ There are three approaches of obtaining a chiral molecule. The first consists of
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/racemic_assy.png){: loading=lazy }
 ### Racemic Route
 
-It is usually simpler to develop a racemic synthesis than an asymmetrically pure one, and afterwards find a method for separating the enantiomers. In drug discovery it is crucial to rapidly obtain pure enantiomers for pharmacological tests, and the racemic route is preferred. Moreover, resolution methods enabling access to both enantiomers are also useful when preclinical studies are required for each enantiomer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/racemic-route-0fee9028'><i class='fa fa-play' aria-hidden='true'></i></button>It is usually simpler to develop a racemic synthesis than an asymmetrically pure one, and afterwards find a method for separating the enantiomers. In drug discovery it is crucial to rapidly obtain pure enantiomers for pharmacological tests, and the racemic route is preferred. Moreover, resolution methods enabling access to both enantiomers are also useful when preclinical studies are required for each enantiomer.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -1150,7 +1150,7 @@ It is usually simpler to develop a racemic synthesis than an asymmetrically pure
 *[Racemate]: A racemate (or a racemic mixture) is a mixture of equal amounts of enantiomers
 *[Racemates]: A racemate (or a racemic mixture) is a mixture of equal amounts of enantiomers
 
-In the mid 1980s enantiomers were separated by first forming salts or derivatives with chiral reagents, and then resolving them by conventional methods such as crystallization or chromatography on silica. Chromatography methodologies have now become the most widely utilized approach for the resolution of racemates. New developments such as countercurrent, supercritical fluid and simulated moving bed continuous chromatography have begun to revolutionize the drug development process in the industry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/resolution-racemates-377959f4'><i class='fa fa-play' aria-hidden='true'></i></button>In the mid 1980s enantiomers were separated by first forming salts or derivatives with chiral reagents, and then resolving them by conventional methods such as crystallization or chromatography on silica. Chromatography methodologies have now become the most widely utilized approach for the resolution of racemates. New developments such as countercurrent, supercritical fluid and simulated moving bed continuous chromatography have begun to revolutionize the drug development process in the industry.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[racemate]: A racemate (or a racemic mixture) is a mixture of equal amounts of enantiomers
@@ -1161,7 +1161,7 @@ In the mid 1980s enantiomers were separated by first forming salts or derivative
 #### Example of Industrial Racemate Separation
 *[Racemate]: A racemate (or a racemic mixture) is a mixture of equal amounts of enantiomers
 
-Zoloft (compound 4), also known as sertraline is a chiral antidepressant drug marketed as a 1S(+),4S(+) enantiomer. Its synthesis is based on the key chiral tetralone 2. This building block is prepared industrially with high purity and yield from racemate 1, using simulated moving bed (SMD) continuous chromatographic technologies and racemization of the undesired enantiomer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/example-industrial-racemate-separation-911ea302'><i class='fa fa-play' aria-hidden='true'></i></button>Zoloft (compound 4), also known as sertraline is a chiral antidepressant drug marketed as a 1S(+),4S(+) enantiomer. Its synthesis is based on the key chiral tetralone 2. This building block is prepared industrially with high purity and yield from racemate 1, using simulated moving bed (SMD) continuous chromatographic technologies and racemization of the undesired enantiomer.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[racemate]: A racemate (or a racemic mixture) is a mixture of equal amounts of enantiomers
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
@@ -1170,7 +1170,7 @@ Zoloft (compound 4), also known as sertraline is a chiral antidepressant drug ma
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/resolution_ex1.png){: loading=lazy }
 #### Advantages of the Process Chosen
 
-The industrial synthesis currently used for Zoloft eliminated the need for reagents such as titanium chloride and D-mandelic acid used in the initial inefficient route, and also removed the uncertainties surrounding royalties for particular reagents introduced by the medicinal chemists. It saved solvents, reagents and plant capacity previously harnessed for processing the undesired enantiomer, and resulted in immediate cash savings for Pfizer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/advantages-process-chosen-ff021720'><i class='fa fa-play' aria-hidden='true'></i></button>The industrial synthesis currently used for Zoloft eliminated the need for reagents such as titanium chloride and D-mandelic acid used in the initial inefficient route, and also removed the uncertainties surrounding royalties for particular reagents introduced by the medicinal chemists. It saved solvents, reagents and plant capacity previously harnessed for processing the undesired enantiomer, and resulted in immediate cash savings for Pfizer.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -1180,7 +1180,7 @@ The industrial synthesis currently used for Zoloft eliminated the need for reage
 #### Recycling Undesired Enantiomer
 *[Enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
-If the undesired enantiomer can be re-racemized, this enables all the racemate to be progressively converted into the desired isomer. There are many industrial examples of such recycling. One example is the tetralone intermediate involved in the synthesis of Zoloft whose unwanted enantiomer is repeatedly recycled, as visualized below. With this procedure the desired enantiomer is prepared industrially with high purity and yield (ee = 99%; recovery yield 98%).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/recycling-undesired-enantiomer-4bcc3f69'><i class='fa fa-play' aria-hidden='true'></i></button>If the undesired enantiomer can be re-racemized, this enables all the racemate to be progressively converted into the desired isomer. There are many industrial examples of such recycling. One example is the tetralone intermediate involved in the synthesis of Zoloft whose unwanted enantiomer is repeatedly recycled, as visualized below. With this procedure the desired enantiomer is prepared industrially with high purity and yield (ee = 99%; recovery yield 98%).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -1197,7 +1197,7 @@ If the undesired enantiomer can be re-racemized, this enables all the racemate t
     
 #### Sometimes Separation very Difficult
 
-The separation of enantiomers can be very challenging. For example the resolution of the four stereoisomers of the organophosphoramidate compound isomalathion is a difficult problem: for some compounds it may not be straightforward to separate the enantiomers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/sometimes-separation-very-difficult-2917beeb'><i class='fa fa-play' aria-hidden='true'></i></button>The separation of enantiomers can be very challenging. For example the resolution of the four stereoisomers of the organophosphoramidate compound isomalathion is a difficult problem: for some compounds it may not be straightforward to separate the enantiomers.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -1207,7 +1207,7 @@ The separation of enantiomers can be very challenging. For example the resolutio
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/resolution_difficult.png){: loading=lazy }
 #### When Too Many Chiral Centers
 
-The racemic route is not realistic when the molecule contains too many chiral centers; for example Aliskiren (a renin inhibitor now in late stages of development) has 4 asymmetric centers. For molecules with many chiral centers a stereoselective route is necessary.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/when-too-many-chiral-centers-b23507ff'><i class='fa fa-play' aria-hidden='true'></i></button>The racemic route is not realistic when the molecule contains too many chiral centers; for example Aliskiren (a renin inhibitor now in late stages of development) has 4 asymmetric centers. For molecules with many chiral centers a stereoselective route is necessary.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1215,7 +1215,7 @@ The racemic route is not realistic when the molecule contains too many chiral ce
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/too_many_center.png){: loading=lazy }
 ### Asymmetric Route
 
-Asymmetric synthesis aims at the direct preparation of the target molecule with the proper chirality. Brilliant molecule builders such as Woodward, Corey, Kishi, Nicolaou and others succeeded in synthesizing complicated chiral molecules with intelligent science and fine art. Thanks to their heroic efforts, an expanding arsenal of tools is now available in synthetic chemistry for the preparation of chiral molecules. Chirality can be introduced either through chiral reagents or chiral catalysts.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/asymmetric-route-94b72856'><i class='fa fa-play' aria-hidden='true'></i></button>Asymmetric synthesis aims at the direct preparation of the target molecule with the proper chirality. Brilliant molecule builders such as Woodward, Corey, Kishi, Nicolaou and others succeeded in synthesizing complicated chiral molecules with intelligent science and fine art. Thanks to their heroic efforts, an expanding arsenal of tools is now available in synthetic chemistry for the preparation of chiral molecules. Chirality can be introduced either through chiral reagents or chiral catalysts.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1223,7 +1223,7 @@ Asymmetric synthesis aims at the direct preparation of the target molecule with 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/assymetric_route.png){: loading=lazy }
 #### Chiral Reagents and Reactants
 
-Aliskiren is shown here to illustrate the asymmetric synthesis of a drug. Lactone 2 is a key building block; its opening gives the proper stereochemistry for both the hydroxyl and the isopropyl groups located on the right side of the structure. Likewise the chirality of the second isopropyl and that of the amino are also introduced stereospecifically (not shown here). All four chiral centers of Aliskiren are created by asymmetric syntheses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/chiral-reagents-reactants-5b874d3a'><i class='fa fa-play' aria-hidden='true'></i></button>Aliskiren is shown here to illustrate the asymmetric synthesis of a drug. Lactone 2 is a key building block; its opening gives the proper stereochemistry for both the hydroxyl and the isopropyl groups located on the right side of the structure. Likewise the chirality of the second isopropyl and that of the amino are also introduced stereospecifically (not shown here). All four chiral centers of Aliskiren are created by asymmetric syntheses.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/chiral_starting.png){: loading=lazy }
@@ -1262,13 +1262,13 @@ Aliskiren is shown here to illustrate the asymmetric synthesis of a drug. Lacton
     
 #### Chiral Catalysts
 
-Chiral catalysts such as metal complexes or enzymes can be used to create new asymmetric centers starting from prochiral molecules. In the example below the painkiller S-Naproxen is obtained with good yield and purity using Ru-S-BINAP as a catalyst for the hydrogenation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/chiral-catalysts-fd3d9272'><i class='fa fa-play' aria-hidden='true'></i></button>Chiral catalysts such as metal complexes or enzymes can be used to create new asymmetric centers starting from prochiral molecules. In the example below the painkiller S-Naproxen is obtained with good yield and purity using Ru-S-BINAP as a catalyst for the hydrogenation.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/chiral_catalyst.png){: loading=lazy }
 #### Asymmetric Synthesis in R&#38;D.
 
-The development of an asymmetric synthesis is generally not considered in the early drug discovery stage, since it is both time-consuming and expensive: whenever possible the racemic route is preferred. For large scale production of pure stereo-isomers, the set up and optimization of an asymmetric process still requires substantial experimentation and expensive catalysts, with the important constraint of being economically acceptable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/asymmetric-synthesis-randd-01991fbb'><i class='fa fa-play' aria-hidden='true'></i></button>The development of an asymmetric synthesis is generally not considered in the early drug discovery stage, since it is both time-consuming and expensive: whenever possible the racemic route is preferred. For large scale production of pure stereo-isomers, the set up and optimization of an asymmetric process still requires substantial experimentation and expensive catalysts, with the important constraint of being economically acceptable.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -1277,7 +1277,7 @@ The development of an asymmetric synthesis is generally not considered in the ea
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/industry_bulk.png){: loading=lazy }
 ### Extraction From Natural Sources
 
-Besides the therapeutic advantages of single enantiomers, their industrial manufacturing is an important issue. For example pain relieving morphine has five asymmetric centers. The molecule is synthesized by the poppy plant Papaver somniferum. On the other hand Woodward and other groups successfully achieved the total synthesis of this alkaloid. However, the costs associated with the preparation of large amounts are such that the extraction approach is by far the more economical.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/extraction-from-natural-sources-09c5b301'><i class='fa fa-play' aria-hidden='true'></i></button>Besides the therapeutic advantages of single enantiomers, their industrial manufacturing is an important issue. For example pain relieving morphine has five asymmetric centers. The molecule is synthesized by the poppy plant Papaver somniferum. On the other hand Woodward and other groups successfully achieved the total synthesis of this alkaloid. However, the costs associated with the preparation of large amounts are such that the extraction approach is by far the more economical.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -1342,7 +1342,7 @@ Besides the therapeutic advantages of single enantiomers, their industrial manuf
     
 ### Stereoselectivity of Action not Always Predictable
 
-Although there are theoretical advantages in developing single enantiomer drugs, there are cases where the approach has failed. For example Dilevalol was thought to have advantages over the corresponding racemic drug Labetalol (a beta-blocker launched in 1977), but it was taken off the market because of toxicity. ADME/Tox is a science that is far from being fully understood; the pharmacokinetic and pharmacodynamic data of racemic mixtures and enantiomers can be ambiguous and mask unpredictable effects.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/stereoselectivity-action-not-always-predictable-b38ada33'><i class='fa fa-play' aria-hidden='true'></i></button>Although there are theoretical advantages in developing single enantiomer drugs, there are cases where the approach has failed. For example Dilevalol was thought to have advantages over the corresponding racemic drug Labetalol (a beta-blocker launched in 1977), but it was taken off the market because of toxicity. ADME/Tox is a science that is far from being fully understood; the pharmacokinetic and pharmacodynamic data of racemic mixtures and enantiomers can be ambiguous and mask unpredictable effects.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
@@ -1355,7 +1355,7 @@ Although there are theoretical advantages in developing single enantiomer drugs,
 ### Spontaneous Enantiomer Interconversion
 *[Enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
-Normally a stereospecific synthesis aims at obtaining the desired active enantiomer. Thalidomide is a special case where such effort was worthless. The drug was introduced in the 1950s as a sedative and was used by pregnant women to treat morning sickness. Birth defects were observed and Thalidomide was banned worldwide. Only the R enantiomer has the sedative action, whereas the S enantiomer was found to be teratogenic. However the active enantiomer racemizes in less than 10 minutes in the body and the tragedies could not have been avoided by use of the active R-form.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/spontaneous-enantiomer-interconversion-de2f67d5'><i class='fa fa-play' aria-hidden='true'></i></button>Normally a stereospecific synthesis aims at obtaining the desired active enantiomer. Thalidomide is a special case where such effort was worthless. The drug was introduced in the 1950s as a sedative and was used by pregnant women to treat morning sickness. Birth defects were observed and Thalidomide was banned worldwide. Only the R enantiomer has the sedative action, whereas the S enantiomer was found to be teratogenic. However the active enantiomer racemizes in less than 10 minutes in the body and the tragedies could not have been avoided by use of the active R-form.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -1365,27 +1365,27 @@ Normally a stereospecific synthesis aims at obtaining the desired active enantio
 
 ### Diverse Strategy in Drug Discovery
 
-The space of synthesizable molecules is huge. Structural diversity is essential for lead discovery, and the generation of a great number of diverse molecules increases the chances of finding novel compounds with significant therapeutic value.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/diverse-strategy-drug-discovery-5db11c94'><i class='fa fa-play' aria-hidden='true'></i></button>The space of synthesizable molecules is huge. Structural diversity is essential for lead discovery, and the generation of a great number of diverse molecules increases the chances of finding novel compounds with significant therapeutic value.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/diverse_mol.png){: loading=lazy }
 ### Introducing Diversity in the Reagents
 
-Diversity is always introduced by the reagents. In the example below, diverse compounds such as 1 need to be prepared. They are synthesized by the reaction of building block 2 with a number of diverse reagents that can be either purchased or simply prepared.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/introducing-diversity-reagents-69988db4'><i class='fa fa-play' aria-hidden='true'></i></button>Diversity is always introduced by the reagents. In the example below, diverse compounds such as 1 need to be prepared. They are synthesized by the reaction of building block 2 with a number of diverse reagents that can be either purchased or simply prepared.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/reagent_diverse_product.png){: loading=lazy }
 ### Introducing Diversity at the Proper Time
 
-The introduction of diversity through reagents should be made at the right time. Important considerations include when protection/deprotection of functional groups should take place and fully exploit the strength of the synthetic route, whether it is linear or convergent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/introducing-diversity-at-proper-time-837fc79f'><i class='fa fa-play' aria-hidden='true'></i></button>The introduction of diversity through reagents should be made at the right time. Important considerations include when protection/deprotection of functional groups should take place and fully exploit the strength of the synthetic route, whether it is linear or convergent.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/diverse_end.png){: loading=lazy }
 #### Late Stage Introduction of Diversity
 
-When variations are introduced at the end of the synthesis, many diverse analogs can be prepared in a minimum number of steps. This is the case of Aliskiren that was synthesized using the retrosynthetic scheme shown here (button "Retrosynthesis"). Hundreds of amide analogs such as 6 were prepared from acid 2 in order to optimize the series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/late-stage-introduction-diversity-75a5cc14'><i class='fa fa-play' aria-hidden='true'></i></button>When variations are introduced at the end of the synthesis, many diverse analogs can be prepared in a minimum number of steps. This is the case of Aliskiren that was synthesized using the retrosynthetic scheme shown here (button "Retrosynthesis"). Hundreds of amide analogs such as 6 were prepared from acid 2 in order to optimize the series.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -1429,7 +1429,7 @@ When variations are introduced at the end of the synthesis, many diverse analogs
     
 #### Early Stage Introduction of Diversity
 
-When variations are needed far from the end of the synthesis, diverse analogs are very difficult to prepare. This is the case of the aryl moiety of Aliskiren. Many reagents of structure 7 must be prepared and moreover, additional reactions are necessary before arriving at the target compounds 8. With this synthesis the preparation of many diverse aryl derivatives is extremely difficult.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/early-stage-introduction-diversity-74f8c471'><i class='fa fa-play' aria-hidden='true'></i></button>When variations are needed far from the end of the synthesis, diverse analogs are very difficult to prepare. This is the case of the aryl moiety of Aliskiren. Many reagents of structure 7 must be prepared and moreover, additional reactions are necessary before arriving at the target compounds 8. With this synthesis the preparation of many diverse aryl derivatives is extremely difficult.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1440,7 +1440,7 @@ When variations are needed far from the end of the synthesis, diverse analogs ar
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/diversity_aliskiren2.png){: loading=lazy }
 ### Diversity Space Restricted by Synthetic Route
 
-As chemistry is based on the transformation of functional groups, inevitably a given synthetic scheme restricts the field of the possible diverse analogs that can be synthesized. In theory, several reaction routes are needed to better cover the entire diversity space, but in practice this is not always feasible. This is discussed in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/diversity-space-restricted-by-synthetic-route-17ffdefc'><i class='fa fa-play' aria-hidden='true'></i></button>As chemistry is based on the transformation of functional groups, inevitably a given synthetic scheme restricts the field of the possible diverse analogs that can be synthesized. In theory, several reaction routes are needed to better cover the entire diversity space, but in practice this is not always feasible. This is discussed in the following pages.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1449,14 +1449,14 @@ As chemistry is based on the transformation of functional groups, inevitably a g
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/syn_define_space.png){: loading=lazy }
 ### Consider Alternative Syntheses
 
-One way of escaping the bias of a single synthetic scheme is to consider multiple routes. This may be important because a single change in a fragment may transform a micromolar hit into a nanomolar one. Very often the optimization of a lead is greatly restricted, the molecules prepared are not those that should be made and the optimization process is trapped with no substantial change in biological activities. Another synthesis is likely to open up new possibilities and reveal an entirely different moiety that can lead to potency and selectivity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/consider-alternative-syntheses-bde52822'><i class='fa fa-play' aria-hidden='true'></i></button>One way of escaping the bias of a single synthetic scheme is to consider multiple routes. This may be important because a single change in a fragment may transform a micromolar hit into a nanomolar one. Very often the optimization of a lead is greatly restricted, the molecules prepared are not those that should be made and the optimization process is trapped with no substantial change in biological activities. Another synthesis is likely to open up new possibilities and reveal an entirely different moiety that can lead to potency and selectivity.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/space_ex.png){: loading=lazy }
 ### Example of Introduction of Diversity
 
-With the aim of incorporating diversity in a structure, it may be necessary to modify the initial lead. In the example below the Abbott group replaced the indane moiety of a SmithKline lead by a pyrrolidine. This novel structure permitted the synthesis of many analogs and the rapid generation of useful structure-activity relationships.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/example-introduction-diversity-6c63b15f'><i class='fa fa-play' aria-hidden='true'></i></button>With the aim of incorporating diversity in a structure, it may be necessary to modify the initial lead. In the example below the Abbott group replaced the indane moiety of a SmithKline lead by a pyrrolidine. This novel structure permitted the synthesis of many analogs and the rapid generation of useful structure-activity relationships.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1474,7 +1474,7 @@ With the aim of incorporating diversity in a structure, it may be necessary to m
     
 ### Combinatorial Chemistry
 
-Combinatorial chemistry enables the creation of a large population of molecules (called libraries) that can be screened at one time. Typically, analogs of a common scaffold are synthesized in an automated manner (robotics) with a common synthetic route. Examples of libraries that can be created with these technologies are visualized below. By producing large and diverse compound libraries, the chemist increases the probability of finding novel compounds of interesting therapeutic value. The field of combinatorial chemistry is presented in detail in a special chapter in this course.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/combinatorial-chemistry-f55a2ece'><i class='fa fa-play' aria-hidden='true'></i></button>Combinatorial chemistry enables the creation of a large population of molecules (called libraries) that can be screened at one time. Typically, analogs of a common scaffold are synthesized in an automated manner (robotics) with a common synthetic route. Examples of libraries that can be created with these technologies are visualized below. By producing large and diverse compound libraries, the chemist increases the probability of finding novel compounds of interesting therapeutic value. The field of combinatorial chemistry is presented in detail in a special chapter in this course.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1483,21 +1483,21 @@ Combinatorial chemistry enables the creation of a large population of molecules 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/combichem.png){: loading=lazy }
 ### Diversity-Oriented Synthesis (DOS)
 
-The synthetic strategy commonly used in combinatorial chemistry is to access diverse collections of small molecules by appending different sets of building blocks ("appendage decoration") to a common molecular skeleton. The impossibility of considering the scaffold as a "variable" has triggered the development of a new approach in synthetic chemistry known as "diversity-oriented synthesis" (DOS) which also aims at varying scaffolds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/diversity-oriented-synthesis-dos-6f587e46'><i class='fa fa-play' aria-hidden='true'></i></button>The synthetic strategy commonly used in combinatorial chemistry is to access diverse collections of small molecules by appending different sets of building blocks ("appendage decoration") to a common molecular skeleton. The impossibility of considering the scaffold as a "variable" has triggered the development of a new approach in synthetic chemistry known as "diversity-oriented synthesis" (DOS) which also aims at varying scaffolds.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/limit_combichem.png){: loading=lazy }
 #### Maximizing the Chance to Find a Hit
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The quest for molecular diversity is based on the "similar property principle" which assumes that structurally similar molecules are likely to have similar properties and structurally dissimilar molecules are likely to have different properties. By enabling the variation of both scaffolds and substituents, DOS maximizes the chance of finding relevant hits.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/maximizing-chance-to-find-hit-578872b6'><i class='fa fa-play' aria-hidden='true'></i></button>The quest for molecular diversity is based on the "similar property principle" which assumes that structurally similar molecules are likely to have similar properties and structurally dissimilar molecules are likely to have different properties. By enabling the variation of both scaffolds and substituents, DOS maximizes the chance of finding relevant hits.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/similar_prop.png){: loading=lazy }
 #### Example of Diversity-Oriented Synthesis
 
-An example of a DOS reaction is given below that shows how an immobilized dihydroisoquinoline reactive intermediate is used to obtain skeletally diverse compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/example-diversity-oriented-synthesis-d209edf0'><i class='fa fa-play' aria-hidden='true'></i></button>An example of a DOS reaction is given below that shows how an immobilized dihydroisoquinoline reactive intermediate is used to obtain skeletally diverse compounds.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/dos_combichem.png){: loading=lazy }
@@ -1510,7 +1510,7 @@ An example of a DOS reaction is given below that shows how an immobilized dihydr
     
 #### Higher Level Strategies in Organic Synthesis
 
-The creation of more than one target molecule in a diversity-driven approach was introduced by Stuart Schreiber at Harvard University. Since the means available in synthetic chemistry are not suited to this approach, it has prompted many research groups to attempt to create new types of synthetic planning methods. The sketch shown below of the areas now covered by organic synthesis, suggests that the search for higher level strategies will be an important driving force for the next generation of methodology-oriented synthetic organic chemists.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/higher-level-strategies-organic-synthesis-0c51d6d8'><i class='fa fa-play' aria-hidden='true'></i></button>The creation of more than one target molecule in a diversity-driven approach was introduced by Stuart Schreiber at Harvard University. Since the means available in synthetic chemistry are not suited to this approach, it has prompted many research groups to attempt to create new types of synthetic planning methods. The sketch shown below of the areas now covered by organic synthesis, suggests that the search for higher level strategies will be an important driving force for the next generation of methodology-oriented synthetic organic chemists.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1551,25 +1551,25 @@ The creation of more than one target molecule in a diversity-driven approach was
 
 ### Introduction to Synthetic Schemes
 
-In the previous pages the main principles that govern the synthesis of novel drugs were discussed. In this section real examples are presented and include the following information: the chemical formula of the drug, a retrosynthetic analysis, the synthesis and some physico-chemical properties of the drug. We start with benzocaine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/introduction-to-synthetic-schemes-95e72011'><i class='fa fa-play' aria-hidden='true'></i></button>In the previous pages the main principles that govern the synthesis of novel drugs were discussed. In this section real examples are presented and include the following information: the chemical formula of the drug, a retrosynthetic analysis, the synthesis and some physico-chemical properties of the drug. We start with benzocaine.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/intro_subject6.png){: loading=lazy }
 ### Benzocaine
 
-Benzocaine is a widely used local and topical anesthetic. The drug can be synthesized as described in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/benzocaine-49e9667f'><i class='fa fa-play' aria-hidden='true'></i></button>Benzocaine is a widely used local and topical anesthetic. The drug can be synthesized as described in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/benzocaine.png){: loading=lazy }
 #### Retrosynthetic Scheme
 
-Possible starting disconnections are the ester or the amine groups. The amine disconnection leads to toluene as starting material.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-scheme-160d2b28'><i class='fa fa-play' aria-hidden='true'></i></button>Possible starting disconnections are the ester or the amine groups. The amine disconnection leads to toluene as starting material.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/benzocaine1.png){: loading=lazy }
 #### Benzocaine Synthesis
 
-Nitration of toluene, oxidation of the methyl group, reduction of the nitro and subsequent esterification of the carboxylic acid function leads to the desired product.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/benzocaine-synthesis-0a017209'><i class='fa fa-play' aria-hidden='true'></i></button>Nitration of toluene, oxidation of the methyl group, reduction of the nitro and subsequent esterification of the carboxylic acid function leads to the desired product.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/benzocaine2.png){: loading=lazy }
@@ -1582,19 +1582,19 @@ Nitration of toluene, oxidation of the methyl group, reduction of the nitro and 
     
 #### Physico-Chemical Properties of Benzocaine
 
-Some physico-chemical properties of benzocaine are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/physico-chemical-properties-benzocaine-b9879b0d'><i class='fa fa-play' aria-hidden='true'></i></button>Some physico-chemical properties of benzocaine are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/benzocaine_p.png){: loading=lazy }
 ### Aspirin
 
-Aspirin is a very popular analgesic agent with a relatively simple structure. An outline of the story associated with the discovery of aspirin can be found in a special chapter in this course. This drug can be synthesized as described in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/aspirin-d73f3453'><i class='fa fa-play' aria-hidden='true'></i></button>Aspirin is a very popular analgesic agent with a relatively simple structure. An outline of the story associated with the discovery of aspirin can be found in a special chapter in this course. This drug can be synthesized as described in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/aspirin.png){: loading=lazy }
 #### Aspirin Synthesis
 
-Salicylic acid can be the starting material for aspirin since it is a readily available compound. A simple esterification step leads to the desired drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/aspirin-synthesis-8d8e08d6'><i class='fa fa-play' aria-hidden='true'></i></button>Salicylic acid can be the starting material for aspirin since it is a readily available compound. A simple esterification step leads to the desired drug.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1608,25 +1608,25 @@ Salicylic acid can be the starting material for aspirin since it is a readily av
     
 #### Physico-Chemical Properties of Aspirin
 
-Some physico-chemical properties of aspirin are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/physico-chemical-properties-aspirin-1ac88895'><i class='fa fa-play' aria-hidden='true'></i></button>Some physico-chemical properties of aspirin are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/aspirin_p.png){: loading=lazy }
 ### Nalidixic Acid
 
-Nalidixic acid is a synthetic chemotherapeutic agent which works against gram-negative bacteria. The drug can be synthesized as described in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/nalidixic-acid-bff93fc2'><i class='fa fa-play' aria-hidden='true'></i></button>Nalidixic acid is a synthetic chemotherapeutic agent which works against gram-negative bacteria. The drug can be synthesized as described in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nalidixic.png){: loading=lazy }
 #### Retrosynthetic Scheme
 
-A possible retrosynthetic scheme for the synthesis of nalidixic acid is presented below; it is based on a substituted pyridine as starting material.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-scheme-54fae787'><i class='fa fa-play' aria-hidden='true'></i></button>A possible retrosynthetic scheme for the synthesis of nalidixic acid is presented below; it is based on a substituted pyridine as starting material.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nalidixic1.png){: loading=lazy }
 #### Nalidixic Acid Synthesis
 
-Nalidixic acid can be synthesized in three steps from methyl-2, amino-6 pyridine, as described in the synthetic route below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/nalidixic-acid-synthesis-61bc90ec'><i class='fa fa-play' aria-hidden='true'></i></button>Nalidixic acid can be synthesized in three steps from methyl-2, amino-6 pyridine, as described in the synthetic route below.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1640,26 +1640,26 @@ Nalidixic acid can be synthesized in three steps from methyl-2, amino-6 pyridine
     
 #### Physico-Chemical Properties of Nalidixic Acid
 
-Some physico-chemical properties of nalidixic acid appear below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/physico-chemical-properties-nalidixic-acid-94e5d81c'><i class='fa fa-play' aria-hidden='true'></i></button>Some physico-chemical properties of nalidixic acid appear below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nalidixic_p.png){: loading=lazy }
 ### Zidovudine (AZT)
 
-Zidovudine (AZT) was the first nucleoside reverse transcriptase inhibitor antiviral agent discovered and used to treat human immunodeficiency virus (HIV) that causes AIDS. The drug can be synthesized as described in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/zidovudine-azt-659cfa2f'><i class='fa fa-play' aria-hidden='true'></i></button>Zidovudine (AZT) was the first nucleoside reverse transcriptase inhibitor antiviral agent discovered and used to treat human immunodeficiency virus (HIV) that causes AIDS. The drug can be synthesized as described in the following pages.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/zidovudine.png){: loading=lazy }
 #### Retrosynthetic Scheme
 
-The retrosynthetic scheme shown below indicates that AZT 1 can be synthesized in four steps, starting from building block 5.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-scheme-e30ea0af'><i class='fa fa-play' aria-hidden='true'></i></button>The retrosynthetic scheme shown below indicates that AZT 1 can be synthesized in four steps, starting from building block 5.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/zidovudine1.png){: loading=lazy }
 #### AZT Synthesis
 
-In the first step the primary alcohol of (2'-deoxy-lyxo furanosyl) thymine 1 is protected selectively with trityl chloride. In the second step the secondary alcohol is activated, using MeSO2Cl and a nucleophilic displacement reaction. Treatment of the mesyl derivative with lithium azide leads to product 4. The trityl group is then deprotected under acidic conditions to give AZT.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/azt-synthesis-0f6060a1'><i class='fa fa-play' aria-hidden='true'></i></button>In the first step the primary alcohol of (2'-deoxy-lyxo furanosyl) thymine 1 is protected selectively with trityl chloride. In the second step the secondary alcohol is activated, using MeSO2Cl and a nucleophilic displacement reaction. Treatment of the mesyl derivative with lithium azide leads to product 4. The trityl group is then deprotected under acidic conditions to give AZT.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/zidovudine2.png){: loading=lazy }
@@ -1683,7 +1683,7 @@ In the first step the primary alcohol of (2'-deoxy-lyxo furanosyl) thymine 1 is 
     
 #### Another Synthesis for AZT
 
-AZT can be synthesized in different ways. Another example of synthesis is given below, which starts from D-mannitol. The key reactions in this scheme are Witting and Michael reactions. Move the cursor over the 'i' symbols to display the reaction conditions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/another-synthesis-for-azt-b58a7c92'><i class='fa fa-play' aria-hidden='true'></i></button>AZT can be synthesized in different ways. Another example of synthesis is given below, which starts from D-mannitol. The key reactions in this scheme are Witting and Michael reactions. Move the cursor over the 'i' symbols to display the reaction conditions.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/zidovudine3.png){: loading=lazy }
@@ -1707,7 +1707,7 @@ AZT can be synthesized in different ways. Another example of synthesis is given 
     
 #### Which Route is Preferable?
 
-The synthesis that starts from D-mannitol is more economic. Thymidine the starting material for the first scheme is very expensive whereas D-mannitol is readily available. Today not only economic factors but also ecologic factors are taken into account and chemists are paying more attention to green chemistry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/which-route-is-preferable-5b5dac21'><i class='fa fa-play' aria-hidden='true'></i></button>The synthesis that starts from D-mannitol is more economic. Thymidine the starting material for the first scheme is very expensive whereas D-mannitol is readily available. Today not only economic factors but also ecologic factors are taken into account and chemists are paying more attention to green chemistry.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1721,25 +1721,25 @@ The synthesis that starts from D-mannitol is more economic. Thymidine the starti
     
 #### Physico-Chemical Properties of Zidovudine
 
-Some physico-chemical properties of Zidovudine are presented below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/physico-chemical-properties-zidovudine-63edb3b0'><i class='fa fa-play' aria-hidden='true'></i></button>Some physico-chemical properties of Zidovudine are presented below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/zidovudine_p.png){: loading=lazy }
 ### Terfenadine
 
-Histamine is released in a variety of allergic conditions and mediates its activity by interaction with H1 receptors. Terfanidine is H1 blocker of the second generation and is used for the treatment of seasonal allergic rhinitis. The drug can be synthesized as described in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/terfenadine-73c3c7b9'><i class='fa fa-play' aria-hidden='true'></i></button>Histamine is released in a variety of allergic conditions and mediates its activity by interaction with H1 receptors. Terfanidine is H1 blocker of the second generation and is used for the treatment of seasonal allergic rhinitis. The drug can be synthesized as described in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/terfenadine.png){: loading=lazy }
 #### Retrosynthetic Scheme
 
-A possible retrosynthetic scheme for the synthesis of Terfenadine is indicated below. The synthesis is based on the substituted piperidine 3, and the chloro-ketone 4.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-scheme-85f08f35'><i class='fa fa-play' aria-hidden='true'></i></button>A possible retrosynthetic scheme for the synthesis of Terfenadine is indicated below. The synthesis is based on the substituted piperidine 3, and the chloro-ketone 4.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/terfenadine1.png){: loading=lazy }
 #### Terfenadine Synthesis
 
-The 4-pyridine methanol is obtained using isonicotinic ethyl ester and a double Grignard reaction with phenyl magnesium bromide. Hydrogenation follows, in the presence of PtO2. The obtained azacyclonol is alkylated with the chlorobutanone in refluxing toluene in the presence of an inorganic base and a catalytic amount of NaI. Terfenadine is obtained using a reducing agent KBH4 as a racemic alcohol.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/terfenadine-synthesis-db143333'><i class='fa fa-play' aria-hidden='true'></i></button>The 4-pyridine methanol is obtained using isonicotinic ethyl ester and a double Grignard reaction with phenyl magnesium bromide. Hydrogenation follows, in the presence of PtO2. The obtained azacyclonol is alkylated with the chlorobutanone in refluxing toluene in the presence of an inorganic base and a catalytic amount of NaI. Terfenadine is obtained using a reducing agent KBH4 as a racemic alcohol.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1756,62 +1756,62 @@ The 4-pyridine methanol is obtained using isonicotinic ethyl ester and a double 
     
 #### Physico-Chemical Properties of Terfenadine
 
-Some physico-chemical properties of terfenadine are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/physico-chemical-properties-terfenadine-37fa10aa'><i class='fa fa-play' aria-hidden='true'></i></button>Some physico-chemical properties of terfenadine are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/terfenadine_p.png){: loading=lazy }
 ### Nifedipine
 
-Nifedipine was the first drug approved in the dihydropyridine series. It is a calcium channel blocker and it acts in the treatment of angina and hypertension. This drug can be synthesized as described in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/nifedipine-d383dff5'><i class='fa fa-play' aria-hidden='true'></i></button>Nifedipine was the first drug approved in the dihydropyridine series. It is a calcium channel blocker and it acts in the treatment of angina and hypertension. This drug can be synthesized as described in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nifedipine.png){: loading=lazy }
 #### Simple Retrosynthesis of Nifedipine
 
-The following scheme describes a simple retrosynthesis of Nifedipine starting from 2-nitrobenzaldehyde.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/simple-retrosynthesis-nifedipine-8a27e358'><i class='fa fa-play' aria-hidden='true'></i></button>The following scheme describes a simple retrosynthesis of Nifedipine starting from 2-nitrobenzaldehyde.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nife_one_retro.png){: loading=lazy }
 #### One-Pot Synthesis of Nifedipine
 
-The corresponding synthesis of Nifedipine can be developed in a 'one-pot' reaction (Hantzsch condensation). However, it yields several products and therefore is not optimal.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/one-pot-synthesis-nifedipine-3fe968e2'><i class='fa fa-play' aria-hidden='true'></i></button>The corresponding synthesis of Nifedipine can be developed in a 'one-pot' reaction (Hantzsch condensation). However, it yields several products and therefore is not optimal.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nife_one_syn.png){: loading=lazy }
 #### Two Steps Retrosynthesis Scheme of Nifedipine
 
-The retrosynthesis of Nifedipine presented here involves two steps, but is more preferable because it does not have the drawback of impurities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/two-steps-retrosynthesis-scheme-nifedipine-71f31f41'><i class='fa fa-play' aria-hidden='true'></i></button>The retrosynthesis of Nifedipine presented here involves two steps, but is more preferable because it does not have the drawback of impurities.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nifedipine2.png){: loading=lazy }
 #### Two Steps Synthesis of Nifedipine
 
-In the first step, the benzylidine ester 4 is produced (intermediate Knoevenagel product). A Hantsch reaction follows with the ethyl 3-aminocrotonate 5, which leads to the desired product.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/two-steps-synthesis-nifedipine-4920c469'><i class='fa fa-play' aria-hidden='true'></i></button>In the first step, the benzylidine ester 4 is produced (intermediate Knoevenagel product). A Hantsch reaction follows with the ethyl 3-aminocrotonate 5, which leads to the desired product.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nifedipine3.png){: loading=lazy }
 #### Physico-Chemical Properties of Nifedipine
 
-Some physico-chemical properties of Nifedipine are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/physico-chemical-properties-nifedipine-eac9e026'><i class='fa fa-play' aria-hidden='true'></i></button>Some physico-chemical properties of Nifedipine are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/nifedipine_p.png){: loading=lazy }
 ### Sildenafil (Viagra)
 
-Sildenafil (Viagra) is a drug used to treat impotence in men. The molecule can be synthesized as described in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/sildenafil-viagra-6c351322'><i class='fa fa-play' aria-hidden='true'></i></button>Sildenafil (Viagra) is a drug used to treat impotence in men. The molecule can be synthesized as described in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/sildenafil_1.png){: loading=lazy }
 #### Retrosynthetic Scheme
 
-A retrosynthesis of Sildenafil involves only two precursors: the nitropyrazole and the sulfonamide intermediates shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-scheme-e35f4859'><i class='fa fa-play' aria-hidden='true'></i></button>A retrosynthesis of Sildenafil involves only two precursors: the nitropyrazole and the sulfonamide intermediates shown below.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/viagra_retro.png){: loading=lazy }
 #### Sildenafil Synthesis
 
-The nitropyrazole intermediate can be prepared from methylhydrazine, estermalonate and 2-pentanone as starting materials whereas the sulfonamide intermediate is prepared from o-ethoxy benzoic acid. Sildenafil is obtained by first reducing the nitro of the nitropyrazole and then coupling the two pieces and cyclization of the pyrimidone ring.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/sildenafil-synthesis-58084a22'><i class='fa fa-play' aria-hidden='true'></i></button>The nitropyrazole intermediate can be prepared from methylhydrazine, estermalonate and 2-pentanone as starting materials whereas the sulfonamide intermediate is prepared from o-ethoxy benzoic acid. Sildenafil is obtained by first reducing the nitro of the nitropyrazole and then coupling the two pieces and cyclization of the pyrimidone ring.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/viagra_synthese.png){: loading=lazy }
@@ -1830,7 +1830,7 @@ The nitropyrazole intermediate can be prepared from methylhydrazine, estermalona
     
 #### Physico-Chemical Properties of Sildenafil
 
-Some physico-chemical properties of Sildenafil are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/physico-chemical-properties-sildenafil-446637b0'><i class='fa fa-play' aria-hidden='true'></i></button>Some physico-chemical properties of Sildenafil are listed below. The molecular weight, logP, the number of H-bond donors and H-bond acceptors can be compared to Lipinski's rule of five: all the values are within the framework of this rule.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/sidenafil_p.png){: loading=lazy }
@@ -1838,7 +1838,7 @@ Some physico-chemical properties of Sildenafil are listed below. The molecular w
 
 ### Programs for Computer-Aided Synthesis
 
-Programs for computer-aided synthesis started to appear in the late 1960s. Important progress has been made; however system development was hampered by the reluctance of chemists to use such programs. Useful for the exploration of synthetic routes, these programs may be disappointing when utilized as black boxes to find a relevant route for the synthesis of a complex molecule. A brief outline of some of these systems is given in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/programs-for-computer-aided-synthesis-7c66c5ea'><i class='fa fa-play' aria-hidden='true'></i></button>Programs for computer-aided synthesis started to appear in the late 1960s. Important progress has been made; however system development was hampered by the reluctance of chemists to use such programs. Useful for the exploration of synthetic routes, these programs may be disappointing when utilized as black boxes to find a relevant route for the synthesis of a complex molecule. A brief outline of some of these systems is given in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1870,13 +1870,13 @@ Programs for computer-aided synthesis started to appear in the late 1960s. Impor
     
 ### Retrosynthetic Programs
 
-When a chemical reaction is viewed "retrosynthetically" it is considered as going backwards from a target molecule to the starting materials. The main aim of retrosynthetic strategies is to generate precursors that correspond to available starting material. In the following pages examples of retrosynthetic programs are presented.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/retrosynthetic-programs-a689f75b'><i class='fa fa-play' aria-hidden='true'></i></button>When a chemical reaction is viewed "retrosynthetically" it is considered as going backwards from a target molecule to the starting materials. The main aim of retrosynthetic strategies is to generate precursors that correspond to available starting material. In the following pages examples of retrosynthetic programs are presented.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/retro_progr1.png){: loading=lazy }
 #### LHASA
 
-LHASA (Logic and Heuristics Applied to Synthetic Analysis) was developed in the early 1960s in a group headed by E.J. Corey at Harvard, and was one of the first major systems made for computer-assisted synthetic design. It was initially developed to implement Corey's rules for synthetic chemistry (1967) where he defined novel concepts such as 'retrosynthesis', 'synthons' and 'disconnections'. Since its introduction LHASA has been actively maintained and enhanced. The system was and continues to be used by many groups worldwide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/lhasa-09217b8b'><i class='fa fa-play' aria-hidden='true'></i></button>LHASA (Logic and Heuristics Applied to Synthetic Analysis) was developed in the early 1960s in a group headed by E.J. Corey at Harvard, and was one of the first major systems made for computer-assisted synthetic design. It was initially developed to implement Corey's rules for synthetic chemistry (1967) where he defined novel concepts such as 'retrosynthesis', 'synthons' and 'disconnections'. Since its introduction LHASA has been actively maintained and enhanced. The system was and continues to be used by many groups worldwide.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[Heuristic]: Set of rules to limit the search and increase the probability of solving a problem.
@@ -1903,7 +1903,7 @@ LHASA (Logic and Heuristics Applied to Synthetic Analysis) was developed in the 
     
 #### SYNCHEM
 
-SYNCHEM was developed in the early 1970s by H.L. Gelernter at Sunny Brook (NY) for automatic organic synthesis generation using artificial intelligence and heuristic computer programming. The method was based on a knowledge base containing data that were published on the chemical reactions involved and a small catalogue of readily available starting material. Challenged by synthetic experts the program was criticized for giving "naive" solutions too often. Attempts were made in 1978 to improve the first version.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/synchem-d65e9dfb'><i class='fa fa-play' aria-hidden='true'></i></button>SYNCHEM was developed in the early 1970s by H.L. Gelernter at Sunny Brook (NY) for automatic organic synthesis generation using artificial intelligence and heuristic computer programming. The method was based on a knowledge base containing data that were published on the chemical reactions involved and a small catalogue of readily available starting material. Challenged by synthetic experts the program was criticized for giving "naive" solutions too often. Attempts were made in 1978 to improve the first version.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[heuristic]: Set of rules to limit the search and increase the probability of solving a problem.
 
@@ -1938,7 +1938,7 @@ SYNCHEM was developed in the early 1970s by H.L. Gelernter at Sunny Brook (NY) f
     
 #### SECS, OCCS, CASP
 
-SECS (Simulation and Evaluation of Chemical Synthesis) was developed in 1978 by W.T. Wipke. The program recognizes stereochemical features. In addition 3D energy minimizations can be performed to assess whether a reactive site is accessible or subject to a particular steric hindrance before a suitable transform is proposed. The predecessor of SECS was OCCS (Organic Chemical Simulation of Synthesis - 1969). The CASP (Computer Aided Synthesis Planning System) system developed and used in the 1980s by a consortium of European pharmaceutical companies is an offshoot of the SECS program.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/secs-occs-casp-250ff339'><i class='fa fa-play' aria-hidden='true'></i></button>SECS (Simulation and Evaluation of Chemical Synthesis) was developed in 1978 by W.T. Wipke. The program recognizes stereochemical features. In addition 3D energy minimizations can be performed to assess whether a reactive site is accessible or subject to a particular steric hindrance before a suitable transform is proposed. The predecessor of SECS was OCCS (Organic Chemical Simulation of Synthesis - 1969). The CASP (Computer Aided Synthesis Planning System) system developed and used in the 1980s by a consortium of European pharmaceutical companies is an offshoot of the SECS program.
 *[minimizations]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1954,7 +1954,7 @@ SECS (Simulation and Evaluation of Chemical Synthesis) was developed in 1978 by 
     
 ### Formal and Mathematically-Based Programs
 
-Formal and mathematically based programs use theoretical descriptions of possible chemical reactions. The formalism can be based on matrices, a set of heuristics or symbolic representations of bond formation and cleavage. In the following pages some programs based on such formal descriptions of chemical reactions are described.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/formal-mathematically-based-programs-19e884ac'><i class='fa fa-play' aria-hidden='true'></i></button>Formal and mathematically based programs use theoretical descriptions of possible chemical reactions. The formalism can be based on matrices, a set of heuristics or symbolic representations of bond formation and cleavage. In the following pages some programs based on such formal descriptions of chemical reactions are described.
 *[heuristic]: Set of rules to limit the search and increase the probability of solving a problem.
 *[heuristics]: Set of rules to limit the search and increase the probability of solving a problem.
 
@@ -1962,7 +1962,7 @@ Formal and mathematically based programs use theoretical descriptions of possibl
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/formal1.png){: loading=lazy }
 #### IGOR
 
-IGOR (Interactive Generation of Organic Reactions) was developed in the late 1970s by I. Ugi as a logic-based synthetic analysis program. A molecule is represented as a matrix; chemical reactions are also represented by matrices. The product of a reaction is obtained by adding the corresponding reaction matrix to the starting material matrix. The mathematical framework provides a convenient way to describe and classify reactions. IGOR contributed to the discovery of new reactions, which were later shown to be possible experimentally. The program is interactive and driven by the user who provides chemical knowledge, intuition and preferences.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/igor-51516e6a'><i class='fa fa-play' aria-hidden='true'></i></button>IGOR (Interactive Generation of Organic Reactions) was developed in the late 1970s by I. Ugi as a logic-based synthetic analysis program. A molecule is represented as a matrix; chemical reactions are also represented by matrices. The product of a reaction is obtained by adding the corresponding reaction matrix to the starting material matrix. The mathematical framework provides a convenient way to describe and classify reactions. IGOR contributed to the discovery of new reactions, which were later shown to be possible experimentally. The program is interactive and driven by the user who provides chemical knowledge, intuition and preferences.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1981,7 +1981,7 @@ IGOR (Interactive Generation of Organic Reactions) was developed in the late 197
     
 #### EROS
 
-EROS (Elaboration of Reactions for Organic Synthesis) was developed in the late 1970s by the group of J. Gasteiger in Germany. It was designed as a reaction generation program with the intention of limiting the combinatorial explosion of the synthetic tree. The acceptance or the rejection of reaction steps is based on thermodynamic considerations (reaction enthalpies, bond dissociation energies) and electronic parameters (atomic charges, inductive, resonance, polarizability effects). EROS contributed to the discovery of a simple industrial route to Acrylonitrile.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/eros-44d6803e'><i class='fa fa-play' aria-hidden='true'></i></button>EROS (Elaboration of Reactions for Organic Synthesis) was developed in the late 1970s by the group of J. Gasteiger in Germany. It was designed as a reaction generation program with the intention of limiting the combinatorial explosion of the synthetic tree. The acceptance or the rejection of reaction steps is based on thermodynamic considerations (reaction enthalpies, bond dissociation energies) and electronic parameters (atomic charges, inductive, resonance, polarizability effects). EROS contributed to the discovery of a simple industrial route to Acrylonitrile.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2006,7 +2006,7 @@ EROS (Elaboration of Reactions for Organic Synthesis) was developed in the late 
     
 #### SYNGEN
 
-SYNGEN (SYNthesis GENeration) is a program introduced in the late 1970s by J.B. Hendrickson at Brandeis where he developed a novel approach for the generalization of organic functionality and reactions based on a symbolic representation of bond formation and cleavage. The program tries to find all the most efficient routes - the 'ideal synthesis' being the shortest and most atom-economical. SYNGEN is accompanied by another program enabling the interactive analysis of synthetic routes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/syngen-3cb2a8f8'><i class='fa fa-play' aria-hidden='true'></i></button>SYNGEN (SYNthesis GENeration) is a program introduced in the late 1970s by J.B. Hendrickson at Brandeis where he developed a novel approach for the generalization of organic functionality and reactions based on a symbolic representation of bond formation and cleavage. The program tries to find all the most efficient routes - the 'ideal synthesis' being the shortest and most atom-economical. SYNGEN is accompanied by another program enabling the interactive analysis of synthetic routes.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/syngen.png){: loading=lazy }
@@ -2034,7 +2034,7 @@ SYNGEN (SYNthesis GENeration) is a program introduced in the late 1970s by J.B. 
     
 #### RAIN
 
-RAIN (Reactions And Intermediates Networks) is a reaction generator program that generates reactions and reaction schemes from reactions and structures by taking both the synthetic and retrosynthetic directions into account. RAIN was introduced by the Ugi group in 1987 using the same algebraic model of constitutional chemistry as in IGOR. The method is useful for elucidating reaction mechanisms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/rain-de0b569a'><i class='fa fa-play' aria-hidden='true'></i></button>RAIN (Reactions And Intermediates Networks) is a reaction generator program that generates reactions and reaction schemes from reactions and structures by taking both the synthetic and retrosynthetic directions into account. RAIN was introduced by the Ugi group in 1987 using the same algebraic model of constitutional chemistry as in IGOR. The method is useful for elucidating reaction mechanisms.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/rain.png){: loading=lazy }
@@ -2058,13 +2058,13 @@ RAIN (Reactions And Intermediates Networks) is a reaction generator program that
     
 ### Forward Reaction Predictions
 
-Forward reaction predictions correspond to approaches that develop in the synthetic direction; therefore they begin with the starting material. Examples of starting-material oriented search programs are presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/forward-reaction-predictions-83ec98ff'><i class='fa fa-play' aria-hidden='true'></i></button>Forward reaction predictions correspond to approaches that develop in the synthetic direction; therefore they begin with the starting material. Examples of starting-material oriented search programs are presented in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/forward1.png){: loading=lazy }
 #### CAMEO
 
-CAMEO (Computer-Assisted Mechanistic Evaluation of Organic Reactions) is a program developed in the early 1980s by W.I. Jorgensen for the prediction of the mechanism and products of an organic reaction. The program is instructed for the identification of electrophiles, nucleophiles and pKa values. Given the starting materials, reagents and conditions, the goal of the program is to predict all possible products that may be produced. CAMEO has been tested successfully against a number of published synthetic works.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/cameo-6122c3f2'><i class='fa fa-play' aria-hidden='true'></i></button>CAMEO (Computer-Assisted Mechanistic Evaluation of Organic Reactions) is a program developed in the early 1980s by W.I. Jorgensen for the prediction of the mechanism and products of an organic reaction. The program is instructed for the identification of electrophiles, nucleophiles and pKa values. Given the starting materials, reagents and conditions, the goal of the program is to predict all possible products that may be produced. CAMEO has been tested successfully against a number of published synthetic works.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2083,7 +2083,7 @@ CAMEO (Computer-Assisted Mechanistic Evaluation of Organic Reactions) is a progr
     
 #### CHIRON
 
-CHIRON was developed by S. Hanessian (1990) as a starting material-oriented program to reveal appropriate starting material. The program searches for maximal similarity in terms of carbon skeleton. Stereochemistry and functionality, is searched by the program between the target and databases of available chemicals. CHIRON has proven capable of finding starting material for complex targets with many chiral centers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/chiron-015d9dab'><i class='fa fa-play' aria-hidden='true'></i></button>CHIRON was developed by S. Hanessian (1990) as a starting material-oriented program to reveal appropriate starting material. The program searches for maximal similarity in terms of carbon skeleton. Stereochemistry and functionality, is searched by the program between the target and databases of available chemicals. CHIRON has proven capable of finding starting material for complex targets with many chiral centers.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -2103,7 +2103,7 @@ CHIRON was developed by S. Hanessian (1990) as a starting material-oriented prog
     
 #### WODCA
 
-WODCA (Workbench for the Organization of Data for Chemical Applications) was developed in 1995 by J. Gasteiger's group in Germany. This software incorporated the EROS reaction generation program into the broader WODCA range of programs. It can assist the chemist in starting-material search or for retrosynthetic analyses for either single structures or combinatorial libraries. The program automatically performs similarity searches in catalogues of available chemicals, defines strategic bonds and undertakes searches in reaction databases.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/wodca-bea506f4'><i class='fa fa-play' aria-hidden='true'></i></button>WODCA (Workbench for the Organization of Data for Chemical Applications) was developed in 1995 by J. Gasteiger's group in Germany. This software incorporated the EROS reaction generation program into the broader WODCA range of programs. It can assist the chemist in starting-material search or for retrosynthetic analyses for either single structures or combinatorial libraries. The program automatically performs similarity searches in catalogues of available chemicals, defines strategic bonds and undertakes searches in reaction databases.
 *[combinatorial libraries]: A combinatorial library is a set of compounds prepared by combinatorial chemical synthesis.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -2133,13 +2133,13 @@ WODCA (Workbench for the Organization of Data for Chemical Applications) was dev
     
 ### Other Programs
 
-Other programs for computer-aided synthetic planning are indicated in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/other-programs-db6073f1'><i class='fa fa-play' aria-hidden='true'></i></button>Other programs for computer-aided synthetic planning are indicated in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/other_programs1.png){: loading=lazy }
 #### AIPHOS
 
-AIPHOS (Artificial Intelligence for Planning and Handling Organic Syntheses) was developed in 1988 at Toyohashi in Japan by S.I. Sasaki and K. Funatsu for the automated development of synthetic routes. The program automatically analyses the target compound, selects suitable starting material and reduces strategic sites and their corresponding reaction paths.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/aiphos-e143cd03'><i class='fa fa-play' aria-hidden='true'></i></button>AIPHOS (Artificial Intelligence for Planning and Handling Organic Syntheses) was developed in 1988 at Toyohashi in Japan by S.I. Sasaki and K. Funatsu for the automated development of synthetic routes. The program automatically analyses the target compound, selects suitable starting material and reduces strategic sites and their corresponding reaction paths.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -2158,7 +2158,7 @@ AIPHOS (Artificial Intelligence for Planning and Handling Organic Syntheses) was
     
 #### CAESA
 
-CAESA (Computer Assisted Estimation of Synthetic Accessibility) is a computer program introduced in 1991 by G.J. Myatt at the University of Leeds to automatically rank sets of molecules according to their ease of synthesis and to display the synthetic routes. It also assesses the development of viable synthetic approaches by identifying suitable, readily available starting materials. The software uses expert system technology to mimic the methods used by an experienced synthetic chemist to estimate the ease of synthesis of a particular compound.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/caesa-6bcfd541'><i class='fa fa-play' aria-hidden='true'></i></button>CAESA (Computer Assisted Estimation of Synthetic Accessibility) is a computer program introduced in 1991 by G.J. Myatt at the University of Leeds to automatically rank sets of molecules according to their ease of synthesis and to display the synthetic routes. It also assesses the development of viable synthetic approaches by identifying suitable, readily available starting materials. The software uses expert system technology to mimic the methods used by an experienced synthetic chemist to estimate the ease of synthesis of a particular compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2166,13 +2166,13 @@ CAESA (Computer Assisted Estimation of Synthetic Accessibility) is a computer pr
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/caesa.png){: loading=lazy }
 #### AOCR
 
-AOCR (Automated Organic Chemical Reactions) is program developed by L. Ermanni (1993) based on a mathematical representation of organic synthesis, from the input of an organic compound. The program makes it possible to find all the syntheses of the target compound from the initial molecule given the reaction mechanisms. It also lists all the products of a reaction of the initial compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/aocr-00d9a234'><i class='fa fa-play' aria-hidden='true'></i></button>AOCR (Automated Organic Chemical Reactions) is program developed by L. Ermanni (1993) based on a mathematical representation of organic synthesis, from the input of an organic compound. The program makes it possible to find all the syntheses of the target compound from the initial molecule given the reaction mechanisms. It also lists all the products of a reaction of the initial compounds.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/aocr.png){: loading=lazy }
 #### SYSTEMATICHEM
 
-SystematiChem is an organic chemistry software program for retrosynthesis and synthesis development. The program provides an automated synthesis pathway generation tool that allows the user to enter the compound and set a few minor parameters for the solution generation process. It then generates complete synthesis pathways using only known, purchasable starting materials and documented reactions. After this process is completed, the generated routes of the solutions can be reviewed and evaluated by the chemist using a solution viewer program.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/systematichem-22d192c5'><i class='fa fa-play' aria-hidden='true'></i></button>SystematiChem is an organic chemistry software program for retrosynthesis and synthesis development. The program provides an automated synthesis pathway generation tool that allows the user to enter the compound and set a few minor parameters for the solution generation process. It then generates complete synthesis pathways using only known, purchasable starting materials and documented reactions. After this process is completed, the generated routes of the solutions can be reviewed and evaluated by the chemist using a solution viewer program.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/systematichem.png){: loading=lazy }
@@ -2180,14 +2180,14 @@ SystematiChem is an organic chemistry software program for retrosynthesis and sy
 
 ### Databases for Organic Synthesis
 
-A huge amount of printed information, data and databases have accumulated over the years in the area of organic synthesis and are regularly updated. This well documented and well-structured information constitutes an essential form of assistance for all synthetic chemists. Some of the most important sources of information are outlined in some detail in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/databases-for-organic-synthesis-cd4be6fc'><i class='fa fa-play' aria-hidden='true'></i></button>A huge amount of printed information, data and databases have accumulated over the years in the area of organic synthesis and are regularly updated. This well documented and well-structured information constitutes an essential form of assistance for all synthetic chemists. Some of the most important sources of information are outlined in some detail in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/database0.png){: loading=lazy }
 ### Printed Information
 
-There is a vast number of textbooks, monograph series and articles that can be used by synthetic chemists as sources of information to find for example a detailed synthetic route, starting materials, conditions of a reaction, yields, catalysts, mechanisms etc... Examples of such printed information are shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/printed-information-dbaabb3d'><i class='fa fa-play' aria-hidden='true'></i></button>There is a vast number of textbooks, monograph series and articles that can be used by synthetic chemists as sources of information to find for example a detailed synthetic route, starting materials, conditions of a reaction, yields, catalysts, mechanisms etc... Examples of such printed information are shown below.
 
 
 === "p. 1"
@@ -2322,27 +2322,27 @@ There is a vast number of textbooks, monograph series and articles that can be u
     
 ### Specialized Abstracting Services
 
-The Chemical Abstracts and Beilstein are two organizations that contributed substantially and for many years to the dissemination of scientific information in chemistry worldwide. Chemical Abstracts have existed for more than a century, whereas the Beilstein covers almost two centuries in chemistry. An outline of the resources provided by these two specialized abstracting services is given in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/specialized-abstracting-services-1d127bc0'><i class='fa fa-play' aria-hidden='true'></i></button>The Chemical Abstracts and Beilstein are two organizations that contributed substantially and for many years to the dissemination of scientific information in chemistry worldwide. Chemical Abstracts have existed for more than a century, whereas the Beilstein covers almost two centuries in chemistry. An outline of the resources provided by these two specialized abstracting services is given in the following pages.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/reaction_db.png){: loading=lazy }
 #### Chemical Abstracts Services (CAS)
 
-CAS was founded in 1907 with the aim of monitoring, abstracting, and indexing the world's chemistry-related literature. In total, CAS has indexed and summarized chemistry-related articles from more than 40,000 scientific journals representing about 24 million documents and more than 15 million substances that are accessible online through CAS. The data produced by CAS are accessible to research scientists in different formats, including the printed CA, CA on CD, the STN international online network, the SciFinder and SciFinder-Scholar desktop research tools. CAS is a division of the American Chemical Society.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/chemical-abstracts-services-cas-e37e8933'><i class='fa fa-play' aria-hidden='true'></i></button>CAS was founded in 1907 with the aim of monitoring, abstracting, and indexing the world's chemistry-related literature. In total, CAS has indexed and summarized chemistry-related articles from more than 40,000 scientific journals representing about 24 million documents and more than 15 million substances that are accessible online through CAS. The data produced by CAS are accessible to research scientists in different formats, including the printed CA, CA on CD, the STN international online network, the SciFinder and SciFinder-Scholar desktop research tools. CAS is a division of the American Chemical Society.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/chemical_ca.png){: loading=lazy }
 ##### SciFinder
 
-SciFinder is used to access the CAS chemical information from a desktop with many types of searches. For reaction searches for example, once a structure is drawn, it is possible to refine the retrieved records with constraints such as the yield, the number of steps, the type of reaction etc...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/scifinder-1fb2d321'><i class='fa fa-play' aria-hidden='true'></i></button>SciFinder is used to access the CAS chemical information from a desktop with many types of searches. For reaction searches for example, once a structure is drawn, it is possible to refine the retrieved records with constraints such as the yield, the number of steps, the type of reaction etc...
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/scifinder1.png){: loading=lazy }
 #### Beilstein
 
-The Beilstein database contains fully searchable chemical structures and reactions, associated chemical and physical properties, and detailed pharmacological and ecological data. The chronological index began in 1771 and addresses three primary types of data: substances, reactions and citations. The Beilstein database is updated quarterly by Elsevier, a subsidiary of MDL Information Systems Inc.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/beilstein-f7bedf32'><i class='fa fa-play' aria-hidden='true'></i></button>The Beilstein database contains fully searchable chemical structures and reactions, associated chemical and physical properties, and detailed pharmacological and ecological data. The chronological index began in 1771 and addresses three primary types of data: substances, reactions and citations. The Beilstein database is updated quarterly by Elsevier, a subsidiary of MDL Information Systems Inc.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
@@ -2351,7 +2351,7 @@ The Beilstein database contains fully searchable chemical structures and reactio
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/beilstein.png){: loading=lazy }
 ##### Gmelin
 
-The Gmelin Database is the sister database to Beilstein, and has covered inorganic and organometallic compounds since 1772 to the present. It is used for graphic reaction searching. Gmelin is a product of MDL Information Systems.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/gmelin-7fe09227'><i class='fa fa-play' aria-hidden='true'></i></button>The Gmelin Database is the sister database to Beilstein, and has covered inorganic and organometallic compounds since 1772 to the present. It is used for graphic reaction searching. Gmelin is a product of MDL Information Systems.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
@@ -2359,7 +2359,7 @@ The Gmelin Database is the sister database to Beilstein, and has covered inorgan
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/gmelin.png){: loading=lazy }
 ### Reaction Databases
 
-There are a number of databases that are dedicated to chemical reactions or organic syntheses and provide useful practical information from the point of view of the synthesis. Some examples of such specialized databases (free or commercial) are indicated here with their associated (clickable) internet address.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/reaction-databases-a9666e82'><i class='fa fa-play' aria-hidden='true'></i></button>There are a number of databases that are dedicated to chemical reactions or organic syntheses and provide useful practical information from the point of view of the synthesis. Some examples of such specialized databases (free or commercial) are indicated here with their associated (clickable) internet address.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2369,14 +2369,14 @@ There are a number of databases that are dedicated to chemical reactions or orga
     ![](https://media.drugdesign.org/course/synthesis-of-drugs/reaction4prime_db.png){: loading=lazy }
 ### On-Line Resources
 
-If you are perplexed, have forgotten the content of a reaction referenced with a name (e.g. Stobbe condensation or Sakurai reaction) the on-line resources such as the "Organic Reaction Names" or the "Named Reactions in Organic Chemistry" might help you to rapidly recall it and view some examples. A vast number of resources are available on-line for the synthetic chemists; the list indicated below indicates only some of these. Portals such as the American Chemical Society or Organic Chemistry Worldwide Resources provide additional useful links.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/on-line-resources-35262e57'><i class='fa fa-play' aria-hidden='true'></i></button>If you are perplexed, have forgotten the content of a reaction referenced with a name (e.g. Stobbe condensation or Sakurai reaction) the on-line resources such as the "Organic Reaction Names" or the "Named Reactions in Organic Chemistry" might help you to rapidly recall it and view some examples. A vast number of resources are available on-line for the synthetic chemists; the list indicated below indicates only some of these. Portals such as the American Chemical Society or Organic Chemistry Worldwide Resources provide additional useful links.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/reaction5_db.png){: loading=lazy }
 ### Patent Databases
 
-In the development phase of a drug, patent databases provide useful information on its synthesis which has not been published in the scientific articles or poster forms. Moreover, when engaged in a discovery project, it is important to know what types of structures are well covered by the competition. In the following pages some important patent databases are presented.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/patent-databases-ac457116'><i class='fa fa-play' aria-hidden='true'></i></button>In the development phase of a drug, patent databases provide useful information on its synthesis which has not been published in the scientific articles or poster forms. Moreover, when engaged in a discovery project, it is important to know what types of structures are well covered by the competition. In the following pages some important patent databases are presented.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -2384,7 +2384,7 @@ In the development phase of a drug, patent databases provide useful information 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/patents_db.png){: loading=lazy }
 #### US Patents: USPTO
 
-The United States Patent and Trademark Office (USPTO) provides free web access to its database of issued patents and published applications. Quick and advanced searches are possible with fields such as words, inventor name, inventor country, assignee name and country, issue date, examiner, patent number etc... The USPTO is an agency of the US Department of Commerce and the database is updated weekly.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/us-patents-uspto-80e3f48c'><i class='fa fa-play' aria-hidden='true'></i></button>The United States Patent and Trademark Office (USPTO) provides free web access to its database of issued patents and published applications. Quick and advanced searches are possible with fields such as words, inventor name, inventor country, assignee name and country, issue date, examiner, patent number etc... The USPTO is an agency of the US Department of Commerce and the database is updated weekly.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2392,15 +2392,16 @@ The United States Patent and Trademark Office (USPTO) provides free web access t
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/us_patents.png){: loading=lazy }
 #### European Patents: EPOLINE
 
-The European Patent Register On-Line (EPOLINE) provides information on all European and Euro-PCT patent applications. Records include bibliographic data, legal status information but no description of the invention (claims or abstracts). Files are updated daily and information is available to online users 3-5 days after the action date.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/european-patents-epoline-3d0c49e6'><i class='fa fa-play' aria-hidden='true'></i></button>The European Patent Register On-Line (EPOLINE) provides information on all European and Euro-PCT patent applications. Records include bibliographic data, legal status information but no description of the invention (claims or abstracts). Files are updated daily and information is available to online users 3-5 days after the action date.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/european_patents.png){: loading=lazy }
 #### Other Patent Databases
 
-Other patent databases exist, some of which are indicated below. In particular, the IBM's Patent Server is a public service providing a different patent database from the US Patent abstracts with as service similar to that of the USPTO. Also, the Japanese Patent Office has a searchable database of Japanese patent abstracts, which include the patent number, title, inventor, company, and abstract of the patent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='synthesis-of-drugs/other-patent-databases-08d33351'><i class='fa fa-play' aria-hidden='true'></i></button>Other patent databases exist, some of which are indicated below. In particular, the IBM's Patent Server is a public service providing a different patent database from the US Patent abstracts with as service similar to that of the USPTO. Also, the Japanese Patent Office has a searchable database of Japanese patent abstracts, which include the patent number, title, inventor, company, and abstract of the patent.
 
 
 ![](https://media.drugdesign.org/course/synthesis-of-drugs/other_patents.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

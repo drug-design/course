@@ -15,14 +15,14 @@
 
 ### Introduction on Stereochemistry
 
-Stereochemistry is the study of the spatial arrangements of atoms in molecules. This arrangement affects the way it reacts in chemical reactions and its biological and physical properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/introduction-on-stereochemistry-863317bd'><i class='fa fa-play' aria-hidden='true'></i></button>Stereochemistry is the study of the spatial arrangements of atoms in molecules. This arrangement affects the way it reacts in chemical reactions and its biological and physical properties.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/1_1_0_1.png){: loading=lazy }
 
 ### Bond Lengths
 
-The bond length is determined by the nature of the atoms and the nature of the chemical bond.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/bond-lengths-bedd4d9a'><i class='fa fa-play' aria-hidden='true'></i></button>The bond length is determined by the nature of the atoms and the nature of the chemical bond.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/1_2_0_1.png){: loading=lazy }
@@ -63,32 +63,32 @@ The bond length is determined by the nature of the atoms and the nature of the c
     
 #### Bond Multiplicity
 
-Increasing the bond multiplicity (single, double, triple) will decrease the bond length.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/bond-multiplicity-884a613a'><i class='fa fa-play' aria-hidden='true'></i></button>Increasing the bond multiplicity (single, double, triple) will decrease the bond length.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/1_2_1_1.png){: loading=lazy }
 #### Atom Size
 
-The increase of the size of the bonded atoms will increase the bond length.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/atom-size-b2d46c1d'><i class='fa fa-play' aria-hidden='true'></i></button>The increase of the size of the bonded atoms will increase the bond length.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/alt1_1_2_2_1.png){: loading=lazy }
 
 #### Electronegativity
 
-Increasing the electronegativity of the atoms will decrease the bond length.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/electronegativity-634d7864'><i class='fa fa-play' aria-hidden='true'></i></button>Increasing the electronegativity of the atoms will decrease the bond length.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/1_2_3_1.png){: loading=lazy }
 #### Hybridization
 
-Increasing the s-character (hybridization) will decrease the bond length.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/hybridization-41ff841f'><i class='fa fa-play' aria-hidden='true'></i></button>Increasing the s-character (hybridization) will decrease the bond length.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/1_2_4_1.png){: loading=lazy }
 ### Bond Angles
 
-Two successive bonds define a bond angle. The value of the bond angle depends on the nature and the hybridization of the atoms. Increasing the s-character of the central atom increases the bond angle.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/bond-angles-e63a97d1'><i class='fa fa-play' aria-hidden='true'></i></button>Two successive bonds define a bond angle. The value of the bond angle depends on the nature and the hybridization of the atoms. Increasing the s-character of the central atom increases the bond angle.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/1_3_1_1.png){: loading=lazy }
@@ -101,7 +101,7 @@ Two successive bonds define a bond angle. The value of the bond angle depends on
     
 #### Thorpe-Ingold Effect
 
-The H-C-H angle in methane is 109.5<sup>o</sup>. The progressive substitution of the hydrogens by larger hydrocarbon groups result in the increase of the bond angle between the large ligands while the bond angle between the hydrogen atoms decreases (Thorpe-Ingold effect).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/thorpe-ingold-effect-b473d9c8'><i class='fa fa-play' aria-hidden='true'></i></button>The H-C-H angle in methane is 109.5<sup>o</sup>. The progressive substitution of the hydrogens by larger hydrocarbon groups result in the increase of the bond angle between the large ligands while the bond angle between the hydrogen atoms decreases (Thorpe-Ingold effect).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -110,28 +110,28 @@ The H-C-H angle in methane is 109.5<sup>o</sup>. The progressive substitution of
 ![](https://media.drugdesign.org/course/stereochemistry/1_3_2_1.png){: loading=lazy }
 ### Torsion Angles
 
-The relative location of four successive atoms (1,2,3,4) in the chemical structure of a molecule is defined by the torsion angle of the two half planes (1,2,3) and (2,3,4).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/torsion-angles-fb815645'><i class='fa fa-play' aria-hidden='true'></i></button>The relative location of four successive atoms (1,2,3,4) in the chemical structure of a molecule is defined by the torsion angle of the two half planes (1,2,3) and (2,3,4).
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/snap_v1_b3_1_4.png){: loading=lazy }
 
 #### Torsion Angle Sign Convention
 
-A +/- sign is assigned to the torsion angles: the back bond is kept fixed and the front bond is rotated so that it can superimposed on the fixed one. The torsion angle is positive if this rotation is clockwise and negative if it is counterclockwise.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/torsion-angle-sign-convention-55d737b7'><i class='fa fa-play' aria-hidden='true'></i></button>A +/- sign is assigned to the torsion angles: the back bond is kept fixed and the front bond is rotated so that it can superimposed on the fixed one. The torsion angle is positive if this rotation is clockwise and negative if it is counterclockwise.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/snap_v1_b3_1_4_2.png){: loading=lazy }
 
 #### Examples of Torsion Angles
 
-Local geometrical features in a molecule are well described with the numerical values of selected torsion angles.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/examples-torsion-angles-f928cab0'><i class='fa fa-play' aria-hidden='true'></i></button>Local geometrical features in a molecule are well described with the numerical values of selected torsion angles.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/torsion_angle.gif){: loading=lazy }
 
 #### Torsion Angle Descriptor (sp3-sp3)
 
-Several geometries are assigned to a torsion angle with a central sp<sup>3</sup>-sp<sup>3</sup> bond. In a staggered conformation the ligands can be in a (+) or (-) synclinal (+60<sup>o</sup>, -60<sup>o</sup>) or antiperiplanar (180<sup>o</sup>) orientation; whereas in an eclipsed form the ligands can be in a synperiplanar (0<sup>o</sup>) or a (+) or (-) anticlinal (+120<sup>o</sup>, -120<sup>o</sup>) orientation (click on Newman projections).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/torsion-angle-descriptor-sp3-sp3-5e94420b'><i class='fa fa-play' aria-hidden='true'></i></button>Several geometries are assigned to a torsion angle with a central sp<sup>3</sup>-sp<sup>3</sup> bond. In a staggered conformation the ligands can be in a (+) or (-) synclinal (+60<sup>o</sup>, -60<sup>o</sup>) or antiperiplanar (180<sup>o</sup>) orientation; whereas in an eclipsed form the ligands can be in a synperiplanar (0<sup>o</sup>) or a (+) or (-) anticlinal (+120<sup>o</sup>, -120<sup>o</sup>) orientation (click on Newman projections).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -152,7 +152,7 @@ Several geometries are assigned to a torsion angle with a central sp<sup>3</sup>
     
 #### Torsion Angle Descriptor (sp2-sp3)
 
-For torsion angles with a central sp<sup>2</sup>-sp<sup>3</sup> bond, the favored conformers are geometries where a &Sigma; bond of the sp<sup>3</sup> atom is eclipsed with the &pi; bond of the sp<sup>2</sup> atom; this corresponds to six different geometries. (In this example the F-C-C-N torsion angle is rotated counterclockwise).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/torsion-angle-descriptor-sp2-sp3-0cb2ab0b'><i class='fa fa-play' aria-hidden='true'></i></button>For torsion angles with a central sp<sup>2</sup>-sp<sup>3</sup> bond, the favored conformers are geometries where a &Sigma; bond of the sp<sup>3</sup> atom is eclipsed with the &pi; bond of the sp<sup>2</sup> atom; this corresponds to six different geometries. (In this example the F-C-C-N torsion angle is rotated counterclockwise).
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/torsion_angle_form2.gif){: loading=lazy }
@@ -168,7 +168,7 @@ For torsion angles with a central sp<sup>2</sup>-sp<sup>3</sup> bond, the favore
 
 ### Chirality
 
-Chirality is a geometrical property of a rigid object when it cannot be superimposed on its mirror image; there are no symmetrical elements in the object (such as mirror plane or inversion center). A carbon atom holding four different ligands is a chiral center.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/chirality-b2324b6a'><i class='fa fa-play' aria-hidden='true'></i></button>Chirality is a geometrical property of a rigid object when it cannot be superimposed on its mirror image; there are no symmetrical elements in the object (such as mirror plane or inversion center). A carbon atom holding four different ligands is a chiral center.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -184,7 +184,7 @@ Chirality is a geometrical property of a rigid object when it cannot be superimp
     
 #### Example 1
 
-The following molecule has a carbon atom with four different ligands: hydrogen, amino, carboxyl and benzyl groups. The carbon is chiral and the molecule cannot be superimposed on its mirror image.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-1-eaf92207'><i class='fa fa-play' aria-hidden='true'></i></button>The following molecule has a carbon atom with four different ligands: hydrogen, amino, carboxyl and benzyl groups. The carbon is chiral and the molecule cannot be superimposed on its mirror image.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -193,14 +193,14 @@ The following molecule has a carbon atom with four different ligands: hydrogen, 
 
 #### Example 2
 
-In this example we have a chiral carbon atom (bearing the methyl group) in a cyclic system.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-2-e2a1eac6'><i class='fa fa-play' aria-hidden='true'></i></button>In this example we have a chiral carbon atom (bearing the methyl group) in a cyclic system.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/chirality3.gif){: loading=lazy }
 
 ### Chirality Descriptor: Optical Rotation
 
-Optical activity is the ability of a molecule to rotate the plane of polarized light. An optically active molecule causing rotation of the light in a clockwise direction is called dextrorotatory and a (+) is associated to its chemical name. A molecule causing rotation of the light in the counterclockwise direction is called laevorotatory and a (-) is associated to its chemical name. The optical rotation of a molecule is defined by the following formula:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/chirality-descriptor-optical-rotation-9cf01597'><i class='fa fa-play' aria-hidden='true'></i></button>Optical activity is the ability of a molecule to rotate the plane of polarized light. An optically active molecule causing rotation of the light in a clockwise direction is called dextrorotatory and a (+) is associated to its chemical name. A molecule causing rotation of the light in the counterclockwise direction is called laevorotatory and a (-) is associated to its chemical name. The optical rotation of a molecule is defined by the following formula:
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/2_2_0_1.png){: loading=lazy }
@@ -213,7 +213,7 @@ Optical activity is the ability of a molecule to rotate the plane of polarized l
     
 ### Chirality Nomenclature
 
-An atom with four different ligands is chiral. Its absolute configuration can be assigned by the R/S Cahn-Ingold-Prelog method as follows: (1) assign priorities to the ligands from 1 (highest priority) to 4 (lowest priority); (2) rotate the molecule so that ligand number 4 is in the back; (3) if the direction for the numbers 1 to 3 is clockwise, assign R (rectus, RIGHT), if counterclockwise, assign S (sinister, LEFT).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/chirality-nomenclature-ce05e28d'><i class='fa fa-play' aria-hidden='true'></i></button>An atom with four different ligands is chiral. Its absolute configuration can be assigned by the R/S Cahn-Ingold-Prelog method as follows: (1) assign priorities to the ligands from 1 (highest priority) to 4 (lowest priority); (2) rotate the molecule so that ligand number 4 is in the back; (3) if the direction for the numbers 1 to 3 is clockwise, assign R (rectus, RIGHT), if counterclockwise, assign S (sinister, LEFT).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -238,7 +238,7 @@ An atom with four different ligands is chiral. Its absolute configuration can be
     
 ### The Order of Priority (1/5)
 
-According to the Cahn-Ingold-Prelog rules the priority order is as indicated below: the higher the atomic number, the highest priority is assigned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/order-priority-15-e9f8d93d'><i class='fa fa-play' aria-hidden='true'></i></button>According to the Cahn-Ingold-Prelog rules the priority order is as indicated below: the higher the atomic number, the highest priority is assigned.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/snap_add_v1_b3_2_5_2_s1.png){: loading=lazy }
@@ -257,7 +257,7 @@ According to the Cahn-Ingold-Prelog rules the priority order is as indicated bel
     
 #### The Order of Priority (2/5)
 
-If two atoms or more are found to be the same, their attached atoms are then considered, until a difference is found.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/order-priority-25-0a43db19'><i class='fa fa-play' aria-hidden='true'></i></button>If two atoms or more are found to be the same, their attached atoms are then considered, until a difference is found.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -277,7 +277,7 @@ If two atoms or more are found to be the same, their attached atoms are then con
     
 #### The Order of Priority (3/5)
 
-Double and triple bonds are assigned using a convention considering the functional group with the multiple bond to be equivalent to the same number of single-bonded atoms. For the C=O bond for example, the carbon-oxygen double bond is equivalent to the carbon atom being bonded twice to the oxygen atom; however, the duplicate ones (in parentheses in the views below) will be treated as "phantom" atoms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/order-priority-35-7ad01873'><i class='fa fa-play' aria-hidden='true'></i></button>Double and triple bonds are assigned using a convention considering the functional group with the multiple bond to be equivalent to the same number of single-bonded atoms. For the C=O bond for example, the carbon-oxygen double bond is equivalent to the carbon atom being bonded twice to the oxygen atom; however, the duplicate ones (in parentheses in the views below) will be treated as "phantom" atoms.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/add_a3_2_5_2_3.png){: loading=lazy }
@@ -295,7 +295,7 @@ Double and triple bonds are assigned using a convention considering the function
     
 #### The Order of Priority (4/5)
 
-For different isotopes of the same atom, the highest priority will be assigned to the isotope with the higher atomic mass.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/order-priority-45-94cb7015'><i class='fa fa-play' aria-hidden='true'></i></button>For different isotopes of the same atom, the highest priority will be assigned to the isotope with the higher atomic mass.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/add_a3_2_5_2_4.png){: loading=lazy }
@@ -314,7 +314,7 @@ For different isotopes of the same atom, the highest priority will be assigned t
     
 #### The Order of Priority (5/5)
 
-For cis and trans double bonds, the convention is to assign the higher hierarchy to the olefin with ligands being in the same side (cis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/order-priority-55-87ee43ea'><i class='fa fa-play' aria-hidden='true'></i></button>For cis and trans double bonds, the convention is to assign the higher hierarchy to the olefin with ligands being in the same side (cis).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -335,7 +335,7 @@ For cis and trans double bonds, the convention is to assign the higher hierarchy
     
 ### Examples of R/S Assignments (1/4)
 
-Below is shown the 2D formula of Levodopa and let us assign the stereochemistry of the molecule. Following the Cahn-Ingold-Prelog rules the priorities assigned to the atoms connected to the chiral carbon are: 1 for the nitrogen, 2 for the carboxyl, 3 for the benzyl and 4 for the hydrogen atom. This levodopa compound is therefore with the S stereochemistry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/examples-rs-assignments-14-45a41a24'><i class='fa fa-play' aria-hidden='true'></i></button>Below is shown the 2D formula of Levodopa and let us assign the stereochemistry of the molecule. Following the Cahn-Ingold-Prelog rules the priorities assigned to the atoms connected to the chiral carbon are: 1 for the nitrogen, 2 for the carboxyl, 3 for the benzyl and 4 for the hydrogen atom. This levodopa compound is therefore with the S stereochemistry.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/add_a3_2_5_3_1.png){: loading=lazy }
@@ -350,7 +350,7 @@ Below is shown the 2D formula of Levodopa and let us assign the stereochemistry 
     
 #### Examples of R/S Assignments (2/4)
 
-Here is the structure of Epinephrine. The priorities assigned to the atoms connected to the chiral atom are: 1 for the oxygen, 2 for the carbon attached to the nitrogen, 3 for the aromatic ring and 4 for the hydrogen atom. The stereochemistry of this compound is R.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/examples-rs-assignments-24-be483ecd'><i class='fa fa-play' aria-hidden='true'></i></button>Here is the structure of Epinephrine. The priorities assigned to the atoms connected to the chiral atom are: 1 for the oxygen, 2 for the carbon attached to the nitrogen, 3 for the aromatic ring and 4 for the hydrogen atom. The stereochemistry of this compound is R.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/add_a3_2_5_3_2.png){: loading=lazy }
@@ -365,7 +365,7 @@ Here is the structure of Epinephrine. The priorities assigned to the atoms conne
     
 #### Examples of R/S Assignments (3/4)
 
-Menthol is a molecule with three chiral centers. The carbon atoms of the methyl and the hydroxyl groups have the R stereochemistry, whereas the carbon atom of the isopropyl is S.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/examples-rs-assignments-34-148994b0'><i class='fa fa-play' aria-hidden='true'></i></button>Menthol is a molecule with three chiral centers. The carbon atoms of the methyl and the hydroxyl groups have the R stereochemistry, whereas the carbon atom of the isopropyl is S.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -381,7 +381,7 @@ Menthol is a molecule with three chiral centers. The carbon atoms of the methyl 
     
 #### Examples of R/S Assignments (4/4)
 
-Captopril has two chiral carbon atoms with the S stereochemistry according to the Cahn-Ingold-Prelog rules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/examples-rs-assignments-44-21b95489'><i class='fa fa-play' aria-hidden='true'></i></button>Captopril has two chiral carbon atoms with the S stereochemistry according to the Cahn-Ingold-Prelog rules.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/add_a3_2_5_3_4.gif){: loading=lazy }
@@ -396,28 +396,28 @@ Captopril has two chiral carbon atoms with the S stereochemistry according to th
     
 ### The Newman Projection
 
-In the Newman projection the molecule is viewed along the axis of a rotatable bond, generally a C-C &Sigma; bond. The front and back groups are connected differently to the central atoms: the lines are drawn to the center of the circle for the front atom and to the periphery of the circle for the rear atom. Newman projections are useful in describing the conformation of a molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/newman-projection-32a8bacd'><i class='fa fa-play' aria-hidden='true'></i></button>In the Newman projection the molecule is viewed along the axis of a rotatable bond, generally a C-C &Sigma; bond. The front and back groups are connected differently to the central atoms: the lines are drawn to the center of the circle for the front atom and to the periphery of the circle for the rear atom. Newman projections are useful in describing the conformation of a molecule.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/newman.gif){: loading=lazy }
 
 ### The Fischer Projection (1/3)
 
-The Fischer projection is a flat stick drawing of the molecule which preserves information about chirality. The bonds of the carbon skeleton are shown vertical and other bonds are horizontal. The 3D structure can be reconstructed in the mind by imagining the vertical bonds to be below or behind the projection plane and horizontal bonds above or in front of that plane.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/fischer-projection-13-1394b5f5'><i class='fa fa-play' aria-hidden='true'></i></button>The Fischer projection is a flat stick drawing of the molecule which preserves information about chirality. The bonds of the carbon skeleton are shown vertical and other bonds are horizontal. The 3D structure can be reconstructed in the mind by imagining the vertical bonds to be below or behind the projection plane and horizontal bonds above or in front of that plane.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/fischer.gif){: loading=lazy }
 
 #### The Fischer Projection (2/3)
 
-If more than one atom are chiral, then the Fischer projection can be used to describe their respective stereochemistries. In the example represented below the molecule contains two chiral carbon atoms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/fischer-projection-23-3b1ff2c2'><i class='fa fa-play' aria-hidden='true'></i></button>If more than one atom are chiral, then the Fischer projection can be used to describe their respective stereochemistries. In the example represented below the molecule contains two chiral carbon atoms.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/fischer2.gif){: loading=lazy }
 
 #### The Fischer Projection (3/3)
 
-It is worth noticing that a Fischer projection is unique and cannot describe the conformation of a molecule (contrary to the Newman projections). The D-erythrose is presented here to illustrate this point. Note the difference between the 2D and one possible conformation of this molecule represented below, both in 3D and with a Newman projection.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/fischer-projection-33-32e62e9d'><i class='fa fa-play' aria-hidden='true'></i></button>It is worth noticing that a Fischer projection is unique and cannot describe the conformation of a molecule (contrary to the Newman projections). The D-erythrose is presented here to illustrate this point. Note the difference between the 2D and one possible conformation of this molecule represented below, both in 3D and with a Newman projection.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -426,7 +426,7 @@ It is worth noticing that a Fischer projection is unique and cannot describe the
 
 ### Chirality: D/L
 
-For aminoacids and sugars the absolute configuration of chiral centers can be described with the D/L nomenclature based on Fischer's projections (see view). In aminoacids, if the amino group is on the left, it is assigned L, and when it is found on the right, it is assigned D. For sugars if the last chiral hydroxy is on the left, it is assigned L, and if it is on the right, it is assigned D.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/chirality-dl-afbcdcc3'><i class='fa fa-play' aria-hidden='true'></i></button>For aminoacids and sugars the absolute configuration of chiral centers can be described with the D/L nomenclature based on Fischer's projections (see view). In aminoacids, if the amino group is on the left, it is assigned L, and when it is found on the right, it is assigned D. For sugars if the last chiral hydroxy is on the left, it is assigned L, and if it is on the right, it is assigned D.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -449,21 +449,21 @@ For aminoacids and sugars the absolute configuration of chiral centers can be de
     
 #### D-alanine
 
-The following alanine amino acid molecule has the amino group on the right, therefore it corresponds to D-alanine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/d-alanine-5ae09131'><i class='fa fa-play' aria-hidden='true'></i></button>The following alanine amino acid molecule has the amino group on the right, therefore it corresponds to D-alanine.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/d-alanine.gif){: loading=lazy }
 
 #### L-alanine
 
-Here, the amino group is on the left, the structure corresponds to L-alanine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/l-alanine-528d6039'><i class='fa fa-play' aria-hidden='true'></i></button>Here, the amino group is on the left, the structure corresponds to L-alanine.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/l-alanine.gif){: loading=lazy }
 
 ### Chirality: Erythro/Threo
 
-Special descriptors are used for acyclic structures having two stereo-chemical centers. It uses the Fischer projections together with the R/S stereo-chemistries of the individual chiral centers. If the stucture is RR or SS (like) then the whole is named 'threo', whereas for SR or RS (unlike) it is called 'erythro'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/chirality-erythrothreo-496b2f66'><i class='fa fa-play' aria-hidden='true'></i></button>Special descriptors are used for acyclic structures having two stereo-chemical centers. It uses the Fischer projections together with the R/S stereo-chemistries of the individual chiral centers. If the stucture is RR or SS (like) then the whole is named 'threo', whereas for SR or RS (unlike) it is called 'erythro'.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/2_5_1_1.png){: loading=lazy }
@@ -481,21 +481,21 @@ Special descriptors are used for acyclic structures having two stereo-chemical c
     
 #### Threo
 
-In the following molecule the two chiral centers are both S, therefore this isomer is threo.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/threo-7071e120'><i class='fa fa-play' aria-hidden='true'></i></button>In the following molecule the two chiral centers are both S, therefore this isomer is threo.
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/2_5_2_1.png){: loading=lazy }
 #### Erythro
 
-In the following molecule one chiral center is R and the other S, this isomer is erythro.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/erythro-af262df5'><i class='fa fa-play' aria-hidden='true'></i></button>In the following molecule one chiral center is R and the other S, this isomer is erythro.
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/2_5_3_1.png){: loading=lazy }
 ### Other Examples of Chiral Molecules: Example 1
 
-Chirality does not have to be associated only with sp3 carbon atoms. In the following pages we present different types of chiral molecules. In the example shown below we have a molecule with a quaternary nitrogen with two possible enantiomers: R and S.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/other-examples-chiral-molecules-example-1-49b475ea'><i class='fa fa-play' aria-hidden='true'></i></button>Chirality does not have to be associated only with sp3 carbon atoms. In the following pages we present different types of chiral molecules. In the example shown below we have a molecule with a quaternary nitrogen with two possible enantiomers: R and S.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -504,7 +504,7 @@ Chirality does not have to be associated only with sp3 carbon atoms. In the foll
 
 #### Example 2 of Chiral Molecule
 
-Phosphorous atoms can be chiral, in this case the lone pair is assigned with the lowest priority as the 4<sup>th</sup> ligand, and we have two possible enantiomers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-2-chiral-molecule-19a9cb99'><i class='fa fa-play' aria-hidden='true'></i></button>Phosphorous atoms can be chiral, in this case the lone pair is assigned with the lowest priority as the 4<sup>th</sup> ligand, and we have two possible enantiomers.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -514,7 +514,7 @@ Phosphorous atoms can be chiral, in this case the lone pair is assigned with the
 
 #### Example 3 of Chiral Molecule
 
-A molecule is chiral if it cannot be superimposed on its mirror image. This situation occurs with allene compounds that exist as enantiomers. The two isomers are called "plus" (+) or "minus" (-) based on the following convention: ligands with the higher rank are identified on both ends of the allenic fragment and the molecule is viewed along the allenic direction. If the higher ranked ligands appear clockwise the allene is assigned with the (+) notation, and if they appear counterclockwise the molecule will be assigned (-).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-3-chiral-molecule-7d4663c7'><i class='fa fa-play' aria-hidden='true'></i></button>A molecule is chiral if it cannot be superimposed on its mirror image. This situation occurs with allene compounds that exist as enantiomers. The two isomers are called "plus" (+) or "minus" (-) based on the following convention: ligands with the higher rank are identified on both ends of the allenic fragment and the molecule is viewed along the allenic direction. If the higher ranked ligands appear clockwise the allene is assigned with the (+) notation, and if they appear counterclockwise the molecule will be assigned (-).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -527,7 +527,7 @@ A molecule is chiral if it cannot be superimposed on its mirror image. This situ
 
 #### Example 4 of Chiral Molecule
 
-A similar situation is found in biphenyl compounds. For steric reasons the interconversion from one isomer to the other may be impossible at room temperature (ortho substituted analogs). A convention similar to the one presented for allenic molecules is used for describing the stereochemistry of biphenyl structures, with the notation (+) or (-) depending on the clockwise or counterclockwise location of the ligands.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-4-chiral-molecule-cd439228'><i class='fa fa-play' aria-hidden='true'></i></button>A similar situation is found in biphenyl compounds. For steric reasons the interconversion from one isomer to the other may be impossible at room temperature (ortho substituted analogs). A convention similar to the one presented for allenic molecules is used for describing the stereochemistry of biphenyl structures, with the notation (+) or (-) depending on the clockwise or counterclockwise location of the ligands.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -539,7 +539,7 @@ A similar situation is found in biphenyl compounds. For steric reasons the inter
 
 #### Example 5 of Chiral Molecule
 
-A molecular propeller is another example of chiral moiety. A simple case is presented here where the propeller can rotate either clockwise or counterclockwise; corresponding to the "plus" (+) and "minus" (-) convention, respectively.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-5-chiral-molecule-ccf28758'><i class='fa fa-play' aria-hidden='true'></i></button>A molecular propeller is another example of chiral moiety. A simple case is presented here where the propeller can rotate either clockwise or counterclockwise; corresponding to the "plus" (+) and "minus" (-) convention, respectively.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -547,7 +547,7 @@ A molecular propeller is another example of chiral moiety. A simple case is pres
 
 #### Example 6 of Chiral Molecule
 
-A helix can also represent a molecular structure containing chirality. The turn of the helix can be either right or left, in which cases the assignment will be designated either "plus" or "minus".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-6-chiral-molecule-b9b2c298'><i class='fa fa-play' aria-hidden='true'></i></button>A helix can also represent a molecular structure containing chirality. The turn of the helix can be either right or left, in which cases the assignment will be designated either "plus" or "minus".
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/chiral_example6.gif){: loading=lazy }
@@ -556,7 +556,7 @@ A helix can also represent a molecular structure containing chirality. The turn 
 
 ### Cis-Trans Stereochemistry of Double Bonds
 
-The cis/trans nomenclature describes the geometrical relationship between two ligands attached to two atoms that are either connected by a double bond or is part of a ring. The moiety is called 'cis' when the two ligands lie on the same side of the half plane that starts at the bond concerned and 'trans' when they are on opposite sides.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/cis-trans-stereochemistry-double-bonds-3dd6a272'><i class='fa fa-play' aria-hidden='true'></i></button>The cis/trans nomenclature describes the geometrical relationship between two ligands attached to two atoms that are either connected by a double bond or is part of a ring. The moiety is called 'cis' when the two ligands lie on the same side of the half plane that starts at the bond concerned and 'trans' when they are on opposite sides.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -568,7 +568,7 @@ The cis/trans nomenclature describes the geometrical relationship between two li
 
 ### E/Z Stereochemistry of Double Bonds
 
-The cis/trans nomenclature cannot be used when there are 3 or 4 different ligands connected to the double bond. In this case it is necessary to assign the Cahn-Ingold-Prelog priorities and compare the groups of highest priority for each atom. If the two ligands lie on the same side, "Z" (zusammen=together) is assigned; if they are on opposite sides, "E" (entgegen=opposite) is assigned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/ez-stereochemistry-double-bonds-3755ebe1'><i class='fa fa-play' aria-hidden='true'></i></button>The cis/trans nomenclature cannot be used when there are 3 or 4 different ligands connected to the double bond. In this case it is necessary to assign the Cahn-Ingold-Prelog priorities and compare the groups of highest priority for each atom. If the two ligands lie on the same side, "Z" (zusammen=together) is assigned; if they are on opposite sides, "E" (entgegen=opposite) is assigned.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -578,14 +578,14 @@ The cis/trans nomenclature cannot be used when there are 3 or 4 different ligand
 
 ### s-cis/s-trans Conformations
 
-The designation s-cis and s-trans is for a fragment with two conjugated double bonds. "s-cis" is assigned if the two double bonds are on the same side and "s-trans" if the double bonds are on opposite sides.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/s-ciss-trans-conformations-71bc9eb8'><i class='fa fa-play' aria-hidden='true'></i></button>The designation s-cis and s-trans is for a fragment with two conjugated double bonds. "s-cis" is assigned if the two double bonds are on the same side and "s-trans" if the double bonds are on opposite sides.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/snap_v1_b3_3_4.png){: loading=lazy }
 
 ### Re/Si Nomenclature of the Faces of Double Bonds
 
-A double bond has two faces, which could be different. When facing the viewer, each atom of the double bond is assigned "re" (rectus) or "si" (sinister). In the case of a carbonyl, the re/si assignment is given only for the carbon atom of the double bond and based on Cahn-Ingold-Prelog rules; when the two atoms have ligands, a re-re si-si or re-si si-re assignment is then necessary.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/resi-nomenclature-faces-double-bonds-0a5c76f2'><i class='fa fa-play' aria-hidden='true'></i></button>A double bond has two faces, which could be different. When facing the viewer, each atom of the double bond is assigned "re" (rectus) or "si" (sinister). In the case of a carbonyl, the re/si assignment is given only for the carbon atom of the double bond and based on Cahn-Ingold-Prelog rules; when the two atoms have ligands, a re-re si-si or re-si si-re assignment is then necessary.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -597,7 +597,7 @@ A double bond has two faces, which could be different. When facing the viewer, e
 
 ### Rings
 
-A n-membered ring with n-3 double bonds is planar. The most common descriptors of non-planar geometries of rings are chair, boat, twist-boat and crown.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/rings-8ab7539d'><i class='fa fa-play' aria-hidden='true'></i></button>A n-membered ring with n-3 double bonds is planar. The most common descriptors of non-planar geometries of rings are chair, boat, twist-boat and crown.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/ring.gif){: loading=lazy }
@@ -646,28 +646,28 @@ A n-membered ring with n-3 double bonds is planar. The most common descriptors o
     
 #### Chair
 
-The "chair" conformation of cyclohexane corresponds to a geometry where four atoms (1,2,4,5) are in a plane and two atoms (3,6) lie on opposite sides of this plane.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/chair-ea107dab'><i class='fa fa-play' aria-hidden='true'></i></button>The "chair" conformation of cyclohexane corresponds to a geometry where four atoms (1,2,4,5) are in a plane and two atoms (3,6) lie on opposite sides of this plane.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/4_1_2_1.png){: loading=lazy }
 
 #### Boat
 
-The "boat' conformation of cyclohexane corresponds to a geometry where four atoms (1,2,4,5) are in a plane and two atoms (3,6) lie on the same side of this plane.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/boat-9b277cb8'><i class='fa fa-play' aria-hidden='true'></i></button>The "boat' conformation of cyclohexane corresponds to a geometry where four atoms (1,2,4,5) are in a plane and two atoms (3,6) lie on the same side of this plane.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/4_1_3_1.png){: loading=lazy }
 
 #### Twist Boat
 
-The "twist-boat" conformation of cyclohexane corresponds to a slightly distorted boat conformation (atoms 1,2,4,5 are no longer in a plane).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/twist-boat-d389a0cf'><i class='fa fa-play' aria-hidden='true'></i></button>The "twist-boat" conformation of cyclohexane corresponds to a slightly distorted boat conformation (atoms 1,2,4,5 are no longer in a plane).
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/twist_boat.gif){: loading=lazy }
 
 #### Crown
 
-The crown conformation of a ring having an even number of atoms (8 or more) is defined by the regular alternation of the signs of its torsion angles. It is analogous to the chair conformation of cyclohexane.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/crown-a894ca47'><i class='fa fa-play' aria-hidden='true'></i></button>The crown conformation of a ring having an even number of atoms (8 or more) is defined by the regular alternation of the signs of its torsion angles. It is analogous to the chair conformation of cyclohexane.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -675,7 +675,7 @@ The crown conformation of a ring having an even number of atoms (8 or more) is d
 
 ### Rings: Axial and Equatorial Orientations
 
-In a "chair" conformation, the substituents are 'axial' or 'equatorial' depending if their orientation is perpendicular or parallel to the mean plane of the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/rings-axial-equatorial-orientations-bb296863'><i class='fa fa-play' aria-hidden='true'></i></button>In a "chair" conformation, the substituents are 'axial' or 'equatorial' depending if their orientation is perpendicular or parallel to the mean plane of the molecule.
 
 
 === "Axial"
@@ -700,27 +700,27 @@ In a "chair" conformation, the substituents are 'axial' or 'equatorial' dependin
 
 ### Introduction on Symmetry Operations
 
-When treated as rigid objects with fixed structures, molecules contain internal symmetry elements. Symmetry operations are divided into two groups: the first preserves the geometry and includes Rotation (C<sub>n</sub>). The second group reverses the geometry and contains Reflection (&Sigma;), Inversion (i) and Rotatory reflection (S<sub>n</sub>).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/introduction-on-symmetry-operations-66457cf2'><i class='fa fa-play' aria-hidden='true'></i></button>When treated as rigid objects with fixed structures, molecules contain internal symmetry elements. Symmetry operations are divided into two groups: the first preserves the geometry and includes Rotation (C<sub>n</sub>). The second group reverses the geometry and contains Reflection (&Sigma;), Inversion (i) and Rotatory reflection (S<sub>n</sub>).
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/5_1_0_1.png){: loading=lazy }
 ### Symmetry C2
 
-A C<sub>n</sub> symmetry axis exists in a molecule when a rotation of 360<sup>o</sup>/n leads to the same structure. For example, the following molecule has a C<sub>2</sub> symmetry axis, which corresponds to a rotation of 180<sup>o</sup>.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/symmetry-c2-a7c01932'><i class='fa fa-play' aria-hidden='true'></i></button>A C<sub>n</sub> symmetry axis exists in a molecule when a rotation of 360<sup>o</sup>/n leads to the same structure. For example, the following molecule has a C<sub>2</sub> symmetry axis, which corresponds to a rotation of 180<sup>o</sup>.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/symmetry_c2.gif){: loading=lazy }
 
 ### Symmetry C3
 
-The following molecule has a C<sub>3</sub> symmetry axis, which means that the structure remains the same after rotations of 120<sup>o</sup>.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/symmetry-c3-83f9f7b7'><i class='fa fa-play' aria-hidden='true'></i></button>The following molecule has a C<sub>3</sub> symmetry axis, which means that the structure remains the same after rotations of 120<sup>o</sup>.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/symmetry_c3.gif){: loading=lazy }
 
 ### Symmetry Sigma
 
-A molecule has a symmetry plane when all the elements on one side of the plane are the mirror image of the elements of the other side of the plane.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/symmetry-sigma-351e39f0'><i class='fa fa-play' aria-hidden='true'></i></button>A molecule has a symmetry plane when all the elements on one side of the plane are the mirror image of the elements of the other side of the plane.
 
 
 === "Example 1"
@@ -731,24 +731,25 @@ A molecule has a symmetry plane when all the elements on one side of the plane a
 
 ### Inversion (i)
 
-A center of symmetry in a molecule is when all the atoms (x,y,z) can be inverted (-x,-y,-z). The center of symmetry (0,0,0) does not have to be an atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/inversion-i-9ce3e5c7'><i class='fa fa-play' aria-hidden='true'></i></button>A center of symmetry in a molecule is when all the atoms (x,y,z) can be inverted (-x,-y,-z). The center of symmetry (0,0,0) does not have to be an atom.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/inversion.png){: loading=lazy }
 
 #### Example of Inversion
 
-1,2-dibromo-1,2-dichloroethane has a center of symmetry in the middle of the carbon-carbon bond.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/example-inversion-0bcb8ced'><i class='fa fa-play' aria-hidden='true'></i></button>1,2-dibromo-1,2-dichloroethane has a center of symmetry in the middle of the carbon-carbon bond.
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/inversion_ex.png){: loading=lazy }
 
 ### Rotatory Reflection (Sn)
 
-The rotatory reflection symmetry S<sub>n</sub> operation (where n is an even number) corresponds to a rotation of 360<sup>o</sup>/n followed by a reflection plane that is perpendicular to this axis. The following molecule has a S<sub>4</sub> symmetry (90<sup>o</sup>).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='stereochemistry/rotatory-reflection-sn-0413af07'><i class='fa fa-play' aria-hidden='true'></i></button>The rotatory reflection symmetry S<sub>n</sub> operation (where n is an even number) corresponds to a rotation of 360<sup>o</sup>/n followed by a reflection plane that is perpendicular to this axis. The following molecule has a S<sub>4</sub> symmetry (90<sup>o</sup>).
 
 
 ![](https://media.drugdesign.org/course/stereochemistry/reflection.png){: loading=lazy }
 
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

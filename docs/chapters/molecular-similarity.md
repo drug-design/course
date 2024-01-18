@@ -18,7 +18,7 @@
 
 ### Similarity and Complementarity-Based Drug Design
 
-Ligand-based and structure-based drug design are the two major approaches in rational drug design. Ligand-based drug design exploits the likeness between molecules that is expressed in terms of "molecular similarity" whereas structure-based drug design exploits the detailed 3D recognition features between a ligand and its receptor, and the concept used is "molecular complementarity". The molecular similarity concept and its applications are discussed in detail in this chapter.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/similarity-complementarity-based-drug-design-f6eaf655'><i class='fa fa-play' aria-hidden='true'></i></button>Ligand-based and structure-based drug design are the two major approaches in rational drug design. Ligand-based drug design exploits the likeness between molecules that is expressed in terms of "molecular similarity" whereas structure-based drug design exploits the detailed 3D recognition features between a ligand and its receptor, and the concept used is "molecular complementarity". The molecular similarity concept and its applications are discussed in detail in this chapter.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -28,7 +28,7 @@ Ligand-based and structure-based drug design are the two major approaches in rat
 ![](https://media.drugdesign.org/course/molecular-similarity/two_key_concepts.png){: loading=lazy }
 ### Comparing Molecules: a Central Issue in Drug Discovery
 
-Assessing the similarity between molecules is a central issue in drug discovery. The molecular similarity concept has created a broad range of cheminformatics tools that have proven useful in drug design for finding new lead compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/comparing-molecules-central-issue-drug-discovery-c57db1bf'><i class='fa fa-play' aria-hidden='true'></i></button>Assessing the similarity between molecules is a central issue in drug discovery. The molecular similarity concept has created a broad range of cheminformatics tools that have proven useful in drug design for finding new lead compounds.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -36,7 +36,7 @@ Assessing the similarity between molecules is a central issue in drug discovery.
 ![](https://media.drugdesign.org/course/molecular-similarity/central_issue.png){: loading=lazy }
 ### The Molecular Similarity Principle
 
-The "molecular similarity principle", which is also known as the "similar property principle", is the underlying concept of virtually all ligand-based drug design methods. Its underlying assumption states that similar molecules tend to behave similarly, while more dissimilar molecules exhibit more distinct properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/molecular-similarity-principle-f2e2fca8'><i class='fa fa-play' aria-hidden='true'></i></button>The "molecular similarity principle", which is also known as the "similar property principle", is the underlying concept of virtually all ligand-based drug design methods. Its underlying assumption states that similar molecules tend to behave similarly, while more dissimilar molecules exhibit more distinct properties.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -69,28 +69,28 @@ The "molecular similarity principle", which is also known as the "similar proper
 ### Subjectivity of the Similarity Concept
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Similarity is a subjective concept that always requires a definition of the context in which it is used. For example, an eagle and a sparrow are similar in the sense that they are both birds and thus able to fly. With respect to their sizes and weights however, they exhibit major differences. This idea is illustrated in the two similar patterns shown below: when examined in a horizontal orientation, judgments of differences are slow and tedious; this changes completely when traces are viewed with 90<sup>o</sup> clockwise rotation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/subjectivity-similarity-concept-a8fad128'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity is a subjective concept that always requires a definition of the context in which it is used. For example, an eagle and a sparrow are similar in the sense that they are both birds and thus able to fly. With respect to their sizes and weights however, they exhibit major differences. This idea is illustrated in the two similar patterns shown below: when examined in a horizontal orientation, judgments of differences are slow and tedious; this changes completely when traces are viewed with 90<sup>o</sup> clockwise rotation.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/subjectivity.png){: loading=lazy }
 ### What can be Similar in Molecules?
 
-Similarity depends on perspective: the same thing can be seen differently, depending on the context. Examples of differing molecular similarity perceptions induced by different 'filters' are shown in the view below and are discussed in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/what-can-be-similar-molecules-b4b11eba'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity depends on perspective: the same thing can be seen differently, depending on the context. Examples of differing molecular similarity perceptions induced by different 'filters' are shown in the view below and are discussed in the following pages.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/what_similar.gif){: loading=lazy }
 #### 2D-Structure Similarity
 
-Since chemists are very familiar with structural chemical formulas, a straightforward way to compare structures is based on their 2D connectivity i.e. the kinds of atoms which are bonded to each other, in which topology. In the structure below there are four structures which present identical bioactivity, and they possess very similar 2D structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/2d-structure-similarity-b61ea97d'><i class='fa fa-play' aria-hidden='true'></i></button>Since chemists are very familiar with structural chemical formulas, a straightforward way to compare structures is based on their 2D connectivity i.e. the kinds of atoms which are bonded to each other, in which topology. In the structure below there are four structures which present identical bioactivity, and they possess very similar 2D structures.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/2d_sim.png){: loading=lazy }
 #### Shape Similarity
 
-Another way to define similarity between molecules is shape similarity. Molecular shape is an important determinant in the biological activity of a molecule. Below two structures are shown which look very different with respect to their 2D similarity. Still, if they are rendered in three dimensions you can see that their shapes are similar, which accounts for their similar biological profile.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/shape-similarity-74d86924'><i class='fa fa-play' aria-hidden='true'></i></button>Another way to define similarity between molecules is shape similarity. Molecular shape is an important determinant in the biological activity of a molecule. Below two structures are shown which look very different with respect to their 2D similarity. Still, if they are rendered in three dimensions you can see that their shapes are similar, which accounts for their similar biological profile.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -98,20 +98,20 @@ Another way to define similarity between molecules is shape similarity. Molecula
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate.png){: loading=lazy }
 
 === "3D Shape"
-    <div id="nglviewer-container-ss1" class="nglviewer-container" data-molecule-id="shape-similarity" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-shape-similarity' class='nglviewer-container' data-molecule-id='shape-similarity' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "3D"
-    <div id="nglviewer-container-ss2" class="nglviewer-container" data-molecule-id="shape-similarity-3d" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-shape-similarity-3d' class='nglviewer-container' data-molecule-id='shape-similarity-3d' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "3D Superimposition"
-    <div id="nglviewer-container-ss3" class="nglviewer-container" data-molecule-id="shape-similarity-superimposition" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-shape-similarity-superimposition' class='nglviewer-container' data-molecule-id='shape-similarity-superimposition' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
-=== "2d"
+=== "2D"
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate2.png){: loading=lazy }
 
 #### Surface Physicochemical Similarity
 
-Apart from shape, surface property similarity is very important. Properties such as atomic charges, electrostatic potentials, hydrophobicity, polarizability can be represented and compared on the molecular surfaces. Below you can see the surface electrostatic potential of two molecules: a catechol and its structurally quite dissimilar bioisosteric replacement containing a second nitrogen heterocycle instead of the two original hydroxyl groups. Despite the dissimilarity with respect to their 2D representations, both structures show similar electrostatic potential on the surface, which in turn might result in similar bioactivity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/surface-physicochemical-similarity-4ccc4066'><i class='fa fa-play' aria-hidden='true'></i></button>Apart from shape, surface property similarity is very important. Properties such as atomic charges, electrostatic potentials, hydrophobicity, polarizability can be represented and compared on the molecular surfaces. Below you can see the surface electrostatic potential of two molecules: a catechol and its structurally quite dissimilar bioisosteric replacement containing a second nitrogen heterocycle instead of the two original hydroxyl groups. Despite the dissimilarity with respect to their 2D representations, both structures show similar electrostatic potential on the surface, which in turn might result in similar bioactivity.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -137,7 +137,7 @@ Apart from shape, surface property similarity is very important. Properties such
     
 #### H-Bond Similarity
 
-Since the hydrogen bonds are generally essential for the selectivity of a ligand, molecules can be compared in terms of their hydrogen bond pattern similarity. Both methotrexate and dihydrofolate bind to dihydrofolate reductase; by looking at their chemical structures it is reasonable to assume that they bind in an orientation as indicated in '2D alignment'. However, X-ray studies reveal that each molecule binds upside down, relative to the other, which makes sense when looking at their H-bond similarities (see 'H-bond alignment').
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/h-bond-similarity-6710c208'><i class='fa fa-play' aria-hidden='true'></i></button>Since the hydrogen bonds are generally essential for the selectivity of a ligand, molecules can be compared in terms of their hydrogen bond pattern similarity. Both methotrexate and dihydrofolate bind to dihydrofolate reductase; by looking at their chemical structures it is reasonable to assume that they bind in an orientation as indicated in '2D alignment'. However, X-ray studies reveal that each molecule binds upside down, relative to the other, which makes sense when looking at their H-bond similarities (see 'H-bond alignment').
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -159,7 +159,7 @@ Since the hydrogen bonds are generally essential for the selectivity of a ligand
 #### Absence of Particular Features
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Are a turtle and an elephant similar because neither of them do not have wings? While this is partly a philosophical question it needs to be mentioned since there are molecular similarity methods that, in addition to judging similarity based on features that indeed do match, also take features into account which do not match. The molecules shown below are all antidepressants. NK-1145 and LU-3010 do not have the tricyclic moiety normally found in the other structures, so in this context they are similar.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/absence-particular-features-7edd3e0a'><i class='fa fa-play' aria-hidden='true'></i></button>Are a turtle and an elephant similar because neither of them do not have wings? While this is partly a philosophical question it needs to be mentioned since there are molecular similarity methods that, in addition to judging similarity based on features that indeed do match, also take features into account which do not match. The molecules shown below are all antidepressants. NK-1145 and LU-3010 do not have the tricyclic moiety normally found in the other structures, so in this context they are similar.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -176,7 +176,7 @@ Are a turtle and an elephant similar because neither of them do not have wings? 
 #### Pharmacophore Similarity
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-The pharmacophore is the three-dimensional (spatial) arrangement of ligand features responsible for ligand-target interactions. Comparing molecules in terms of their pharmacophore pattern focuses on considering only the essential parts of these molecules. In the example below the pharmacophore consists of a fluoro-phenyl, an amino group and a carboxyl moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/pharmacophore-similarity-00b48d6f'><i class='fa fa-play' aria-hidden='true'></i></button>The pharmacophore is the three-dimensional (spatial) arrangement of ligand features responsible for ligand-target interactions. Comparing molecules in terms of their pharmacophore pattern focuses on considering only the essential parts of these molecules. In the example below the pharmacophore consists of a fluoro-phenyl, an amino group and a carboxyl moiety.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -186,21 +186,20 @@ The pharmacophore is the three-dimensional (spatial) arrangement of ligand featu
 
 === "2D"
     ![](https://media.drugdesign.org/course/molecular-similarity/pharmaco.png){: loading=lazy }
+=== "Superimposition (3D)"
+    <div id='nglviewer-container-pharmacophore-similarity' class='nglviewer-container' data-molecule-id='pharmacophore-similarity' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
-=== "3D Superimposition"
-    <div id="nglviewer-container" class="nglviewer-container" data-molecule-id="pharmacophore-similarity" style="width: 750px; height: 450px;" data-initialized="false"></div>  
-
-=== "Superimposition"
+=== "Superimposition (Gif)"
     ![](https://media.drugdesign.org/course/molecular-similarity/f2412.gif){: loading=lazy }
 ### Comparing Molecular Characteristics
 
-As illustrated, molecules can be compared in a multitude of ways, by taking into account for example connectivity properties, surface properties, shape of structures or putative interaction types in space. The characteristics that can be used to compare molecules are virtually infinite. But which characteristics should then be used to compare molecules in molecular similarity calculations?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/comparing-molecular-characteristics-7cf86776'><i class='fa fa-play' aria-hidden='true'></i></button>As illustrated, molecules can be compared in a multitude of ways, by taking into account for example connectivity properties, surface properties, shape of structures or putative interaction types in space. The characteristics that can be used to compare molecules are virtually infinite. But which characteristics should then be used to compare molecules in molecular similarity calculations?
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/compare_charac.gif){: loading=lazy }
 ### Terminology: Similarity Attributes
 
-The vocabulary used for describing similarities or differences between objects can vary from one group to another. Current terminologies for properties are: characteristics, descriptors, attributes, features; for similarities: matches, resemblance, overlap, proximity; and for dissimilarities: distance, mismatches, differences and diverse.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/terminology-similarity-attributes-8bd71949'><i class='fa fa-play' aria-hidden='true'></i></button>The vocabulary used for describing similarities or differences between objects can vary from one group to another. Current terminologies for properties are: characteristics, descriptors, attributes, features; for similarities: matches, resemblance, overlap, proximity; and for dissimilarities: distance, mismatches, differences and diverse.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -208,7 +207,7 @@ The vocabulary used for describing similarities or differences between objects c
 ![](https://media.drugdesign.org/course/molecular-similarity/therminology.png){: loading=lazy }
 ### Relevant Characteristics: What is Important?
 
-The ideal characteristic used for a comparison should be like an ideal witness in court, who states "the truth, the whole truth, and nothing but the truth". In other words, the characteristic captures all the relevant aspects of the property we are attempting to predict ("the whole truth"), but at the same time does not add noise ("nothing but the truth"). Specific descriptors can be good or bad, depending on the situation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/relevant-characteristics-what-is-important-e808ef36'><i class='fa fa-play' aria-hidden='true'></i></button>The ideal characteristic used for a comparison should be like an ideal witness in court, who states "the truth, the whole truth, and nothing but the truth". In other words, the characteristic captures all the relevant aspects of the property we are attempting to predict ("the whole truth"), but at the same time does not add noise ("nothing but the truth"). Specific descriptors can be good or bad, depending on the situation.
 
 
 === "Relevant property"
@@ -217,7 +216,7 @@ The ideal characteristic used for a comparison should be like an ideal witness i
     ![](https://media.drugdesign.org/course/molecular-similarity/relevant_capture.png){: loading=lazy }
 ### Relativity of Relevant Properties
 
-In molecular similarity calculations the relevant descriptors differ from case to case. In the example below: in terms of lipophilicity the replacement of an oxygen linker (-O-) by a secondary amine (-NH-) does not introduce major changes; however this modification may have radical repercussions if the group is involved in specific hydrogen bond interactions with the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/relativity-relevant-properties-3f5ac4f5'><i class='fa fa-play' aria-hidden='true'></i></button>In molecular similarity calculations the relevant descriptors differ from case to case. In the example below: in terms of lipophilicity the replacement of an oxygen linker (-O-) by a secondary amine (-NH-) does not introduce major changes; however this modification may have radical repercussions if the group is involved in specific hydrogen bond interactions with the receptor.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
@@ -227,42 +226,41 @@ In molecular similarity calculations the relevant descriptors differ from case t
     ![](https://media.drugdesign.org/course/molecular-similarity/relevant_charac1_f2.png){: loading=lazy }
 ### Interpretable Characteristics
 
-It is a good rule of thumb to aim for properties that are interpretable because they provide insights into the exact content of the molecules at hand. However they only capture what chemists are trained to capture. Hard-to-interpret descriptors try to capture alternative aspects of the molecular structure that are elusive to the human mind, but can be related to observable properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/interpretable-characteristics-7f37ab35'><i class='fa fa-play' aria-hidden='true'></i></button>It is a good rule of thumb to aim for properties that are interpretable because they provide insights into the exact content of the molecules at hand. However they only capture what chemists are trained to capture. Hard-to-interpret descriptors try to capture alternative aspects of the molecular structure that are elusive to the human mind, but can be related to observable properties.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/interpretable_charac.png){: loading=lazy }
 ### Global and Local Characteristics
 
-Some molecular characteristics are 'global' and provide a very short description of the molecule, as for example the LogP. Other characteristics can be 'local', describing the properties of some regions, fragments, atoms or even a point in space. Local regions can be compared individually, enabling local similarities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/global-local-characteristics-5071f5b7'><i class='fa fa-play' aria-hidden='true'></i></button>Some molecular characteristics are 'global' and provide a very short description of the molecule, as for example the LogP. Other characteristics can be 'local', describing the properties of some regions, fragments, atoms or even a point in space. Local regions can be compared individually, enabling local similarities.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/local_and_global.png){: loading=lazy }
 ### Maximizing Similarity: Object Alignments
 
-The easiest way to maximize and reveal similarities between objects is to align them in a canonical way, where the objects are defined within the same referential. Molecular alignments are widely used for 1D, 2D, 3D comparisons, and beyond. In bioinformatics for example, sequences of genes or proteins are aligned to identify similarities and differences. In the example below 3D superimpositions are used to  compare the two molecules (buttons '3D Before' and '3D After').
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/maximizing-similarity-object-alignments-c98ceb77'><i class='fa fa-play' aria-hidden='true'></i></button>The easiest way to maximize and reveal similarities between objects is to align them in a canonical way, where the objects are defined within the same referential. Molecular alignments are widely used for 1D, 2D, 3D comparisons, and beyond. In bioinformatics for example, sequences of genes or proteins are aligned to identify similarities and differences. In the example below 3D superimpositions are used to  compare the two molecules (buttons '3D Before' and '3D After').
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 === "1D Sequence"
     ![](https://media.drugdesign.org/course/molecular-similarity/sequence_align.png){: loading=lazy }
-
 === "3D Before"
-    <div id="nglviewer-container-msoa-1" class="nglviewer-container" data-molecule-id="maximizing-similarity-before" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-maximizing-similarity-before' class='nglviewer-container' data-molecule-id='maximizing-similarity-before' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "3D After"
-    <div id="nglviewer-container-msoa-2" class="nglviewer-container" data-molecule-id="maximizing-similarity-after" style="width: 750px; height: 450px;" data-initialized="false"></div>    
+    <div id='nglviewer-container-maximizing-similarity-after' class='nglviewer-container' data-molecule-id='maximizing-similarity-after' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
-=== "3D Before (pic)"
+=== "3D Before (Pic)"
     ![](https://media.drugdesign.org/course/molecular-similarity/superim_before_600.png){: loading=lazy }
 
-=== "3D After (pic)"
+=== "3D After (Pic)"
     ![](https://media.drugdesign.org/course/molecular-similarity/superim_600.png){: loading=lazy }
 
 ### The Psychology of Similarity
 *[holo]: 3D structure of a macromolecule with a bound ligand
 
-Similarity is not a concept that is only present in computational drug design. Rather it has enormous influence on our everyday lives, for example identifying friends and relatives: while they may be wearing new clothes or have taken off their glasses, we are still able to recognize them. While this seems trivial, it is not that trivial to computers where every assumption has to be made explicit. For example, in the figure below you are easily able to identify a tree and distinguish it from other objects. But how would you write a computer algorithm to do that?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/psychology-similarity-ecd091a2'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity is not a concept that is only present in computational drug design. Rather it has enormous influence on our everyday lives, for example identifying friends and relatives: while they may be wearing new clothes or have taken off their glasses, we are still able to recognize them. While this seems trivial, it is not that trivial to computers where every assumption has to be made explicit. For example, in the figure below you are easily able to identify a tree and distinguish it from other objects. But how would you write a computer algorithm to do that?
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -277,7 +275,7 @@ Similarity is not a concept that is only present in computational drug design. R
     
 ### Molecular Similarity in Medicinal Chemistry Era
 
-The concept of "molecular similarity" has been implicitly employed for many years by medicinal chemists. This will be presented in the next section with examples such as chemical modification, bioisosteric replacement, molecular mimicry, me-too drugs, peptidomimetics, lead-like and drug-like molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/molecular-similarity-medicinal-chemistry-era-e9f5e937'><i class='fa fa-play' aria-hidden='true'></i></button>The concept of "molecular similarity" has been implicitly employed for many years by medicinal chemists. This will be presented in the next section with examples such as chemical modification, bioisosteric replacement, molecular mimicry, me-too drugs, peptidomimetics, lead-like and drug-like molecules.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
@@ -287,7 +285,7 @@ The concept of "molecular similarity" has been implicitly employed for many year
 ![](https://media.drugdesign.org/course/molecular-similarity/sim_medchem.png){: loading=lazy }
 ### Cheminformatics
 
-With the advent of computers, the definition of "molecular similarity" became more explicit, and two major approaches have emerged. The first is involved in similarity searching as the database implementation of the similarity concept. The second deals with the development of models for predicting molecular properties. Each of these approaches will be discussed in detail in the present chapter.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/cheminformatics-99a7cc0b'><i class='fa fa-play' aria-hidden='true'></i></button>With the advent of computers, the definition of "molecular similarity" became more explicit, and two major approaches have emerged. The first is involved in similarity searching as the database implementation of the similarity concept. The second deals with the development of models for predicting molecular properties. Each of these approaches will be discussed in detail in the present chapter.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -296,7 +294,7 @@ With the advent of computers, the definition of "molecular similarity" became mo
 
 ### Chemical Modifications
 
-The systematic chemical modification of a lead structure by making analogs without changing the chemical scaffold of the reference compound is a widely used approach in medicinal chemistry. It is guided by the molecular similarity principle and aims at finding a better compound with improved properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/chemical-modifications-35eca306'><i class='fa fa-play' aria-hidden='true'></i></button>The systematic chemical modification of a lead structure by making analogs without changing the chemical scaffold of the reference compound is a widely used approach in medicinal chemistry. It is guided by the molecular similarity principle and aims at finding a better compound with improved properties.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -306,7 +304,7 @@ The systematic chemical modification of a lead structure by making analogs witho
 ### Bioisosteric Replacements
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Bioisosteric replacement means the replacement of undesired functional groups with functionally similar, but structurally different "bioisosteres". Functional groups may be undesired for a multitude of reasons, including metabolic instability. In the example below two acidic groups were replaced by equivalent bioisosteres.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/bioisosteric-replacements-e51c9034'><i class='fa fa-play' aria-hidden='true'></i></button>Bioisosteric replacement means the replacement of undesired functional groups with functionally similar, but structurally different "bioisosteres". Functional groups may be undesired for a multitude of reasons, including metabolic instability. In the example below two acidic groups were replaced by equivalent bioisosteres.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -322,7 +320,7 @@ Bioisosteric replacement means the replacement of undesired functional groups wi
     
 ### Molecular Mimicry
 
-The analysis of the similarities and dissimilarities between active and inactive molecules gives a "feeling" of how structural variations can change biological properties and helps recognize the structural elements that are important for biological activities. Molecular mimicry consists of introducing these elements in an entirely new molecule, which is chemically unrelated to the structure of the known reference compounds (at least in part).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/molecular-mimicry-3ca387fb'><i class='fa fa-play' aria-hidden='true'></i></button>The analysis of the similarities and dissimilarities between active and inactive molecules gives a "feeling" of how structural variations can change biological properties and helps recognize the structural elements that are important for biological activities. Molecular mimicry consists of introducing these elements in an entirely new molecule, which is chemically unrelated to the structure of the known reference compounds (at least in part).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -354,7 +352,7 @@ The analysis of the similarities and dissimilarities between active and inactive
 ### Mee-too-ism
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-It is common practice in the pharmaceutical industry to take an existing drug or a drug under development and introduce a small change in its chemistry. Such copycat drugs are usually called me-too drugs in industry jargon, and their development is considered to be motivated by purely commercial considerations. Notwithstanding such perceptions, historically, many "me-too" drugs have proved to be considerably better than their original counterparts. Here also molecular similarity is the driving principle aimed at keeping most of the structure of the original drug intact, while looking for a small structural difference that will provide an important new advantage.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/mee-too-ism-a69c15ef'><i class='fa fa-play' aria-hidden='true'></i></button>It is common practice in the pharmaceutical industry to take an existing drug or a drug under development and introduce a small change in its chemistry. Such copycat drugs are usually called me-too drugs in industry jargon, and their development is considered to be motivated by purely commercial considerations. Notwithstanding such perceptions, historically, many "me-too" drugs have proved to be considerably better than their original counterparts. Here also molecular similarity is the driving principle aimed at keeping most of the structure of the original drug intact, while looking for a small structural difference that will provide an important new advantage.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -370,7 +368,7 @@ It is common practice in the pharmaceutical industry to take an existing drug or
 ### Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
-Peptidomimetics are compounds that are peptide mimetics. They have non-peptide structure in part or in full, they are structural mimics of the reference peptides and retain their pharmacological activities. As presented and illustrated in the several chapters devoted to peptidomimicry in this courseware, the design of such compounds is guided by an intelligent exploitation of molecular similarity principles. Below is shown an example of peptidomimetics.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/peptidomimetics-4c42a0bf'><i class='fa fa-play' aria-hidden='true'></i></button>Peptidomimetics are compounds that are peptide mimetics. They have non-peptide structure in part or in full, they are structural mimics of the reference peptides and retain their pharmacological activities. As presented and illustrated in the several chapters devoted to peptidomimicry in this courseware, the design of such compounds is guided by an intelligent exploitation of molecular similarity principles. Below is shown an example of peptidomimetics.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
@@ -385,7 +383,7 @@ Peptidomimetics are compounds that are peptide mimetics. They have non-peptide s
     
 ### Lead-Like and Drug-Like Approaches
 
-Chemists can now build and measure the 'lead-like' or 'drug-like' properties of molecules (concepts presented in another chapter). These provide useful structure-property relationships that complement current structure-activity information. These properties derive directly from molecular similarity structural analyses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/lead-like-drug-like-approaches-22827fd4'><i class='fa fa-play' aria-hidden='true'></i></button>Chemists can now build and measure the 'lead-like' or 'drug-like' properties of molecules (concepts presented in another chapter). These provide useful structure-property relationships that complement current structure-activity information. These properties derive directly from molecular similarity structural analyses.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -406,7 +404,7 @@ Chemists can now build and measure the 'lead-like' or 'drug-like' properties of 
 
 ### Exact and Substructure Searching
 
-Until the mid 1980s database searching was limited to exact and substructure search, i.e. the identification of all the molecules in the database that contain a specified substructure. Substructure searching is based on sub-graph algorithms that are computationally lengthy.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/exact-substructure-searching-c5c81020'><i class='fa fa-play' aria-hidden='true'></i></button>Until the mid 1980s database searching was limited to exact and substructure search, i.e. the identification of all the molecules in the database that contain a specified substructure. Substructure searching is based on sub-graph algorithms that are computationally lengthy.
 
 
 === "Exact Search"
@@ -415,13 +413,13 @@ Until the mid 1980s database searching was limited to exact and substructure sea
     ![](https://media.drugdesign.org/course/molecular-similarity/sim_chemoinf_f2.png){: loading=lazy }
 ### Similarity Searching
 
-The implementation of similarity principles in database searching was first introduced in the late 1980s. While substructural searching attempts exact retrieval of a certain substructure, in similarity searching, compounds (or parts of compounds) with different substructures but similar physico-chemical properties are identified.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/similarity-searching-e1455086'><i class='fa fa-play' aria-hidden='true'></i></button>The implementation of similarity principles in database searching was first introduced in the late 1980s. While substructural searching attempts exact retrieval of a certain substructure, in similarity searching, compounds (or parts of compounds) with different substructures but similar physico-chemical properties are identified.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/advantage.png){: loading=lazy }
 ### Semi-Manual Similarity Searching
 
-Note that the medicinal chemist did not wait for advanced computerized programs to start searching for similar molecules to a reference compound with different sub-structural patterns. For example, starting from a reference compound, the chemist imagined several possible chemical modifications he explored and analyzed by traditional substructural searching. This is a cumbersome and sometimes discouraging process (low hit rate). Moreover, the approach is biased by the chemist's imagination and is far from being systematic.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/semi-manual-similarity-searching-8019a235'><i class='fa fa-play' aria-hidden='true'></i></button>Note that the medicinal chemist did not wait for advanced computerized programs to start searching for similar molecules to a reference compound with different sub-structural patterns. For example, starting from a reference compound, the chemist imagined several possible chemical modifications he explored and analyzed by traditional substructural searching. This is a cumbersome and sometimes discouraging process (low hit rate). Moreover, the approach is biased by the chemist's imagination and is far from being systematic.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -429,14 +427,14 @@ Note that the medicinal chemist did not wait for advanced computerized programs 
 ### Similarity Concept and Creativity
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Since similarity searching is a fuzzy concept, the medicinal chemist does not know exactly what he is looking for. This in fact enables the chemist to extend and control creativity by focusing on new ideas and concepts.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/similarity-concept-creativity-e8596380'><i class='fa fa-play' aria-hidden='true'></i></button>Since similarity searching is a fuzzy concept, the medicinal chemist does not know exactly what he is looking for. This in fact enables the chemist to extend and control creativity by focusing on new ideas and concepts.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/advantage2.png){: loading=lazy }
 ### Output of Similarity Searching
 
-One of the big advantages of similarity searching is that the results are well structured, with scoring indicating the degree of similarity with the reference molecule. This makes it possible to analyze the results by order of importance. This is different from traditional substructure searches whose outputs were chaotic, consisting of the accumulation of results obtained from different sessions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/output-similarity-searching-347065c5'><i class='fa fa-play' aria-hidden='true'></i></button>One of the big advantages of similarity searching is that the results are well structured, with scoring indicating the degree of similarity with the reference molecule. This makes it possible to analyze the results by order of importance. This is different from traditional substructure searches whose outputs were chaotic, consisting of the accumulation of results obtained from different sessions.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -444,14 +442,14 @@ One of the big advantages of similarity searching is that the results are well s
 ![](https://media.drugdesign.org/course/molecular-similarity/output_sim.png){: loading=lazy }
 ### Broad Range of Applications
 
-Because of its simplicity of use and a computational speed that can routinely compare millions of compounds in minutes, database similarity searching is widely used in a great number of applications. Some of these applications are listed below and will be presented later in more detail.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/broad-range-applications-391bd8e8'><i class='fa fa-play' aria-hidden='true'></i></button>Because of its simplicity of use and a computational speed that can routinely compare millions of compounds in minutes, database similarity searching is widely used in a great number of applications. Some of these applications are listed below and will be presented later in more detail.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/application.png){: loading=lazy }
 ### Substructure &#38; Similarity Searching Complementarities
 
-The emergence of similarity searching programs has not superseded substructure-searching techniques by making them obsolete; on the contrary the two techniques are complementary. For example substructural searching can be used to eliminate toxic compounds containing well defined toxicophores, whereas similarity searching is the best choice to find a more soluble scaffold. Another aspect of this complementarity is illustrated here, where the speed of the initial computer intensive substructure search algorithm was substantially improved by using a pre-filtering procedure, based on similarity searching.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/substructure-similarity-searching-complementarities-dc46331d'><i class='fa fa-play' aria-hidden='true'></i></button>The emergence of similarity searching programs has not superseded substructure-searching techniques by making them obsolete; on the contrary the two techniques are complementary. For example substructural searching can be used to eliminate toxic compounds containing well defined toxicophores, whereas similarity searching is the best choice to find a more soluble scaffold. Another aspect of this complementarity is illustrated here, where the speed of the initial computer intensive substructure search algorithm was substantially improved by using a pre-filtering procedure, based on similarity searching.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[toxicophore]: A toxicophore is a structural fragment known to be related to some biological toxicity
@@ -461,14 +459,14 @@ The emergence of similarity searching programs has not superseded substructure-s
 ![](https://media.drugdesign.org/course/molecular-similarity/substructure_search.png){: loading=lazy }
 ### General Requirements of a Method
 
-Three steps are required for the development of a similarity searching computerized method: first, structures and properties have to be represented in a computer-understandable format. Second, a similarity (or dissimilarity) measure between those representations is required to obtain a numerical similarity value. And finally, a defined algorithm needs to be implemented to perform the desired task.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/general-requirements-method-4258782c'><i class='fa fa-play' aria-hidden='true'></i></button>Three steps are required for the development of a similarity searching computerized method: first, structures and properties have to be represented in a computer-understandable format. Second, a similarity (or dissimilarity) measure between those representations is required to obtain a numerical similarity value. And finally, a defined algorithm needs to be implemented to perform the desired task.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/general_requirement.png){: loading=lazy }
 #### Make Molecules Accessible to the Computer
 
-Computers are binary machines: the only digits they have are ones and zeros. In order to compare molecules, it is necessary to encode their structures and properties in a suitable representation. A molecular structure can be represented in the computer in its connectivity-table format, where atoms are represented as nodes of a graph and bonds as edges of it: this representation resembles what chemists draw as "chemical structures". Another representation is based on molecular descriptors. This representation is better suited to similarity searching because both the structures and the properties of the molecules can be described. Molecular descriptor methods will be presented in the next section.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/make-molecules-accessible-to-computer-3217799e'><i class='fa fa-play' aria-hidden='true'></i></button>Computers are binary machines: the only digits they have are ones and zeros. In order to compare molecules, it is necessary to encode their structures and properties in a suitable representation. A molecular structure can be represented in the computer in its connectivity-table format, where atoms are represented as nodes of a graph and bonds as edges of it: this representation resembles what chemists draw as "chemical structures". Another representation is based on molecular descriptors. This representation is better suited to similarity searching because both the structures and the properties of the molecules can be described. Molecular descriptor methods will be presented in the next section.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[molecular descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
@@ -478,7 +476,7 @@ Computers are binary machines: the only digits they have are ones and zeros. In 
 #### Need of Methods to Measure Similarity
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-If a computer-interpretable representation for a compound has been encoded, the "position" of the compound, or its coordinates , in "chemical space" are defined. In order to compare compounds, the "distance" between them has to be defined to obtain a numerical similarity value. Whatever the particular type of similarity measure (sometimes called 'distance'), its most important property is that the similarity it assigns to two structures must be related to the similarity of the properties of the molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/need-methods-to-measure-similarity-00f21d84'><i class='fa fa-play' aria-hidden='true'></i></button>If a computer-interpretable representation for a compound has been encoded, the "position" of the compound, or its coordinates , in "chemical space" are defined. In order to compare compounds, the "distance" between them has to be defined to obtain a numerical similarity value. Whatever the particular type of similarity measure (sometimes called 'distance'), its most important property is that the similarity it assigns to two structures must be related to the similarity of the properties of the molecules.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -486,7 +484,7 @@ If a computer-interpretable representation for a compound has been encoded, the 
 ![](https://media.drugdesign.org/course/molecular-similarity/need_of_method.png){: loading=lazy }
 #### Apply an Algorithm
 
-While the representation of structures as well as a measure of similarity is required by all molecular similarity computer-based methods, algorithms are needed to carry out the desired task. For example, one might wish to select a set of diverse compounds from a library. The algorithm will be directed to maximize the distances between the molecules selected.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/apply-an-algorithm-9fb35e4a'><i class='fa fa-play' aria-hidden='true'></i></button>While the representation of structures as well as a measure of similarity is required by all molecular similarity computer-based methods, algorithms are needed to carry out the desired task. For example, one might wish to select a set of diverse compounds from a library. The algorithm will be directed to maximize the distances between the molecules selected.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -501,7 +499,7 @@ While the representation of structures as well as a measure of similarity is req
 *[Molecular Descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[Molecular Descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 
-Molecular descriptors consist of numbers that capture the properties and the structures of molecules. They then serve to characterize molecules and compare them by searching through large libraries with respect to physico-chemical, structural and biological properties. Molecular descriptors provide an abstract representation of molecular structures in "descriptor space". This means that structural molecular features are analyzed by an algorithm, and, while trying to capture information relevant to the problem, are translated into a structural format that can be further analyzed by the computer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/concept-molecular-descriptors-5db4254a'><i class='fa fa-play' aria-hidden='true'></i></button>Molecular descriptors consist of numbers that capture the properties and the structures of molecules. They then serve to characterize molecules and compare them by searching through large libraries with respect to physico-chemical, structural and biological properties. Molecular descriptors provide an abstract representation of molecular structures in "descriptor space". This means that structural molecular features are analyzed by an algorithm, and, while trying to capture information relevant to the problem, are translated into a structural format that can be further analyzed by the computer.
 *[Molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[Molecular descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 
@@ -509,7 +507,7 @@ Molecular descriptors consist of numbers that capture the properties and the str
 ![](https://media.drugdesign.org/course/molecular-similarity/mol_descripor.png){: loading=lazy }
 ### Selection of Relevant Descriptors
 
-As already mentioned, it is crucial to identify properties that are relevant to the problem at hand. Molecular descriptors that capture these properties are called relevant descriptors. The "molecular similarity principle" is applicable only with relevant descriptors. In the figure below, A and B are bad descriptors, whereas  X and Y are relevant ones.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/selection-relevant-descriptors-0797f8db'><i class='fa fa-play' aria-hidden='true'></i></button>As already mentioned, it is crucial to identify properties that are relevant to the problem at hand. Molecular descriptors that capture these properties are called relevant descriptors. The "molecular similarity principle" is applicable only with relevant descriptors. In the figure below, A and B are bad descriptors, whereas  X and Y are relevant ones.
 *[Molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[Molecular descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 
@@ -519,7 +517,7 @@ As already mentioned, it is crucial to identify properties that are relevant to 
 *[Molecular Descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[Molecular Descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 
-In general many properties must be taken into account to improve the signal-to-noise ratio and several descriptors might be necessary to capture a single property. The "chemical space" will be characterized by a high degree of dimensionality.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/high-dimensionality-space-molecular-descriptors-13ee726c'><i class='fa fa-play' aria-hidden='true'></i></button>In general many properties must be taken into account to improve the signal-to-noise ratio and several descriptors might be necessary to capture a single property. The "chemical space" will be characterized by a high degree of dimensionality.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -539,7 +537,7 @@ In general many properties must be taken into account to improve the signal-to-n
     
 ### Example of Selection of Relevant Descriptors
 
-The example below deals with face recognition. The most straightforward way to recognize people is  to compare individual pixels of the picture to each other.  This procedure would however quickly run into problems if the face  moved slightly while the picture was being taken or a change in lighting made the picture slightly lighter or darker. Thus, a computer selected characteristic feature from the faces below and the distances between them do not depend on the precise orientation of the face, and they are also insensitive to changes in illumination. They are relevant descriptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/example-selection-relevant-descriptors-d74db542'><i class='fa fa-play' aria-hidden='true'></i></button>The example below deals with face recognition. The most straightforward way to recognize people is  to compare individual pixels of the picture to each other.  This procedure would however quickly run into problems if the face  moved slightly while the picture was being taken or a change in lighting made the picture slightly lighter or darker. Thus, a computer selected characteristic feature from the faces below and the distances between them do not depend on the precise orientation of the face, and they are also insensitive to changes in illumination. They are relevant descriptors.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[pixels]: Surface element representing a value on a regular grid in 2D space.
@@ -561,7 +559,7 @@ The example below deals with face recognition. The most straightforward way to r
     
 ### Binary and Numerical Descriptors
 
-Descriptors can be either binary or numerical. Binary descriptors or "fingerprints", are binary bit string representations of on/off (1/0) values, each indicating the presence or absence of certain structural features in the molecule. Each bit of the fingerprint represents a descriptor, and builds a descriptor vector. Storing information in a binary presence/absence format is a computationally very efficient way to handle data. Numerical descriptors encode global or local properties of the molecule considered.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/binary-numerical-descriptors-02ebff92'><i class='fa fa-play' aria-hidden='true'></i></button>Descriptors can be either binary or numerical. Binary descriptors or "fingerprints", are binary bit string representations of on/off (1/0) values, each indicating the presence or absence of certain structural features in the molecule. Each bit of the fingerprint represents a descriptor, and builds a descriptor vector. Storing information in a binary presence/absence format is a computationally very efficient way to handle data. Numerical descriptors encode global or local properties of the molecule considered.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -570,7 +568,7 @@ Descriptors can be either binary or numerical. Binary descriptors or "fingerprin
 *[Molecular Descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[Molecular Descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 
-Molecular descriptors, of which several thousand exist, can either be derived from the structure of the compound on the basis of an algorithm or they can be based on experimental data. Since experimental data are much harder to obtain than algorithms that can be applied on a structure, most descriptors are algorithmically defined.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/experimental-calculated-molecular-descriptors-07db28f9'><i class='fa fa-play' aria-hidden='true'></i></button>Molecular descriptors, of which several thousand exist, can either be derived from the structure of the compound on the basis of an algorithm or they can be based on experimental data. Since experimental data are much harder to obtain than algorithms that can be applied on a structure, most descriptors are algorithmically defined.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[Molecular descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
@@ -579,7 +577,7 @@ Molecular descriptors, of which several thousand exist, can either be derived fr
 ![](https://media.drugdesign.org/course/molecular-similarity/experi_calc_desc.png){: loading=lazy }
 ### Predefined vs. Algorithmically Defined Descriptors
 
-Calculated molecular descriptors are either pre-defined or generated on the fly. This is illustrated in the figure below. One well-known class of descriptors, MDL keys, encode 166 pre-defined molecular fragments, some of which are shown below. Unity fingerprints on the other hand determine the type of atoms present between a certain number of bonds and encode whatever type of atoms are present. While MDL keys were designed to show discriminatory power between classes of compounds (and were also  further optimized for this purpose), algorithmically defined descriptors are in some cases able to capture more relevant information and encode whatever structural information is given.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/predefined-vs-algorithmically-defined-descriptors-d74a73c1'><i class='fa fa-play' aria-hidden='true'></i></button>Calculated molecular descriptors are either pre-defined or generated on the fly. This is illustrated in the figure below. One well-known class of descriptors, MDL keys, encode 166 pre-defined molecular fragments, some of which are shown below. Unity fingerprints on the other hand determine the type of atoms present between a certain number of bonds and encode whatever type of atoms are present. While MDL keys were designed to show discriminatory power between classes of compounds (and were also  further optimized for this purpose), algorithmically defined descriptors are in some cases able to capture more relevant information and encode whatever structural information is given.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 *[molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
@@ -619,7 +617,7 @@ Calculated molecular descriptors are either pre-defined or generated on the fly.
 *[Molecular Descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[Molecular Descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 
-Descriptors are often defined as one-dimensional, two-dimensional and three-dimensional descriptors. This corresponds broadly to descriptors that describe the molecule by a single value (1D) such as molecular weight, or topological indices, descriptors which employ fragments derived from the connectivity table (2D), and descriptors which capture the three-dimensional nature of the molecule (3D). All descriptors can be divided into further subtypes, but the general (although not unambiguous) classification is shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/possible-classification-molecular-descriptors-ac327fb6'><i class='fa fa-play' aria-hidden='true'></i></button>Descriptors are often defined as one-dimensional, two-dimensional and three-dimensional descriptors. This corresponds broadly to descriptors that describe the molecule by a single value (1D) such as molecular weight, or topological indices, descriptors which employ fragments derived from the connectivity table (2D), and descriptors which capture the three-dimensional nature of the molecule (3D). All descriptors can be divided into further subtypes, but the general (although not unambiguous) classification is shown below.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -631,7 +629,7 @@ Descriptors are often defined as one-dimensional, two-dimensional and three-dime
 ### 1D Descriptors: Single Numbers or Sequences
 *[nce]: New Chemical Entity: a compound not previously described.
 
-One-dimensional descriptors can be of two different kinds: They can either present the molecule as a single number, for example its molecular weight or its lipophilicity (logP). While this is a very short description of a molecule, it often captures a surprising degree of information relevant for classification such as for example absorption (where molecular weight is a major determinant) or narcotic effect (where lipophilicity is a major determinant of non selectively interrupting cell membranes). One-dimensional molecular representations can also be similar to the sequence of Proteins or DNA, but they are difficult to construct for 'small molecules'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/1d-descriptors-single-numbers-or-sequences-dfdebc38'><i class='fa fa-play' aria-hidden='true'></i></button>One-dimensional descriptors can be of two different kinds: They can either present the molecule as a single number, for example its molecular weight or its lipophilicity (logP). While this is a very short description of a molecule, it often captures a surprising degree of information relevant for classification such as for example absorption (where molecular weight is a major determinant) or narcotic effect (where lipophilicity is a major determinant of non selectively interrupting cell membranes). One-dimensional molecular representations can also be similar to the sequence of Proteins or DNA, but they are difficult to construct for 'small molecules'.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -646,7 +644,7 @@ One-dimensional descriptors can be of two different kinds: They can either prese
     
 #### Topological Indices
 
-Topological indices are derived from the connectivity table of a molecule and represent information about the topology of the structure, again captured in a single number (the "topological index"). First generation indices such as the Wiener Index are derived from integer values of the connectivity table and are themselves integers. Second generation indices are derived from integer properties but are real-valued numbers while third generation indices employ real-valued numbers for their generation and are also real-valued numbers themselves. Examples are given below. Topological indices have been widely used in QSAR studies, but their interpretation and discriminatory power remains difficult.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/topological-indices-c3b8b0a9'><i class='fa fa-play' aria-hidden='true'></i></button>Topological indices are derived from the connectivity table of a molecule and represent information about the topology of the structure, again captured in a single number (the "topological index"). First generation indices such as the Wiener Index are derived from integer values of the connectivity table and are themselves integers. Second generation indices are derived from integer properties but are real-valued numbers while third generation indices employ real-valued numbers for their generation and are also real-valued numbers themselves. Examples are given below. Topological indices have been widely used in QSAR studies, but their interpretation and discriminatory power remains difficult.
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -673,7 +671,7 @@ Topological indices are derived from the connectivity table of a molecule and re
     
 #### Electrotopological Descriptors
 
-Topological indices have also been extended to describe the electronic environment of atoms in molecules. These descriptors, often known as "Kier/Hall descriptors", have proven their value in a series of applications the earliest of which was their application to the prediction of boiling points. They include both information about the electronic state of each individual atom as well as information about its environment, both of which define its characteristic properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/electrotopological-descriptors-64c4664b'><i class='fa fa-play' aria-hidden='true'></i></button>Topological indices have also been extended to describe the electronic environment of atoms in molecules. These descriptors, often known as "Kier/Hall descriptors", have proven their value in a series of applications the earliest of which was their application to the prediction of boiling points. They include both information about the electronic state of each individual atom as well as information about its environment, both of which define its characteristic properties.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -692,7 +690,7 @@ Topological indices have also been extended to describe the electronic environme
     
 #### Linear Representations of Molecules
 
-While DNA and proteins have "natural" one-dimensional representations due to their linear nature, this is not true for "small molecules", which may be and usually are branched and possess cyclic moieties. Nonetheless a method has been devised to represent molecules in a single dimension: this is illustrated below. Molecules are compared by aligning their one-dimensional representations and calculating the overlap of both representations as a similarity measure. Note that while in the example below the method seems to be straightforward, in practice ring systems often introduce complexity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/linear-representations-molecules-66de35c9'><i class='fa fa-play' aria-hidden='true'></i></button>While DNA and proteins have "natural" one-dimensional representations due to their linear nature, this is not true for "small molecules", which may be and usually are branched and possess cyclic moieties. Nonetheless a method has been devised to represent molecules in a single dimension: this is illustrated below. Molecules are compared by aligning their one-dimensional representations and calculating the overlap of both representations as a similarity measure. Note that while in the example below the method seems to be straightforward, in practice ring systems often introduce complexity.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -707,13 +705,13 @@ While DNA and proteins have "natural" one-dimensional representations due to the
     
 ### 2D Descriptors: Fragments and Substructures
 
-Substructural descriptors "fragment" the molecule into smaller entities and determine whether the resulting fragments match a pre-defined dictionary. They have the advantage of being easy to interpret.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/2d-descriptors-fragments-substructures-fb6e53d9'><i class='fa fa-play' aria-hidden='true'></i></button>Substructural descriptors "fragment" the molecule into smaller entities and determine whether the resulting fragments match a pre-defined dictionary. They have the advantage of being easy to interpret.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/2d_desc.png){: loading=lazy }
 #### Spectra-Derived Descriptors
 
-An additional method that does not calculate descriptors from the small molecule directly but uses "natural phenomena" for this purpose is employed by the class of spectra-derived descriptors. Based on either experimental or calculated spectra (which may be IR spectra or others), spectra are encoded, for example by analyzing their zero crossings. One of the methods in this category is the EVA descriptor, which is based on the vibrational absorption spectrum.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/spectra-derived-descriptors-37a55eea'><i class='fa fa-play' aria-hidden='true'></i></button>An additional method that does not calculate descriptors from the small molecule directly but uses "natural phenomena" for this purpose is employed by the class of spectra-derived descriptors. Based on either experimental or calculated spectra (which may be IR spectra or others), spectra are encoded, for example by analyzing their zero crossings. One of the methods in this category is the EVA descriptor, which is based on the vibrational absorption spectrum.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/spectra_desc.png){: loading=lazy }
@@ -728,7 +726,7 @@ An additional method that does not calculate descriptors from the small molecule
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[Pharmacophores]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-The distance between atoms with putative interaction types can either be defined in space (as in the previous example) or it can be defined as a topological distance (i.e. by counting the number of bonds along the shortest path between two atoms). One example of this descriptor is the CATS descriptor, which employs five interaction types: lipophilic atoms, hydrogen bond donors and acceptors, and positively and negatively charged centers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/graph-based-multiple-point-pharmacophores-7d27e01b'><i class='fa fa-play' aria-hidden='true'></i></button>The distance between atoms with putative interaction types can either be defined in space (as in the previous example) or it can be defined as a topological distance (i.e. by counting the number of bonds along the shortest path between two atoms). One example of this descriptor is the CATS descriptor, which employs five interaction types: lipophilic atoms, hydrogen bond donors and acceptors, and positively and negatively charged centers.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -744,14 +742,14 @@ The distance between atoms with putative interaction types can either be defined
 #### Reduced Graph and Feature Trees
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Reduced graph and feature tree representations of molecules are similar in that they represent the molecule as a graph of edges and nodes, where nodes represent atoms (or groups of atoms) and edges represent bonds (or connections between groups of atoms). Feature trees compare two molecules by partial matching of their graph representations and the nodes include additional information about the atoms such as volume and electronic information.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/reduced-graph-feature-trees-1c2e819d'><i class='fa fa-play' aria-hidden='true'></i></button>Reduced graph and feature tree representations of molecules are similar in that they represent the molecule as a graph of edges and nodes, where nodes represent atoms (or groups of atoms) and edges represent bonds (or connections between groups of atoms). Feature trees compare two molecules by partial matching of their graph representations and the nodes include additional information about the atoms such as volume and electronic information.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/reduced_graph_desc.png){: loading=lazy }
 #### Ghose and Crippen Descriptors
 
-A particular fragment definition that has gained widespread acceptance in computer-aided drug design studies was defined by Ghose and Crippen in the late 80s. By defining a set of 110 molecular features they were able to build reliable models; initially for the prediction of the octanol/water partition coefficients, but more recently this feature set has also been used for the prediction of a wide variety of molecular properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/ghose-crippen-descriptors-efc5ef76'><i class='fa fa-play' aria-hidden='true'></i></button>A particular fragment definition that has gained widespread acceptance in computer-aided drug design studies was defined by Ghose and Crippen in the late 80s. By defining a set of 110 molecular features they were able to build reliable models; initially for the prediction of the octanol/water partition coefficients, but more recently this feature set has also been used for the prediction of a wide variety of molecular properties.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -771,7 +769,7 @@ A particular fragment definition that has gained widespread acceptance in comput
     
 ### 3D Descriptors
 
-Three-dimensional descriptors attempt to capture the 3D properties of the molecules to be compared, along with their relevant properties. A major difference between 3D descriptors and those of the 1D and 2D types, is that the three-dimensional properties are dependent on the particular conformation of the molecule. Thus, one can either use a low-energy structure of the molecule to calculate its three-dimensional descriptors, or run conformational sampling to explore the conformationally accessible space of the structure. While the second route introduces more information into the descriptor, it should be noted that at the same time it also introduces more noise, which does not necessarily improve the signal-to-noise ratio of the descriptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/3d-descriptors-318aa38e'><i class='fa fa-play' aria-hidden='true'></i></button>Three-dimensional descriptors attempt to capture the 3D properties of the molecules to be compared, along with their relevant properties. A major difference between 3D descriptors and those of the 1D and 2D types, is that the three-dimensional properties are dependent on the particular conformation of the molecule. Thus, one can either use a low-energy structure of the molecule to calculate its three-dimensional descriptors, or run conformational sampling to explore the conformationally accessible space of the structure. While the second route introduces more information into the descriptor, it should be noted that at the same time it also introduces more noise, which does not necessarily improve the signal-to-noise ratio of the descriptor.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -781,7 +779,7 @@ Three-dimensional descriptors attempt to capture the 3D properties of the molecu
 
 #### Field-Based Descriptors
 
-Field-based descriptors employ molecular properties calculated in space (usually on a regular grid) to represent the molecule. The best known approach is probably Comparative Molecular Field Analysis (CoMFA), which calculates steric and electrostatic properties of molecules to define both shape and surface properties which are both important for ligand-target interactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/field-based-descriptors-1da52715'><i class='fa fa-play' aria-hidden='true'></i></button>Field-based descriptors employ molecular properties calculated in space (usually on a regular grid) to represent the molecule. The best known approach is probably Comparative Molecular Field Analysis (CoMFA), which calculates steric and electrostatic properties of molecules to define both shape and surface properties which are both important for ligand-target interactions.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -802,7 +800,7 @@ Field-based descriptors employ molecular properties calculated in space (usually
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[Pharmacophores]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-Multiple-point pharmacophores are generated in a two-step process: First, interaction types are assigned to individual atoms. Second, all pairs (two-point pharmacophores), triangles (three-point pharmacophores) or trapeziums (four-point pharmacophores) of the atom centers are constructed. All combinations of interaction types and distances can be assigned to bits in a fingerprint. First presented in the late 70s, this method has become very popular and represents one of the standard methods for virtual screening today.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/multiple-point-pharmacophores-9327da0c'><i class='fa fa-play' aria-hidden='true'></i></button>Multiple-point pharmacophores are generated in a two-step process: First, interaction types are assigned to individual atoms. Second, all pairs (two-point pharmacophores), triangles (three-point pharmacophores) or trapeziums (four-point pharmacophores) of the atom centers are constructed. All combinations of interaction types and distances can be assigned to bits in a fingerprint. First presented in the late 70s, this method has become very popular and represents one of the standard methods for virtual screening today.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[pharmacophores]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -824,7 +822,7 @@ Multiple-point pharmacophores are generated in a two-step process: First, intera
     
 #### Surface-Based Descriptors
 
-Surface-based descriptors do not employ points on a regular grid or the atom centers to describe a molecule:  instead they use points on the molecular surface for this purpose. By doing this, encoding is simplified from a 3-dimensional problem in the case of grids to a 2-dimensional surface. Methods such as GRIND or MOLPRINT fall into this category.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/surface-based-descriptors-3987a882'><i class='fa fa-play' aria-hidden='true'></i></button>Surface-based descriptors do not employ points on a regular grid or the atom centers to describe a molecule:  instead they use points on the molecular surface for this purpose. By doing this, encoding is simplified from a 3-dimensional problem in the case of grids to a 2-dimensional surface. Methods such as GRIND or MOLPRINT fall into this category.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/surf_based_desc.png){: loading=lazy }
@@ -842,7 +840,7 @@ Surface-based descriptors do not employ points on a regular grid or the atom cen
     
 ### 4D Chirality Descriptors
 
-Chirality has often been neglected in fingerprint representations; however this has become an important issue in similarity searching. Fingerprint descriptors enabling the distinction between chiral molecules were first introduced by extending 3-point pharmacophore methods to 4-point fingerprints (Mason et al). More recently, other chirality descriptors have been proposed such as topological indices (Golbraith and Tropsha), and spectrum-like chirality codes (Aires-de-Sousa and Gasteiger).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/4d-chirality-descriptors-56c6145d'><i class='fa fa-play' aria-hidden='true'></i></button>Chirality has often been neglected in fingerprint representations; however this has become an important issue in similarity searching. Fingerprint descriptors enabling the distinction between chiral molecules were first introduced by extending 3-point pharmacophore methods to 4-point fingerprints (Mason et al). More recently, other chirality descriptors have been proposed such as topological indices (Golbraith and Tropsha), and spectrum-like chirality codes (Aires-de-Sousa and Gasteiger).
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -868,7 +866,7 @@ Chirality has often been neglected in fingerprint representations; however this 
 ### Virtual Affinity Fingerprints
 *[Affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
-While the methods mentioned above employ information about the ligand or inhibitor alone, virtual affinity fingerprints use an external reference frame to determine the similarity of the ligands: all structures are fitted ("docked") into a panel of diverse protein structures. For each structure, an affinity score can be calculated, resulting in a description of each compound from its affinity score vector to the protein panel. While this approach is interesting due to its external reference frame, it is also computationally very intensive.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/virtual-affinity-fingerprints-6b587f16'><i class='fa fa-play' aria-hidden='true'></i></button>While the methods mentioned above employ information about the ligand or inhibitor alone, virtual affinity fingerprints use an external reference frame to determine the similarity of the ligands: all structures are fitted ("docked") into a panel of diverse protein structures. For each structure, an affinity score can be calculated, resulting in a description of each compound from its affinity score vector to the protein panel. While this approach is interesting due to its external reference frame, it is also computationally very intensive.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
@@ -891,7 +889,7 @@ While the methods mentioned above employ information about the ligand or inhibit
     
 ### BCUT Descriptors
 
-A rather abstract molecular descriptor often employed for diversity selection is the "BCUT" descriptor. It is derived from a matrix containing physicochemical properties in the diagonal elements and topological information (for example interatomic distances) in the off-diagonal elements. The BCUT descriptors are then calculated as the eigenvalues of the matrices. Its advantages are that it can be calculated quickly for large libraries and that diversity-based compound selection is easily available.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/bcut-descriptors-c0f0fff1'><i class='fa fa-play' aria-hidden='true'></i></button>A rather abstract molecular descriptor often employed for diversity selection is the "BCUT" descriptor. It is derived from a matrix containing physicochemical properties in the diagonal elements and topological information (for example interatomic distances) in the off-diagonal elements. The BCUT descriptors are then calculated as the eigenvalues of the matrices. Its advantages are that it can be calculated quickly for large libraries and that diversity-based compound selection is easily available.
 *[f-diag]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
@@ -914,7 +912,7 @@ A rather abstract molecular descriptor often employed for diversity selection is
 
 ### Methods to Quantify Similarity
 
-In the previous section we saw how to handle molecular structures and properties in the computer by using molecular descriptors. Now we need to establish a numerical similarity measure between molecules which assigns a single number (the "similarity index") to structure pairs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/methods-to-quantify-similarity-8be484b0'><i class='fa fa-play' aria-hidden='true'></i></button>In the previous section we saw how to handle molecular structures and properties in the computer by using molecular descriptors. Now we need to establish a numerical similarity measure between molecules which assigns a single number (the "similarity index") to structure pairs.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
 *[molecular descriptors]: Molecular descriptors are numerical values that capture the structure and properties of molecules
@@ -923,7 +921,7 @@ In the previous section we saw how to handle molecular structures and properties
 ![](https://media.drugdesign.org/course/molecular-similarity/quantify_sim.gif){: loading=lazy }
 ### Similarity Coefficients of Relevant Properties
 
-As already mentioned, similarity is a subjective concept that requires relevant descriptors that can represent the properties to be compared (e.g. biological activities). A poor choice of the relevant physicochemical properties or descriptors leads to similarity values that are meaningless.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/similarity-coefficients-relevant-properties-87bb4213'><i class='fa fa-play' aria-hidden='true'></i></button>As already mentioned, similarity is a subjective concept that requires relevant descriptors that can represent the properties to be compared (e.g. biological activities). A poor choice of the relevant physicochemical properties or descriptors leads to similarity values that are meaningless.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -931,7 +929,7 @@ As already mentioned, similarity is a subjective concept that requires relevant 
 ### Binary and Distance-Based Formulas
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Depending on how molecules are encoded (using either binary strings or numerical descriptors), the similarity indexes are calculated from either binary or numerical values. They are assigned the same name (e.g. Tanimoto) but have different mathematical forms. When the calculation are based on binary values the numerical similarity measure is called the "Similarity Coefficient" and when the calculations are based on numerical values it is called the "Distance Coefficient".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/binary-distance-based-formulas-577d2cb4'><i class='fa fa-play' aria-hidden='true'></i></button>Depending on how molecules are encoded (using either binary strings or numerical descriptors), the similarity indexes are calculated from either binary or numerical values. They are assigned the same name (e.g. Tanimoto) but have different mathematical forms. When the calculation are based on binary values the numerical similarity measure is called the "Similarity Coefficient" and when the calculations are based on numerical values it is called the "Distance Coefficient".
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -940,7 +938,7 @@ Depending on how molecules are encoded (using either binary strings or numerical
 ### Distance Coefficients
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Analogous to establishing the distance of objects in space, distance coefficients establish the distance between two descriptor representations of molecules. Distance coefficients range between 0 and infinite. One well-known distance coefficient is the Euclidean Distance, which treats the descriptor entries as dimensions in Euclidean space and is calculated as given below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/distance-coefficients-15f3a248'><i class='fa fa-play' aria-hidden='true'></i></button>Analogous to establishing the distance of objects in space, distance coefficients establish the distance between two descriptor representations of molecules. Distance coefficients range between 0 and infinite. One well-known distance coefficient is the Euclidean Distance, which treats the descriptor entries as dimensions in Euclidean space and is calculated as given below.
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -949,20 +947,20 @@ Analogous to establishing the distance of objects in space, distance coefficient
 ![](https://media.drugdesign.org/course/molecular-similarity/sim_dist_coef.png){: loading=lazy }
 ### Similarity Coefficients
 
-Similarity coefficients assign a value in the interval [0;1] to the similarity of molecules, with 1 representing identical items, 0 dissimilar items. Values above 0.8 are often said to designate "similar" molecules. The advantage of similarity coefficients is that their values are normalized (denominator term), and can be compared from molecule to molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/similarity-coefficients-06936c42'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity coefficients assign a value in the interval [0;1] to the similarity of molecules, with 1 representing identical items, 0 dissimilar items. Values above 0.8 are often said to designate "similar" molecules. The advantage of similarity coefficients is that their values are normalized (denominator term), and can be compared from molecule to molecule.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/sim_dissim.png){: loading=lazy }
 ### Symmetry Problems in Similarity Analysis
 
-While similarity coefficients can be defined in many ways, one question is whether the coefficient behaves symmetrically, in other words is "A is similar to B" as "B is similar to A".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/symmetry-problems-similarity-analysis-ad163406'><i class='fa fa-play' aria-hidden='true'></i></button>While similarity coefficients can be defined in many ways, one question is whether the coefficient behaves symmetrically, in other words is "A is similar to B" as "B is similar to A".
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/symmetry.png){: loading=lazy }
 ### Symmetrical vs. Asymmetrical Similarity in Psychology
 *[holo]: 3D structure of a macromolecule with a bound ligand
 
-Similarity coefficients establish a numerical similarity value for a pair of items. One of the fundamental characteristics of a similarity coefficient is whether A is as similar to B as B is to A. While this seems trivial, human psychology often does not obey this principle. Using an often-cited principle, Amos Tversky asked subjects whether (a) China is more similar to North Korea or (b) North Korea is more similar to China. The second answer was given consistently; this finding is also consistent with the tendency of humans to use the larger entity (here China) as the main class and assign subtypes of the class to it. Examples of non-symmetrical indices will be presented later.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/symmetrical-vs-asymmetrical-similarity-psychology-c31861bf'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity coefficients establish a numerical similarity value for a pair of items. One of the fundamental characteristics of a similarity coefficient is whether A is as similar to B as B is to A. While this seems trivial, human psychology often does not obey this principle. Using an often-cited principle, Amos Tversky asked subjects whether (a) China is more similar to North Korea or (b) North Korea is more similar to China. The second answer was given consistently; this finding is also consistent with the tendency of humans to use the larger entity (here China) as the main class and assign subtypes of the class to it. Examples of non-symmetrical indices will be presented later.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[holo]: 3D structure of a macromolecule with a bound ligand
 
@@ -978,7 +976,7 @@ Similarity coefficients establish a numerical similarity value for a pair of ite
 ### Does the Absence of Features Indicate Similarity?
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Another important issue to consider is whether the absence of features should be treated as a "common property" which hints at the similarity of descriptors. This is perfectly illustrated by an example given by Sokal and Sneath: "The absence of wings among a group of distantly related organisms (such as a camel, a horse, and a nematode) would surely be an absurd indication of affinity. Yet a positive character such as the presence of wings could mislead equally for a similar heterogeneous assemblage (for example, bat, heron, and dragonfly)." For molecules, the Tanimoto index does not treat features that are not present, while distance coefficients such as the Euclidean distance do.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/does-absence-features-indicate-similarity-63bbee33'><i class='fa fa-play' aria-hidden='true'></i></button>Another important issue to consider is whether the absence of features should be treated as a "common property" which hints at the similarity of descriptors. This is perfectly illustrated by an example given by Sokal and Sneath: "The absence of wings among a group of distantly related organisms (such as a camel, a horse, and a nematode) would surely be an absurd indication of affinity. Yet a positive character such as the presence of wings could mislead equally for a similar heterogeneous assemblage (for example, bat, heron, and dragonfly)." For molecules, the Tanimoto index does not treat features that are not present, while distance coefficients such as the Euclidean distance do.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
@@ -1001,14 +999,14 @@ Another important issue to consider is whether the absence of features should be
 ### Examples of Similarity and Distance Coefficients
 *[nce]: New Chemical Entity: a compound not previously described.
 
-In the following slides we will only discuss the most popular similarity and distance-based similarity coefficients.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/examples-similarity-distance-coefficients-b0b9ecb6'><i class='fa fa-play' aria-hidden='true'></i></button>In the following slides we will only discuss the most popular similarity and distance-based similarity coefficients.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/ex_sim_coef.png){: loading=lazy }
 #### The Tanimoto Coefficient
 
-The Tanimoto (or Jacquard) coefficient is probably the most widely used similarity coefficient today. It is a symmetrical coefficient and provides similarities between 0 and 1. It was originally invented in 1901 to establish the similarity of populations of ecosystems that were described by the presence and absence of individual species. Due to its mathematical nature, it tends to assign higher similarity values to bigger molecules (which also usually sets more bits in the corresponding fingerprints). The binary Tanimoto coefficient is illustrated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/tanimoto-coefficient-87b2a5fa'><i class='fa fa-play' aria-hidden='true'></i></button>The Tanimoto (or Jacquard) coefficient is probably the most widely used similarity coefficient today. It is a symmetrical coefficient and provides similarities between 0 and 1. It was originally invented in 1901 to establish the similarity of populations of ecosystems that were described by the presence and absence of individual species. Due to its mathematical nature, it tends to assign higher similarity values to bigger molecules (which also usually sets more bits in the corresponding fingerprints). The binary Tanimoto coefficient is illustrated below.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1023,13 +1021,13 @@ The Tanimoto (or Jacquard) coefficient is probably the most widely used similari
     
 #### Dice and Cosine Similarity Coefficients
 
-Other popular similarity coefficients are the Dice and Cosine coefficients. They both give values in the range [0;1] and while the Dice coefficient behaves monotonously with the Tanimoto coefficient the Cosine coefficient shows high correlation with it as well. The meaning of the binary Dice and Cosine coefficients are indicated below together with that of the binary Tanimoto coefficient.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/dice-cosine-similarity-coefficients-5a847c23'><i class='fa fa-play' aria-hidden='true'></i></button>Other popular similarity coefficients are the Dice and Cosine coefficients. They both give values in the range [0;1] and while the Dice coefficient behaves monotonously with the Tanimoto coefficient the Cosine coefficient shows high correlation with it as well. The meaning of the binary Dice and Cosine coefficients are indicated below together with that of the binary Tanimoto coefficient.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/dice_cosine.png){: loading=lazy }
 #### Tversky Similarity Coefficient
 
-While individual similarity coefficients show either symmetrical or asymmetrical behavior, they can also be written in a more general form by incorporating free parameters. A generic form of the Tanimoto and Dice coefficients (among others) is the Tversky coefficient shown below. The free parameters &alpha; and &beta; determine behavior of the coefficient: if they are identical, the similarity measure is symmetrical with respect to interchange of molecule A and B. In the special case of &alpha;=&beta;=1 the Tanimoto coefficient is obtained, while in the case of &alpha;=&beta;=1/2 we obtain the Dice coefficient.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/tversky-similarity-coefficient-53d549ef'><i class='fa fa-play' aria-hidden='true'></i></button>While individual similarity coefficients show either symmetrical or asymmetrical behavior, they can also be written in a more general form by incorporating free parameters. A generic form of the Tanimoto and Dice coefficients (among others) is the Tversky coefficient shown below. The free parameters &alpha; and &beta; determine behavior of the coefficient: if they are identical, the similarity measure is symmetrical with respect to interchange of molecule A and B. In the special case of &alpha;=&beta;=1 the Tanimoto coefficient is obtained, while in the case of &alpha;=&beta;=1/2 we obtain the Dice coefficient.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1049,7 +1047,7 @@ While individual similarity coefficients show either symmetrical or asymmetrical
 #### Some Common Distance Coefficients
 *[nce]: New Chemical Entity: a compound not previously described.
 
-As mentioned above, Euclidean Distance is one of the most common distance coefficients employed in this area, and due to its familiarity in three dimensions it might be more accessible to human perception than other coefficients. Without taking the square root of the summed distances, the Hamming distance is obtained which behaves monotonously with Euclidean distance.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/some-common-distance-coefficients-d6bc67c7'><i class='fa fa-play' aria-hidden='true'></i></button>As mentioned above, Euclidean Distance is one of the most common distance coefficients employed in this area, and due to its familiarity in three dimensions it might be more accessible to human perception than other coefficients. Without taking the square root of the summed distances, the Hamming distance is obtained which behaves monotonously with Euclidean distance.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1066,7 +1064,7 @@ As mentioned above, Euclidean Distance is one of the most common distance coeffi
 
 ### Searching Molecules with Similar Properties
 
-One of the most prominent applications of the similarity approach is the task of screening a database for molecules which are similar to a known active compound. In this case, individual similarities between the query compound and the library compounds are calculated and the most similar compounds are returned to the user. For example an active compound with undesired properties (e.g. toxicity, poor solubility) can be used as a query to retrieve molecules which are similar to the original molecule in that they show the desired activity, but dissimilar with respect to the undesired properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/searching-molecules-similar-properties-e80c8766'><i class='fa fa-play' aria-hidden='true'></i></button>One of the most prominent applications of the similarity approach is the task of screening a database for molecules which are similar to a known active compound. In this case, individual similarities between the query compound and the library compounds are calculated and the most similar compounds are returned to the user. For example an active compound with undesired properties (e.g. toxicity, poor solubility) can be used as a query to retrieve molecules which are similar to the original molecule in that they show the desired activity, but dissimilar with respect to the undesired properties.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1076,14 +1074,14 @@ One of the most prominent applications of the similarity approach is the task of
     ![](https://media.drugdesign.org/course/molecular-similarity/search_db_f2.png){: loading=lazy }
 ### Searching Information from Similar Molecules
 
-Similarity searches can be used to derive information on the potential properties of a given structure. By using the structure of this compound as a query, it is possible to develop a similarity search in order to find information on the properties that were observed on similar compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/searching-information-from-similar-molecules-46dacca5'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity searches can be used to derive information on the potential properties of a given structure. By using the structure of this compound as a query, it is possible to develop a similarity search in order to find information on the properties that were observed on similar compounds.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/search_information.png){: loading=lazy }
 ### Knowing a Pharmacophore, Search for Novel Molecules
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-Working on a given structure having some limitations (chemical, biological or physical), it is possible to use similarity searching to find novel molecules that have a similar pharmacophore to that of the reference compound. The search will retrieve similar molecules, (possibly chemically unrelated) carrying this pharmacophore. Note that the pharmacophore query can be defined in a fuzzy way; an example of such pharmacophore is illustrated in the next page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/knowing-pharmacophore-search-for-novel-molecules-535c99fe'><i class='fa fa-play' aria-hidden='true'></i></button>Working on a given structure having some limitations (chemical, biological or physical), it is possible to use similarity searching to find novel molecules that have a similar pharmacophore to that of the reference compound. The search will retrieve similar molecules, (possibly chemically unrelated) carrying this pharmacophore. Note that the pharmacophore query can be defined in a fuzzy way; an example of such pharmacophore is illustrated in the next page.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1092,7 +1090,7 @@ Working on a given structure having some limitations (chemical, biological or ph
 ### Example of a Fuzzy Pharmacophore
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-The following illustrates an example of a fuzzy pharmacophore. Working with TAR-RNA as a target for AIDS therapy, the authors employed a fuzzy pharmacophore to discover novel ligands of the target by similarity searching. In vitro testing of the hits obtained confirmed the predictions of the method.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/example-fuzzy-pharmacophore-24dab979'><i class='fa fa-play' aria-hidden='true'></i></button>The following illustrates an example of a fuzzy pharmacophore. Working with TAR-RNA as a target for AIDS therapy, the authors employed a fuzzy pharmacophore to discover novel ligands of the target by similarity searching. In vitro testing of the hits obtained confirmed the predictions of the method.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1108,14 +1106,14 @@ The following illustrates an example of a fuzzy pharmacophore. Working with TAR-
     
 ### Validation of Novelty
 
-Before embarking upon a costly synthetic program, it is important to make sure that the molecule considered is novel for the project. Has someone already thought of such a structure? Is that an original idea? Has someone synthesized this molecule? Answers to these questions can be addressed by similarity searching, which helps to assess or modify the initial idea.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/validation-novelty-b7bbce57'><i class='fa fa-play' aria-hidden='true'></i></button>Before embarking upon a costly synthetic program, it is important to make sure that the molecule considered is novel for the project. Has someone already thought of such a structure? Is that an original idea? Has someone synthesized this molecule? Answers to these questions can be addressed by similarity searching, which helps to assess or modify the initial idea.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/assess_unique.png){: loading=lazy }
 ### Reducing a Virtual Library to a Practical Size
 *[Virtual Library]: A library which exists solely in electronic form (or on paper) and used in the design and evaluation of possible real libraries.
 
-Another application of the "molecular similarity principle" is to reduce a virtual library to a practical size of diverse molecules to be synthesized. In this case the focus is on dissimilarity rather than on similarity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/reducing-virtual-library-to-practical-size-945b705f'><i class='fa fa-play' aria-hidden='true'></i></button>Another application of the "molecular similarity principle" is to reduce a virtual library to a practical size of diverse molecules to be synthesized. In this case the focus is on dissimilarity rather than on similarity.
 *[virtual library]: A library which exists solely in electronic form (or on paper) and used in the design and evaluation of possible real libraries.
 
 
@@ -1138,32 +1136,33 @@ Another application of the "molecular similarity principle" is to reduce a virtu
 ### Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
-Due to their ubiquity in living systems, many natural ligands of receptors in the human body are small peptides. While it may be straightforward to apply them also directly as drugs, they have shortcomings (discussed in detail in the chapter on peptidomimetics) that make it advantageous to "hop" from peptides to non-peptide compounds. Similarity searching can be used to find small molecule compounds that carry the important structural elements of a peptide and mimic its bioactivity profile.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/peptidomimetics-d7507834'><i class='fa fa-play' aria-hidden='true'></i></button>Due to their ubiquity in living systems, many natural ligands of receptors in the human body are small peptides. While it may be straightforward to apply them also directly as drugs, they have shortcomings (discussed in detail in the chapter on peptidomimetics) that make it advantageous to "hop" from peptides to non-peptide compounds. Similarity searching can be used to find small molecule compounds that carry the important structural elements of a peptide and mimic its bioactivity profile.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
-=== "3D (pic)"
+
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/molecular-similarity/peptidomimetism.png){: loading=lazy }
 
 === "3D"
-    <div id="nglviewer-container-peptido" class="nglviewer-container" data-molecule-id="peptidomimetics" style="width: 750px; height: 450px;" data-initialized="false"></div>    
+    <div id='nglviewer-container-peptidomimetics' class='nglviewer-container' data-molecule-id='peptidomimetics' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Compounds that Fit the Shape of an Active Site
 
-The "molecular similarity principle" can be used for searching compounds that fit the shape of the active site of a target protein. We know that physico-chemical properties are also involved in interaction with the receptor, however similarity searching is useful for first identifying molecules that satisfy the condition of good shape complementarity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/compounds-that-fit-shape-an-active-site-216d5833'><i class='fa fa-play' aria-hidden='true'></i></button>The "molecular similarity principle" can be used for searching compounds that fit the shape of the active site of a target protein. We know that physico-chemical properties are also involved in interaction with the receptor, however similarity searching is useful for first identifying molecules that satisfy the condition of good shape complementarity.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/sim_shape_activesite.gif){: loading=lazy }
 ### Find a Synthetic Route
 
-Similarity searching can be used for finding a synthetic route for a given molecule. It serves to identify similar molecules that were previously synthesized and adapt a particular synthetic scheme to the molecule intended to be prepared.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/find-synthetic-route-823cfcbc'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity searching can be used for finding a synthetic route for a given molecule. It serves to identify similar molecules that were previously synthesized and adapt a particular synthetic scheme to the molecule intended to be prepared.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/sim_synthese.png){: loading=lazy }
 ### Filtering Undesired Hits
 
-In drug discovery many compounds bind indiscriminately to a multitude of targets. "Ligand-based virtual screening", which is built upon the molecular similarity principle, can thus also be employed to eliminate those that are "promiscuous" - and those that are similar, from screening results. In this case the structures of promiscuous compounds are treated in a fuzzy manner by the similarity search treatments.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/filtering-undesired-hits-10696ef9'><i class='fa fa-play' aria-hidden='true'></i></button>In drug discovery many compounds bind indiscriminately to a multitude of targets. "Ligand-based virtual screening", which is built upon the molecular similarity principle, can thus also be employed to eliminate those that are "promiscuous" - and those that are similar, from screening results. In this case the structures of promiscuous compounds are treated in a fuzzy manner by the similarity search treatments.
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[promiscuous]: Some molecules emerge repeatedly as hits in diverse unrelated target systems. These so-called promiscuous hits act non-competitively, show little structure-activity relationships, and have poor selectivity.
@@ -1179,7 +1178,7 @@ In drug discovery many compounds bind indiscriminately to a multitude of targets
     
 ### Clustering of Molecules
 
-Clustering is a procedure in which objects (molecules) are divided into groups. Based on the calculation of distance coefficients each compound is associated with a cluster. Clustering can be used in similarity and dissimilarity analysis, and is useful in many applications such as data mining, subset selection in library design etc...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/clustering-molecules-77546714'><i class='fa fa-play' aria-hidden='true'></i></button>Clustering is a procedure in which objects (molecules) are divided into groups. Based on the calculation of distance coefficients each compound is associated with a cluster. Clustering can be used in similarity and dissimilarity analysis, and is useful in many applications such as data mining, subset selection in library design etc...
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1188,7 +1187,7 @@ Clustering is a procedure in which objects (molecules) are divided into groups. 
 
 ### Development of a Structure-Property Model
 
-Besides the direct application of searching similar/dissimilar molecules in a database, it is possible to develop a model by employing knowledge about properties of known compounds, to predict the properties of novel molecules. These models are known as "structure-property models", and are all based on the "molecular similarity principle" (a small structural change causes small property differences).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/development-structure-property-model-880873a7'><i class='fa fa-play' aria-hidden='true'></i></button>Besides the direct application of searching similar/dissimilar molecules in a database, it is possible to develop a model by employing knowledge about properties of known compounds, to predict the properties of novel molecules. These models are known as "structure-property models", and are all based on the "molecular similarity principle" (a small structural change causes small property differences).
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1196,7 +1195,7 @@ Besides the direct application of searching similar/dissimilar molecules in a da
 ### Deriving Knowledge from Distances and Properties
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Typically, after many compounds have been synthesized and tested in a project, the medicinal chemist wants to understand SAR and identify structurally novel molecules which are similar with respect to some of their properties. The available information can be exploited to generate knowledge and understand the structure-properties relationships of a training set; this knowledge is then used to make predictions about novel molecules, based on their similarity. In the following slides we will visit the general methods these models are constructed from, followed by some typical applications.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/deriving-knowledge-from-distances-properties-32121cf0'><i class='fa fa-play' aria-hidden='true'></i></button>Typically, after many compounds have been synthesized and tested in a project, the medicinal chemist wants to understand SAR and identify structurally novel molecules which are similar with respect to some of their properties. The available information can be exploited to generate knowledge and understand the structure-properties relationships of a training set; this knowledge is then used to make predictions about novel molecules, based on their similarity. In the following slides we will visit the general methods these models are constructed from, followed by some typical applications.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1204,7 +1203,7 @@ Typically, after many compounds have been synthesized and tested in a project, t
 ![](https://media.drugdesign.org/course/molecular-similarity/model_dev2.png){: loading=lazy }
 ### Molecules in the Space of the Descriptors
 
-Contrary to the direct application of the similarity principle (where distances between molecules are explicitly calculated), in structure-property model methods, the distance between molecules are implicitly represented by molecular descriptors. These descriptors position the compounds in the space of their properties. This can be visualized by projecting the molecules in the space of the descriptors, which reveals those that are similar and dissimilar, depending on their relative location in the projection space.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/molecules-space-descriptors-0c60704b'><i class='fa fa-play' aria-hidden='true'></i></button>Contrary to the direct application of the similarity principle (where distances between molecules are explicitly calculated), in structure-property model methods, the distance between molecules are implicitly represented by molecular descriptors. These descriptors position the compounds in the space of their properties. This can be visualized by projecting the molecules in the space of the descriptors, which reveals those that are similar and dissimilar, depending on their relative location in the projection space.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
@@ -1217,7 +1216,7 @@ Contrary to the direct application of the similarity principle (where distances 
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-QSAR (Quantitative Structure Activity Relationship) is an example of an application of the similarity principle with the use of molecular descriptors. The method is designed to formulate the relationship between structure and activity in terms of a mathematical model. For this purpose, often regression models are employed. One of the best-known methods in this area is called 3D-QSAR. This method makes it possible to compare 3D molecular forces ("fields") produced in the vicinity of different compounds to find correlations between biological activities and fields. This method has been widely employed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/qsar-3d-qsar-dd5dca9b'><i class='fa fa-play' aria-hidden='true'></i></button>QSAR (Quantitative Structure Activity Relationship) is an example of an application of the similarity principle with the use of molecular descriptors. The method is designed to formulate the relationship between structure and activity in terms of a mathematical model. For this purpose, often regression models are employed. One of the best-known methods in this area is called 3D-QSAR. This method makes it possible to compare 3D molecular forces ("fields") produced in the vicinity of different compounds to find correlations between biological activities and fields. This method has been widely employed.
 *[3D-QSAR]: A method for the establishment of a correlation between the biological activities and the fields produced in the surrounding of a molecule.
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[Quantitative Structure Activity Relationship]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
@@ -1234,21 +1233,21 @@ QSAR (Quantitative Structure Activity Relationship) is an example of an applicat
 *[QSPR]: QSPR is an extension of QSAR and tries to formulate the relationship between structure and any molecular property in terms of a mathematical model.
 *[Quantitative Structure-Property Relationships]: QSPR is an extension of QSAR and tries to formulate the relationship between structure and any molecular property in terms of a mathematical model.
 
-Apart from the prediction of activity by employing computer algorithms, drugs have to have many more desired properties which are often referred to as ADME/Tox predictions, which stands for Absorption, Distribution, Metabolism and Toxicity predictions. All of these properties can in principle be modeled by applying the molecular similarity principle.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/qspr---quantitative-structure-property-relationships-e26b7eca'><i class='fa fa-play' aria-hidden='true'></i></button>Apart from the prediction of activity by employing computer algorithms, drugs have to have many more desired properties which are often referred to as ADME/Tox predictions, which stands for Absorption, Distribution, Metabolism and Toxicity predictions. All of these properties can in principle be modeled by applying the molecular similarity principle.
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/qspr.png){: loading=lazy }
 ### Intelligent Machine Learning Models
 
-A new trend has recently emerged, known as "machine learning", which has been triggered by high throughput developments and is aimed at providing quantitative methods to analyze screening results with their associated vast amount of numerical and non-numerical raw data, and to predict the activity of new molecules. Contrary to traditional methods that are based on numerical data, the new approaches are generally binary-based methods. Examples of such methods are indicated in the list below which is presented on the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/intelligent-machine-learning-models-3b9f1eba'><i class='fa fa-play' aria-hidden='true'></i></button>A new trend has recently emerged, known as "machine learning", which has been triggered by high throughput developments and is aimed at providing quantitative methods to analyze screening results with their associated vast amount of numerical and non-numerical raw data, and to predict the activity of new molecules. Contrary to traditional methods that are based on numerical data, the new approaches are generally binary-based methods. Examples of such methods are indicated in the list below which is presented on the following pages.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/machine_learn2.png){: loading=lazy }
 ### Binary Kernel Discrimination
 
-Kernel Methods attempt to predict the output of a continuous output variable given continuous input variables. Kernels are used here to transform data from descriptor space into higher-dimensional space, where separation between data points can be achieved more easily. In drug-design, often only the distinction between active and non-active entities needs to be made. Binary Kernel Discrimination has been  shown to perform well in similarity searching.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/binary-kernel-discrimination-5852c3f7'><i class='fa fa-play' aria-hidden='true'></i></button>Kernel Methods attempt to predict the output of a continuous output variable given continuous input variables. Kernels are used here to transform data from descriptor space into higher-dimensional space, where separation between data points can be achieved more easily. In drug-design, often only the distinction between active and non-active entities needs to be made. Binary Kernel Discrimination has been  shown to perform well in similarity searching.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1269,7 +1268,7 @@ Kernel Methods attempt to predict the output of a continuous output variable giv
     
 ### Artificial Neural Networks
 
-Artificial Neural Networks (ANNs) are a supervised non-parametric classification method that can  model any functional relationship between input and output variables. Thus, they are very flexible modeling tools; in fact, they are sometimes too flexible and tend to overlearn (i.e., model the training data perfectly well, but they are not able to generalize). Nonetheless, they have been very successfully applied in virtually every area of computational drug design. The architecture of a fully-connected feed-forward ANN (all nodes in each layer are connected to all nodes in the neighbouring layers) is shown in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/artificial-neural-networks-570d00ce'><i class='fa fa-play' aria-hidden='true'></i></button>Artificial Neural Networks (ANNs) are a supervised non-parametric classification method that can  model any functional relationship between input and output variables. Thus, they are very flexible modeling tools; in fact, they are sometimes too flexible and tend to overlearn (i.e., model the training data perfectly well, but they are not able to generalize). Nonetheless, they have been very successfully applied in virtually every area of computational drug design. The architecture of a fully-connected feed-forward ANN (all nodes in each layer are connected to all nodes in the neighbouring layers) is shown in the figure below.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1283,7 +1282,7 @@ Artificial Neural Networks (ANNs) are a supervised non-parametric classification
     
 ### Support Vector Machines (SVMs)
 
-Support Vector Machines (SVMs) attempt to learn the maximum separating boundary between different classes. This is a different approach than that employed by the previously mentioned neural networks that do not optimize the decision boundary if the prediction performance does not change. This different behavior is illustrated below. SVMs have been successfully applied to the discrimination between drug-like and non-drug-like compounds and also more recently to virtual screening.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/support-vector-machines-svms-b3d820d1'><i class='fa fa-play' aria-hidden='true'></i></button>Support Vector Machines (SVMs) attempt to learn the maximum separating boundary between different classes. This is a different approach than that employed by the previously mentioned neural networks that do not optimize the decision boundary if the prediction performance does not change. This different behavior is illustrated below. SVMs have been successfully applied to the discrimination between drug-like and non-drug-like compounds and also more recently to virtual screening.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1308,7 +1307,7 @@ Support Vector Machines (SVMs) attempt to learn the maximum separating boundary 
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Binary QSAR as well as the Bayes Classifier calculate the likelihood that a new compound belongs  to a certain class (for example, to show bioactivity) depending on the frequency of features in active and inactive training datasets. It is very fast to train and has the advantage of being a parameter-free approach. An example of a Bayes Classifier applied to e-mail spam detection is illustrated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/binary-qsar-naive-bayes-classifier-0b324f03'><i class='fa fa-play' aria-hidden='true'></i></button>Binary QSAR as well as the Bayes Classifier calculate the likelihood that a new compound belongs  to a certain class (for example, to show bioactivity) depending on the frequency of features in active and inactive training datasets. It is very fast to train and has the advantage of being a parameter-free approach. An example of a Bayes Classifier applied to e-mail spam detection is illustrated below.
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1330,7 +1329,7 @@ Binary QSAR as well as the Bayes Classifier calculate the likelihood that a new 
     
 ### Rule-Based Approaches
 
-Rule-based learning means inferring human-understandable rules for a certain behavior from data deductively. Below the rules determining activity of inhibitors binding to a protein kinase are given. Not every relationship between input data and output data can be modeled this way, but interpretability is often a major advantage of this method.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/rule-based-approaches-f2e6d843'><i class='fa fa-play' aria-hidden='true'></i></button>Rule-based learning means inferring human-understandable rules for a certain behavior from data deductively. Below the rules determining activity of inhibitors binding to a protein kinase are given. Not every relationship between input data and output data can be modeled this way, but interpretability is often a major advantage of this method.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1348,7 +1347,7 @@ Rule-based learning means inferring human-understandable rules for a certain beh
 ### Decision Trees
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Decision Trees form a hierarchical tree of yes/no decisions to determine class membership of the data. Decisions having the best explanatory power should be made first, in order to explain the individual parts of a dataset with the smallest number of decisions possible. Below a (hypothetical, but realistic) example from the prediction of toxicity is given. Again, decision trees have the major advantage of being easy to interpret.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/decision-trees-8a9907c2'><i class='fa fa-play' aria-hidden='true'></i></button>Decision Trees form a hierarchical tree of yes/no decisions to determine class membership of the data. Decisions having the best explanatory power should be made first, in order to explain the individual parts of a dataset with the smallest number of decisions possible. Below a (hypothetical, but realistic) example from the prediction of toxicity is given. Again, decision trees have the major advantage of being easy to interpret.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1360,7 +1359,7 @@ Decision Trees form a hierarchical tree of yes/no decisions to determine class m
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The hERG potassium channel is involved in the polarization and repolarization of the heart muscle with every hearbeat. Unfortunately, deaths occurred since drugs on the market blocked this channel, leading to arrhythmias of the heart and finally to cardiac arrest. A 3D-QSAR model derived from a set of compounds for the hERG channel consists of a positively charged nitrogen and two lipophilic moieties and is shown below. This knowledge is crucial to avoiding the design of toxic compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/example-3d-qsar-model-2b492402'><i class='fa fa-play' aria-hidden='true'></i></button>The hERG potassium channel is involved in the polarization and repolarization of the heart muscle with every hearbeat. Unfortunately, deaths occurred since drugs on the market blocked this channel, leading to arrhythmias of the heart and finally to cardiac arrest. A 3D-QSAR model derived from a set of compounds for the hERG channel consists of a positively charged nitrogen and two lipophilic moieties and is shown below. This knowledge is crucial to avoiding the design of toxic compounds.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[3D-QSAR]: A method for the establishment of a correlation between the biological activities and the fields produced in the surrounding of a molecule.
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
@@ -1379,27 +1378,27 @@ The hERG potassium channel is involved in the polarization and repolarization of
 ### Molecular Similarity: Models of ADME/Tox Predictions
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 
-Besides bioactivity, pharmaceutical compounds also have other criteria to fulfill, such as being non-toxic to the body. Often many of these additional criteria are referred to as "ADME/Tox" properties, which are explained below. A=Absorption. How well is the compound absorbed (=able to enter the bloodstream) if taken orally? D=Distribution. Is the compound enriched in undesired 'compartments' of the body or does it reach the relevant parts of the body? M=Metabolism. Is the compound converted in the body, and if, to which metabolites and how fast? E=Excretion. For how long does the compound remain in the body and which routes does it take to leave it? Tox=Toxicity. Is this compound toxic, meaning that it has other bioactivities besides the desired one?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/molecular-similarity-models-admetox-predictions-0ba8a28e'><i class='fa fa-play' aria-hidden='true'></i></button>Besides bioactivity, pharmaceutical compounds also have other criteria to fulfill, such as being non-toxic to the body. Often many of these additional criteria are referred to as "ADME/Tox" properties, which are explained below. A=Absorption. How well is the compound absorbed (=able to enter the bloodstream) if taken orally? D=Distribution. Is the compound enriched in undesired 'compartments' of the body or does it reach the relevant parts of the body? M=Metabolism. Is the compound converted in the body, and if, to which metabolites and how fast? E=Excretion. For how long does the compound remain in the body and which routes does it take to leave it? Tox=Toxicity. Is this compound toxic, meaning that it has other bioactivities besides the desired one?
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/admetox1.png){: loading=lazy }
 #### 'A' - Absorption: Does a Drug Work Orally?
 
-Absorption in the gut is achieved via different mechanisms, including passive diffusion and active transport. Still, most often passive transport occurs and for this simple case a good correlation for example with the molecular weight or the size of the compound can be established, based on the molecular similarity principle.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/--absorption-does-drug-work-orally-c95c0750'><i class='fa fa-play' aria-hidden='true'></i></button>Absorption in the gut is achieved via different mechanisms, including passive diffusion and active transport. Still, most often passive transport occurs and for this simple case a good correlation for example with the molecular weight or the size of the compound can be established, based on the molecular similarity principle.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/a_model.png){: loading=lazy }
 #### 'D' - Distribution: Where Does the Drug Go in the Body?
 
-Distribution of compounds can be modeled using a "compartment-system" of the body, representing bloodstream, fatty tissue compartment, water compartment etc. Based on the assumption that similar molecules show similar distribution in tissues, distribution models can be built. One property of relevance here is logP, which is logical since it defines the likelihood that a given compound is able to cross membranes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/d---distribution-where-does-drug-go-body-8c02eec1'><i class='fa fa-play' aria-hidden='true'></i></button>Distribution of compounds can be modeled using a "compartment-system" of the body, representing bloodstream, fatty tissue compartment, water compartment etc. Based on the assumption that similar molecules show similar distribution in tissues, distribution models can be built. One property of relevance here is logP, which is logical since it defines the likelihood that a given compound is able to cross membranes.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/d_model.png){: loading=lazy }
 #### 'M' - Metabolism: The Drug's Fate
 
-Metabolism prediction can be broadly based on an understanding of underlying mechanisms or the statistical analysis of a large data base. One recently published statistical method employs a metabolism database (the MDR Metabolite Database) to analyze the type of substructures that are most often attacked in humans or other living beings and converted to degradation products. The circular fingerprints employed, which determine substructural similarity (and thus the likelihood that the compound will undergo the same reaction, based on the scoring of metabolic sites) are shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/m---metabolism-drugs-fate-0e2ab42e'><i class='fa fa-play' aria-hidden='true'></i></button>Metabolism prediction can be broadly based on an understanding of underlying mechanisms or the statistical analysis of a large data base. One recently published statistical method employs a metabolism database (the MDR Metabolite Database) to analyze the type of substructures that are most often attacked in humans or other living beings and converted to degradation products. The circular fingerprints employed, which determine substructural similarity (and thus the likelihood that the compound will undergo the same reaction, based on the scoring of metabolic sites) are shown below.
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
 
@@ -1419,7 +1418,7 @@ Metabolism prediction can be broadly based on an understanding of underlying mec
     
 #### 'E' - Elimination: The Drug Says Good-Bye
 
-The elimination of compounds is closely linked to their lipophilicity, or in turn, to their solubility in water. Thus the molecular similarity principle works well in this area, and a correlation between the rate of elimination and logP of a series of compounds is shown below. Note that the very lipophilic compounds undergo increased metabolism and conjugation to hydrophilic moieties, so the original lipophilicity of a compound is only partly responsible for its speed of elimination.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/e---elimination-drug-says-good-bye-bc92f792'><i class='fa fa-play' aria-hidden='true'></i></button>The elimination of compounds is closely linked to their lipophilicity, or in turn, to their solubility in water. Thus the molecular similarity principle works well in this area, and a correlation between the rate of elimination and logP of a series of compounds is shown below. Note that the very lipophilic compounds undergo increased metabolism and conjugation to hydrophilic moieties, so the original lipophilicity of a compound is only partly responsible for its speed of elimination.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1427,14 +1426,14 @@ The elimination of compounds is closely linked to their lipophilicity, or in tur
 ![](https://media.drugdesign.org/course/molecular-similarity/e_model.png){: loading=lazy }
 #### 'Tox' - Toxicity: Side-Effects
 
-One well-known system for the prediction of toxicity is DEREK. It is rule-based and performs exact substructural matching for the determination of possible toxic effects. Some of its learned rules are illustrated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/tox---toxicity-side-effects-7d1f382d'><i class='fa fa-play' aria-hidden='true'></i></button>One well-known system for the prediction of toxicity is DEREK. It is rule-based and performs exact substructural matching for the determination of possible toxic effects. Some of its learned rules are illustrated below.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/tox_model.png){: loading=lazy }
 ### Prediction of Solubility
 
-Physicochemical properties such as solubility are often easier to predict than properties such as bioactivity since they are non-directional (one does not have to consider external forces such as the receptor, which might for example cause steric repulsion). Solubility is determined by interactions between the molecular surface and the solvent. Strong correlations can be seen for example between the dipole moment or the charge or the lipophilicity of a molecule and its solubility. Still, interactions in the solid state also influence solubility and these are difficult to predict.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/prediction-solubility-362a1e3b'><i class='fa fa-play' aria-hidden='true'></i></button>Physicochemical properties such as solubility are often easier to predict than properties such as bioactivity since they are non-directional (one does not have to consider external forces such as the receptor, which might for example cause steric repulsion). Solubility is determined by interactions between the molecular surface and the solvent. Strong correlations can be seen for example between the dipole moment or the charge or the lipophilicity of a molecule and its solubility. Still, interactions in the solid state also influence solubility and these are difficult to predict.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1442,7 +1441,7 @@ Physicochemical properties such as solubility are often easier to predict than p
 ![](https://media.drugdesign.org/course/molecular-similarity/sol_model.png){: loading=lazy }
 ### Prediction of Melting Points
 
-Melting points are determined by the interactions of compounds in the crystal lattice. Since crystal structures can change abruptly even in the event of comparably small changes in molecular structure it is difficult to apply the molecular similarity principle based on knowing the monomer small molecule alone. Nevertheless, correlations can be seen between the rigidity of the structure and the melting point.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/prediction-melting-points-4972bdb1'><i class='fa fa-play' aria-hidden='true'></i></button>Melting points are determined by the interactions of compounds in the crystal lattice. Since crystal structures can change abruptly even in the event of comparably small changes in molecular structure it is difficult to apply the molecular similarity principle based on knowing the monomer small molecule alone. Nevertheless, correlations can be seen between the rigidity of the structure and the melting point.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1466,7 +1465,7 @@ Melting points are determined by the interactions of compounds in the crystal la
 
 ### Neighborhood Behavior
 
-If descriptors are employed for similarity searching, the goal is to determine property similarity, with descriptor similarity being the practical means towards this goal. Thus, correlation between the distance in property space (what one is really interested in) and in descriptor space (what one is able to determine computationally) is highly relevant. The concept of "Neighborhood Behavior" describes high correlations between descriptor similarity and property similarity which is crucial for practically every relevant molecular descriptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/neighborhood-behavior-9c2478b8'><i class='fa fa-play' aria-hidden='true'></i></button>If descriptors are employed for similarity searching, the goal is to determine property similarity, with descriptor similarity being the practical means towards this goal. Thus, correlation between the distance in property space (what one is really interested in) and in descriptor space (what one is able to determine computationally) is highly relevant. The concept of "Neighborhood Behavior" describes high correlations between descriptor similarity and property similarity which is crucial for practically every relevant molecular descriptor.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[molecular descriptor]: Molecular descriptors are numerical values that capture the structure and properties of molecules
@@ -1482,7 +1481,7 @@ If descriptors are employed for similarity searching, the goal is to determine p
     
 ### Back-Projectability
 
-One aim of property models is to make sensible predictions about novel compounds. Of additional interest is the following question: which structural features actually make this particular compound so active, soluble or toxic? Back-projectable descriptors try to answer this question by  projecting features found to be important back onto the molecular structure: they are back-projectable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/back-projectability-3a1384f6'><i class='fa fa-play' aria-hidden='true'></i></button>One aim of property models is to make sensible predictions about novel compounds. Of additional interest is the following question: which structural features actually make this particular compound so active, soluble or toxic? Back-projectable descriptors try to answer this question by  projecting features found to be important back onto the molecular structure: they are back-projectable.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/back_project.png){: loading=lazy }
@@ -1500,7 +1499,7 @@ One aim of property models is to make sensible predictions about novel compounds
     
 ### Validation and Information Content of Descriptors
 
-While a multitude of molecular descriptors is available, one should make sure that they actually capture relevant information and are able to reliably make predictions. For virtual screening and also QSAR as well there are several standard datasets available. But do not overestimate the information content of seemingly sophisticated descriptors, since performance depends enormously on the property of interest and the particular class of molecules. Recently it has been shown that even today's best descriptors do not perform much better than if one just counts atoms on one of the benchmark virtual screening datasets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/validation-information-content-descriptors-772dd9fe'><i class='fa fa-play' aria-hidden='true'></i></button>While a multitude of molecular descriptors is available, one should make sure that they actually capture relevant information and are able to reliably make predictions. For virtual screening and also QSAR as well there are several standard datasets available. But do not overestimate the information content of seemingly sophisticated descriptors, since performance depends enormously on the property of interest and the particular class of molecules. Recently it has been shown that even today's best descriptors do not perform much better than if one just counts atoms on one of the benchmark virtual screening datasets.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1520,7 +1519,7 @@ While a multitude of molecular descriptors is available, one should make sure th
     
 ### Properties of Binary Fingerprints
 
-Due to their binary nature, the distribution of similarity coefficients usually does not tend to be random. Simple ratios such as 1/2, 1/3 and 2/3, etc. are much more frequent than other ratios with larger numerators and denominators. For small fingerprints it was shown that 1/3 is the most frequent similarity value for an infinitely long bit string which is half occupied, a value that should be kept in mind to have a feeling for similarity values.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/properties-binary-fingerprints-ab700194'><i class='fa fa-play' aria-hidden='true'></i></button>Due to their binary nature, the distribution of similarity coefficients usually does not tend to be random. Simple ratios such as 1/2, 1/3 and 2/3, etc. are much more frequent than other ratios with larger numerators and denominators. For small fingerprints it was shown that 1/3 is the most frequent similarity value for an infinitely long bit string which is half occupied, a value that should be kept in mind to have a feeling for similarity values.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1534,14 +1533,14 @@ Due to their binary nature, the distribution of similarity coefficients usually 
     
 ### Folding of Fingerprints
 
-It is sometimes useful to compress the information encoded in long fingerprints. In this case, the whole fingerprint is said to be "folded". It is cut into two halves, which are combined by a logical OR (or other) operation to give a new fingerprint of only half the size of the original fingerprint. In the resulting fingerprint, bits are set at position n if they were present in position n of the original fingerprint OR position (length/2)+n (which corresponds to bit n of the "second half" of the fingerprint). This process can also be repeated.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/folding-fingerprints-cb9d3436'><i class='fa fa-play' aria-hidden='true'></i></button>It is sometimes useful to compress the information encoded in long fingerprints. In this case, the whole fingerprint is said to be "folded". It is cut into two halves, which are combined by a logical OR (or other) operation to give a new fingerprint of only half the size of the original fingerprint. In the resulting fingerprint, bits are set at position n if they were present in position n of the original fingerprint OR position (length/2)+n (which corresponds to bit n of the "second half" of the fingerprint). This process can also be repeated.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/finger_folding.png){: loading=lazy }
 ### The Concept of Binning
 *[nce]: New Chemical Entity: a compound not previously described.
 
-If descriptors of molecules involve the distance of intermolecular features in space and one wants to determine whether identical (or equivalent) features are present in two molecules, exact matching of a particular distance virtually never occurs. In order to still be able to compare spatial arrangements of features a concept called "binning" is often employed, where ranges of intra-feature distances are assigned to the same "distance range", also called a "bin".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/concept-binning-fd8baf48'><i class='fa fa-play' aria-hidden='true'></i></button>If descriptors of molecules involve the distance of intermolecular features in space and one wants to determine whether identical (or equivalent) features are present in two molecules, exact matching of a particular distance virtually never occurs. In order to still be able to compare spatial arrangements of features a concept called "binning" is often employed, where ranges of intra-feature distances are assigned to the same "distance range", also called a "bin".
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1549,7 +1548,7 @@ If descriptors of molecules involve the distance of intermolecular features in s
 ### The Concept of "Fuzzy" Descriptors
 *[nce]: New Chemical Entity: a compound not previously described.
 
-If distances between features are binned, what means that they are assigned to a discrete distance range (for example according to the rule "a distance between 6 and 7 Angstroms corresponds to bin 7"), very similar distances might still be assigned to different bins. This happens around the bin borders; in the example above a distance of 5.9 Angstroms would be assigned to bin 6, but a (very similar) distance of 6.1 Angstroms would be assigned to bin 7. "Fuzzy" descriptors also increase the counts of neighboring bins, thereby alleviating the problem of discretizing real-valued distances. An example is given in the applications section.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/concept-fuzzy-descriptors-a1d2df1b'><i class='fa fa-play' aria-hidden='true'></i></button>If distances between features are binned, what means that they are assigned to a discrete distance range (for example according to the rule "a distance between 6 and 7 Angstroms corresponds to bin 7"), very similar distances might still be assigned to different bins. This happens around the bin borders; in the example above a distance of 5.9 Angstroms would be assigned to bin 6, but a (very similar) distance of 6.1 Angstroms would be assigned to bin 7. "Fuzzy" descriptors also increase the counts of neighboring bins, thereby alleviating the problem of discretizing real-valued distances. An example is given in the applications section.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1564,7 +1563,7 @@ If distances between features are binned, what means that they are assigned to a
     
 ### Size-Bias of the Tanimoto Similarity Coefficient
 
-Both the molecular representation in descriptor space and the comparison via similarity coefficients emphasize certain molecular features or properties while they neglect others. One of the most important properties of the Tanimoto coefficient is its size-bias as illustrated in the biphenyl query shown below. The Tanimoto coefficient reaches a limit and does not decrease when the size of the second molecule is increased.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/size-bias-tanimoto-similarity-coefficient-f4a3ac52'><i class='fa fa-play' aria-hidden='true'></i></button>Both the molecular representation in descriptor space and the comparison via similarity coefficients emphasize certain molecular features or properties while they neglect others. One of the most important properties of the Tanimoto coefficient is its size-bias as illustrated in the biphenyl query shown below. The Tanimoto coefficient reaches a limit and does not decrease when the size of the second molecule is increased.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/size_bias_tanimoto.png){: loading=lazy }
@@ -1577,7 +1576,7 @@ Both the molecular representation in descriptor space and the comparison via sim
     
 ### Size-Bias: Favoring Large Molecules
 
-Similarity coefficients can usually not be compared directly;  the size of the query has a major influence on the distribution of similarities. In the following figure is illustrated the distributions of Tanimoto  coefficients between a query and all molecules of a database. The larger the query, the higher the average similarity, and the wider the distribution of values. This is also known as a 'size-bias' of the Tanimoto coefficient: in similarity calculations larger compounds are favored.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/size-bias-favoring-large-molecules-b881d428'><i class='fa fa-play' aria-hidden='true'></i></button>Similarity coefficients can usually not be compared directly;  the size of the query has a major influence on the distribution of similarities. In the following figure is illustrated the distributions of Tanimoto  coefficients between a query and all molecules of a database. The larger the query, the higher the average similarity, and the wider the distribution of values. This is also known as a 'size-bias' of the Tanimoto coefficient: in similarity calculations larger compounds are favored.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1592,7 +1591,7 @@ Similarity coefficients can usually not be compared directly;  the size of the q
     
 ### 2D vs. 3D Descriptors
 
-Two-dimensional and three-dimensional descriptors also have  specific advantages and disadvantages. While each descriptor also shows individual differences, the following general rules can be given: 2D descriptors perform well where invariant topological features constitute a given activity, they perform less well in the case of topologically more diverse molecules which all show the same property. 3D descriptors on the other hand are able to identify structures with different topologies that still show the same activity, a capability often referred to as "scaffold hopping". On the other hand, they are slower and often found to be less efficient for example in virtual screening runs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/2d-vs-3d-descriptors-ab20f8d2'><i class='fa fa-play' aria-hidden='true'></i></button>Two-dimensional and three-dimensional descriptors also have  specific advantages and disadvantages. While each descriptor also shows individual differences, the following general rules can be given: 2D descriptors perform well where invariant topological features constitute a given activity, they perform less well in the case of topologically more diverse molecules which all show the same property. 3D descriptors on the other hand are able to identify structures with different topologies that still show the same activity, a capability often referred to as "scaffold hopping". On the other hand, they are slower and often found to be less efficient for example in virtual screening runs.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1605,14 +1604,14 @@ Two-dimensional and three-dimensional descriptors also have  specific advantages
 
 ### Unique Content of Each Similarity Coefficient?
 
-While many similarity coefficients can be defined, and indeed have been, the question arises as to whether they contain different information from each other or whether they behave similarly; in other words, whether they cluster into coefficients with very similar properties. While the first step is to investigate whether or not similarity coefficients show similar behavior, we might also ask a second question: if similarity coefficients indeed show different properties, might it be advantageous to combine them? Both questions will be explored in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/unique-content-each-similarity-coefficient-63ebbe21'><i class='fa fa-play' aria-hidden='true'></i></button>While many similarity coefficients can be defined, and indeed have been, the question arises as to whether they contain different information from each other or whether they behave similarly; in other words, whether they cluster into coefficients with very similar properties. While the first step is to investigate whether or not similarity coefficients show similar behavior, we might also ask a second question: if similarity coefficients indeed show different properties, might it be advantageous to combine them? Both questions will be explored in the following pages.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/coef_dif_info.png){: loading=lazy }
 ### Clustering Similarity Coefficients
 
-In a recent work 22 similarity coefficients were analyzed with respect to their behavior, and 3 distinct clusters could be identified. This may suggest that many of them were redundant. A graphic representation of the correlation between descriptors is visualized below (the smaller the distance, the higher the correlation between the descriptors).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/clustering-similarity-coefficients-9c472c29'><i class='fa fa-play' aria-hidden='true'></i></button>In a recent work 22 similarity coefficients were analyzed with respect to their behavior, and 3 distinct clusters could be identified. This may suggest that many of them were redundant. A graphic representation of the correlation between descriptors is visualized below (the smaller the distance, the higher the correlation between the descriptors).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1630,7 +1629,7 @@ In a recent work 22 similarity coefficients were analyzed with respect to their 
     
 ### Consensus Scoring: Asking a Panel of Experts
 
-Imagine you are on a TV quiz show and have to answer a set of questions ranging from any area of sports to any area of culture. You have two people who are allowed to help you; one is better at sports (and okay at culture), one is better at culture (and okay at sports). But you don't know who's better in which area since the persons are anonymous. Whom do you trust? One option is to ask both people and take both opinions into account. This is precisely the concept of "consensus scoring". This concept can be applied in Similarity Analysis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/consensus-scoring-asking-panel-experts-7d4a036a'><i class='fa fa-play' aria-hidden='true'></i></button>Imagine you are on a TV quiz show and have to answer a set of questions ranging from any area of sports to any area of culture. You have two people who are allowed to help you; one is better at sports (and okay at culture), one is better at culture (and okay at sports). But you don't know who's better in which area since the persons are anonymous. Whom do you trust? One option is to ask both people and take both opinions into account. This is precisely the concept of "consensus scoring". This concept can be applied in Similarity Analysis.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1649,7 +1648,7 @@ Imagine you are on a TV quiz show and have to answer a set of questions ranging 
     
 ### Why Does Consensus Scoring Improve the Results?
 
-Mathematically speaking, consensus scoring improves the results in cases where individual errors are independent of each other: they cancel out. This is not true in every case, but on average better results are obtained. On the other hand, if the predictions errors are not (at least partly) independent of each other, consensus scoring is unable to improve results.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/why-does-consensus-scoring-improve-results-a4434e3c'><i class='fa fa-play' aria-hidden='true'></i></button>Mathematically speaking, consensus scoring improves the results in cases where individual errors are independent of each other: they cancel out. This is not true in every case, but on average better results are obtained. On the other hand, if the predictions errors are not (at least partly) independent of each other, consensus scoring is unable to improve results.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1671,7 +1670,7 @@ Mathematically speaking, consensus scoring improves the results in cases where i
     
 ### What Algorithms Exist for Consensus Scoring?
 
-One can merge the predictions from multiple classifiers in many ways: One can use the sum of the individual predictions, the relative ranks or the highest prediction. In practice, the sum of individual predictions has been found to perform best in some cases. In others the highest score assigned to each individual prediction performed best. It should be noted that no generally applicable rules exist here unfortunately.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/what-algorithms-exist-for-consensus-scoring-85a6074c'><i class='fa fa-play' aria-hidden='true'></i></button>One can merge the predictions from multiple classifiers in many ways: One can use the sum of the individual predictions, the relative ranks or the highest prediction. In practice, the sum of individual predictions has been found to perform best in some cases. In others the highest score assigned to each individual prediction performed best. It should be noted that no generally applicable rules exist here unfortunately.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1694,7 +1693,7 @@ One can merge the predictions from multiple classifiers in many ways: One can us
 ### Limitation of Ligand-Based Approaches
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-The "molecular similarity principle" is generally used when the biological receptor (or the mechanism of action) is not known, and this lack of knowledge represents the most fundamental limitation (but also its strength!) of all ligand-based approaches: when focusing only on the ligands, everything cannot be explained. Ignoring the receptor introduces a bias with the risk of incorrect interpretations. This is discussed in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/limitation-ligand-based-approaches-61f56115'><i class='fa fa-play' aria-hidden='true'></i></button>The "molecular similarity principle" is generally used when the biological receptor (or the mechanism of action) is not known, and this lack of knowledge represents the most fundamental limitation (but also its strength!) of all ligand-based approaches: when focusing only on the ligands, everything cannot be explained. Ignoring the receptor introduces a bias with the risk of incorrect interpretations. This is discussed in the following pages.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -1703,7 +1702,7 @@ The "molecular similarity principle" is generally used when the biological recep
 ### Example of Ligand-Based Approach Limitation
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Below, two very similar structures are shown Caffeine differs from Theophyllin purely by a methyl group, a very small change overall. Still, RNA binding is decreased by a factor of 10,000, which would not be expected based on the molecular similarity principle. If we ignore the interactions with the receptor, we cannot explain this difference.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/example-ligand-based-approach-limitation-64a24fd4'><i class='fa fa-play' aria-hidden='true'></i></button>Below, two very similar structures are shown Caffeine differs from Theophyllin purely by a methyl group, a very small change overall. Still, RNA binding is decreased by a factor of 10,000, which would not be expected based on the molecular similarity principle. If we ignore the interactions with the receptor, we cannot explain this difference.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1718,7 +1717,7 @@ Below, two very similar structures are shown Caffeine differs from Theophyllin p
 ### Limitation Due to Extrapolations
 *[apo]: 3D structure of a macromolecule without a ligand
 
-The first limitation of the principle of similarity concerns the distribution of the molecules of the initial dataset. While it may straightforward to extrapolate the properties of closely related objects (e.g. A or B), the extrapolation for C becomes highly debatable. The only way to overcome this limitation is to cover a large range of values for those descriptors believed to be relevant to the property at hand.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/limitation-due-to-extrapolations-402ffb3c'><i class='fa fa-play' aria-hidden='true'></i></button>The first limitation of the principle of similarity concerns the distribution of the molecules of the initial dataset. While it may straightforward to extrapolate the properties of closely related objects (e.g. A or B), the extrapolation for C becomes highly debatable. The only way to overcome this limitation is to cover a large range of values for those descriptors believed to be relevant to the property at hand.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[apo]: 3D structure of a macromolecule without a ligand
 
@@ -1726,14 +1725,14 @@ The first limitation of the principle of similarity concerns the distribution of
 ![](https://media.drugdesign.org/course/molecular-similarity/receptor3.png){: loading=lazy }
 ### Limitation Due to Pitfalls in interpolations
 
-A second type of limitation that is more difficult to predict concerns the possibility of pitfalls in interpolations. Despite the relatively close proximity of A to a set of similar objects, the prediction of its properties may not be straightforward for reasons explained in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/limitation-due-to-pitfalls-interpolations-eb1a7731'><i class='fa fa-play' aria-hidden='true'></i></button>A second type of limitation that is more difficult to predict concerns the possibility of pitfalls in interpolations. Despite the relatively close proximity of A to a set of similar objects, the prediction of its properties may not be straightforward for reasons explained in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/receptor2.png){: loading=lazy }
 ### Principle of Continuity
 
-Because of our ignorance of the interactions with the receptor, the molecular similarity principle (based on ligand-based methods) relies on the principle of "continuity", assuming that changes are gradual in the recognition of molecules. Therefore, the similarity principle is not applicable when abrupt changes occur in the system.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/principle-continuity-2ebe2fed'><i class='fa fa-play' aria-hidden='true'></i></button>Because of our ignorance of the interactions with the receptor, the molecular similarity principle (based on ligand-based methods) relies on the principle of "continuity", assuming that changes are gradual in the recognition of molecules. Therefore, the similarity principle is not applicable when abrupt changes occur in the system.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -1741,7 +1740,7 @@ Because of our ignorance of the interactions with the receptor, the molecular si
 ![](https://media.drugdesign.org/course/molecular-similarity/changement_gradual.png){: loading=lazy }
 ### Discontinuity in Molecular Recognition
 
-Examples of cases where abrupt changes occur and the similarity principle is not applicable include the following: bumps, ligand or receptor conformational changes, flip in binding modes, discontinuity in ligand properties or in receptor function.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/discontinuity-molecular-recognition-2265954f'><i class='fa fa-play' aria-hidden='true'></i></button>Examples of cases where abrupt changes occur and the similarity principle is not applicable include the following: bumps, ligand or receptor conformational changes, flip in binding modes, discontinuity in ligand properties or in receptor function.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[binding modes]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -1750,7 +1749,7 @@ Examples of cases where abrupt changes occur and the similarity principle is not
 ![](https://media.drugdesign.org/course/molecular-similarity/discontinue.png){: loading=lazy }
 #### Bumps
 
-A small change in the structure of a ligand can result in dramatic changes of the biological properties. For example in the structure below, the simple move of one nitrogen atom in the pyrimidine ring transforms a potent inhibitor into an inactive molecule. This may be due to bumps with the receptor, a discontinuity in the activity that in the first place, is not foreseeable (see button "Explanation"). Here, the similarity principle is not applicable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/bumps-b3562e75'><i class='fa fa-play' aria-hidden='true'></i></button>A small change in the structure of a ligand can result in dramatic changes of the biological properties. For example in the structure below, the simple move of one nitrogen atom in the pyrimidine ring transforms a potent inhibitor into an inactive molecule. This may be due to bumps with the receptor, a discontinuity in the activity that in the first place, is not foreseeable (see button "Explanation"). Here, the similarity principle is not applicable.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1771,7 +1770,7 @@ A small change in the structure of a ligand can result in dramatic changes of th
 #### Ligand Conformational Change
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-A change in the structure of a ligand can result in an important change in the conformation of the molecule, and the principle of continuity cannot be invoked in such cases. Examples of conformational changes are shown below, where only one carbon atom is added to the initial structure. The similarity principle is not applicable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/ligand-conformational-change-3abd2737'><i class='fa fa-play' aria-hidden='true'></i></button>A change in the structure of a ligand can result in an important change in the conformation of the molecule, and the principle of continuity cannot be invoked in such cases. Examples of conformational changes are shown below, where only one carbon atom is added to the initial structure. The similarity principle is not applicable.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -1783,7 +1782,7 @@ A change in the structure of a ligand can result in an important change in the c
     ![](https://media.drugdesign.org/course/molecular-similarity/conf_chg_p4.png){: loading=lazy }
 #### Receptor Conformational Changes
 
-For reasons that are not predictable, the receptor may undergo substantial conformational changes. In the example below the enzyme renin adopts different conformations (blue and red) depending on the inhibitors. Note the change of a key tyrosine residue, which exhibits favorable interactions with the inhibitor (yellow); while with the red conformation it clashes. The similarity principle is not applicable when this is overlooked.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/receptor-conformational-changes-8a3c7f9c'><i class='fa fa-play' aria-hidden='true'></i></button>For reasons that are not predictable, the receptor may undergo substantial conformational changes. In the example below the enzyme renin adopts different conformations (blue and red) depending on the inhibitors. Note the change of a key tyrosine residue, which exhibits favorable interactions with the inhibitor (yellow); while with the red conformation it clashes. The similarity principle is not applicable when this is overlooked.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -1791,12 +1790,12 @@ For reasons that are not predictable, the receptor may undergo substantial confo
 === "Sketch"
     ![](https://media.drugdesign.org/course/molecular-similarity/changement_conf_recep.png){: loading=lazy }
 === "3D"
-    <div id="nglviewer-container-rcc" class="nglviewer-container" data-molecule-id="receptor-conformational-change" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-receptor-conformational-change' class='nglviewer-container' data-molecule-id='receptor-conformational-change' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 #### Flip in Binding Mode
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-When an X-ray structure of a complex is available for a given ligand, the design normally includes the assumption that the binding mode of the analog will be similar to that of the reference molecule. This has proven to be valid in many cases. However, there are examples where important flips were observed (in some cases a 180 degree rotation of the structure), and this is another limitation of the above mentioned continuity principle. The similarity principle is not applicable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/flip-binding-mode-b0e291cf'><i class='fa fa-play' aria-hidden='true'></i></button>When an X-ray structure of a complex is available for a given ligand, the design normally includes the assumption that the binding mode of the analog will be similar to that of the reference molecule. This has proven to be valid in many cases. However, there are examples where important flips were observed (in some cases a 180 degree rotation of the structure), and this is another limitation of the above mentioned continuity principle. The similarity principle is not applicable.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1808,14 +1807,14 @@ When an X-ray structure of a complex is available for a given ligand, the design
 #### Discontinuity in Ligand Property
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-A small alteration of a structure may introduce substantial changes in specific physico-chemical properties that are not apparent in the first place. For example, the replacement of a carbon atom by an oxygen, or the change in the number of carbon atoms in a molecule can affect many properties of the substance. Examples of changes in pK<sub>a</sub> and logP are presented on the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/discontinuity-ligand-property-c07a9354'><i class='fa fa-play' aria-hidden='true'></i></button>A small alteration of a structure may introduce substantial changes in specific physico-chemical properties that are not apparent in the first place. For example, the replacement of a carbon atom by an oxygen, or the change in the number of carbon atoms in a molecule can affect many properties of the substance. Examples of changes in pK<sub>a</sub> and logP are presented on the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/pka_scale.png){: loading=lazy }
 ##### pKa
 
-The change of the subtituents in the cocaine structure results in important changes in the pK<sub>a</sub> values with repercussions on  biological activities. In this example the non-continuity that occurred in the pK<sub>a</sub> values were well exploited, but in other situations such considerable changes might be overlooked.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/pka-10f4cf4e'><i class='fa fa-play' aria-hidden='true'></i></button>The change of the subtituents in the cocaine structure results in important changes in the pK<sub>a</sub> values with repercussions on  biological activities. In this example the non-continuity that occurred in the pK<sub>a</sub> values were well exploited, but in other situations such considerable changes might be overlooked.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/local_example1.png){: loading=lazy }
@@ -1833,13 +1832,13 @@ The change of the subtituents in the cocaine structure results in important chan
     
 ##### LogP
 
-When changes are introduced in a structure, their impact on the global characteristics of the modified compounds must be taken into account. The example below illustrates a change in logP that is not negligible.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/logp-0e40c589'><i class='fa fa-play' aria-hidden='true'></i></button>When changes are introduced in a structure, their impact on the global characteristics of the modified compounds must be taken into account. The example below illustrates a change in logP that is not negligible.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/local_example2.png){: loading=lazy }
 #### Discontinuity in the Function of the Receptor
 
-A small change of a ligand can result in dramatic alteration of effect with a receptor. For example L 162,389 and L 162,782 differ only by one methyl group. The former is an antagonist and the latter an agonist of the angiotensin AT1 receptor. Appreciate the dramatic change in receptor binding that occurs for all the examples shown below. A conformational change of the receptor is initiated by the agonist but not the antagonist: a discontinuity that is very hard to predict.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/discontinuity-function-receptor-453f1ce7'><i class='fa fa-play' aria-hidden='true'></i></button>A small change of a ligand can result in dramatic alteration of effect with a receptor. For example L 162,389 and L 162,782 differ only by one methyl group. The former is an antagonist and the latter an agonist of the angiotensin AT1 receptor. Appreciate the dramatic change in receptor binding that occurs for all the examples shown below. A conformational change of the receptor is initiated by the agonist but not the antagonist: a discontinuity that is very hard to predict.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1867,7 +1866,7 @@ A small change of a ligand can result in dramatic alteration of effect with a re
 
 ### How Does "Molecular Similarity" Fare Today?
 
-Despite of the limitations of ligand-based design, "Molecular Similarity" is a concept routinely applied in pharmaceutical and related industries today. Molecular similarity methods are very much of importance in the early stages of drug discovery. They are most often applied when little knowledge is available (e.g. only one active compound). With increasing knowledge, their importance generally decreases and vanishes when the structure-based level is reached.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/how-does-molecular-similarity-fare-today-e2c88d48'><i class='fa fa-play' aria-hidden='true'></i></button>Despite of the limitations of ligand-based design, "Molecular Similarity" is a concept routinely applied in pharmaceutical and related industries today. Molecular similarity methods are very much of importance in the early stages of drug discovery. They are most often applied when little knowledge is available (e.g. only one active compound). With increasing knowledge, their importance generally decreases and vanishes when the structure-based level is reached.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -1876,7 +1875,7 @@ Despite of the limitations of ligand-based design, "Molecular Similarity" is a c
 ### How Many Chances of Being Active?
 *[nce]: New Chemical Entity: a compound not previously described.
 
-In an attempt to answer the question "do structurally similar molecules have similar biological activity?" a follow-up study to 115 high-throughput screening assays shows that at high Tanimoto similarity values (>0.85), only 30% of compounds similar to an active molecule are themselves active. This reveals the complexity of molecular similarity. A list of possible factors explaining such observations is given below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/how-many-chances-being-active-fec50c2a'><i class='fa fa-play' aria-hidden='true'></i></button>In an attempt to answer the question "do structurally similar molecules have similar biological activity?" a follow-up study to 115 high-throughput screening assays shows that at high Tanimoto similarity values (>0.85), only 30% of compounds similar to an active molecule are themselves active. This reveals the complexity of molecular similarity. A list of possible factors explaining such observations is given below.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1890,7 +1889,7 @@ In an attempt to answer the question "do structurally similar molecules have sim
     
 ### Economic Rationale of Similarity-Based Methods
 
-The pressure on the pharmaceutical industry to cut drug development costs triggered the development of ligand-based drug design methods, of which the "molecular similarity principle" has proven to be useful. Computational methods based on the molecular similarity principle are generally cheaper and faster than experimental methods. In the chart below you can see the costs to get a new drug on the market over the last few years, along with the number of new drugs on the market.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/economic-rationale-similarity-based-methods-d72d4f4c'><i class='fa fa-play' aria-hidden='true'></i></button>The pressure on the pharmaceutical industry to cut drug development costs triggered the development of ligand-based drug design methods, of which the "molecular similarity principle" has proven to be useful. Computational methods based on the molecular similarity principle are generally cheaper and faster than experimental methods. In the chart below you can see the costs to get a new drug on the market over the last few years, along with the number of new drugs on the market.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1905,11 +1904,11 @@ The pressure on the pharmaceutical industry to cut drug development costs trigge
     
 ### Perspectives
 
-The concept of molecular similarity has nurtured the imagination and creativity of several generations of medicinal chemists. Because of the fuzziness of the concept medicinal chemists live with the contradiction that simultaneously similar compounds do have and do not have similar activity. In this combinatorial chemistry era, it remains a cheminformatics challenge to create more refined tools enabling the medicinal chemist to navigate in this fuzziness and exploit novel values that were previously ignored.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-similarity/perspectives-d28a1a03'><i class='fa fa-play' aria-hidden='true'></i></button>The concept of molecular similarity has nurtured the imagination and creativity of several generations of medicinal chemists. Because of the fuzziness of the concept medicinal chemists live with the contradiction that simultaneously similar compounds do have and do not have similar activity. In this combinatorial chemistry era, it remains a cheminformatics challenge to create more refined tools enabling the medicinal chemist to navigate in this fuzziness and exploit novel values that were previously ignored.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/molecular-similarity/perspective.png){: loading=lazy }
 
 
-Copyright © 2022 drugdesign.org
+Copyright © 2024 drugdesign.org

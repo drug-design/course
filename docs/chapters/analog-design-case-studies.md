@@ -18,7 +18,7 @@
 
 ### Salicylanilides
 
-The story of the design of a new type of EGF-R protein kinase inhibitors by Novartis is presented here. The quinazoline compound such as 1 (AstraZeneca) is a very potent EGF-R protein kinase inhibitor. Two possible hypotheses for the binding mode of this type of structure are discussed in the section "introduction to protein-ligand binding" however the work that is presented here can be understood independently of the exact mode of binding of this molecule. The structure of this molecule was modified by scaffold morphing, as explained in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/salicylanilides-4c50ba8b'><i class='fa fa-play' aria-hidden='true'></i></button>The story of the design of a new type of EGF-R protein kinase inhibitors by Novartis is presented here. The quinazoline compound such as 1 (AstraZeneca) is a very potent EGF-R protein kinase inhibitor. Two possible hypotheses for the binding mode of this type of structure are discussed in the section "introduction to protein-ligand binding" however the work that is presented here can be understood independently of the exact mode of binding of this molecule. The structure of this molecule was modified by scaffold morphing, as explained in the following pages.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -55,7 +55,7 @@ The story of the design of a new type of EGF-R protein kinase inhibitors by Nova
     
 ### Genistein Structure and Alignment with Quinazoline 1
 
-The isoflavone genistein 2 is an unselective inhibitor of EGF-R protein kinase. The Novartis group observed that this structure superimposes well with that of the AstraZeneca quinazoline inhibitor 1. Moreover, the alignment reveals that a pseudo six-membered ring can be seen in the structure of genistein that mimics the pyrimidine ring of 1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/genistein-structure-alignment-quinazoline-1-accbba14'><i class='fa fa-play' aria-hidden='true'></i></button>The isoflavone genistein 2 is an unselective inhibitor of EGF-R protein kinase. The Novartis group observed that this structure superimposes well with that of the AstraZeneca quinazoline inhibitor 1. Moreover, the alignment reveals that a pseudo six-membered ring can be seen in the structure of genistein that mimics the pyrimidine ring of 1.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -74,7 +74,7 @@ The isoflavone genistein 2 is an unselective inhibitor of EGF-R protein kinase. 
     
 ### 3D Design of a Salicylanilide Scaffold
 
-The analysis shown on the previous page prompted the Novartis team to consider a salicylanilide scaffold such as 3 (see button "2D") as a mimic of the quinazoline molecule 1. The formation of a strong hydrogen bond between the phenolic hydroxyl, and the carbonyl of the amide group in the salicylanilide structure maintains the molecule in the desired geometry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-design-salicylanilide-scaffold-c55a4f16'><i class='fa fa-play' aria-hidden='true'></i></button>The analysis shown on the previous page prompted the Novartis team to consider a salicylanilide scaffold such as 3 (see button "2D") as a mimic of the quinazoline molecule 1. The formation of a strong hydrogen bond between the phenolic hydroxyl, and the carbonyl of the amide group in the salicylanilide structure maintains the molecule in the desired geometry.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -92,7 +92,7 @@ The analysis shown on the previous page prompted the Novartis team to consider a
     
 ### Possible Intramolecular H-Bonds in Salicylanilides
 
-Conformational analyses show that there are two possibilities of intramolecular H-bonds in the salicylanilide structure (3a and 3b). The high probability of the existence of the 3a conformation that mimics the molecular geometry of the AstraZeneca inhibitor 1 well, encouraged the Novartis team to consider the synthesis of several analogs of the salicylanilide structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/possible-intramolecular-h-bonds-salicylanilides-0238ebfd'><i class='fa fa-play' aria-hidden='true'></i></button>Conformational analyses show that there are two possibilities of intramolecular H-bonds in the salicylanilide structure (3a and 3b). The high probability of the existence of the 3a conformation that mimics the molecular geometry of the AstraZeneca inhibitor 1 well, encouraged the Novartis team to consider the synthesis of several analogs of the salicylanilide structure.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -109,7 +109,7 @@ Conformational analyses show that there are two possibilities of intramolecular 
     
 ### Synthesis of the Molecules
 
-About 30 analogs were synthesized; most of the analogs were prepared by reacting the corresponding salicyl acid with the intermediate formed from 3-chloroaniline with phosphorus trichloride. The synthesis used for the biphenylic anilide 28 is described below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/synthesis-molecules-1a875255'><i class='fa fa-play' aria-hidden='true'></i></button>About 30 analogs were synthesized; most of the analogs were prepared by reacting the corresponding salicyl acid with the intermediate formed from 3-chloroaniline with phosphorus trichloride. The synthesis used for the biphenylic anilide 28 is described below.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -124,7 +124,7 @@ About 30 analogs were synthesized; most of the analogs were prepared by reacting
     
 ### Biological Assays
 
-The results obtained for certain compounds are shown below. Potent EGF-R kinase inhibitors that have an IC50 between 23 and 71 nM were found. Compounds that do not have a free phenolic hydroxyl group (such as 10 and 11) capable of making the intramolecular hydrogen bond with the carbonyl of the amide are not active.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/biological-assays-9a507594'><i class='fa fa-play' aria-hidden='true'></i></button>The results obtained for certain compounds are shown below. Potent EGF-R kinase inhibitors that have an IC50 between 23 and 71 nM were found. Compounds that do not have a free phenolic hydroxyl group (such as 10 and 11) capable of making the intramolecular hydrogen bond with the carbonyl of the amide are not active.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -140,7 +140,7 @@ The results obtained for certain compounds are shown below. Potent EGF-R kinase 
     
 ### Validity of the Hypotheses
 
-The results confirmed the validity of the hypothesis that involved mimicking the AstraZeneca quinazoline by a salicylanilide structure. The two compounds have similar molecular geometries due to the existence of a pseudo-ring in the salicylanilide structure with a strong intramolecular hydrogen bond that maintains the proper geometry for the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/validity-hypotheses-bf584f3e'><i class='fa fa-play' aria-hidden='true'></i></button>The results confirmed the validity of the hypothesis that involved mimicking the AstraZeneca quinazoline by a salicylanilide structure. The two compounds have similar molecular geometries due to the existence of a pseudo-ring in the salicylanilide structure with a strong intramolecular hydrogen bond that maintains the proper geometry for the molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -154,7 +154,7 @@ The results confirmed the validity of the hypothesis that involved mimicking the
     
 ### Summary
 
-The good superimposition in 3D of the structures of the AstraZeneca inhibitor 1 and genistein 2 revealed the mimicry of a pseudo-ring of genistein with the pyrimidine ring of 1. Following up on that observation, a salicylanilide scaffold 3 was imagined having the same molecular geometry as 1. This led to the discovery of a new class of potent EGF-R kinase inhibitors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-9ecec562'><i class='fa fa-play' aria-hidden='true'></i></button>The good superimposition in 3D of the structures of the AstraZeneca inhibitor 1 and genistein 2 revealed the mimicry of a pseudo-ring of genistein with the pyrimidine ring of 1. Following up on that observation, a salicylanilide scaffold 3 was imagined having the same molecular geometry as 1. This led to the discovery of a new class of potent EGF-R kinase inhibitors.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -171,7 +171,7 @@ The good superimposition in 3D of the structures of the AstraZeneca inhibitor 1 
 
 ### Pyrimidin-4-yl-ureas
 
-Novartis discovered a novel class of kinase inhibitors having a pyrimidin-4-yl urea chemotype. This structure was developed by P. Furet at Novartis through modeling. This molecule was designed by "scaffold morphing", a design process consisting of the progressive replacement of a real ring present in a reference lead compound by a pseudo ring. This is presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/pyrimidin-4-yl-ureas-3d90724e'><i class='fa fa-play' aria-hidden='true'></i></button>Novartis discovered a novel class of kinase inhibitors having a pyrimidin-4-yl urea chemotype. This structure was developed by P. Furet at Novartis through modeling. This molecule was designed by "scaffold morphing", a design process consisting of the progressive replacement of a real ring present in a reference lead compound by a pseudo ring. This is presented in the following pages.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -189,7 +189,7 @@ Novartis discovered a novel class of kinase inhibitors having a pyrimidin-4-yl u
 ### PD-166285 Reference and Novartis Design
 *[nce]: New Chemical Entity: a compound not previously described.
 
-PD-166285 is a potent protein kinase inhibitor with a broad spectrum of activities and Novartis was interested in using this structure as a template to design new kinase scaffolds. The Novartis team realized they could move one nitrogen atom of the pyrazine heterocycle, and replace the pyrimidone ring by an urea moiety in order to form an intramolecular hydrogen bond which would maintain a global molecular geometry similar to that of the reference lead (see figure).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/pd-166285-reference-novartis-design-f2d5343b'><i class='fa fa-play' aria-hidden='true'></i></button>PD-166285 is a potent protein kinase inhibitor with a broad spectrum of activities and Novartis was interested in using this structure as a template to design new kinase scaffolds. The Novartis team realized they could move one nitrogen atom of the pyrazine heterocycle, and replace the pyrimidone ring by an urea moiety in order to form an intramolecular hydrogen bond which would maintain a global molecular geometry similar to that of the reference lead (see figure).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -208,7 +208,7 @@ PD-166285 is a potent protein kinase inhibitor with a broad spectrum of activiti
 ### A Search in the Cambridge Structural Database
 *[Cambridge Structural Database]: The "Cambridge Structural Database". A worldwide repository source of experimental data on the X-ray structures of small molecules.
 
-To test whether this type of molecular geometry can be found in small molecules, a search in the Cambridge Structural Database (CSD) using a pyrimidin-4-yl urea substructure was made. The search returned seven hits, that all had an intramolecular hydrogen bond between the pyrimidine ring and the urea.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/search-cambridge-structural-database-b7416685'><i class='fa fa-play' aria-hidden='true'></i></button>To test whether this type of molecular geometry can be found in small molecules, a search in the Cambridge Structural Database (CSD) using a pyrimidin-4-yl urea substructure was made. The search returned seven hits, that all had an intramolecular hydrogen bond between the pyrimidine ring and the urea.
 *[CSD]: The "Cambridge Structural Database". A worldwide repository source of experimental data on the X-ray structures of small molecules.
 *[Cambridge Structural Database]: The "Cambridge Structural Database". A worldwide repository source of experimental data on the X-ray structures of small molecules.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -225,7 +225,7 @@ To test whether this type of molecular geometry can be found in small molecules,
     
 ### Ab-Initio Calculations
 
-Ab-initio calculations were made to assess the difference in energy between the extended and the folded pseudo-cyclic conformations of the model compound indicated below. The calculations in the gas phase showed that the pseudo-cyclic conformation was the most stable by 3.2 kcal/mol (populations at room temperature: 77% - 23%). When the calculations were made in water solution, the pseudo-cyclic form was favored by 0.5 kcal/mol (populations: 55% - 45%). This indicated that there would be no energy cost to pay for conformational adaptation to a kinase site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/ab-initio-calculations-b288a463'><i class='fa fa-play' aria-hidden='true'></i></button>Ab-initio calculations were made to assess the difference in energy between the extended and the folded pseudo-cyclic conformations of the model compound indicated below. The calculations in the gas phase showed that the pseudo-cyclic conformation was the most stable by 3.2 kcal/mol (populations at room temperature: 77% - 23%). When the calculations were made in water solution, the pseudo-cyclic form was favored by 0.5 kcal/mol (populations: 55% - 45%). This indicated that there would be no energy cost to pay for conformational adaptation to a kinase site.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -241,7 +241,7 @@ Ab-initio calculations were made to assess the difference in energy between the 
     
 ### Synthesis of the Prototype Molecule
 
-The designed pyrimidyl urea 1 was prepared in two steps from commercially available materials.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/synthesis-prototype-molecule-b6402c33'><i class='fa fa-play' aria-hidden='true'></i></button>The designed pyrimidyl urea 1 was prepared in two steps from commercially available materials.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_synthese_01.png){: loading=lazy }
@@ -255,7 +255,7 @@ The designed pyrimidyl urea 1 was prepared in two steps from commercially availa
     
 ### Biological Assays for Pyrimidin-4-yl-urea 
 
-The pyrimidin-4-yl urea was tested in-vitro to assess its ability to inhibit  the  catalytic activity of several protein kinases. The activities observed are indicated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/biological-assays-for-pyrimidin-4-yl-urea-c24ceba4'><i class='fa fa-play' aria-hidden='true'></i></button>The pyrimidin-4-yl urea was tested in-vitro to assess its ability to inhibit  the  catalytic activity of several protein kinases. The activities observed are indicated below.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_tests_01.png){: loading=lazy }
@@ -269,7 +269,7 @@ The pyrimidin-4-yl urea was tested in-vitro to assess its ability to inhibit  th
     
 ### Docking of Pyrimidin-4-yl-urea in c-Abl
 
-The pyrimidin-4-yl urea was docked in the ATP pocket of the c-Abl kinase. The 3D model revealed the existence of very tight interactions with the hydrophobic back pocket of the ATP binding site, in particular with the threonine gatekeeper residue.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/docking-pyrimidin-4-yl-urea-c-abl-f02586cb'><i class='fa fa-play' aria-hidden='true'></i></button>The pyrimidin-4-yl urea was docked in the ATP pocket of the c-Abl kinase. The 3D model revealed the existence of very tight interactions with the hydrophobic back pocket of the ATP binding site, in particular with the threonine gatekeeper residue.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -287,7 +287,7 @@ The pyrimidin-4-yl urea was docked in the ATP pocket of the c-Abl kinase. The 3D
 ### Correlation of the Activities with Size of Gate Keeper
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The existence of tight binding of the pyrimidin-4-yl urea with the c-Abl threonine gatekeeper prompted the Novartis team to analyze the nature of the gatekeeper residues in the different kinases. They found a good correlation between the biological activities and the volume of the gate keeper. Protein kinases having a gate keeper larger than threonine cannot be active.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/correlation-activities-size-gate-keeper-e63e0117'><i class='fa fa-play' aria-hidden='true'></i></button>The existence of tight binding of the pyrimidin-4-yl urea with the c-Abl threonine gatekeeper prompted the Novartis team to analyze the nature of the gatekeeper residues in the different kinases. They found a good correlation between the biological activities and the volume of the gate keeper. Protein kinases having a gate keeper larger than threonine cannot be active.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -303,7 +303,7 @@ The existence of tight binding of the pyrimidin-4-yl urea with the c-Abl threoni
     
 ### Alignment of Pyrimidin-4-yl urea and PD-166285
 
-Below is shown the good mimicry between the pyrimidin-4-yl urea structure 1 and PD-166285.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/alignment-pyrimidin-4-yl-urea-pd-166285-f35f0faa'><i class='fa fa-play' aria-hidden='true'></i></button>Below is shown the good mimicry between the pyrimidin-4-yl urea structure 1 and PD-166285.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -322,7 +322,7 @@ Below is shown the good mimicry between the pyrimidin-4-yl urea structure 1 and 
     
 ### P&#38;G Discovered Independently the Same Molecule
 
-It is interesting to note that the Procter and Gamble group independently discovered the same kinase inhibitor 1 (optimized as an Lck kinase inhibitor), as Novartis. They started their project by screening against Lck, several analogs of a hit found by HTS for another project (TNF-&alpha;), and having a trisubstituted urea structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/pandg-discovered-independently-same-molecule-9c3c10d1'><i class='fa fa-play' aria-hidden='true'></i></button>It is interesting to note that the Procter and Gamble group independently discovered the same kinase inhibitor 1 (optimized as an Lck kinase inhibitor), as Novartis. They started their project by screening against Lck, several analogs of a hit found by HTS for another project (TNF-&alpha;), and having a trisubstituted urea structure.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -346,7 +346,7 @@ It is interesting to note that the Procter and Gamble group independently discov
     
 #### Optimization Towards Lck Kinase Inhibition
 
-A hit with a modest inhibitory activity (IC<sub>50</sub> = 3.86 &Mu;M) was found. The systematic modification of the structure of this initial hit led to the preparation of about 40 analogs. Low nanomolar inhibitors of the Lck protein kinase were found, one of them corresponded exactly to the Novartis molecule 1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/optimization-towards-lck-kinase-inhibition-c176b243'><i class='fa fa-play' aria-hidden='true'></i></button>A hit with a modest inhibitory activity (IC<sub>50</sub> = 3.86 &micro;M) was found. The systematic modification of the structure of this initial hit led to the preparation of about 40 analogs. Low nanomolar inhibitors of the Lck protein kinase were found, one of them corresponded exactly to the Novartis molecule 1.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -364,7 +364,7 @@ A hit with a modest inhibitory activity (IC<sub>50</sub> = 3.86 &Mu;M) was found
     
 ### Summary
 
-Based on modeling considerations, Novartis designed a mimic of a pyrido[2,3-d]pyrimidin-7-one scaffold (PD-166285) by moving the nitrogen atom and replacing the pyrimidone ring by a urea moiety, in order to form an intramolecular hydrogen bond that preserved the molecular geometry unchanged. The molecule was synthesized and proved to inhibit several protein kinases at the nanomolar level. At the same time, the same molecule was discovered independently by Procter &#38; Gamble, based on the systematic modification of a structure discovered by HTS.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-39d41aab'><i class='fa fa-play' aria-hidden='true'></i></button>Based on modeling considerations, Novartis designed a mimic of a pyrido[2,3-d]pyrimidin-7-one scaffold (PD-166285) by moving the nitrogen atom and replacing the pyrimidone ring by a urea moiety, in order to form an intramolecular hydrogen bond that preserved the molecular geometry unchanged. The molecule was synthesized and proved to inhibit several protein kinases at the nanomolar level. At the same time, the same molecule was discovered independently by Procter &#38; Gamble, based on the systematic modification of a structure discovered by HTS.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -381,7 +381,7 @@ Based on modeling considerations, Novartis designed a mimic of a pyrido[2,3-d]py
 
 ### Anthranilamide Scaffold
 
-Here we present the story of the design of a new type of structure by P. Furet at Novartis and created through modeling and scaffold morphing. The story starts with the discovery of the anilinophtalazine compound 1. The molecule was discovered by HTS and found to be a potent KDR and Flt-1 protein kinase inhibitor. It was subjected to clinical trials under the name of PTK-787.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/anthranilamide-scaffold-baeff43d'><i class='fa fa-play' aria-hidden='true'></i></button>Here we present the story of the design of a new type of structure by P. Furet at Novartis and created through modeling and scaffold morphing. The story starts with the discovery of the anilinophtalazine compound 1. The molecule was discovered by HTS and found to be a potent KDR and Flt-1 protein kinase inhibitor. It was subjected to clinical trials under the name of PTK-787.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -408,7 +408,7 @@ Here we present the story of the design of a new type of structure by P. Furet a
     
 ### Structural Determinants of Anilinophtalazine Activity ?
 
-When the anilinophtalazine lead was discovered, nothing was known about the structural determinants behind its good biological activities. The Novartis team addressed the following questions: what is the bioactive conformation of the molecule and what is the importance of the two nitrogen atoms of the phtalazine heterocycle?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/structural-determinants-anilinophtalazine-activity-f2abe0d3'><i class='fa fa-play' aria-hidden='true'></i></button>When the anilinophtalazine lead was discovered, nothing was known about the structural determinants behind its good biological activities. The Novartis team addressed the following questions: what is the bioactive conformation of the molecule and what is the importance of the two nitrogen atoms of the phtalazine heterocycle?
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -428,7 +428,7 @@ When the anilinophtalazine lead was discovered, nothing was known about the stru
     
 ### Conformational Analyses
 
-To determine the nature of the bioactive conformation, a conformational analysis study was carried out by Novartis modelers to assess the preferred conformation of the molecule. The calculations indicated two possible orientations of the aniline moiety (syn and anti), with respect to the phtalazine nucleus in 1. The "anti" conformation was preferred and the difference in energy between the "syn" and "anti" conformers was 3.1 kcal/mol (populations 77% and 23%).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/conformational-analyses-7606ab3d'><i class='fa fa-play' aria-hidden='true'></i></button>To determine the nature of the bioactive conformation, a conformational analysis study was carried out by Novartis modelers to assess the preferred conformation of the molecule. The calculations indicated two possible orientations of the aniline moiety (syn and anti), with respect to the phtalazine nucleus in 1. The "anti" conformation was preferred and the difference in energy between the "syn" and "anti" conformers was 3.1 kcal/mol (populations 77% and 23%).
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -448,7 +448,7 @@ To determine the nature of the bioactive conformation, a conformational analysis
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[Bidentate]: Having two anchorage points
 
-Experimental and modeling studies reveal that most protein kinase inhibitors bind to the hinge region of the enzyme involving H-bond donor/H-bond acceptor bidentate binding. The Novartis team saw that the anilinophtalazine could bind according to this classical mode if the molecule took on the syn conformation; however this form has relatively high energy. They concluded that it would be more advantageous to pursue analyses with the "anti" conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/bidentate-binding-mode-unlikely-to-occur-a0f86b74'><i class='fa fa-play' aria-hidden='true'></i></button>Experimental and modeling studies reveal that most protein kinase inhibitors bind to the hinge region of the enzyme involving H-bond donor/H-bond acceptor bidentate binding. The Novartis team saw that the anilinophtalazine could bind according to this classical mode if the molecule took on the syn conformation; however this form has relatively high energy. They concluded that it would be more advantageous to pursue analyses with the "anti" conformation.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[bidentate]: Having two anchorage points
@@ -465,7 +465,7 @@ Experimental and modeling studies reveal that most protein kinase inhibitors bin
     
 ### Role of the Nitrogen Phtalazine Atoms
 
-If the bioactive conformation of 1 is likely to be "anti", this means that the anilino NH and the H-bond donor/H-bond acceptor system are not involved in the bidentate binding to the kinase. This prompted the Novartis team to explore the role of the two nitrogen atoms of the phtalazine heterocycle in greater depth.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/role-nitrogen-phtalazine-atoms-216a4548'><i class='fa fa-play' aria-hidden='true'></i></button>If the bioactive conformation of 1 is likely to be "anti", this means that the anilino NH and the H-bond donor/H-bond acceptor system are not involved in the bidentate binding to the kinase. This prompted the Novartis team to explore the role of the two nitrogen atoms of the phtalazine heterocycle in greater depth.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[bidentate]: Having two anchorage points
 
@@ -473,7 +473,7 @@ If the bioactive conformation of 1 is likely to be "anti", this means that the a
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_anil_nitrogens.png){: loading=lazy }
 ### Database Searching
 
-A database search was undertaken to identify similar structures lacking one or both phtalazine nitrogen atoms, but no hits were found. Another hypothesis was tested by the Novartis team by mimicking the pyridazine ring of phtalazine by the pseudo-cycle of a structure possessing an intramolecular hydrogen bond. A search in the Novartis corporate database using the anthranilic acid amide query structure indicated below (second button) gave one single hit. This compound was tested biologically and showed good activity for KDR and Flt-1 kinase inhibition.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/database-searching-01a7482f'><i class='fa fa-play' aria-hidden='true'></i></button>A database search was undertaken to identify similar structures lacking one or both phtalazine nitrogen atoms, but no hits were found. Another hypothesis was tested by the Novartis team by mimicking the pyridazine ring of phtalazine by the pseudo-cycle of a structure possessing an intramolecular hydrogen bond. A search in the Novartis corporate database using the anthranilic acid amide query structure indicated below (second button) gave one single hit. This compound was tested biologically and showed good activity for KDR and Flt-1 kinase inhibition.
 
 
 === "Database search 1"
@@ -489,7 +489,7 @@ A database search was undertaken to identify similar structures lacking one or b
     
 ### 3D Electrostatic Potential
 
-A study was made to compare the electrostatic potential on the surfaces of phtalazine and anthranilic acid amide model molecules (button "2D"). It showed a high degree of mimicry between the two systems.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-electrostatic-potential-a4ee2446'><i class='fa fa-play' aria-hidden='true'></i></button>A study was made to compare the electrostatic potential on the surfaces of phtalazine and anthranilic acid amide model molecules (button "2D"). It showed a high degree of mimicry between the two systems.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -512,7 +512,7 @@ A study was made to compare the electrostatic potential on the surfaces of phtal
     
 ### Synthesis of the Exact Anthranilamide Mimetic
 
-The good biological results obtained for the hit prompted the synthesis of the exact anthranilic amide mimetic of 1 (molecule 3). The synthetic scheme used is described below. Note that this is a nice illustration of database searching conducted solely to validate a concept.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/synthesis-exact-anthranilamide-mimetic-9a079f63'><i class='fa fa-play' aria-hidden='true'></i></button>The good biological results obtained for the hit prompted the synthesis of the exact anthranilic amide mimetic of 1 (molecule 3). The synthetic scheme used is described below. Note that this is a nice illustration of database searching conducted solely to validate a concept.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -534,7 +534,7 @@ The good biological results obtained for the hit prompted the synthesis of the e
     
 ### Biological Tests
 
-The biological tests made on molecule 3 revealed that the compound is a potent inhibitor of KDR/Flt-1, with similar potency and selectivity as compared to 1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/biological-tests-0be8c766'><i class='fa fa-play' aria-hidden='true'></i></button>The biological tests made on molecule 3 revealed that the compound is a potent inhibitor of KDR/Flt-1, with similar potency and selectivity as compared to 1.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -548,7 +548,7 @@ The biological tests made on molecule 3 revealed that the compound is a potent i
     
 ### 3D Overlay of Mimic Structures
 
-The good biological activities found for molecule 3 confirmed the validity of the hypotheses considered for its design. The most important is the intramolecular H-bond between the aniline N-H and the benzanilide C=O that favors the conformation which mimics the reference bicyclic anilinophtalazine structure. The oxygen atom of the carbonyl group of the benzanilide mimics the N2 nitrogen atom of the phtalazine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-overlay-mimic-structures-2fb9d7a6'><i class='fa fa-play' aria-hidden='true'></i></button>The good biological activities found for molecule 3 confirmed the validity of the hypotheses considered for its design. The most important is the intramolecular H-bond between the aniline N-H and the benzanilide C=O that favors the conformation which mimics the reference bicyclic anilinophtalazine structure. The oxygen atom of the carbonyl group of the benzanilide mimics the N2 nitrogen atom of the phtalazine.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -572,7 +572,7 @@ The good biological activities found for molecule 3 confirmed the validity of th
     
 ### Determinants for Anilinophtalazine KDR/Flt-1 Activities
 
-These results suggested the following determinants for anilinophtalazine KDR/Flt-1 kinase inhibitory activities: (1) the bioactive conformation of the anilinophtalazine structure is the "anti" conformation; (2) the nitrogen atom N2 is important whereas (3) the nitrogen atom N3 is not important.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/determinants-for-anilinophtalazine-kdrflt-1-activities-a18c0f67'><i class='fa fa-play' aria-hidden='true'></i></button>These results suggested the following determinants for anilinophtalazine KDR/Flt-1 kinase inhibitory activities: (1) the bioactive conformation of the anilinophtalazine structure is the "anti" conformation; (2) the nitrogen atom N2 is important whereas (3) the nitrogen atom N3 is not important.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -587,7 +587,7 @@ These results suggested the following determinants for anilinophtalazine KDR/Flt
     
 ### Summary
 
-Theoretical analyses made on an anilinophtalazine HTS lead 1 and exploited by an intelligent design were followed up by a database search that enabled the identification of an anthranilamide chemotype kinase inhibitor hit. This prompted the synthesis of the exact mimic of the initially designed molecule 3; it proved to be active at the nanomolar level. The design was made with structure-based reasoning and the work required the biological test of only one hit and the synthesis of only one compound !
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-d7575176'><i class='fa fa-play' aria-hidden='true'></i></button>Theoretical analyses made on an anilinophtalazine HTS lead 1 and exploited by an intelligent design were followed up by a database search that enabled the identification of an anthranilamide chemotype kinase inhibitor hit. This prompted the synthesis of the exact mimic of the initially designed molecule 3; it proved to be active at the nanomolar level. The design was made with structure-based reasoning and the work required the biological test of only one hit and the synthesis of only one compound !
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -603,7 +603,7 @@ Theoretical analyses made on an anilinophtalazine HTS lead 1 and exploited by an
 
 ### Phenoxyphenyltriazoles
 
-Akbarzadeh et al. worked to discover novel benzodiazepine (BZD) ligands with simple non-rigid structures that differed from those of diazepam and estazolam.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/phenoxyphenyltriazoles-3444e883'><i class='fa fa-play' aria-hidden='true'></i></button>Akbarzadeh et al. worked to discover novel benzodiazepine (BZD) ligands with simple non-rigid structures that differed from those of diazepam and estazolam.
 *[f diaz]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -619,7 +619,7 @@ Akbarzadeh et al. worked to discover novel benzodiazepine (BZD) ligands with sim
     
 ### Requirements for Binding to the BZD Receptor
 
-Diazepam 1 and estazolam 2 are potent benzodiazepine receptor antagonists. Structure-activity relationships of benzodiazepine ligands indicate that the following two features are needed for binding to the benzodiazepine receptor: (1) an aromatic ring, and (2) a coplanar proton-accepting group at the proper distance. Moreover, it has been shown that a second out-of-plane aromatic ring can provide additional potency for binding to the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/requirements-for-binding-to-bzd-receptor-19ba07ae'><i class='fa fa-play' aria-hidden='true'></i></button>Diazepam 1 and estazolam 2 are potent benzodiazepine receptor antagonists. Structure-activity relationships of benzodiazepine ligands indicate that the following two features are needed for binding to the benzodiazepine receptor: (1) an aromatic ring, and (2) a coplanar proton-accepting group at the proper distance. Moreover, it has been shown that a second out-of-plane aromatic ring can provide additional potency for binding to the receptor.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -641,7 +641,7 @@ Diazepam 1 and estazolam 2 are potent benzodiazepine receptor antagonists. Struc
     
 ### Design of an Estazolam Mimic
 
-Based on the requirements mentioned in the previous page, and using estazolam 2 as a reference lead, Akbarzadeh et al. designed structures such as 3 as possible benzodiazepine ligands.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/design-an-estazolam-mimic-e1cc3514'><i class='fa fa-play' aria-hidden='true'></i></button>Based on the requirements mentioned in the previous page, and using estazolam 2 as a reference lead, Akbarzadeh et al. designed structures such as 3 as possible benzodiazepine ligands.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -657,7 +657,7 @@ Based on the requirements mentioned in the previous page, and using estazolam 2 
     
 ### Conformational Analyses and Overlay with Diazepam
 
-The conformational analysis of 3 was made, and the preferred conformer was superimposed on that of estazolam. The overlay shows a good match between the two structures. The designed structure has an intramolecular hydrogen bond that contributes to maintaining the molecule in a geometry comparable to that of estazolam.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/conformational-analyses-overlay-diazepam-2ee99fd9'><i class='fa fa-play' aria-hidden='true'></i></button>The conformational analysis of 3 was made, and the preferred conformer was superimposed on that of estazolam. The overlay shows a good match between the two structures. The designed structure has an intramolecular hydrogen bond that contributes to maintaining the molecule in a geometry comparable to that of estazolam.
 *[conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -676,7 +676,7 @@ The conformational analysis of 3 was made, and the preferred conformer was super
     
 ### Chemical Synthesis of the Mimics
 
-About 16 Phenoxyphenyltriazole derivatives were synthesized. Analog 3 was prepared according to the scheme shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/chemical-synthesis-mimics-2f722e0b'><i class='fa fa-play' aria-hidden='true'></i></button>About 16 Phenoxyphenyltriazole derivatives were synthesized. Analog 3 was prepared according to the scheme shown below.
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -690,7 +690,7 @@ About 16 Phenoxyphenyltriazole derivatives were synthesized. Analog 3 was prepar
     
 ### Confirmation of the Design Hypothesis
 
-The 16 Phenoxyphenyltriazole derivatives were pharmacologically tested and it was found that compound 3 has activities similar to that of diazepam on the rotarod test. This confirms the validity of the design hypothesis. The structure has an intramolecular hydrogen bond that contributes to maintaining the molecule in a geometry comparable to that of estazolam.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/confirmation-design-hypothesis-3dbe3bbc'><i class='fa fa-play' aria-hidden='true'></i></button>The 16 Phenoxyphenyltriazole derivatives were pharmacologically tested and it was found that compound 3 has activities similar to that of diazepam on the rotarod test. This confirms the validity of the design hypothesis. The structure has an intramolecular hydrogen bond that contributes to maintaining the molecule in a geometry comparable to that of estazolam.
 *[f diaz]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 *[rotarod test]: Test measuring the performance of mice staying on a rotarod apparatus. Control mice are trained and can to stay for example for 120 seconds on a rod rotated at 12 revolutions per min.
@@ -706,7 +706,7 @@ The 16 Phenoxyphenyltriazole derivatives were pharmacologically tested and it wa
     
 ### Summary
 
-Based on proposed SAR and using estazolam as a reference, a simple non-rigid structure such as 3 was designed and proved to have a benzodiazepine activity comparable to diazepam on the rotarod test. The designed structure has an intramolecular hydrogen bond that contributes to maintaining the molecule in a geometry comparable to that of estazolam.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-29131622'><i class='fa fa-play' aria-hidden='true'></i></button>Based on proposed SAR and using estazolam as a reference, a simple non-rigid structure such as 3 was designed and proved to have a benzodiazepine activity comparable to diazepam on the rotarod test. The designed structure has an intramolecular hydrogen bond that contributes to maintaining the molecule in a geometry comparable to that of estazolam.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[rotarod test]: Test measuring the performance of mice staying on a rotarod apparatus. Control mice are trained and can to stay for example for 120 seconds on a rod rotated at 12 revolutions per min.
@@ -724,14 +724,14 @@ Based on proposed SAR and using estazolam as a reference, a simple non-rigid str
 
 ### Pro-Leu-Gly-NH2 Peptide
 
-The Pro-Leu-Gly-NH2 (molecule 1) is a dopamine receptor-modulating peptide held by an intramolecular hydrogen-bond that stabilizes the molecule in a "C5" conformation, characterized by a pseudo-5-membered ring. The structure of this peptide was transformed by scaffold morphing, as explained in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/pro-leu-gly-nh2-peptide-71a4162f'><i class='fa fa-play' aria-hidden='true'></i></button>The Pro-Leu-Gly-NH2 (molecule 1) is a dopamine receptor-modulating peptide held by an intramolecular hydrogen-bond that stabilizes the molecule in a "C5" conformation, characterized by a pseudo-5-membered ring. The structure of this peptide was transformed by scaffold morphing, as explained in the following pages.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_dopamine_intro.png){: loading=lazy }
 ### The &gamma;-Lactam Analog of Pro-Leu-Gly-NH2
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-The existence of a "C5" conformation in the Pro-Leu-Gly-NH2 peptide is evidenced by the X-ray structure of the &gamma;-lactam analog 2, which adopts a "C5" conformation, This molecule was found to be 1000 times more potent than the initial Pro-Leu-Gly-NH2 peptide in enhancing the binding of N-propylapomorphine to dopamine D<sub>2</sub> receptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/gamma-lactam-analog-pro-leu-gly-nh2-bb047889'><i class='fa fa-play' aria-hidden='true'></i></button>The existence of a "C5" conformation in the Pro-Leu-Gly-NH2 peptide is evidenced by the X-ray structure of the &gamma;-lactam analog 2, which adopts a "C5" conformation, This molecule was found to be 1000 times more potent than the initial Pro-Leu-Gly-NH2 peptide in enhancing the binding of N-propylapomorphine to dopamine D<sub>2</sub> receptors.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[apo]: 3D structure of a macromolecule without a ligand
@@ -744,7 +744,7 @@ The existence of a "C5" conformation in the Pro-Leu-Gly-NH2 peptide is evidenced
 
 ### Design of Imidazolidinone and Diketopiperazine
 
-Two rigid analogs of 2, the imidazolidinone 3 and the diketopiperazine 4, were synthesized as potential mimics of the "C5" conformation of 2 by replacing the pseudo-ring by a real one.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/design-imidazolidinone-diketopiperazine-0819420b'><i class='fa fa-play' aria-hidden='true'></i></button>Two rigid analogs of 2, the imidazolidinone 3 and the diketopiperazine 4, were synthesized as potential mimics of the "C5" conformation of 2 by replacing the pseudo-ring by a real one.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -752,14 +752,14 @@ Two rigid analogs of 2, the imidazolidinone 3 and the diketopiperazine 4, were s
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_dopamine_design.png){: loading=lazy }
 ### Biological Tests
 
-The biological studies showed that 3 and 4 modulate high-affinity dopamine D<sub>2</sub> receptors. The pharmacological activities of the two molecules were found to be of the same magnitude, and 1000 times more potent than the Pro-Leu-Gly-NH2 peptide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/biological-tests-d3b27c85'><i class='fa fa-play' aria-hidden='true'></i></button>The biological studies showed that 3 and 4 modulate high-affinity dopamine D<sub>2</sub> receptors. The pharmacological activities of the two molecules were found to be of the same magnitude, and 1000 times more potent than the Pro-Leu-Gly-NH2 peptide.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_dopamine_tests.png){: loading=lazy }
 ### 3D Alignment of Pro-Leu-Gly-NH2 and Mimics
 
-The 3D superimposition of the Pro-Leu-Gly-NH2 peptide 1 with the imidazolidinone and diketopiperazine analogs 3 and 4 is shown below and demonstrates the good biological activities observed for these synthetic analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignment-pro-leu-gly-nh2-mimics-5e724f6e'><i class='fa fa-play' aria-hidden='true'></i></button>The 3D superimposition of the Pro-Leu-Gly-NH2 peptide 1 with the imidazolidinone and diketopiperazine analogs 3 and 4 is shown below and demonstrates the good biological activities observed for these synthetic analogs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -768,7 +768,7 @@ The 3D superimposition of the Pro-Leu-Gly-NH2 peptide 1 with the imidazolidinone
 
 ### Summary
 
-The two synthetic molecules 3 and 4 were derived by Baures et al. to mimic the bioactive conformation of the dopamine receptor-modulating peptide Pro-Leu-Gly-NH2 (molecule 1). This bioactive conformation is characterized by a "C5" conformation that is stabilized by an intramolecular hydrogen bond. The rigid molecules proved to be very active in the modulation of dopamine D<sub>2</sub> receptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-62f7e455'><i class='fa fa-play' aria-hidden='true'></i></button>The two synthetic molecules 3 and 4 were derived by Baures et al. to mimic the bioactive conformation of the dopamine receptor-modulating peptide Pro-Leu-Gly-NH2 (molecule 1). This bioactive conformation is characterized by a "C5" conformation that is stabilized by an intramolecular hydrogen bond. The rigid molecules proved to be very active in the modulation of dopamine D<sub>2</sub> receptors.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
 
@@ -777,7 +777,7 @@ The two synthetic molecules 3 and 4 were derived by Baures et al. to mimic the b
 
 ### Remoxipride Mimic
 
-Desmethylremoxipride (FLA-797, molecule 2) is the demethylated analog of remoxipride 1, an antagonist of the dopamine type 2 receptor developed for treating schizophrenia. The structure of this molecule was transformed by scaffold morphing, as explained in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/remoxipride-mimic-e65d45c9'><i class='fa fa-play' aria-hidden='true'></i></button>Desmethylremoxipride (FLA-797, molecule 2) is the demethylated analog of remoxipride 1, an antagonist of the dopamine type 2 receptor developed for treating schizophrenia. The structure of this molecule was transformed by scaffold morphing, as explained in the following pages.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
@@ -795,7 +795,7 @@ Desmethylremoxipride (FLA-797, molecule 2) is the demethylated analog of remoxip
 ### Bioactive Conformation of Desmethylremoxipride
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-The high in-vitro biological activity of desmethylremoxipride (IC<sub>50</sub> = 12 nM) was attributed to the presence of a planar arrangement between the amide carbonyl and the aromatic ring. The planarity is maintained by an intramolecular hydrogen bonding framework, as illustrated in the figure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/bioactive-conformation-desmethylremoxipride-cca417b4'><i class='fa fa-play' aria-hidden='true'></i></button>The high in-vitro biological activity of desmethylremoxipride (IC<sub>50</sub> = 12 nM) was attributed to the presence of a planar arrangement between the amide carbonyl and the aromatic ring. The planarity is maintained by an intramolecular hydrogen bonding framework, as illustrated in the figure.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -812,7 +812,7 @@ The high in-vitro biological activity of desmethylremoxipride (IC<sub>50</sub> =
 ### Design of Rigid Analog
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-A conformationally restricted phtalimidine molecule 3 was designed which contains a covalent connection between the amide nitrogen and the ortho position of the aromatic ring.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/design-rigid-analog-75a7e3d9'><i class='fa fa-play' aria-hidden='true'></i></button>A conformationally restricted phtalimidine molecule 3 was designed which contains a covalent connection between the amide nitrogen and the ortho position of the aromatic ring.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -827,7 +827,7 @@ A conformationally restricted phtalimidine molecule 3 was designed which contain
     
 ### Chemical Synthesis
 
-The synthesis of the phtalimidine molecule 3 is described below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/chemical-synthesis-c08f56a3'><i class='fa fa-play' aria-hidden='true'></i></button>The synthesis of the phtalimidine molecule 3 is described below.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_hopping_remox_synthesis.png){: loading=lazy }
@@ -841,7 +841,7 @@ The synthesis of the phtalimidine molecule 3 is described below.
     
 ### Biological Tests
 
-Remoxipride 1 has a moderate affinity for the dopamine D-2 receptor in vitro (IC<sub>50</sub> = 1.57 &Mu;M). The desmethyl analog 2 with its two intramolecular hydrogen bonds maintaining the system coplanar, is more potent (IC<sub>50</sub> = 0.012 &Mu;M). The phtalimidine compound 3 has a potency comparable to that of remoxipride 1 (IC<sub>50</sub> = 1.3 &Mu;M). About 15 analogs were synthesized, however compound 3 remained the most potent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/biological-tests-befb0746'><i class='fa fa-play' aria-hidden='true'></i></button>Remoxipride 1 has a moderate affinity for the dopamine D-2 receptor in vitro (IC<sub>50</sub> = 1.57 &micro;M). The desmethyl analog 2 with its two intramolecular hydrogen bonds maintaining the system coplanar, is more potent (IC<sub>50</sub> = 0.012 &micro;M). The phtalimidine compound 3 has a potency comparable to that of remoxipride 1 (IC<sub>50</sub> = 1.3 &micro;M). About 15 analogs were synthesized, however compound 3 remained the most potent.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
@@ -858,14 +858,14 @@ Remoxipride 1 has a moderate affinity for the dopamine D-2 receptor in vitro (IC
     
 ### 3D Alignments
 
-The superimposition of desmethylremoxipride 2 and isoindolinone 3 is shown in the view below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignments-b8adfbb1'><i class='fa fa-play' aria-hidden='true'></i></button>The superimposition of desmethylremoxipride 2 and isoindolinone 3 is shown in the view below.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_24.gif){: loading=lazy }
 
 ### Summary
 
-In order to find new antipsychotic agents, the phtalimidine molecule 3 was designed to mimic one intramolecular hydrogen bond found in 2. The compound was found to be as potent as remoxipride 1 as a dopamine D-2 antagonist, but less potent than its desmethylremoxipride analog 2.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-55f11381'><i class='fa fa-play' aria-hidden='true'></i></button>In order to find new antipsychotic agents, the phtalimidine molecule 3 was designed to mimic one intramolecular hydrogen bond found in 2. The compound was found to be as potent as remoxipride 1 as a dopamine D-2 antagonist, but less potent than its desmethylremoxipride analog 2.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
@@ -884,7 +884,7 @@ In order to find new antipsychotic agents, the phtalimidine molecule 3 was desig
 
 ### Rimonabant Mimic
 
-Rimonabant 1 is an antagonist of the cannabinoid type 1 receptor (CB-1) used for the treatment of obesity. The structure of Rimonabant was transformed by scaffold morphing, as explained in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/rimonabant-mimic-444f9140'><i class='fa fa-play' aria-hidden='true'></i></button>Rimonabant 1 is an antagonist of the cannabinoid type 1 receptor (CB-1) used for the treatment of obesity. The structure of Rimonabant was transformed by scaffold morphing, as explained in the following pages.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 
@@ -901,7 +901,7 @@ Rimonabant 1 is an antagonist of the cannabinoid type 1 receptor (CB-1) used for
 ### Conformational Analysis of Rimonabant
 *[Conformational Analysis]: The study of the geometries and their associated energies for a given molecule.
 
-Computational studies indicate that the preferred conformation of rimonabant has a trans-amide with the carboxamide oxygen atom nearly coplanar with the pyrazole ring and oriented in the same direction as the pyrazole C-4 methyl group. Subsequent X-ray studies were made on 1 and confirmed the computational predictions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/conformational-analysis-rimonabant-73ecede9'><i class='fa fa-play' aria-hidden='true'></i></button>Computational studies indicate that the preferred conformation of rimonabant has a trans-amide with the carboxamide oxygen atom nearly coplanar with the pyrazole ring and oriented in the same direction as the pyrazole C-4 methyl group. Subsequent X-ray studies were made on 1 and confirmed the computational predictions.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_27.png){: loading=lazy }
@@ -923,7 +923,7 @@ Computational studies indicate that the preferred conformation of rimonabant has
 ### Design of Rigid Analog
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-Analog 2 was designed by replacing the pyrazole N-2 of rimonabant by a carbon atom, and making a six-membered ring between this atom and the carboxamide nitrogen, to freeze the geometry of the molecule. The docking of 1 to a model of the CB-1 receptor shows that the carboxamide nitrogen atom is not involved in a hydrogen-bond with the receptor, and this supports the idea of designing a constrained analog.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/design-rigid-analog-a03aafd0'><i class='fa fa-play' aria-hidden='true'></i></button>Analog 2 was designed by replacing the pyrazole N-2 of rimonabant by a carbon atom, and making a six-membered ring between this atom and the carboxamide nitrogen, to freeze the geometry of the molecule. The docking of 1 to a model of the CB-1 receptor shows that the carboxamide nitrogen atom is not involved in a hydrogen-bond with the receptor, and this supports the idea of designing a constrained analog.
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -939,7 +939,7 @@ Analog 2 was designed by replacing the pyrazole N-2 of rimonabant by a carbon at
     
 ### Chemical Synthesis
 
-The synthesis of 2 involved six steps, as described below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/chemical-synthesis-037f50a6'><i class='fa fa-play' aria-hidden='true'></i></button>The synthesis of 2 involved six steps, as described below.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_hopping_rimon_synthesis.png){: loading=lazy }
@@ -953,7 +953,7 @@ The synthesis of 2 involved six steps, as described below.
     
 ### Biological Tests
 
-Compound 2 proved to be a very potent antagonist of the cannabinoid type 1 receptor, like rimonabant (molecule 1). Additional studies indicated that it caused appetite suppression and reduction in body weight gain in rat models used to develop new therapeutics for obesity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/biological-tests-ff511f87'><i class='fa fa-play' aria-hidden='true'></i></button>Compound 2 proved to be a very potent antagonist of the cannabinoid type 1 receptor, like rimonabant (molecule 1). Additional studies indicated that it caused appetite suppression and reduction in body weight gain in rat models used to develop new therapeutics for obesity.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 
@@ -969,7 +969,7 @@ Compound 2 proved to be a very potent antagonist of the cannabinoid type 1 recep
     
 ### 3D Alignment of Rimonabant and Mimic
 
-The view below shows the good superimposition of the 3D structure of compound 2 with that of rimonabant 1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignment-rimonabant-mimic-b8d7c3ca'><i class='fa fa-play' aria-hidden='true'></i></button>The view below shows the good superimposition of the 3D structure of compound 2 with that of rimonabant 1.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_31.png){: loading=lazy }
@@ -984,7 +984,7 @@ The view below shows the good superimposition of the 3D structure of compound 2 
     
 ### Summary
 
-The rigid analog 2 of rimonabant 1 is a potent antagonist of the cannabinoid type 1 receptor. The virtual ring found in the rimonabant structure is mimicked by a rigid 6-membered piperidinone ring.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-5981ff85'><i class='fa fa-play' aria-hidden='true'></i></button>The rigid analog 2 of rimonabant 1 is a potent antagonist of the cannabinoid type 1 receptor. The virtual ring found in the rimonabant structure is mimicked by a rigid 6-membered piperidinone ring.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
@@ -1003,7 +1003,7 @@ The rigid analog 2 of rimonabant 1 is a potent antagonist of the cannabinoid typ
 
 ### Salicylamide Mimics
 
-Salicylamide 1 is a competitive inhibitor of the scytalone dehydrase. Hodge and Pierce exploited its structure to design potent mimics of this inhibitor. The structure of this molecule was transformed by scaffold morphing, as explained in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/salicylamide-mimics-52bd30b9'><i class='fa fa-play' aria-hidden='true'></i></button>Salicylamide 1 is a competitive inhibitor of the scytalone dehydrase. Hodge and Pierce exploited its structure to design potent mimics of this inhibitor. The structure of this molecule was transformed by scaffold morphing, as explained in the following pages.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -1019,7 +1019,7 @@ Salicylamide 1 is a competitive inhibitor of the scytalone dehydrase. Hodge and 
 ### SAR of Salicylamide 1
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Analysis of the SAR data of the salicylamide series provides useful information about the structural requirements for the binding of 1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/sar-salicylamide-1-7a73823f'><i class='fa fa-play' aria-hidden='true'></i></button>Analysis of the SAR data of the salicylamide series provides useful information about the structural requirements for the binding of 1.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -1034,7 +1034,7 @@ Analysis of the SAR data of the salicylamide series provides useful information 
     
 #### Removing the Hydroxyl or the Carbonyl
 
-It has been observed that the deletion of either the phenolic OH or the carbonyl oxygen atom dramatically reduces scytalone dehydrase inhibitory activity. These two functional groups are necessary to good inhibitory activity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/removing-hydroxyl-or-carbonyl-b57c287d'><i class='fa fa-play' aria-hidden='true'></i></button>It has been observed that the deletion of either the phenolic OH or the carbonyl oxygen atom dramatically reduces scytalone dehydrase inhibitory activity. These two functional groups are necessary to good inhibitory activity.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1051,7 +1051,7 @@ It has been observed that the deletion of either the phenolic OH or the carbonyl
     
 #### Analyzing if Ortho Electron Lone-Pair is Sufficient
 
-When the hydroxyl of 1 is replaced by a fluoro, amino, acetamido or methoxy, the inhibitory activity decreases by more than two orders of magnitude. This indicates that an electron lone-pair at the ortho-position is insufficient to explain the observed activities and the hydroxyl group is necessary for good inhibitory activity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/analyzing-if-ortho-electron-lone-pair-is-sufficient-72b8ad1c'><i class='fa fa-play' aria-hidden='true'></i></button>When the hydroxyl of 1 is replaced by a fluoro, amino, acetamido or methoxy, the inhibitory activity decreases by more than two orders of magnitude. This indicates that an electron lone-pair at the ortho-position is insufficient to explain the observed activities and the hydroxyl group is necessary for good inhibitory activity.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1067,7 +1067,7 @@ When the hydroxyl of 1 is replaced by a fluoro, amino, acetamido or methoxy, the
     
 #### Potent Inhibition at Ki at Different pH
 
-The affinity of 1 against the scytalone dehydrase was measured at different pH. The authors found that the neutral form of 1 binds 30-fold more tightly to the enzyme than the deprotonated anionic form. This once again demonstrates the importance of the phenolic hydroxyl group; moreover the OH needs to be in its neutral form.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/potent-inhibition-at-ki-at-different-ph-cdad264b'><i class='fa fa-play' aria-hidden='true'></i></button>The affinity of 1 against the scytalone dehydrase was measured at different pH. The authors found that the neutral form of 1 binds 30-fold more tightly to the enzyme than the deprotonated anionic form. This once again demonstrates the importance of the phenolic hydroxyl group; moreover the OH needs to be in its neutral form.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1084,7 +1084,7 @@ The affinity of 1 against the scytalone dehydrase was measured at different pH. 
     
 ### Pseudo-Ring of 1 Binds as a Whole Unit
 
-Hodge and Pierce analyzed all the data presented in the previous pages and concluded that these SAR are consistent with the idea that the pseudo-ring of 1 binds as a "whole intact block".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/pseudo-ring-1-binds-as-whole-unit-5011c3b5'><i class='fa fa-play' aria-hidden='true'></i></button>Hodge and Pierce analyzed all the data presented in the previous pages and concluded that these SAR are consistent with the idea that the pseudo-ring of 1 binds as a "whole intact block".
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -1099,7 +1099,7 @@ Hodge and Pierce analyzed all the data presented in the previous pages and concl
     
 ### Design of Quinazoline Mimic
 
-With the aim of stabilizing the salicylamides to metabolic deactivation, Hodge and Pierce imagined the replacement of the pseudo-ring of 1 by the pyrimidine ring of a quinazoline molecule such as 2. Through kinetic studies, they demonstrated that the two inhibitors 1 and 2 have similar potencies and bind to the enzyme in their neutral form. Removing one of the two nitrogen atoms in the quinazoline structure 2 yields molecules such as 3 and 4 that are much less active.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/design-quinazoline-mimic-7879cc8f'><i class='fa fa-play' aria-hidden='true'></i></button>With the aim of stabilizing the salicylamides to metabolic deactivation, Hodge and Pierce imagined the replacement of the pseudo-ring of 1 by the pyrimidine ring of a quinazoline molecule such as 2. Through kinetic studies, they demonstrated that the two inhibitors 1 and 2 have similar potencies and bind to the enzyme in their neutral form. Removing one of the two nitrogen atoms in the quinazoline structure 2 yields molecules such as 3 and 4 that are much less active.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -1115,14 +1115,14 @@ With the aim of stabilizing the salicylamides to metabolic deactivation, Hodge a
     
 ### 3D Alignment of Salicylamide 1 and Quinazoiline 2
 
-The 3D alignment of the salicylamide 1 and quinazoline 2 indicates an excellent match for the two structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignment-salicylamide-1-quinazoiline-2-b9593f36'><i class='fa fa-play' aria-hidden='true'></i></button>The 3D alignment of the salicylamide 1 and quinazoline 2 indicates an excellent match for the two structures.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_09.png){: loading=lazy }
 
 ### Conclusion
 
-The results shown here suggest that the scytalone enzyme recognizes the pseudo-ring of salicylamide 1 as a whole intact block. This observation might be general and valid for other proteins.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/conclusion-bd2d63dd'><i class='fa fa-play' aria-hidden='true'></i></button>The results shown here suggest that the scytalone enzyme recognizes the pseudo-ring of salicylamide 1 as a whole intact block. This observation might be general and valid for other proteins.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/inverse_concl.png){: loading=lazy }
@@ -1136,7 +1136,7 @@ The results shown here suggest that the scytalone enzyme recognizes the pseudo-r
     
 ### Summary
 
-Based on the structure of salicylamide 1 and its associated SAR data, Hodge and Pierce derived a quinazoline mimic 2 that proved to be a potent inhibitor of the scytalone dehydrase, active at the nanomolar range.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-13df2358'><i class='fa fa-play' aria-hidden='true'></i></button>Based on the structure of salicylamide 1 and its associated SAR data, Hodge and Pierce derived a quinazoline mimic 2 that proved to be a potent inhibitor of the scytalone dehydrase, active at the nanomolar range.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1154,7 +1154,7 @@ Based on the structure of salicylamide 1 and its associated SAR data, Hodge and 
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-Involved in the design of bradykinin antagonists, the Merck group needed to find a replacement for a 2,3-diaminopyridine moiety in one of their most potent compounds. Based on conformational analyses, molecular mimicry and bioisosterism, the 2,3-diaminopyridine moiety was progressively replaced by an improved moiety, as explained in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/bradykinin-antagonists-828c6e47'><i class='fa fa-play' aria-hidden='true'></i></button>Involved in the design of bradykinin antagonists, the Merck group needed to find a replacement for a 2,3-diaminopyridine moiety in one of their most potent compounds. Based on conformational analyses, molecular mimicry and bioisosterism, the 2,3-diaminopyridine moiety was progressively replaced by an improved moiety, as explained in the following pages.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -1174,7 +1174,7 @@ Involved in the design of bradykinin antagonists, the Merck group needed to find
     
 ### The Problem
 
-Molecule 1 was found to be a potent bradykinin B1 antagonist but could not be considered for further development because of the toxicity of the metabolites associated with the diaminopyridine fragment. It was important to find a replacement for this moiety in order to overcome this problem.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/problem-8846900b'><i class='fa fa-play' aria-hidden='true'></i></button>Molecule 1 was found to be a potent bradykinin B1 antagonist but could not be considered for further development because of the toxicity of the metabolites associated with the diaminopyridine fragment. It was important to find a replacement for this moiety in order to overcome this problem.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1190,7 +1190,7 @@ Molecule 1 was found to be a potent bradykinin B1 antagonist but could not be co
     
 ### The Stepwise Discovery of Cyclopropylamide
 
-The design strategy followed a stepwise process that is described in detail here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/stepwise-discovery-cyclopropylamide-42b08050'><i class='fa fa-play' aria-hidden='true'></i></button>The design strategy followed a stepwise process that is described in detail here.
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/sc_hp_brad_stepwise.png){: loading=lazy }
@@ -1203,7 +1203,7 @@ The design strategy followed a stepwise process that is described in detail here
     
 #### Retaining the two N-H groups
 
-Analogs of 1 and the resulting SAR data indicated that it was necessary to retain the two N-H bonds, the N-acyl group, and its geometrical proximity to the biphenyl region. A simple way to do so was to connect the N-acyl group and the biphenylamine with an ethylene linker (prototype A).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/retaining-two-n-h-groups-0535e874'><i class='fa fa-play' aria-hidden='true'></i></button>Analogs of 1 and the resulting SAR data indicated that it was necessary to retain the two N-H bonds, the N-acyl group, and its geometrical proximity to the biphenyl region. A simple way to do so was to connect the N-acyl group and the biphenylamine with an ethylene linker (prototype A).
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1219,7 +1219,7 @@ Analogs of 1 and the resulting SAR data indicated that it was necessary to retai
     
 #### Mimicking the Nitrogen Pyridine Atom by a Carbonyl
 
-It was also imperative to retain a heteroatom in the region occupied by the nitrogen atom of the pyridine. A carbonyl group was therefore introduced to mimic the nitrogen atom and ensure potential lone pair interactions (prototype B). Moreover, the carbonyl was introduced to reduce the basicity of the benzylic amine in A to achieve closer resemblance to the diaminopyridine structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/mimicking-nitrogen-pyridine-atom-by-carbonyl-0fca6074'><i class='fa fa-play' aria-hidden='true'></i></button>It was also imperative to retain a heteroatom in the region occupied by the nitrogen atom of the pyridine. A carbonyl group was therefore introduced to mimic the nitrogen atom and ensure potential lone pair interactions (prototype B). Moreover, the carbonyl was introduced to reduce the basicity of the benzylic amine in A to achieve closer resemblance to the diaminopyridine structure.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1233,7 +1233,7 @@ It was also imperative to retain a heteroatom in the region occupied by the nitr
     
 #### Conformational Considerations
 
-Because analog B was unlikely to adopt a conformation with a molecular geometry similar to that of 1, the Thorpe-Ingold effect was considered, leading to the possibility of adding a gem-dimethyl group at the C alpha position (prototype C) to facilitate the rotation about the CO-C alpha bond and increase the population of the target conformer mimic.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/conformational-considerations-155b789e'><i class='fa fa-play' aria-hidden='true'></i></button>Because analog B was unlikely to adopt a conformation with a molecular geometry similar to that of 1, the Thorpe-Ingold effect was considered, leading to the possibility of adding a gem-dimethyl group at the C alpha position (prototype C) to facilitate the rotation about the CO-C alpha bond and increase the population of the target conformer mimic.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -1247,7 +1247,7 @@ Because analog B was unlikely to adopt a conformation with a molecular geometry 
     
 #### First Molecules Synthesized
 
-The reasoning explained in the previous page led to the synthesis of a molecule such as 2 as a first replacement for the 2,3-diaminopyridine moiety. This molecule had a modest inhibitory activity (IC<sub>50</sub>=3.45 &Mu;M); whereas analog 3 was as expected much less active.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/first-molecules-synthesized-d224d250'><i class='fa fa-play' aria-hidden='true'></i></button>The reasoning explained in the previous page led to the synthesis of a molecule such as 2 as a first replacement for the 2,3-diaminopyridine moiety. This molecule had a modest inhibitory activity (IC<sub>50</sub>=3.45 &micro;M); whereas analog 3 was as expected much less active.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1263,7 +1263,7 @@ The reasoning explained in the previous page led to the synthesis of a molecule 
     
 #### Restoring Lipophilic Interactions
 
-The comparison of the structures of 1 and 2 suggested that lipophilic functionalities at the C alpha atom could be exploited to mimic the lipophilicity of the pyridine fragment. The cyclohexylamino acid analog 6 was prepared and showed improved binding affinity as compared to 2.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/restoring-lipophilic-interactions-8910855b'><i class='fa fa-play' aria-hidden='true'></i></button>The comparison of the structures of 1 and 2 suggested that lipophilic functionalities at the C alpha atom could be exploited to mimic the lipophilicity of the pyridine fragment. The cyclohexylamino acid analog 6 was prepared and showed improved binding affinity as compared to 2.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
@@ -1278,7 +1278,7 @@ The comparison of the structures of 1 and 2 suggested that lipophilic functional
     
 #### Reducing Ring Size
 
-Analogs having a ring size of 5, 4 and 3-membered atoms were also prepared and tested. It was found that the smaller the size of the ring, the better the binding affinity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/reducing-ring-size-405a90aa'><i class='fa fa-play' aria-hidden='true'></i></button>Analogs having a ring size of 5, 4 and 3-membered atoms were also prepared and tested. It was found that the smaller the size of the ring, the better the binding affinity.
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
@@ -1294,7 +1294,7 @@ Analogs having a ring size of 5, 4 and 3-membered atoms were also prepared and t
     
 #### The Best Replacement
 
-The cyclopropylcarbonyl analog 9 proved to correspond to the best surrogate of the 2,3-diaminopyridine moiety. Variations at the N-acyl group enabled the researchers to find more potent inhibitors such as 10.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/best-replacement-6a844236'><i class='fa fa-play' aria-hidden='true'></i></button>The cyclopropylcarbonyl analog 9 proved to correspond to the best surrogate of the 2,3-diaminopyridine moiety. Variations at the N-acyl group enabled the researchers to find more potent inhibitors such as 10.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1311,7 +1311,7 @@ The cyclopropylcarbonyl analog 9 proved to correspond to the best surrogate of t
     
 #### Additional Factors in Cyclopropyl Replacement
 
-The cyclopropyl analog has additional advantages that are discussed here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/additional-factors-cyclopropyl-replacement-445286c5'><i class='fa fa-play' aria-hidden='true'></i></button>The cyclopropyl analog has additional advantages that are discussed here.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -1325,7 +1325,7 @@ The cyclopropyl analog has additional advantages that are discussed here.
     
 #### Torsion Angle N-C-C-N
 
-In order to mimic the molecular geometry of 1, structure C must have a torsion angle &Phi;(N-C-C-N) close to 0&#176;. This is evidenced by the low activity of 3 (preferred torsion angle of 180&#176;) and the higher activity of 2 (preferred gauche torsion angle).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/torsion-angle-n-c-c-n-387c9763'><i class='fa fa-play' aria-hidden='true'></i></button>In order to mimic the molecular geometry of 1, structure C must have a torsion angle &Phi;(N-C-C-N) close to 0&#176;. This is evidenced by the low activity of 3 (preferred torsion angle of 180&#176;) and the higher activity of 2 (preferred gauche torsion angle).
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1339,7 +1339,7 @@ In order to mimic the molecular geometry of 1, structure C must have a torsion a
     
 #### Smaller Rings have Increasing &pi; Character
 
-Another factor that explains the observation of increased activities when reducing the size of the ring is that smaller rings have a higher p character (cyclopropyl groups are often seen as equivalent to a double bond). Therefore, there are &pi;-&pi; overlaps between the carbonyl and the cyclopropyl groups, an overlap that is maximal when the two groups are coplanar. This constitutes an additional reason why the cyclopropylamino acid amide group is a good pharmacophoric replacement for the 2,3-diaminopyridine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/smaller-rings-have-increasing-pi-character-6765216c'><i class='fa fa-play' aria-hidden='true'></i></button>Another factor that explains the observation of increased activities when reducing the size of the ring is that smaller rings have a higher p character (cyclopropyl groups are often seen as equivalent to a double bond). Therefore, there are &pi;-&pi; overlaps between the carbonyl and the cyclopropyl groups, an overlap that is maximal when the two groups are coplanar. This constitutes an additional reason why the cyclopropylamino acid amide group is a good pharmacophoric replacement for the 2,3-diaminopyridine.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1353,7 +1353,7 @@ Another factor that explains the observation of increased activities when reduci
     
 #### Ring Strain and Geometry of Cyclopropyl
 
-The ring strain existing in the cyclopropyl ring contributes to increasing the mimicry with the diaminopyridine fragment. The explanation is the following: the bond angle between the geminal substituents becomes closer to 116&#176; (Thorpe-Ingold effect), instead of the normal tetrahedral value 109&#176;. This increases the geometrical similarity with the sp<sup>2</sup> bond angles of 120&#176; found in the diaminopyridine core.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/ring-strain-geometry-cyclopropyl-fdc10873'><i class='fa fa-play' aria-hidden='true'></i></button>The ring strain existing in the cyclopropyl ring contributes to increasing the mimicry with the diaminopyridine fragment. The explanation is the following: the bond angle between the geminal substituents becomes closer to 116&#176; (Thorpe-Ingold effect), instead of the normal tetrahedral value 109&#176;. This increases the geometrical similarity with the sp<sup>2</sup> bond angles of 120&#176; found in the diaminopyridine core.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1367,7 +1367,7 @@ The ring strain existing in the cyclopropyl ring contributes to increasing the m
     
 #### Bulkiness of the Hydrophobic Ring
 
-Another reason enabling cyclopropyl analog 9 to adopt a conformation more similar to 1 more easily is the bulkiness of the ring. With a 3-membered ring, the steric effects are minimal and enable the N-acyl group to adopt a conformation similar to that found in 1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/bulkiness-hydrophobic-ring-3927a93a'><i class='fa fa-play' aria-hidden='true'></i></button>Another reason enabling cyclopropyl analog 9 to adopt a conformation more similar to 1 more easily is the bulkiness of the ring. With a 3-membered ring, the steric effects are minimal and enable the N-acyl group to adopt a conformation similar to that found in 1.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -1381,7 +1381,7 @@ Another reason enabling cyclopropyl analog 9 to adopt a conformation more simila
     
 ### 3D Alignment of 1 and the Cyclopropyl Surrogate
 
-Below is shown the good 3D overlap of the reference diaminopyridine structure with that of the cyclopropylamino acid amide. This explains why the cyclopropylamino acid amide is a good surrogate of the 2,3-diaminopyridine moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignment-1-cyclopropyl-surrogate-c52e28d3'><i class='fa fa-play' aria-hidden='true'></i></button>Below is shown the good 3D overlap of the reference diaminopyridine structure with that of the cyclopropylamino acid amide. This explains why the cyclopropylamino acid amide is a good surrogate of the 2,3-diaminopyridine moiety.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -1390,7 +1390,7 @@ Below is shown the good 3D overlap of the reference diaminopyridine structure wi
 
 ### Summary
 
-To circumvent toxicity problems of a 2,3-diaminopyridine bradykinin antagonist, the Merck group designed a cyclopropylamino acid amide surrogate. To achieve this good mimicry, the group took into account the geometric, conformational, stereoelectronic and physicochemical features of the structures. The antagonists displayed low nanomolar affinity for the human bradykinin receptor and good oral bioavailability in the rat.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/summary-604e409b'><i class='fa fa-play' aria-hidden='true'></i></button>To circumvent toxicity problems of a 2,3-diaminopyridine bradykinin antagonist, the Merck group designed a cyclopropylamino acid amide surrogate. To achieve this good mimicry, the group took into account the geometric, conformational, stereoelectronic and physicochemical features of the structures. The antagonists displayed low nanomolar affinity for the human bradykinin receptor and good oral bioavailability in the rat.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
@@ -1411,7 +1411,7 @@ To circumvent toxicity problems of a 2,3-diaminopyridine bradykinin antagonist, 
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Confronted with the same problem encountered for bradykinin antagonists, the Merck group had very potent Factor Xa inhibitors carrying a 2,3-diaminopyridine moiety that could not be further developed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/factor-xa-inhibitors-1c5d4c98'><i class='fa fa-play' aria-hidden='true'></i></button>Confronted with the same problem encountered for bradykinin antagonists, the Merck group had very potent Factor Xa inhibitors carrying a 2,3-diaminopyridine moiety that could not be further developed.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -1433,7 +1433,7 @@ Confronted with the same problem encountered for bradykinin antagonists, the Mer
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-After the good results obtained with bradykinin antagonists, the Merck team envisaged replacing the 2,3-diaminopyridine moiety by a cyclopropylamino acid amide, to see whether this replacement could also be valid for this project. The replacement of the 2,3-diaminopyridine in molecule 12 by a cyclopropyl acid amide yielded compound 13 with a Ki of 175 nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/factor-xa-inhibitors-23-diaminopyridine-core-a3ef5989'><i class='fa fa-play' aria-hidden='true'></i></button>After the good results obtained with bradykinin antagonists, the Merck team envisaged replacing the 2,3-diaminopyridine moiety by a cyclopropylamino acid amide, to see whether this replacement could also be valid for this project. The replacement of the 2,3-diaminopyridine in molecule 12 by a cyclopropyl acid amide yielded compound 13 with a Ki of 175 nM.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -1452,7 +1452,7 @@ After the good results obtained with bradykinin antagonists, the Merck team envi
     
 ### Replacement May be of General Utility
 
-This result suggests that the replacement of 2,3-diaminopyridine by a cyclopropylcarbonyl moiety may be of general utility and valid for other targets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/replacement-may-be-general-utility-c4a8328c'><i class='fa fa-play' aria-hidden='true'></i></button>This result suggests that the replacement of 2,3-diaminopyridine by a cyclopropylcarbonyl moiety may be of general utility and valid for other targets.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -1466,7 +1466,7 @@ This result suggests that the replacement of 2,3-diaminopyridine by a cyclopropy
     
 ### Surrogates Generated by Computer
 
-It is interesting to note that Paul Hawkins (OpenEye Scientific Software Inc.) used the Brood program to find bioisoteres of 2,3-diaminopyridine and found the same replacement as discovered by the Merck team. Some of the hits generated by the program are represented below. Note that cyclopropylcarbonyl is ranked in position 4. Other programs also exist that can be used along the same lines (see section on bioisosterism) and be exploited for scaffold morphing.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/surrogates-generated-by-computer-3829cc97'><i class='fa fa-play' aria-hidden='true'></i></button>It is interesting to note that Paul Hawkins (OpenEye Scientific Software Inc.) used the Brood program to find bioisoteres of 2,3-diaminopyridine and found the same replacement as discovered by the Merck team. Some of the hits generated by the program are represented below. Note that cyclopropylcarbonyl is ranked in position 4. Other programs also exist that can be used along the same lines (see section on bioisosterism) and be exploited for scaffold morphing.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1537,10 +1537,11 @@ It is interesting to note that Paul Hawkins (OpenEye Scientific Software Inc.) u
 
 ### Additional Case Studies
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/additional-case-studies-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/analog-design-case-studies/advanced_analog_design_other_examples.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

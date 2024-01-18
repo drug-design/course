@@ -19,7 +19,7 @@
 ### What is Bioisosterism?
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-The principle that similar molecules tend to have similar properties has been around since the early days of medicinal chemistry. Bioisosterism,  a concept based on this principle,   makes it possible to  replace fragments of a compound by groups having similar properties. The modified analog is then tested for interesting properties. The example below  illustrates two bioisosteric anxiolitic drugs: Diazepam and Clobazam. Clobazam was found to be more effective than diazepam in diminishing anxiety. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/what-is-bioisosterism-5b65d7e0'><i class='fa fa-play' aria-hidden='true'></i></button>The principle that similar molecules tend to have similar properties has been around since the early days of medicinal chemistry. Bioisosterism,  a concept based on this principle,   makes it possible to  replace fragments of a compound by groups having similar properties. The modified analog is then tested for interesting properties. The example below  illustrates two bioisosteric anxiolitic drugs: Diazepam and Clobazam. Clobazam was found to be more effective than diazepam in diminishing anxiety. 
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -86,7 +86,7 @@ The principle that similar molecules tend to have similar properties has been ar
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Over the years the concept of bioisosterism has progressively evolved. In 1919 Langmuir  introduced the concept of isosterism that  only took physicochemical properties into account. Later the biological dimension was included that turned the original isosterism into bioisosterism. Recent progress has given a new dimension to bioisosterism and has made it an integral part of cheminformatics today. The key  phases in the development of bioisosterism appear in the following diagram and are presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/history-concept-bioisosterism-ac62ec11'><i class='fa fa-play' aria-hidden='true'></i></button>Over the years the concept of bioisosterism has progressively evolved. In 1919 Langmuir  introduced the concept of isosterism that  only took physicochemical properties into account. Later the biological dimension was included that turned the original isosterism into bioisosterism. Recent progress has given a new dimension to bioisosterism and has made it an integral part of cheminformatics today. The key  phases in the development of bioisosterism appear in the following diagram and are presented in the following pages.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -94,7 +94,7 @@ Over the years the concept of bioisosterism has progressively evolved. In 1919 L
 ![](https://media.drugdesign.org/course/bioisosterism/history.png){: loading=lazy }
 ### Langmuir (1919): Comolecules and Isosteres
 
-Langmuir introduced the concept of "isosteres" (or "comolecules") by observing that molecules such as N<sub>2</sub> and CO, CO<sub>2</sub> and N<sub>2</sub>O had similar physical properties. He suggested that molecules or groups of atoms that have the same number of electrons may possess similar physicochemical properties. He was able to identify 21 groups of isosteres some of which are shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/langmuir-1919-comolecules-isosteres-460c019f'><i class='fa fa-play' aria-hidden='true'></i></button>Langmuir introduced the concept of "isosteres" (or "comolecules") by observing that molecules such as N<sub>2</sub> and CO, CO<sub>2</sub> and N<sub>2</sub>O had similar physical properties. He suggested that molecules or groups of atoms that have the same number of electrons may possess similar physicochemical properties. He was able to identify 21 groups of isosteres some of which are shown below.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -108,7 +108,7 @@ Langmuir introduced the concept of "isosteres" (or "comolecules") by observing t
     
 ### Grimm (1925)
 
-While  studying non-metallic hydrides, Grimm defined his "hydride displacement law" to describe structural similarities between groups of atoms that combine with hydrogen atoms. Each vertical column of the table below represents a group of isosteres: they have the same number of valence electrons.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/grimm-1925-11215f39'><i class='fa fa-play' aria-hidden='true'></i></button>While  studying non-metallic hydrides, Grimm defined his "hydride displacement law" to describe structural similarities between groups of atoms that combine with hydrogen atoms. Each vertical column of the table below represents a group of isosteres: they have the same number of valence electrons.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -130,7 +130,7 @@ and on Some Challenges in Experimental Chemistry**
     
 ### Erlenmeyer (1932)
 
-Erlenmeyer extended Grimm's classification and defined isosteres as atoms, ions, and molecules in which the peripheral layers of electrons are identical. In the following table isosteres are grouped according to  the number of peripheral electrons. Each vertical column represents a group of isosteres.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/erlenmeyer-1932-7677145b'><i class='fa fa-play' aria-hidden='true'></i></button>Erlenmeyer extended Grimm's classification and defined isosteres as atoms, ions, and molecules in which the peripheral layers of electrons are identical. In the following table isosteres are grouped according to  the number of peripheral electrons. Each vertical column represents a group of isosteres.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/erlenmeyer.png){: loading=lazy }
@@ -146,7 +146,7 @@ Erlenmeyer extended Grimm's classification and defined isosteres as atoms, ions,
 *[Bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Friedman introduced the term "bioisosterism" which defined bioisosteres as a group of atoms or molecules that are structurally similar and show the same type of biological activity. Similar compounds with opposite biological activities (e.g. agonist/antagonist) are also considered bioisosteres. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/friedman-1951-concept-bioisosteres-186c2776'><i class='fa fa-play' aria-hidden='true'></i></button>Friedman introduced the term "bioisosterism" which defined bioisosteres as a group of atoms or molecules that are structurally similar and show the same type of biological activity. Similar compounds with opposite biological activities (e.g. agonist/antagonist) are also considered bioisosteres. 
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -164,7 +164,7 @@ Friedman introduced the term "bioisosterism" which defined bioisosteres as a gro
     
 ### Thornber (1979)
 
-Thornber further characterized the field of bioisosteres to include groups or molecules that have similar physicochemical properties or similar biological effects. He suggested guiding bioisosteric replacements by comparing the Hansch's &pi; values, Hammett's &Sigma; constants and Taft's Es steric parameters of  substituents as a measure of their physicochemical properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/thornber-1979-2b62a133'><i class='fa fa-play' aria-hidden='true'></i></button>Thornber further characterized the field of bioisosteres to include groups or molecules that have similar physicochemical properties or similar biological effects. He suggested guiding bioisosteric replacements by comparing the Hansch's &pi; values, Hammett's &Sigma; constants and Taft's Es steric parameters of  substituents as a measure of their physicochemical properties.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -180,7 +180,7 @@ Thornber further characterized the field of bioisosteres to include groups or mo
     
 ### Burger (1991)
 
-Burger modified somewhat Friedman's definition of bioisosteres defining them as molecules or groups of atoms that possess similar molecular shapes and volumes, approximately the same distribution of electrons, and exhibit similar physical properties. This definition proved to be of great utility to the medicinal chemist because of - rather than despite - its fuzziness. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/burger-1991-c2dbc359'><i class='fa fa-play' aria-hidden='true'></i></button>Burger modified somewhat Friedman's definition of bioisosteres defining them as molecules or groups of atoms that possess similar molecular shapes and volumes, approximately the same distribution of electrons, and exhibit similar physical properties. This definition proved to be of great utility to the medicinal chemist because of - rather than despite - its fuzziness. 
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -195,14 +195,14 @@ Burger modified somewhat Friedman's definition of bioisosteres defining them as 
     
 ### Cheminformatics Era (1993)
 
-Bioisosterism has recently attracted renewed interest because of the large-scale application of computers in drug design, which have opened up the era cheminformatics and enabled molecular similarity to be considered in a high throughput quantitative manner. This is presented in great detail in the chapter on "molecular similarity" in the cheminformatics volume.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/cheminformatics-era-1993-e2fb7527'><i class='fa fa-play' aria-hidden='true'></i></button>Bioisosterism has recently attracted renewed interest because of the large-scale application of computers in drug design, which have opened up the era cheminformatics and enabled molecular similarity to be considered in a high throughput quantitative manner. This is presented in great detail in the chapter on "molecular similarity" in the cheminformatics volume.
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/tanimoto.png){: loading=lazy }
 ### Remark on Stereochemical Aspects
 
-Stereochemistry can be viewed as a special case of bioisosterism but this feature is beyond the scope of the present chapter. Chiral-switch will be however briefly mentioned, in the section on patent issues. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/remark-on-stereochemical-aspects-061a689e'><i class='fa fa-play' aria-hidden='true'></i></button>Stereochemistry can be viewed as a special case of bioisosterism but this feature is beyond the scope of the present chapter. Chiral-switch will be however briefly mentioned, in the section on patent issues. 
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Chiral-switch]: Development of single enantiomers of commercial racemate drugs.
 
@@ -224,7 +224,7 @@ Stereochemistry can be viewed as a special case of bioisosterism but this featur
 
 ### Classification of Typical Isosteres
 
-Typical bioisosteres obey Burger's steric and electronic definition and will be presented in the following pages according to the classification indicated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/classification-typical-isosteres-2b6c4e97'><i class='fa fa-play' aria-hidden='true'></i></button>Typical bioisosteres obey Burger's steric and electronic definition and will be presented in the following pages according to the classification indicated below.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -232,7 +232,7 @@ Typical bioisosteres obey Burger's steric and electronic definition and will be 
 ![](https://media.drugdesign.org/course/bioisosterism/class.png){: loading=lazy }
 ### Monovalent Atoms or Groups
 
-Some examples of monovalent isosteres are illustrated in the following figure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/monovalent-atoms-or-groups-c96fa959'><i class='fa fa-play' aria-hidden='true'></i></button>Some examples of monovalent isosteres are illustrated in the following figure.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/monov.png){: loading=lazy }
@@ -245,7 +245,7 @@ Some examples of monovalent isosteres are illustrated in the following figure.
     
 ### Divalent Isosteres
 
-Some examples of divalent bioisosteres are shown in the following view.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/divalent-isosteres-ff9789d3'><i class='fa fa-play' aria-hidden='true'></i></button>Some examples of divalent bioisosteres are shown in the following view.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -260,7 +260,7 @@ Some examples of divalent bioisosteres are shown in the following view.
     
 ### Trivalent Atoms or Groups
 
-Some examples of trivalent bioisosteres are shown in the following figure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/trivalent-atoms-or-groups-e35dc025'><i class='fa fa-play' aria-hidden='true'></i></button>Some examples of trivalent bioisosteres are shown in the following figure.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -275,7 +275,7 @@ Some examples of trivalent bioisosteres are shown in the following figure.
     
 ### Tetrasubstituted Atoms
 
-Some tetrasubstituted bioisosteres are indicated in the following view.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/tetrasubstituted-atoms-1c61ebd4'><i class='fa fa-play' aria-hidden='true'></i></button>Some tetrasubstituted bioisosteres are indicated in the following view.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -290,7 +290,7 @@ Some tetrasubstituted bioisosteres are indicated in the following view.
     
 ### Ring Equivalents
 
-The following view displays examples of equivalent ring bioisosteres.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/ring-equivalents-36011f1f'><i class='fa fa-play' aria-hidden='true'></i></button>The following view displays examples of equivalent ring bioisosteres.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -301,7 +301,7 @@ The following view displays examples of equivalent ring bioisosteres.
 ### A Simple Concept for Many Applications
 *[nce]: New Chemical Entity: a compound not previously described.
 
-When the target molecule has to be modified, bioisosterism can help guide the process, and medicinal chemists use it extensively as a tool in their queries for new molecules. As shown in the list below, the needs of chemists can be very different. However, due to its simplicity, bioisosterism provides a simple and creative way to address all these in a constructive manner as is illustrated in the following pages. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/simple-concept-for-many-applications-8e55bc75'><i class='fa fa-play' aria-hidden='true'></i></button>When the target molecule has to be modified, bioisosterism can help guide the process, and medicinal chemists use it extensively as a tool in their queries for new molecules. As shown in the list below, the needs of chemists can be very different. However, due to its simplicity, bioisosterism provides a simple and creative way to address all these in a constructive manner as is illustrated in the following pages. 
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -316,7 +316,7 @@ When the target molecule has to be modified, bioisosterism can help guide the pr
     
 ### Adapt Chemical Structures to Feasible Syntheses
 
-The synthetic scheme of the chemical target is the first issue addressed by the chemist. If the synthesis proves to be complicated, he envisages changing the initial target in order to obtain molecules that are easy to prepare. In the example below, the initial target has been changed, because of the commercial availability of a simple starting material. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/adapt-chemical-structures-to-feasible-syntheses-c582a114'><i class='fa fa-play' aria-hidden='true'></i></button>The synthetic scheme of the chemical target is the first issue addressed by the chemist. If the synthesis proves to be complicated, he envisages changing the initial target in order to obtain molecules that are easy to prepare. In the example below, the initial target has been changed, because of the commercial availability of a simple starting material. 
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -330,7 +330,7 @@ The synthetic scheme of the chemical target is the first issue addressed by the 
     
 ### Change the Type of Biological Activity
 
-In some cases the medicinal chemist does not know exactly what he is looking for. His synthetic program is then based on the modification of the structure of an active compound, with the hope of finding new analogs with unexpected biological profiles. In the following pages we present three examples to illustrate how bioisosterism can guide this type of approach.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/change-type-biological-activity-06778dc1'><i class='fa fa-play' aria-hidden='true'></i></button>In some cases the medicinal chemist does not know exactly what he is looking for. His synthetic program is then based on the modification of the structure of an active compound, with the hope of finding new analogs with unexpected biological profiles. In the following pages we present three examples to illustrate how bioisosterism can guide this type of approach.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -340,7 +340,7 @@ In some cases the medicinal chemist does not know exactly what he is looking for
 ![](https://media.drugdesign.org/course/bioisosterism/chng_act.png){: loading=lazy }
 #### Example 1: Tricyclic Structures
 
-Simple bioisosteric modifications of the phenothiazine structure proved to be a rich source of useful drugs having completely different modes of action. Starting with antihistaminic drugs such as promethazine, it has been possible to discover bioisostere tranquillizers such as chlorpromazine. Further bioisoteric modifications led to the discovery of antidepressant drugs such as imipramine. Note the different mode of action of these drugs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-1-tricyclic-structures-369515e9'><i class='fa fa-play' aria-hidden='true'></i></button>Simple bioisosteric modifications of the phenothiazine structure proved to be a rich source of useful drugs having completely different modes of action. Starting with antihistaminic drugs such as promethazine, it has been possible to discover bioisostere tranquillizers such as chlorpromazine. Further bioisoteric modifications led to the discovery of antidepressant drugs such as imipramine. Note the different mode of action of these drugs.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -360,7 +360,7 @@ Simple bioisosteric modifications of the phenothiazine structure proved to be a 
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[Ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Simple bioisosteric replacements in a drug can lead to entirely different modes of action. In the example illustrated below, bioisosterism was employed to slightly modify the structure of an antagonist (L-162,389) and discover a useful agonist (L-162,782).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-2-angiotensin-ii-receptor-ligands-36c4cf76'><i class='fa fa-play' aria-hidden='true'></i></button>Simple bioisosteric replacements in a drug can lead to entirely different modes of action. In the example illustrated below, bioisosterism was employed to slightly modify the structure of an antagonist (L-162,389) and discover a useful agonist (L-162,782).
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -379,7 +379,7 @@ Simple bioisosteric replacements in a drug can lead to entirely different modes 
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-The steroid nucleus is full of diverse biological properties. All the analogs shown below can be considered as bioisosteres however, each of them has an entirely different mode of action acting as an androgen, estrogen, anti-inflammatory, anabolic or abortifacient drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-3-steroid-analogs-2e6562cf'><i class='fa fa-play' aria-hidden='true'></i></button>The steroid nucleus is full of diverse biological properties. All the analogs shown below can be considered as bioisosteres however, each of them has an entirely different mode of action acting as an androgen, estrogen, anti-inflammatory, anabolic or abortifacient drug.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -397,7 +397,7 @@ The steroid nucleus is full of diverse biological properties. All the analogs sh
     
 ### Achieve Patentability
 
-Using bioisosterism can be an effective way to circumvent a patent owned by a competitor. Levitra (vardenafil) is an example of bioisosteric replacement that enabled the Bayer/GSK team to achieve patentability to compete with the Pfizer viagra (sildenafil) drug. The FDA approval dates (for male erectile dysfunctions) are indicated in parentheses. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/achieve-patentability-33f018b6'><i class='fa fa-play' aria-hidden='true'></i></button>Using bioisosterism can be an effective way to circumvent a patent owned by a competitor. Levitra (vardenafil) is an example of bioisosteric replacement that enabled the Bayer/GSK team to achieve patentability to compete with the Pfizer viagra (sildenafil) drug. The FDA approval dates (for male erectile dysfunctions) are indicated in parentheses. 
 *[FDA]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -420,7 +420,7 @@ Using bioisosterism can be an effective way to circumvent a patent owned by a co
 ### Mimic an Endogenous Ligand
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Bioisosterism has proven a useful concept for molecular mimicry. In the example below, the carboxylic group of glutamic acid was replaced by a 3-hydroxy-5-methyl-4-isoxazole bioisostere, leading to a molecule that is a potent agonist of the central glutamic acid receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/mimic-an-endogenous-ligand-0eba5f5a'><i class='fa fa-play' aria-hidden='true'></i></button>Bioisosterism has proven a useful concept for molecular mimicry. In the example below, the carboxylic group of glutamic acid was replaced by a 3-hydroxy-5-methyl-4-isoxazole bioisostere, leading to a molecule that is a potent agonist of the central glutamic acid receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -437,7 +437,7 @@ Bioisosterism has proven a useful concept for molecular mimicry. In the example 
     
 ### Improve Potency
 
-In the example below, simple bioisosteric replacements served to  improve the potency of the initial kynurenic acid lead (IC<sub>50</sub> = 41 &Mu;M) by a factor of 1000 (IC<sub>50</sub> = 32 nM for compound L-683,334).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/improve-potency-7dce4f9f'><i class='fa fa-play' aria-hidden='true'></i></button>In the example below, simple bioisosteric replacements served to  improve the potency of the initial kynurenic acid lead (IC<sub>50</sub> = 41 &micro;M) by a factor of 1000 (IC<sub>50</sub> = 32 nM for compound L-683,334).
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -458,7 +458,7 @@ In the example below, simple bioisosteric replacements served to  improve the po
     
 ### Improve Selectivity
 
-When the structure of the target protein is not known, selectivity cannot be achieved in a rational structure-based way. Bioisosterism provides a good alternative for the systematic alteration of the structure of an initial lead in order to achieve selectivity. The example illustrated here concerns Factor Xa inhibitors for which the selectivity was improved by a factor of 10.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/improve-selectivity-6958cb99'><i class='fa fa-play' aria-hidden='true'></i></button>When the structure of the target protein is not known, selectivity cannot be achieved in a rational structure-based way. Bioisosterism provides a good alternative for the systematic alteration of the structure of an initial lead in order to achieve selectivity. The example illustrated here concerns Factor Xa inhibitors for which the selectivity was improved by a factor of 10.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -475,7 +475,7 @@ When the structure of the target protein is not known, selectivity cannot be ach
     
 ### Reduce Side Effects
 
-The Fluoxetine (Prosac) project aimed at the discovery of an antidepressant drug acting by inhibiting the reuptake of serotonin (5-HT). The initial lead had the desired biological action with, however, considerable side effects. It was hypothesized that they were due to action on the reuptake of norepinephrine (NE). The introduction of a trifluoromethyl group in the para position of the phenol moiety led to a compound which had the desired antidepressant action with significantly fewer side effects. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/reduce-side-effects-9bca1d46'><i class='fa fa-play' aria-hidden='true'></i></button>The Fluoxetine (Prosac) project aimed at the discovery of an antidepressant drug acting by inhibiting the reuptake of serotonin (5-HT). The initial lead had the desired biological action with, however, considerable side effects. It was hypothesized that they were due to action on the reuptake of norepinephrine (NE). The introduction of a trifluoromethyl group in the para position of the phenol moiety led to a compound which had the desired antidepressant action with significantly fewer side effects. 
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -489,7 +489,7 @@ The Fluoxetine (Prosac) project aimed at the discovery of an antidepressant drug
     
 ### Reduce Toxicity
 
-Colchicine is a potent mitotic inhibitor that could not be widely used as a drug because of its high toxicity. The bioisostere analog shown below was found to be less toxic.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/reduce-toxicity-7497be20'><i class='fa fa-play' aria-hidden='true'></i></button>Colchicine is a potent mitotic inhibitor that could not be widely used as a drug because of its high toxicity. The bioisostere analog shown below was found to be less toxic.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -506,7 +506,7 @@ Colchicine is a potent mitotic inhibitor that could not be widely used as a drug
 ### Improve Bioavailability
 *[Bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 
-Poor bioavailability is very often associated with poor water solubility. In the example shown below (thrombin inhibitors) a simple bioisosteric replacement  substantially improved the water solubility of the initial lead and eventually led to  an oral drug. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/improve-bioavailability-7595ac79'><i class='fa fa-play' aria-hidden='true'></i></button>Poor bioavailability is very often associated with poor water solubility. In the example shown below (thrombin inhibitors) a simple bioisosteric replacement  substantially improved the water solubility of the initial lead and eventually led to  an oral drug. 
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -523,7 +523,7 @@ Poor bioavailability is very often associated with poor water solubility. In the
     
 ### Exploit Metabolism
 
-Quinine is a drug used to treat malaria and it was observed that the compound is readily oxidized (by cytochrome P450) at the 2'-position. The introduction of a substituent in position 2' enabled researchers to obtain simpler drugs with a longer half-life. Mefloquine is one example of such drugs. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/exploit-metabolism-f6822429'><i class='fa fa-play' aria-hidden='true'></i></button>Quinine is a drug used to treat malaria and it was observed that the compound is readily oxidized (by cytochrome P450) at the 2'-position. The introduction of a substituent in position 2' enabled researchers to obtain simpler drugs with a longer half-life. Mefloquine is one example of such drugs. 
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/metabolism.png){: loading=lazy }
@@ -536,7 +536,7 @@ Quinine is a drug used to treat malaria and it was observed that the compound is
     
 ### Modify pKa
 
-Cocaine is a potent brain stimulant that binds to the dopamine transporter DAT. The molecule has an IC<sub>50</sub> of 173 nM, and it has been hypothesized that the increase of the basicity of the nitrogen atom may lead to more potent structures. Indeed, several bioisosteres of cocaine were designed whose potency was found to be correlated with a high pKa (nitrogen atom more basic). For example a very basic compound was found (pKa = 11.99) with an IC<sub>50</sub> of 0.59 nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/modify-pka-5ecab291'><i class='fa fa-play' aria-hidden='true'></i></button>Cocaine is a potent brain stimulant that binds to the dopamine transporter DAT. The molecule has an IC<sub>50</sub> of 173 nM, and it has been hypothesized that the increase of the basicity of the nitrogen atom may lead to more potent structures. Indeed, several bioisosteres of cocaine were designed whose potency was found to be correlated with a high pKa (nitrogen atom more basic). For example a very basic compound was found (pKa = 11.99) with an IC<sub>50</sub> of 0.59 nM.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -557,7 +557,7 @@ Cocaine is a potent brain stimulant that binds to the dopamine transporter DAT. 
     
 ### Increase Chemical Stability
 
-Following-up on the piperidine-based renin inhibitor discovered by Roche (reference), Pfizer designed the piperazine structure shown below (design-1). The compound had the desired biological activities but was chemically unstable. The ketopiperazine analog (design-2) was suggested to circumvent this problem and indeed proved to be stable. At each step of the project the design was guided by bioisoteric considerations that finally led to simpler inhibitors. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/increase-chemical-stability-c24426a9'><i class='fa fa-play' aria-hidden='true'></i></button>Following-up on the piperidine-based renin inhibitor discovered by Roche (reference), Pfizer designed the piperazine structure shown below (design-1). The compound had the desired biological activities but was chemically unstable. The ketopiperazine analog (design-2) was suggested to circumvent this problem and indeed proved to be stable. At each step of the project the design was guided by bioisoteric considerations that finally led to simpler inhibitors. 
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -590,7 +590,7 @@ Following-up on the piperidine-based renin inhibitor discovered by Roche (refere
     
 ### Combinatorial Chemistry
 
-In combinatorial chemistry, the bioisosterism concept can be exploited for building libraries in a systematic manner. In the example below a library was prepared by focusing on the benzonitrile pharmacophore of the androgen receptor antagonist compound GSK-7721. Bioisoterism was considered for the fluoroaryl fragment 1, whereas structural diversity was left variable for the amine moiety 2.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/combinatorial-chemistry-07715888'><i class='fa fa-play' aria-hidden='true'></i></button>In combinatorial chemistry, the bioisosterism concept can be exploited for building libraries in a systematic manner. In the example below a library was prepared by focusing on the benzonitrile pharmacophore of the androgen receptor antagonist compound GSK-7721. Bioisoterism was considered for the fluoroaryl fragment 1, whereas structural diversity was left variable for the amine moiety 2.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -615,7 +615,7 @@ In combinatorial chemistry, the bioisosterism concept can be exploited for build
 *[Bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Natural molecules can be highly diverse and can show very subtle similarities; many bioisosteres exist in nature. In the following pages we illustrate this feature by showing some natural bioisosteres that can be found in amino-acids, nucleotides, sugars, lipids, steroids, carbohydrates, catecholamines and &beta;-lactam antibiotics.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/bioisosteres-nature-1b2a6962'><i class='fa fa-play' aria-hidden='true'></i></button>Natural molecules can be highly diverse and can show very subtle similarities; many bioisosteres exist in nature. In the following pages we illustrate this feature by showing some natural bioisosteres that can be found in amino-acids, nucleotides, sugars, lipids, steroids, carbohydrates, catecholamines and &beta;-lactam antibiotics.
 
 
 
@@ -626,7 +626,7 @@ Natural molecules can be highly diverse and can show very subtle similarities; m
 ![](https://media.drugdesign.org/course/bioisosterism/natur_bio.png){: loading=lazy }
 ### Aminoacids
 
-Phenylalanine, tyrosine, tryptophan and histidine are examples of amino-acid bioisosteres that are found in proteins. The phenyl ring of phenylalanine becomes phenol in tyrosine, indole in tryptophan and imidazole in histidine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/aminoacids-b561586e'><i class='fa fa-play' aria-hidden='true'></i></button>Phenylalanine, tyrosine, tryptophan and histidine are examples of amino-acid bioisosteres that are found in proteins. The phenyl ring of phenylalanine becomes phenol in tyrosine, indole in tryptophan and imidazole in histidine.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -642,7 +642,7 @@ Phenylalanine, tyrosine, tryptophan and histidine are examples of amino-acid bio
     
 ### Nucleotides
 
-Uracil and thymine, adenine and guanine are two examples of nucleotide bioisosteres that are found in nucleic acids, with very closely related structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/nucleotides-24500d53'><i class='fa fa-play' aria-hidden='true'></i></button>Uracil and thymine, adenine and guanine are two examples of nucleotide bioisosteres that are found in nucleic acids, with very closely related structures.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -658,7 +658,7 @@ Uracil and thymine, adenine and guanine are two examples of nucleotide bioisoste
     
 ### Sugars
 
-&alpha;-D-ribose and 2-deoxy-&alpha;-D-ribose structures illustrate sugar bioisosteres that are found in nature. There is one more hydroxyl group in the structure of &alpha;-D-ribose.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/sugars-c845da23'><i class='fa fa-play' aria-hidden='true'></i></button>&alpha;-D-ribose and 2-deoxy-&alpha;-D-ribose structures illustrate sugar bioisosteres that are found in nature. There is one more hydroxyl group in the structure of &alpha;-D-ribose.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -674,7 +674,7 @@ Uracil and thymine, adenine and guanine are two examples of nucleotide bioisoste
     
 ### Lipids
 
-Palmitic acid and palmitoleic acid, arachidic acid and arachidonic acid are two examples of natural bioisosteres that are found in lipids. The number of carbon atoms is the same for each pair of molecules but the structures differ by the number of double bonds in the chain.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/lipids-598cc83d'><i class='fa fa-play' aria-hidden='true'></i></button>Palmitic acid and palmitoleic acid, arachidic acid and arachidonic acid are two examples of natural bioisosteres that are found in lipids. The number of carbon atoms is the same for each pair of molecules but the structures differ by the number of double bonds in the chain.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -690,7 +690,7 @@ Palmitic acid and palmitoleic acid, arachidic acid and arachidonic acid are two 
     
 ### Steroid Hormones
 
-Testosterone and estradiol structures illustrate steroid bioisosteres that are found in nature. The A-ring of testosterone is a cyclohexenone fragment, whereas in estradiol it consists of a phenol moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/steroid-hormones-a2cf43c5'><i class='fa fa-play' aria-hidden='true'></i></button>Testosterone and estradiol structures illustrate steroid bioisosteres that are found in nature. The A-ring of testosterone is a cyclohexenone fragment, whereas in estradiol it consists of a phenol moiety.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -707,7 +707,7 @@ Testosterone and estradiol structures illustrate steroid bioisosteres that are f
     
 ### Carbohydrates
 
-The structures of D-glucose and D-mannose illustrate bioisosteres that are found in carbohydrates. The two compounds differ by the stereochemistry of one hydroxyl group.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/carbohydrates-b34f8f0d'><i class='fa fa-play' aria-hidden='true'></i></button>The structures of D-glucose and D-mannose illustrate bioisosteres that are found in carbohydrates. The two compounds differ by the stereochemistry of one hydroxyl group.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -723,7 +723,7 @@ The structures of D-glucose and D-mannose illustrate bioisosteres that are found
     
 ### Catecholamines
 
-Dopamine, noradrenaline and serotonine are bioisostere catecholamine structures that are found in the brain. They all have an arylethylamine moiety in common. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/catecholamines-b9e15794'><i class='fa fa-play' aria-hidden='true'></i></button>Dopamine, noradrenaline and serotonine are bioisostere catecholamine structures that are found in the brain. They all have an arylethylamine moiety in common. 
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -739,7 +739,7 @@ Dopamine, noradrenaline and serotonine are bioisostere catecholamine structures 
     
 ### Penicillins and Cephalosporins
 
-Penicillins and cephalosporins are bioisotere antibiotic molecules that are found in nature. In penicillins the &beta;-lactam ring is fused to a 5-membered ring, whereas in cephalosporins it is fused to a 6-membered ring. &Delta;-3 and &Delta;-2 cephalosporins differ by the position of the double bond in the 6-membered ring.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/penicillins-cephalosporins-e7652da0'><i class='fa fa-play' aria-hidden='true'></i></button>Penicillins and cephalosporins are bioisotere antibiotic molecules that are found in nature. In penicillins the &beta;-lactam ring is fused to a 5-membered ring, whereas in cephalosporins it is fused to a 6-membered ring. &Delta;-3 and &Delta;-2 cephalosporins differ by the position of the double bond in the 6-membered ring.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/peni_ceph.png){: loading=lazy }
@@ -758,7 +758,7 @@ Penicillins and cephalosporins are bioisotere antibiotic molecules that are foun
 ### Dictionary of Bioisosteric Replacements
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-The following section presents bioisosteric replacements for some chemical groups that are listed here in alphabetical order.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/dictionary-bioisosteric-replacements-73a5a703'><i class='fa fa-play' aria-hidden='true'></i></button>The following section presents bioisosteric replacements for some chemical groups that are listed here in alphabetical order.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -784,7 +784,7 @@ The following section presents bioisosteric replacements for some chemical group
     
 ### Allyl
 
-The cyclopropylmethylene fragment is a bioisostere of the allyl moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/allyl-23deb706'><i class='fa fa-play' aria-hidden='true'></i></button>The cyclopropylmethylene fragment is a bioisostere of the allyl moiety.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -809,7 +809,7 @@ The cyclopropylmethylene fragment is a bioisostere of the allyl moiety.
     
 ### Amide
 
-There are many bioisosteres of the amide group, which are indicated in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/amide-7f2dad74'><i class='fa fa-play' aria-hidden='true'></i></button>There are many bioisosteres of the amide group, which are indicated in the figure below.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -824,7 +824,7 @@ There are many bioisosteres of the amide group, which are indicated in the figur
     
 ### Amino-Acids
 
-Many criteria can be used to replace an amino-acid with another one. Similarities of properties such as hydrophobicity, aromaticity, size, electronic features etc... can be considered alone or simultaneously. The following diagram helps guide the choice of possible bioisosteric replacements. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/amino-acids-7058b501'><i class='fa fa-play' aria-hidden='true'></i></button>Many criteria can be used to replace an amino-acid with another one. Similarities of properties such as hydrophobicity, aromaticity, size, electronic features etc... can be considered alone or simultaneously. The following diagram helps guide the choice of possible bioisosteric replacements. 
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -844,7 +844,7 @@ Many criteria can be used to replace an amino-acid with another one. Similaritie
     
 ### Azomethine
 
-In the figure below is shown a possible bioisosteric replacement for the azomethine group.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/azomethine-be20e5a3'><i class='fa fa-play' aria-hidden='true'></i></button>In the figure below is shown a possible bioisosteric replacement for the azomethine group.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -865,7 +865,7 @@ In the figure below is shown a possible bioisosteric replacement for the azometh
     
 ### Benzene
 
-The benzene moiety can be replaced by various 6-membered or 5-membered heterocyclic structures. The bioisoterism between benzene and thiophene has long been recognized; the sulfur atom of thiophene is considered as equivalent (geometrically and electronically) to one double bond of the benzene ring. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/benzene-df57c8a0'><i class='fa fa-play' aria-hidden='true'></i></button>The benzene moiety can be replaced by various 6-membered or 5-membered heterocyclic structures. The bioisoterism between benzene and thiophene has long been recognized; the sulfur atom of thiophene is considered as equivalent (geometrically and electronically) to one double bond of the benzene ring. 
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -880,7 +880,7 @@ The benzene moiety can be replaced by various 6-membered or 5-membered heterocyc
     
 ### Carbonyl
 
-Possible bioisosteres of the carbonyl group are indicated in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/carbonyl-3ed5dee0'><i class='fa fa-play' aria-hidden='true'></i></button>Possible bioisosteres of the carbonyl group are indicated in the figure below.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -902,7 +902,7 @@ Possible bioisosteres of the carbonyl group are indicated in the figure below.
     
 ### Carboxylic Acid
 
-There are many possible bioisosteric replacements for the carboxylic acid group, as visualized in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/carboxylic-acid-08114aa1'><i class='fa fa-play' aria-hidden='true'></i></button>There are many possible bioisosteric replacements for the carboxylic acid group, as visualized in the figure below.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -923,7 +923,7 @@ There are many possible bioisosteric replacements for the carboxylic acid group,
     
 ### Catechol
 
-The catechol group can be replaced by several bioisosteric equivalent groups, as shown in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/catechol-99c0ba88'><i class='fa fa-play' aria-hidden='true'></i></button>The catechol group can be replaced by several bioisosteric equivalent groups, as shown in the figure below.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -944,7 +944,7 @@ The catechol group can be replaced by several bioisosteric equivalent groups, as
     
 ### Ester
 
-The ester group can be replaced by a 1,2,4 oxadiazole or by an amide group, as shown in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/ester-59f3ea00'><i class='fa fa-play' aria-hidden='true'></i></button>The ester group can be replaced by a 1,2,4 oxadiazole or by an amide group, as shown in the figure below.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/coo_r.png){: loading=lazy }
@@ -957,7 +957,7 @@ The ester group can be replaced by a 1,2,4 oxadiazole or by an amide group, as s
     
 ### Halogen
 
-Possible bioisosteres of a halogen atom are indicated in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/halogen-6e023fa9'><i class='fa fa-play' aria-hidden='true'></i></button>Possible bioisosteres of a halogen atom are indicated in the figure below.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -979,7 +979,7 @@ Possible bioisosteres of a halogen atom are indicated in the figure below.
     
 ### Hydrogen
 
-A hydrogen atom can be replaced by a fluorine atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/hydrogen-f136b304'><i class='fa fa-play' aria-hidden='true'></i></button>A hydrogen atom can be replaced by a fluorine atom.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/h.png){: loading=lazy }
@@ -992,7 +992,7 @@ A hydrogen atom can be replaced by a fluorine atom.
     
 ### Hydroxyl
 
-Many isosteric replacements were found to be possible for the hydroxyl group, as shown in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/hydroxyl-6485d828'><i class='fa fa-play' aria-hidden='true'></i></button>Many isosteric replacements were found to be possible for the hydroxyl group, as shown in the figure below.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/oh.png){: loading=lazy }
@@ -1012,7 +1012,7 @@ Many isosteric replacements were found to be possible for the hydroxyl group, as
     
 ### Indole
 
-The indole moiety can be replaced by a benzimidazole, a benzoxazole or an indazole bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/indole-f4139ec5'><i class='fa fa-play' aria-hidden='true'></i></button>The indole moiety can be replaced by a benzimidazole, a benzoxazole or an indazole bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -1027,7 +1027,7 @@ The indole moiety can be replaced by a benzimidazole, a benzoxazole or an indazo
     
 ### Isopropyl
 
-An isopropyl fragment can simply be replaced by the corresponding cyclopropyl bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/isopropyl-5beef015'><i class='fa fa-play' aria-hidden='true'></i></button>An isopropyl fragment can simply be replaced by the corresponding cyclopropyl bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -1052,7 +1052,7 @@ An isopropyl fragment can simply be replaced by the corresponding cyclopropyl bi
     
 ### Naphthalene
 
-A naphthalene fragment can be replaced by many different structural moieties. Carbon atoms can be replaced by nitrogens and the six-membered rings can be replaced by aromatic five-membered rings.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/naphthalene-3b121ea4'><i class='fa fa-play' aria-hidden='true'></i></button>A naphthalene fragment can be replaced by many different structural moieties. Carbon atoms can be replaced by nitrogens and the six-membered rings can be replaced by aromatic five-membered rings.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -1132,7 +1132,7 @@ A naphthalene fragment can be replaced by many different structural moieties. Ca
     
 ### Peptide Surrogates
 
-Many bioisosteric replacements of peptide molecules are possible. The replacements can address the N-H, the C=O, the peptide bond or the C&alpha; atom. Click on the different buttons to see the corresponding series of bioisosteres.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/peptide-surrogates-4b6e0b80'><i class='fa fa-play' aria-hidden='true'></i></button>Many bioisosteric replacements of peptide molecules are possible. The replacements can address the N-H, the C=O, the peptide bond or the C&alpha; atom. Click on the different buttons to see the corresponding series of bioisosteres.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -1313,7 +1313,7 @@ Many bioisosteric replacements of peptide molecules are possible. The replacemen
     
 ### Phenol
 
-Below are shown some possible isosteric replacements for the phenol moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/phenol-fd7ad6b3'><i class='fa fa-play' aria-hidden='true'></i></button>Below are shown some possible isosteric replacements for the phenol moiety.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -1327,7 +1327,7 @@ Below are shown some possible isosteric replacements for the phenol moiety.
     
 ### Pyridine
 
-There are several possible bioisosteric replacements for the pyridine moiety, as shown in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/pyridine-d8540121'><i class='fa fa-play' aria-hidden='true'></i></button>There are several possible bioisosteric replacements for the pyridine moiety, as shown in the figure below.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -1354,7 +1354,7 @@ There are several possible bioisosteric replacements for the pyridine moiety, as
     
 ### Ring
 
-Many bioisosteric replacements are possible for a ring. Aromatic, heterocyclic and aliphatic ring systems can be replaced by similar equivalent moieties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/ring-fc1da91c'><i class='fa fa-play' aria-hidden='true'></i></button>Many bioisosteric replacements are possible for a ring. Aromatic, heterocyclic and aliphatic ring systems can be replaced by similar equivalent moieties.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
@@ -1369,7 +1369,7 @@ Many bioisosteric replacements are possible for a ring. Aromatic, heterocyclic a
     
 ### Sulfonyl
 
-A carbonyl is a possible bioisostere for the replacement of a sulfonyl group. Other replacements include the gem-dimethyl group or its silicon equivalent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/sulfonyl-dcfa51c5'><i class='fa fa-play' aria-hidden='true'></i></button>A carbonyl is a possible bioisostere for the replacement of a sulfonyl group. Other replacements include the gem-dimethyl group or its silicon equivalent.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -1383,7 +1383,7 @@ A carbonyl is a possible bioisostere for the replacement of a sulfonyl group. Ot
     
 ### Spacer
 
-Examples of aliphatic spacer moieties replaced by bioisosteric ring structures are indicated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/spacer-f72e6b3b'><i class='fa fa-play' aria-hidden='true'></i></button>Examples of aliphatic spacer moieties replaced by bioisosteric ring structures are indicated below.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
@@ -1405,7 +1405,7 @@ Examples of aliphatic spacer moieties replaced by bioisosteric ring structures a
     
 ### Thioether
 
-Several possibilities exist for the bioisoteric replacement of a thioether group, as indicated in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/thioether-73c747ae'><i class='fa fa-play' aria-hidden='true'></i></button>Several possibilities exist for the bioisoteric replacement of a thioether group, as indicated in the figure below.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/thioether.png){: loading=lazy }
@@ -1425,7 +1425,7 @@ Several possibilities exist for the bioisoteric replacement of a thioether group
     
 ### Thiourea
 
-In the figure below are shown various possible bioisosteric replacements for the thiourea group.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/thiourea-0ac314ff'><i class='fa fa-play' aria-hidden='true'></i></button>In the figure below are shown various possible bioisosteric replacements for the thiourea group.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -1450,14 +1450,14 @@ In the figure below are shown various possible bioisosteric replacements for the
 ### Four Types of Bioisosteric Transformations
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-There are four types of bioisosteric transformations, which will be presented with examples in the following pages. In most cases they correspond to successful attempts; however, we do not discuss the biological activities obtained. The examples are shown simply to illustrate some bioisosteric replacements used in various projects. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/four-types-bioisosteric-transformations-3b086b9f'><i class='fa fa-play' aria-hidden='true'></i></button>There are four types of bioisosteric transformations, which will be presented with examples in the following pages. In most cases they correspond to successful attempts; however, we do not discuss the biological activities obtained. The examples are shown simply to illustrate some bioisosteric replacements used in various projects. 
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/4_types.png){: loading=lazy }
 ### Ring-to-Ring Transformations
 
-Three examples of ring-to-ring bioisosteric transformations are shown in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/ring-to-ring-transformations-1368b8ee'><i class='fa fa-play' aria-hidden='true'></i></button>Three examples of ring-to-ring bioisosteric transformations are shown in the following pages.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1465,7 +1465,7 @@ Three examples of ring-to-ring bioisosteric transformations are shown in the fol
 ![](https://media.drugdesign.org/course/bioisosterism/r_to_r.png){: loading=lazy }
 #### Example 1
 
-In the example shown here the quinazoline heterocycle (reference) was first replaced by a quinoline ring (design-1) and then by an isoquinoline bioisostere heterocycle (design-2).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-1-47b43c67'><i class='fa fa-play' aria-hidden='true'></i></button>In the example shown here the quinazoline heterocycle (reference) was first replaced by a quinoline ring (design-1) and then by an isoquinoline bioisostere heterocycle (design-2).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1495,7 +1495,7 @@ In the example shown here the quinazoline heterocycle (reference) was first repl
     
 #### Example 2
 
-The quinolin-4(1H) bicycle of the starting compound (reference) was transformed into a naphtyridin-4(1H) heterocycle (design-1), a pyrimido[1,2a] pyrimidin-4 bicycle (design-2) and a pyrido[1,2a] pyrimidin-4(1H) bioisostere moiety (design-3).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-2-2273dd35'><i class='fa fa-play' aria-hidden='true'></i></button>The quinolin-4(1H) bicycle of the starting compound (reference) was transformed into a naphtyridin-4(1H) heterocycle (design-1), a pyrimido[1,2a] pyrimidin-4 bicycle (design-2) and a pyrido[1,2a] pyrimidin-4(1H) bioisostere moiety (design-3).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1511,7 +1511,7 @@ The quinolin-4(1H) bicycle of the starting compound (reference) was transformed 
     
 #### Example 3
 
-In this example the initial 4H-thieno [3,2b] pyrrole (reference) was modified into a 6H-thieno [2,3b] pyrrole bicycle (design-1) and also into a 1H-indole bioisostere system (design-2).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-3-be29aab4'><i class='fa fa-play' aria-hidden='true'></i></button>In this example the initial 4H-thieno [3,2b] pyrrole (reference) was modified into a 6H-thieno [2,3b] pyrrole bicycle (design-1) and also into a 1H-indole bioisostere system (design-2).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1526,7 +1526,7 @@ In this example the initial 4H-thieno [3,2b] pyrrole (reference) was modified in
     
 ### Chain-to-Ring Transformations
 
-Three examples of chain-to-ring bioisosteric transformations are shown in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/chain-to-ring-transformations-2198539a'><i class='fa fa-play' aria-hidden='true'></i></button>Three examples of chain-to-ring bioisosteric transformations are shown in the following pages.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1534,7 +1534,7 @@ Three examples of chain-to-ring bioisosteric transformations are shown in the fo
 ![](https://media.drugdesign.org/course/bioisosterism/c_to_r.png){: loading=lazy }
 #### Example 1
 
-The initial carboximidamide (reference) was modified into an isoquinoline-1-amine bioisostere (designed).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-1-9fc89bc8'><i class='fa fa-play' aria-hidden='true'></i></button>The initial carboximidamide (reference) was modified into an isoquinoline-1-amine bioisostere (designed).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1549,7 +1549,7 @@ The initial carboximidamide (reference) was modified into an isoquinoline-1-amin
     
 #### Example 2
 
-The ester group of the initial structure (reference) was replaced by an oxadiazole bioisostere (designed).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-2-4e02c44b'><i class='fa fa-play' aria-hidden='true'></i></button>The ester group of the initial structure (reference) was replaced by an oxadiazole bioisostere (designed).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1557,7 +1557,7 @@ The ester group of the initial structure (reference) was replaced by an oxadiazo
 ![](https://media.drugdesign.org/course/bioisosterism/c_to_r2.png){: loading=lazy }
 #### Example 3
 
-In this example, the design considered the initial diethylamine molecule (reference) to be cyclicized into a piperidine bioisostere analog (designed).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-3-73abb59f'><i class='fa fa-play' aria-hidden='true'></i></button>In this example, the design considered the initial diethylamine molecule (reference) to be cyclicized into a piperidine bioisostere analog (designed).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1588,7 +1588,7 @@ In this example, the design considered the initial diethylamine molecule (refere
     
 ### Ring-to-Chain Transformations
 
-Three examples of ring-to-chain bioisosteric transformations are shown in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/ring-to-chain-transformations-eb0f7f12'><i class='fa fa-play' aria-hidden='true'></i></button>Three examples of ring-to-chain bioisosteric transformations are shown in the following pages.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1596,7 +1596,7 @@ Three examples of ring-to-chain bioisosteric transformations are shown in the fo
 ![](https://media.drugdesign.org/course/bioisosterism/r_to_c.png){: loading=lazy }
 #### Example 1
 
-The pyrrole moiety of the reference compound was replaced by a propynylhydroxyamino bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-1-7cab908d'><i class='fa fa-play' aria-hidden='true'></i></button>The pyrrole moiety of the reference compound was replaced by a propynylhydroxyamino bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1612,7 +1612,7 @@ The pyrrole moiety of the reference compound was replaced by a propynylhydroxyam
     
 #### Example 2
 
-The reference amino-quinazoline molecule with a bicyclic moiety was replaced by a salicylamide bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-2-6f865898'><i class='fa fa-play' aria-hidden='true'></i></button>The reference amino-quinazoline molecule with a bicyclic moiety was replaced by a salicylamide bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1643,7 +1643,7 @@ The reference amino-quinazoline molecule with a bicyclic moiety was replaced by 
     
 #### Example 3
 
-In this example the initial phenyltriazolo-benzodiazepine molecule having a tricyclic moiety was replaced by a phenoxyphenyl-triazole bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-3-cf08d0be'><i class='fa fa-play' aria-hidden='true'></i></button>In this example the initial phenyltriazolo-benzodiazepine molecule having a tricyclic moiety was replaced by a phenoxyphenyl-triazole bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -1658,7 +1658,7 @@ In this example the initial phenyltriazolo-benzodiazepine molecule having a tric
     
 ### Chain-to-Chain Transformations
 
-Three examples of chain-to-chain bioisosteric transformations are shown in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/chain-to-chain-transformations-30c18cc2'><i class='fa fa-play' aria-hidden='true'></i></button>Three examples of chain-to-chain bioisosteric transformations are shown in the following pages.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1666,7 +1666,7 @@ Three examples of chain-to-chain bioisosteric transformations are shown in the f
 ![](https://media.drugdesign.org/course/bioisosterism/c_to_c.png){: loading=lazy }
 #### Example 1
 
-The carboxylic acid of the reference molecule was replaced by a phosphonic acid bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-1-07876fbc'><i class='fa fa-play' aria-hidden='true'></i></button>The carboxylic acid of the reference molecule was replaced by a phosphonic acid bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1681,7 +1681,7 @@ The carboxylic acid of the reference molecule was replaced by a phosphonic acid 
     
 #### Example 2
 
-Here, the N-propylamine moiety of the reference compound was replaced by an equivalent hydrazine bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-2-81ab28cb'><i class='fa fa-play' aria-hidden='true'></i></button>Here, the N-propylamine moiety of the reference compound was replaced by an equivalent hydrazine bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1697,7 +1697,7 @@ Here, the N-propylamine moiety of the reference compound was replaced by an equi
     
 #### Example 3
 
-In this example the amide moiety of the reference compound was replaced by an equivalent urea bioisostere.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-3-90965c05'><i class='fa fa-play' aria-hidden='true'></i></button>In this example the amide moiety of the reference compound was replaced by an equivalent urea bioisostere.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1721,7 +1721,7 @@ In this example the amide moiety of the reference compound was replaced by an eq
 
 ### Angiotensin Receptor Blockers (ARBs)
 
-Valsartan, Irbesartan and Candesartan are all bioisoteres of the Losartan Angiotensin Receptor Blocker and replaced the imidazole moiety of this drug by various bioisosteric groups (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/angiotensin-receptor-blockers-arbs-0750fa85'><i class='fa fa-play' aria-hidden='true'></i></button>Valsartan, Irbesartan and Candesartan are all bioisoteres of the Losartan Angiotensin Receptor Blocker and replaced the imidazole moiety of this drug by various bioisosteric groups (patent priorities are indicated in parenthesis).
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1740,7 +1740,7 @@ Valsartan, Irbesartan and Candesartan are all bioisoteres of the Losartan Angiot
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Vioxx, and Bextra are examples of COX-2 inhibitor drugs whose structures were derived from that of Celebrex using the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/cox-2-inhibitors-3c1a6c5b'><i class='fa fa-play' aria-hidden='true'></i></button>Vioxx, and Bextra are examples of COX-2 inhibitor drugs whose structures were derived from that of Celebrex using the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1757,7 +1757,7 @@ Vioxx, and Bextra are examples of COX-2 inhibitor drugs whose structures were de
     
 ### Anti-Inflammatory NSAIDs
 
-Sulindac and Ketoprofen are examples of non-steroid anti-inflammatory drugs (NSAIDs) whose structure was derived from that of Indomethacin by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/anti-inflammatory-nsaids-45d0af16'><i class='fa fa-play' aria-hidden='true'></i></button>Sulindac and Ketoprofen are examples of non-steroid anti-inflammatory drugs (NSAIDs) whose structure was derived from that of Indomethacin by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1773,7 +1773,7 @@ Sulindac and Ketoprofen are examples of non-steroid anti-inflammatory drugs (NSA
     
 ### Antiarrhytmic Beta-Adrenergics
 
-Pindolol and Atenolol are examples of antiarrhytmic beta-adrenergic drugs whose structure was derived from that of Propranolol by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/antiarrhytmic-beta-adrenergics-0b72b194'><i class='fa fa-play' aria-hidden='true'></i></button>Pindolol and Atenolol are examples of antiarrhytmic beta-adrenergic drugs whose structure was derived from that of Propranolol by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1789,7 +1789,7 @@ Pindolol and Atenolol are examples of antiarrhytmic beta-adrenergic drugs whose 
     
 ### Neuroleptics
 
-Prochloperazine, Fluphenazine and Methotrimeprazine are examples of neuroleptic drugs whose structure was derived from that of Chlorpromazine by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/neuroleptics-77d2aebc'><i class='fa fa-play' aria-hidden='true'></i></button>Prochloperazine, Fluphenazine and Methotrimeprazine are examples of neuroleptic drugs whose structure was derived from that of Chlorpromazine by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1805,7 +1805,7 @@ Prochloperazine, Fluphenazine and Methotrimeprazine are examples of neuroleptic 
     
 ### Anti-Ulcers
 
-Ranitidine (Zantac) is an example of an anti-ulcer drug whose structure was derived from that of Cimetidine (Tagamet) by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/anti-ulcers-4362a937'><i class='fa fa-play' aria-hidden='true'></i></button>Ranitidine (Zantac) is an example of an anti-ulcer drug whose structure was derived from that of Cimetidine (Tagamet) by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1821,7 +1821,7 @@ Ranitidine (Zantac) is an example of an anti-ulcer drug whose structure was deri
     
 ### Male Erectile Dysfunction Drugs
 
-Levitra (Vardenafil) is an example of a male erectile dysfunction drug whose structure was derived from that of Viagra (Sildenafil) by using the concept of bioisosterism (the FDA approval dates are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/male-erectile-dysfunction-drugs-bfa6b4d4'><i class='fa fa-play' aria-hidden='true'></i></button>Levitra (Vardenafil) is an example of a male erectile dysfunction drug whose structure was derived from that of Viagra (Sildenafil) by using the concept of bioisosterism (the FDA approval dates are indicated in parenthesis).
 *[FDA]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1838,7 +1838,7 @@ Levitra (Vardenafil) is an example of a male erectile dysfunction drug whose str
     
 ### Benzodiazepines
 
-Nitrazepam, Prazepam and Clobazam are examples of anxiolytic drugs whose structures were derived from that of Diazepam (Valium) by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/benzodiazepines-00127bbe'><i class='fa fa-play' aria-hidden='true'></i></button>Nitrazepam, Prazepam and Clobazam are examples of anxiolytic drugs whose structures were derived from that of Diazepam (Valium) by using the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[f Diaz]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1855,7 +1855,7 @@ Nitrazepam, Prazepam and Clobazam are examples of anxiolytic drugs whose structu
     
 ### Antibacterial Sulfonamides
 
-Sulfacytine, Sulfaperine, Sulfamethazine and Sulfathiazole are examples of antibacterial drugs whose structures were derived from that of a reference sulfonamide compound (Sulfabenz - 1908) by using, at a given stage, the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/antibacterial-sulfonamides-73c38d81'><i class='fa fa-play' aria-hidden='true'></i></button>Sulfacytine, Sulfaperine, Sulfamethazine and Sulfathiazole are examples of antibacterial drugs whose structures were derived from that of a reference sulfonamide compound (Sulfabenz - 1908) by using, at a given stage, the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1871,7 +1871,7 @@ Sulfacytine, Sulfaperine, Sulfamethazine and Sulfathiazole are examples of antib
     
 ### Beta-Lactam Antibiotics
 
-Penicillin G, Amoxicillin, Ampicillin and Penicillin V are examples of beta-lactam antibiotics that are all bioisosteres (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/beta-lactam-antibiotics-90f25dc3'><i class='fa fa-play' aria-hidden='true'></i></button>Penicillin G, Amoxicillin, Ampicillin and Penicillin V are examples of beta-lactam antibiotics that are all bioisosteres (patent priorities are indicated in parenthesis).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -1887,7 +1887,7 @@ Penicillin G, Amoxicillin, Ampicillin and Penicillin V are examples of beta-lact
     
 ### Local Anesthetics
 
-Butacaine, Butoxycaine, Cyclomethycaine and Piperocaine are examples of local anesthetic drugs whose structures were derived from a reference lead compound by using, at a given stage, the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/local-anesthetics-4fe6b376'><i class='fa fa-play' aria-hidden='true'></i></button>Butacaine, Butoxycaine, Cyclomethycaine and Piperocaine are examples of local anesthetic drugs whose structures were derived from a reference lead compound by using, at a given stage, the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1903,7 +1903,7 @@ Butacaine, Butoxycaine, Cyclomethycaine and Piperocaine are examples of local an
     
 ### Glucocorticoid Steroids
 
-Prednisone, Corticosterone, Dexamethazone and Cortisone are examples of glucocorticoid drugs whose structures were derived from a steroid lead compound by using, at a given stage, the concept of bioisosterism (patent priorities are indicated in parenthesis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/glucocorticoid-steroids-6d486487'><i class='fa fa-play' aria-hidden='true'></i></button>Prednisone, Corticosterone, Dexamethazone and Cortisone are examples of glucocorticoid drugs whose structures were derived from a steroid lead compound by using, at a given stage, the concept of bioisosterism (patent priorities are indicated in parenthesis).
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1919,7 +1919,7 @@ Prednisone, Corticosterone, Dexamethazone and Cortisone are examples of glucocor
     
 ### Statin Drugs
 
-Statins are hypolipidemic agents, used to lower cholesterol levels (by inhibition of the HMG-CoA reductase) to reduce the risk of cardiovascular disease. There are two groups of statins: fermentation derived drugs and synthetic drugs. Examples of bioisostere statin drugs are indicated below for each group (commercialization dates are in parenthesis). 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/statin-drugs-75a18744'><i class='fa fa-play' aria-hidden='true'></i></button>Statins are hypolipidemic agents, used to lower cholesterol levels (by inhibition of the HMG-CoA reductase) to reduce the risk of cardiovascular disease. There are two groups of statins: fermentation derived drugs and synthetic drugs. Examples of bioisostere statin drugs are indicated below for each group (commercialization dates are in parenthesis). 
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -1946,7 +1946,7 @@ Statins are hypolipidemic agents, used to lower cholesterol levels (by inhibitio
 
 ### Limits of Patent Infringements on Structures?
 
-What are the limits of patent infringements on chemical structures? Look for example at the benzodiazepine anxiolytic drugs developed by the pharmaceutical companies indicated below. The chemical formulas are indeed very similar and close to that of Valium; however Warner-Lambert, Sumitomo, Schering and Delmar had no problem developing or marketing their own analogs. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/limits-patent-infringements-on-structures-17abb8d8'><i class='fa fa-play' aria-hidden='true'></i></button>What are the limits of patent infringements on chemical structures? Look for example at the benzodiazepine anxiolytic drugs developed by the pharmaceutical companies indicated below. The chemical formulas are indeed very similar and close to that of Valium; however Warner-Lambert, Sumitomo, Schering and Delmar had no problem developing or marketing their own analogs. 
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1963,7 +1963,7 @@ What are the limits of patent infringements on chemical structures? Look for exa
     
 ### The Viagra-Levitra Case
 
-Bioisosterism makes it very difficult for a pharmaceutical company to sue a competitor for copying the chemical structure of its proprietary drug. For example Pfizer sued Bayer and GlaxoSmithKline for infringement on the Viagra patent; however the case failed both in Europe and in the USA (the FDA approval dates are indicated in parentheses).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/viagra-levitra-case-b67a75d8'><i class='fa fa-play' aria-hidden='true'></i></button>Bioisosterism makes it very difficult for a pharmaceutical company to sue a competitor for copying the chemical structure of its proprietary drug. For example Pfizer sued Bayer and GlaxoSmithKline for infringement on the Viagra patent; however the case failed both in Europe and in the USA (the FDA approval dates are indicated in parentheses).
 *[FDA]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -1984,7 +1984,7 @@ Bioisosterism makes it very difficult for a pharmaceutical company to sue a comp
     
 ### The Diazepam-Clobazam Example
 
-Clobazam is a drug whose structure was intelligently derived from that of Diazepam (Valium) by replacing the azomethine group of diazepam by an equivalent planar amide. This bioisosteric transformation led to a drug with an original chemical structure that was fully patentable, with no possible dispute with Roche (note that one tautomer of clobazam could have been invoked as infringing the Diazepam patent). 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/diazepam-clobazam-example-8eea17c6'><i class='fa fa-play' aria-hidden='true'></i></button>Clobazam is a drug whose structure was intelligently derived from that of Diazepam (Valium) by replacing the azomethine group of diazepam by an equivalent planar amide. This bioisosteric transformation led to a drug with an original chemical structure that was fully patentable, with no possible dispute with Roche (note that one tautomer of clobazam could have been invoked as infringing the Diazepam patent). 
 *[f Diaz]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -2005,7 +2005,7 @@ Clobazam is a drug whose structure was intelligently derived from that of Diazep
 *[Enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[Enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
-It is often assumed that a chiral-switch cannot lead to patentable drugs, but this is not always true. Fluoxetine (Prozac) is an example where the owner of the racemate (Eli-Lilly) signed a license agreement with his rival (Sepracor) to have the right to develop one enantiomer of its own drug! There are no general rules in this field and disputes have to be treated case by case.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/patent-issues-chiral-enantiomers-87953f22'><i class='fa fa-play' aria-hidden='true'></i></button>It is often assumed that a chiral-switch cannot lead to patentable drugs, but this is not always true. Fluoxetine (Prozac) is an example where the owner of the racemate (Eli-Lilly) signed a license agreement with his rival (Sepracor) to have the right to develop one enantiomer of its own drug! There are no general rules in this field and disputes have to be treated case by case.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[racemate]: A racemate (or a racemic mixture) is a mixture of equal amounts of enantiomers
@@ -2033,7 +2033,7 @@ It is often assumed that a chiral-switch cannot lead to patentable drugs, but th
 ### Patentable Drugs by Bioisosterism
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Patent issues are not always straightforward; however, when conducted in an intelligent manner bioisosterism provides a method of choice for unequivocally designing patentable drugs whose structures are derived from the structures of the competitor's drugs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/patentable-drugs-by-bioisosterism-3fe04b2d'><i class='fa fa-play' aria-hidden='true'></i></button>Patent issues are not always straightforward; however, when conducted in an intelligent manner bioisosterism provides a method of choice for unequivocally designing patentable drugs whose structures are derived from the structures of the competitor's drugs.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -2044,7 +2044,7 @@ Patent issues are not always straightforward; however, when conducted in an inte
 
 ### Computerized Systems
 
-Many computer programs have been developed for similarity searching purposes (see chapters on similarity searching and those on database searching); however only a few have been built strictly using the concept of bioisosterism. Emil and Bioisoster/Bioster were the first programs and Brood is one of the most recent software products developed along this line; they can perform automated bioisosteric transformations of entire molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/computerized-systems-6b3b3aed'><i class='fa fa-play' aria-hidden='true'></i></button>Many computer programs have been developed for similarity searching purposes (see chapters on similarity searching and those on database searching); however only a few have been built strictly using the concept of bioisosterism. Emil and Bioisoster/Bioster were the first programs and Brood is one of the most recent software products developed along this line; they can perform automated bioisosteric transformations of entire molecules.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -2054,7 +2054,7 @@ Many computer programs have been developed for similarity searching purposes (se
 ![](https://media.drugdesign.org/course/bioisosterism/comp_systems.png){: loading=lazy }
 ### EMIL Program
 
-EMIL (Example Mediated Innovation for Lead Evolution) is an expert system developed in Japan by Toshio Fujita (1993). It is based on a "lead evolution" principle which consists of making consecutive structural modifications of an initial molecule to obtain new generation compounds. The program incorporates a database of known examples together with more than 2000 rules for bioisosteric molecular transformations. Below are shown structures generated with Cimetidine as a starting point.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/emil-program-986b3a15'><i class='fa fa-play' aria-hidden='true'></i></button>EMIL (Example Mediated Innovation for Lead Evolution) is an expert system developed in Japan by Toshio Fujita (1993). It is based on a "lead evolution" principle which consists of making consecutive structural modifications of an initial molecule to obtain new generation compounds. The program incorporates a database of known examples together with more than 2000 rules for bioisosteric molecular transformations. Below are shown structures generated with Cimetidine as a starting point.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -2090,7 +2090,7 @@ EMIL (Example Mediated Innovation for Lead Evolution) is an expert system develo
     
 ### BIOISOSTER Program and BIOSTER Database
 
-The BIOISOSTER program (Balakin et al, 2004) and its  BIOSTER database (Ujivary, 1997) is an example of computerized tools that were developed independently of the EMIL software, with however many similarities between the two systems.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/bioisoster-program-bioster-database-714e649b'><i class='fa fa-play' aria-hidden='true'></i></button>The BIOISOSTER program (Balakin et al, 2004) and its  BIOSTER database (Ujivary, 1997) is an example of computerized tools that were developed independently of the EMIL software, with however many similarities between the two systems.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2109,7 +2109,7 @@ The BIOISOSTER program (Balakin et al, 2004) and its  BIOSTER database (Ujivary,
     
 #### The BIOISOSTER Program
 
-The BIOISOSTER program developed by Balakin et al (2004) can be used to find bioisosteric analogs in 2D structural databases. The program can also generate chemical libraries conforming to bioisosteric transformation rules (that are target specific and customizable). In the example below are illustrated the types of hits that were obtained starting with a 4-anilinoquinazoline query.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/bioisoster-program-c92507dc'><i class='fa fa-play' aria-hidden='true'></i></button>The BIOISOSTER program developed by Balakin et al (2004) can be used to find bioisosteric analogs in 2D structural databases. The program can also generate chemical libraries conforming to bioisosteric transformation rules (that are target specific and customizable). In the example below are illustrated the types of hits that were obtained starting with a 4-anilinoquinazoline query.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -2126,7 +2126,7 @@ The BIOISOSTER program developed by Balakin et al (2004) can be used to find bio
 #### Bioisosteric Morphing of the Query
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-The BIOISOSTER algorithm for finding bioisosteric analogs in a structural database is a two-step procedure. (1) In the first step the query input is "morphed" using a set of bioisosteric rules, and (2) in the second step the transformed structures are used as queries for searching in the database. Below step (1) is illustrated (morphing treatment), that was developed for the anilinoquinazoline query of the previous page. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/bioisosteric-morphing-query-55fc6415'><i class='fa fa-play' aria-hidden='true'></i></button>The BIOISOSTER algorithm for finding bioisosteric analogs in a structural database is a two-step procedure. (1) In the first step the query input is "morphed" using a set of bioisosteric rules, and (2) in the second step the transformed structures are used as queries for searching in the database. Below step (1) is illustrated (morphing treatment), that was developed for the anilinoquinazoline query of the previous page. 
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -2142,7 +2142,7 @@ The BIOISOSTER algorithm for finding bioisosteric analogs in a structural databa
     
 #### The Accelrys BIOSTER Database
 
-The BIOSTER database consists of a systematic compilation of successful bioisosteric replacements that were described in medicinal chemistry articles in the last 35 years (up to 2002). This database contains about 14,000 pairs of bioisosteres together with the bioisosteric relationships between pairs of compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/accelrys-bioster-database-66074f97'><i class='fa fa-play' aria-hidden='true'></i></button>The BIOSTER database consists of a systematic compilation of successful bioisosteric replacements that were described in medicinal chemistry articles in the last 35 years (up to 2002). This database contains about 14,000 pairs of bioisosteres together with the bioisosteric relationships between pairs of compounds.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -2159,7 +2159,7 @@ The BIOSTER database consists of a systematic compilation of successful bioisost
     
 #### Example of BIOSTER Database Content
 
-Below is illustrated an output of the Accelrys Bioster database showing the bioisosteric transformation of an initial molecule having a carboxylic acid group into a sulfonamide moiety. The program gives the calculated LogP for the two compounds as well as those of the elementary fragments. References from the literature associated with this type of transformation are also given.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/example-bioster-database-content-20049757'><i class='fa fa-play' aria-hidden='true'></i></button>Below is illustrated an output of the Accelrys Bioster database showing the bioisosteric transformation of an initial molecule having a carboxylic acid group into a sulfonamide moiety. The program gives the calculated LogP for the two compounds as well as those of the elementary fragments. References from the literature associated with this type of transformation are also given.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -2168,7 +2168,7 @@ Below is illustrated an output of the Accelrys Bioster database showing the bioi
 ![](https://media.drugdesign.org/course/bioisosterism/accelrys_program.png){: loading=lazy }
 ### BROOD Program
 
-Brood is a recent program developed by OpenEye for bioisostere prediction. It identifies bioisosteres by finding fragments with shape, chemistry and electrostatics that are similar to a 3D query molecule. Below is visualized the identification of an oxazole having similar electrostatic isopotential contour surfaces as compared to an ester moiety (red regions are negative and blue regions are positive). For electrostatics the Tanimoto coefficient is 0.54 whereas it is 0.90 for shape similarity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/brood-program-fe6c8f30'><i class='fa fa-play' aria-hidden='true'></i></button>Brood is a recent program developed by OpenEye for bioisostere prediction. It identifies bioisosteres by finding fragments with shape, chemistry and electrostatics that are similar to a 3D query molecule. Below is visualized the identification of an oxazole having similar electrostatic isopotential contour surfaces as compared to an ester moiety (red regions are negative and blue regions are positive). For electrostatics the Tanimoto coefficient is 0.54 whereas it is 0.90 for shape similarity.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -2184,7 +2184,7 @@ Brood is a recent program developed by OpenEye for bioisostere prediction. It id
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-Paul Hawkins (OpenEye Scientific Software Inc.) used the Brood program to find bioisoteres of a toxic bradykinin antagonist. He used the toxic 2-3-diaminopyridine moiety as a query. Indeed, the cyclopropyl carbonyl hit corresponds to a potent antagonist recently discovered at Merck. This confirms Brood's ability to generate useful bioisosteres and encourages studying the other structures generated. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/brood-program-for-bradykinin-antagonists-d7ad902a'><i class='fa fa-play' aria-hidden='true'></i></button>Paul Hawkins (OpenEye Scientific Software Inc.) used the Brood program to find bioisoteres of a toxic bradykinin antagonist. He used the toxic 2-3-diaminopyridine moiety as a query. Indeed, the cyclopropyl carbonyl hit corresponds to a potent antagonist recently discovered at Merck. This confirms Brood's ability to generate useful bioisosteres and encourages studying the other structures generated. 
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -2218,7 +2218,7 @@ Paul Hawkins (OpenEye Scientific Software Inc.) used the Brood program to find b
     
 ### Organon IBIS Program
 
-Organon has developed an in-house intranet application program called IBIS to search for bioisosteric replacements. Constraints such as LogP and pKa allow for focusing the search. The performance of the method  has been validated using bioisosteric fragment pairs extracted from the BIOSTER database. In the example below are shown bioisosteres of benzamidine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/organon-ibis-program-0385c461'><i class='fa fa-play' aria-hidden='true'></i></button>Organon has developed an in-house intranet application program called IBIS to search for bioisosteric replacements. Constraints such as LogP and pKa allow for focusing the search. The performance of the method  has been validated using bioisosteric fragment pairs extracted from the BIOSTER database. In the example below are shown bioisosteres of benzamidine.
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -2238,7 +2238,7 @@ Organon has developed an in-house intranet application program called IBIS to se
 *[Bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Novartis developed an in-house program based on neural networks enabling the identification of novel bioisosteric ring analogs. The parameters that are considered for bioisosterism can include energy, molecular weight and atomic charges. In the example illustrated below, bioisosteres identified for a benzothiazole target ring are displayed. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/novartis-program-for-ring-bioisosteres-7967f4b1'><i class='fa fa-play' aria-hidden='true'></i></button>Novartis developed an in-house program based on neural networks enabling the identification of novel bioisosteric ring analogs. The parameters that are considered for bioisosterism can include energy, molecular weight and atomic charges. In the example illustrated below, bioisosteres identified for a benzothiazole target ring are displayed. 
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -2262,7 +2262,7 @@ Novartis developed an in-house program based on neural networks enabling the ide
     
 ### GlaxoSmithKline Program for Ring Replacements
 
-GlaxoSmithKline developed a ring database to be used for bioisosteric replacements. The program displays the frequency of occurrence in the corporate database (as an indicator of synthetic accessibility) together with similarity values. Below is illustrated the output obtained with the indole query.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/glaxosmithkline-program-for-ring-replacements-2b16d7d6'><i class='fa fa-play' aria-hidden='true'></i></button>GlaxoSmithKline developed a ring database to be used for bioisosteric replacements. The program displays the frequency of occurrence in the corporate database (as an indicator of synthetic accessibility) together with similarity values. Below is illustrated the output obtained with the indole query.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -2278,7 +2278,7 @@ GlaxoSmithKline developed a ring database to be used for bioisosteric replacemen
 ### COSMOsim Program for Bioisosteric Similarity
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-A program called COSMOsim has been developed based on the calculation of polarization charge densities where the molecules are considered as swimming in a perfect conductor. Quantum mechanical calculations are used for generating &Sigma; profiles (histograms) that enable the calculation of "&Sigma;-match similarities". Examples of bioisosteres obtained for the naphthalene query are shown in the figure below (similarity scores are indicated in yellow).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/cosmosim-program-for-bioisosteric-similarity-dffc85b5'><i class='fa fa-play' aria-hidden='true'></i></button>A program called COSMOsim has been developed based on the calculation of polarization charge densities where the molecules are considered as swimming in a perfect conductor. Quantum mechanical calculations are used for generating &Sigma; profiles (histograms) that enable the calculation of "&Sigma;-match similarities". Examples of bioisosteres obtained for the naphthalene query are shown in the figure below (similarity scores are indicated in yellow).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -2294,7 +2294,7 @@ A program called COSMOsim has been developed based on the calculation of polariz
     
 ### Cheminformatics Software
 
-Cheminformatics led to the development of tools based on 2D descriptors, connectivity tables, Tanimoto coefficients, structural 2D/3D fingerprints etc., to treat molecular similarity in a quantitative manner. This is beyond the classical concept of bioisosterism and will be discussed in the chapter on "Molecular Similarity". Commercial software includes Daylight, MDL, Tripos, Accelrys and CAS programs. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/cheminformatics-software-b6a4e6a6'><i class='fa fa-play' aria-hidden='true'></i></button>Cheminformatics led to the development of tools based on 2D descriptors, connectivity tables, Tanimoto coefficients, structural 2D/3D fingerprints etc., to treat molecular similarity in a quantitative manner. This is beyond the classical concept of bioisosterism and will be discussed in the chapter on "Molecular Similarity". Commercial software includes Daylight, MDL, Tripos, Accelrys and CAS programs. 
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
@@ -2303,14 +2303,14 @@ Cheminformatics led to the development of tools based on 2D descriptors, connect
 ![](https://media.drugdesign.org/course/bioisosterism/cheminfo_software.png){: loading=lazy }
 #### Daylight: MERLIN Program
 
-MERLIN is an example of a bioinformatics program developed by Daylight Chemical Information Systems Inc. for searching, sorting and selecting molecules from a database. Below is shown the output obtained by searching similar compounds using barbituric acid as a query (the molecules are sorted in terms of the Tanimoto similarity coefficient). 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/daylight-merlin-program-c986e9ae'><i class='fa fa-play' aria-hidden='true'></i></button>MERLIN is an example of a bioinformatics program developed by Daylight Chemical Information Systems Inc. for searching, sorting and selecting molecules from a database. Below is shown the output obtained by searching similar compounds using barbituric acid as a query (the molecules are sorted in terms of the Tanimoto similarity coefficient). 
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/merlin_program.png){: loading=lazy }
 #### Tripos: SYBYL Platform
 
-Tripos has several cheminformatics tools that make use of 2D similarity and include different measurements of similarity such as Tanimoto, Asymmetric or Cosine similarity coefficients. The following views illustrate screen snapshots obtained using Unity (with Tanimoto coefficients) and Benchware Dataminer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/tripos-sybyl-platform-79faf3c3'><i class='fa fa-play' aria-hidden='true'></i></button>Tripos has several cheminformatics tools that make use of 2D similarity and include different measurements of similarity such as Tanimoto, Asymmetric or Cosine similarity coefficients. The following views illustrate screen snapshots obtained using Unity (with Tanimoto coefficients) and Benchware Dataminer.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2321,7 +2321,7 @@ Tripos has several cheminformatics tools that make use of 2D similarity and incl
 #### MDL: ISENTRIS Program
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-MDL has developed a cheminformatics platform named Isentris for managing scientific information. In the example below, Kynurenic acid was used as a query to search in the MDL Drug Data Report (MDDR) database containing over 132,000 substances. Typical hits are shown below with their similarity index (MolSim) and their main biological property (Activity).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/mdl-isentris-program-046fd46d'><i class='fa fa-play' aria-hidden='true'></i></button>MDL has developed a cheminformatics platform named Isentris for managing scientific information. In the example below, Kynurenic acid was used as a query to search in the MDL Drug Data Report (MDDR) database containing over 132,000 substances. Typical hits are shown below with their similarity index (MolSim) and their main biological property (Activity).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
@@ -2335,14 +2335,14 @@ MDL has developed a cheminformatics platform named Isentris for managing scienti
 ##### MDL: DiscoveryGate Program
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-In the example below the MDL program DiscoveryGate was used to search for isosteres of naphthalene. The search yielded 670 compounds; the first nine structures are shown below. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/mdl-discoverygate-program-3ed23515'><i class='fa fa-play' aria-hidden='true'></i></button>In the example below the MDL program DiscoveryGate was used to search for isosteres of naphthalene. The search yielded 670 compounds; the first nine structures are shown below. 
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/disc_gate_program.png){: loading=lazy }
 #### CAS: SciFinder Program
 
-SciFinder is a research platform developed by CAS that can be used to access information in journals and patent literature. The example below illustrates the structure of a drug which was used to probe for bioisosteric candidates in the literature (Set-1). In the second step the query structure was used to search only for compounds with biological studies available in the literature (Set-2). 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/cas-scifinder-program-eb40e8d0'><i class='fa fa-play' aria-hidden='true'></i></button>SciFinder is a research platform developed by CAS that can be used to access information in journals and patent literature. The example below illustrates the structure of a drug which was used to probe for bioisosteric candidates in the literature (Set-1). In the second step the query structure was used to search only for compounds with biological studies available in the literature (Set-2). 
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
 
@@ -2357,7 +2357,7 @@ SciFinder is a research platform developed by CAS that can be used to access inf
 ### Review Articles on Bioisosterism
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Despite the importance of bioisosterism, there are relatively few systematic review articles on this field. Below are indicated some articles that have been written on bioisosterism, ranked in reverse chronological order. The full references appear in the "additional information" area at the bottom left side of this page. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/review-articles-on-bioisosterism-a99c5352'><i class='fa fa-play' aria-hidden='true'></i></button>Despite the importance of bioisosterism, there are relatively few systematic review articles on this field. Below are indicated some articles that have been written on bioisosterism, ranked in reverse chronological order. The full references appear in the "additional information" area at the bottom left side of this page. 
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -2421,7 +2421,7 @@ Despite the importance of bioisosterism, there are relatively few systematic rev
 ### Books on Bioisosterism
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Below are indicated books that have been written (entirely or in part) on bioisosterism, ranked in reverse chronological order. The full references appear in the "additional information" area at the bottom left side of this page. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/books-on-bioisosterism-45f3483a'><i class='fa fa-play' aria-hidden='true'></i></button>Below are indicated books that have been written (entirely or in part) on bioisosterism, ranked in reverse chronological order. The full references appear in the "additional information" area at the bottom left side of this page. 
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -2472,7 +2472,7 @@ Below are indicated books that have been written (entirely or in part) on bioiso
 
 ### The Receptor is the Ultimate Decider
 
-In bioisosterism a successful replacement is never guaranteed because the receptor is the ultimate "decider" and this is illustrated here. In the area of &beta;-adrenergic agents it has been proven that the replacement of a phenolic hydroxyl with a sulfonamide group retains the biological activities, and this was attributed to the similar pKa values of the two groups. However for opioid ligands, the same replacement led to inactive molecules. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/receptor-is-ultimate-decider-6dd500e8'><i class='fa fa-play' aria-hidden='true'></i></button>In bioisosterism a successful replacement is never guaranteed because the receptor is the ultimate "decider" and this is illustrated here. In the area of &beta;-adrenergic agents it has been proven that the replacement of a phenolic hydroxyl with a sulfonamide group retains the biological activities, and this was attributed to the similar pKa values of the two groups. However for opioid ligands, the same replacement led to inactive molecules. 
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -2495,7 +2495,7 @@ In bioisosterism a successful replacement is never guaranteed because the recept
 ### The Multidimensional Nature of Bioisosterism
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-As Thornber points out, there are many parameters that have to be considered when deciding on a bioisosteric replacement and any replacement is unlikely to leave all these parameters unmodified. These parameters include size, electronic distribution, lipid solubility, water solubility, pKa, chemical reactivity (e.g. likelihood of metabolism) and hydrogen bond capacity. In the following pages we visualize some of these properties for the three molecules shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/multidimensional-nature-bioisosterism-c726123c'><i class='fa fa-play' aria-hidden='true'></i></button>As Thornber points out, there are many parameters that have to be considered when deciding on a bioisosteric replacement and any replacement is unlikely to leave all these parameters unmodified. These parameters include size, electronic distribution, lipid solubility, water solubility, pKa, chemical reactivity (e.g. likelihood of metabolism) and hydrogen bond capacity. In the following pages we visualize some of these properties for the three molecules shown below.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2510,7 +2510,7 @@ As Thornber points out, there are many parameters that have to be considered whe
     
 #### Shape
 
-The following three bioisostere molecules have virtually the same shape (for clarity non-essential hydrogen atoms were omitted from the views).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/shape-4e4f6df0'><i class='fa fa-play' aria-hidden='true'></i></button>The following three bioisostere molecules have virtually the same shape (for clarity non-essential hydrogen atoms were omitted from the views).
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2518,21 +2518,21 @@ The following three bioisostere molecules have virtually the same shape (for cla
 ![](https://media.drugdesign.org/course/bioisosterism/multi_shape.png){: loading=lazy }
 #### Lipophilicity
 
-They also present the same distribution of lipophilic and polar groups (for clarity non-essential hydrogen atoms were omitted from the views).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/lipophilicity-5a96c819'><i class='fa fa-play' aria-hidden='true'></i></button>They also present the same distribution of lipophilic and polar groups (for clarity non-essential hydrogen atoms were omitted from the views).
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/multi_lipo.png){: loading=lazy }
 
 #### Electronic Distribution
 
-If we analyze the 3D distribution of the electrostatic potential in the surroundings of the three molecules, they prove to be very similar (for clarity non-essential hydrogen atoms were omitted from the views).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/electronic-distribution-cfa0e7b9'><i class='fa fa-play' aria-hidden='true'></i></button>If we analyze the 3D distribution of the electrostatic potential in the surroundings of the three molecules, they prove to be very similar (for clarity non-essential hydrogen atoms were omitted from the views).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/multi_es.png){: loading=lazy }
 #### Hydrogen-Bond Capacity
 
-Finally, in terms of their hydrogen-bonding capacity the three molecules have the same capabilities. These molecules share similar features from multiple points of view. It is up to the chemist to decide whether these properties are sufficient to consider them as bioisosteres, or whether other physicochemical parameters should also be  considered before starting the development of a synthetic program. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/hydrogen-bond-capacity-9339781e'><i class='fa fa-play' aria-hidden='true'></i></button>Finally, in terms of their hydrogen-bonding capacity the three molecules have the same capabilities. These molecules share similar features from multiple points of view. It is up to the chemist to decide whether these properties are sufficient to consider them as bioisosteres, or whether other physicochemical parameters should also be  considered before starting the development of a synthetic program. 
 *[bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -2543,7 +2543,7 @@ Finally, in terms of their hydrogen-bonding capacity the three molecules have th
 ### Can Bioisosterism be Quantified?
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Successes obtained using bioisosteric replacements provided the foundation for the development of Quantitative Structure-Activity Relationships (QSAR) in drug design where candidate bioisosteric groups could be compared in terms of parameters including electronic properties (e.g. &Sigma;), lipophilicity (e.g. &pi;) and steric properties (e.g. MR). Recently, cheminformatics has broadened the field by assigning similarity indexes to molecular structures, as indicated on the following page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/can-bioisosterism-be-quantified-da9803c1'><i class='fa fa-play' aria-hidden='true'></i></button>Successes obtained using bioisosteric replacements provided the foundation for the development of Quantitative Structure-Activity Relationships (QSAR) in drug design where candidate bioisosteric groups could be compared in terms of parameters including electronic properties (e.g. &Sigma;), lipophilicity (e.g. &pi;) and steric properties (e.g. MR). Recently, cheminformatics has broadened the field by assigning similarity indexes to molecular structures, as indicated on the following page.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[QSAR]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
 *[Quantitative Structure-Activity Relationships]: Quantitative Structure Activity Relationships (QSAR) - Mathematical equation linking chemical structure and biological activity for a series of compounds.
@@ -2568,7 +2568,7 @@ Successes obtained using bioisosteric replacements provided the foundation for t
     
 ### The Cheminformatics Era
 
-With the advent of computers in drug design, cheminformatics has emerged as a new discipline which has given an entirely new dimension to bioisosterism. Theoretical considerations now make it possible to treat bioisosterism in a quantitative manner with more modern methods for measuring molecular similarity (see the chapter on this topic in the cheminformatics volume). 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/cheminformatics-era-ee920a7b'><i class='fa fa-play' aria-hidden='true'></i></button>With the advent of computers in drug design, cheminformatics has emerged as a new discipline which has given an entirely new dimension to bioisosterism. Theoretical considerations now make it possible to treat bioisosterism in a quantitative manner with more modern methods for measuring molecular similarity (see the chapter on this topic in the cheminformatics volume). 
 *[bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -2579,14 +2579,14 @@ With the advent of computers in drug design, cheminformatics has emerged as a ne
 *[Bioisostere]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Bioisosteres]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-When the 3D structure of the target protein is known, docking can be used to generate isosteres. The docking procedure takes into account the van der Waals, hydrogen bonding and electrostatic forces and can be automated to search in a database of fragments. The scoring function associated with the docking treatment enables  discrimination between good and bad isosteres. 
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/docking-can-be-used-to-generate-bioisosteres-6bf5c77a'><i class='fa fa-play' aria-hidden='true'></i></button>When the 3D structure of the target protein is known, docking can be used to generate isosteres. The docking procedure takes into account the van der Waals, hydrogen bonding and electrostatic forces and can be automated to search in a database of fragments. The scoring function associated with the docking treatment enables  discrimination between good and bad isosteres. 
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/bioisosterism/docking.png){: loading=lazy }
 ### Strategic and Financial Considerations
 
-Research based on the development of analog compounds is attractive because of the limited risk and also because no important investment is needed in fundamental research. On the other hand, the "me-too" drug will be in competition with the other analogs on the market and the effects that will be observed in the long term are unpredictable; they can be outstanding or catastrophic. Sales of analog drugs are estimated to represent two-thirds of all the small molecules market.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/strategic-financial-considerations-27b7dbe6'><i class='fa fa-play' aria-hidden='true'></i></button>Research based on the development of analog compounds is attractive because of the limited risk and also because no important investment is needed in fundamental research. On the other hand, the "me-too" drug will be in competition with the other analogs on the market and the effects that will be observed in the long term are unpredictable; they can be outstanding or catastrophic. Sales of analog drugs are estimated to represent two-thirds of all the small molecules market.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -2609,7 +2609,7 @@ Research based on the development of analog compounds is attractive because of t
     
 ### Examples of Success and Failures
 
-Certain drugs that were introduced as a copy of an existing drug eventually became blockbusters and garnered a greater part of the market than the original 'pioneer' drug because of concrete additional advantages. Below are examples of successful drugs and others that failed for the two types of research (place the cursor on the name of each drug to visualize additional information).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='bioisosterism/examples-success-failures-1b72f5a2'><i class='fa fa-play' aria-hidden='true'></i></button>Certain drugs that were introduced as a copy of an existing drug eventually became blockbusters and garnered a greater part of the market than the original 'pioneer' drug because of concrete additional advantages. Below are examples of successful drugs and others that failed for the two types of research (place the cursor on the name of each drug to visualize additional information).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -2620,4 +2620,5 @@ Certain drugs that were introduced as a copy of an existing drug eventually beca
     ![](https://media.drugdesign.org/course/bioisosterism/failures.gif){: loading=lazy }
 
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

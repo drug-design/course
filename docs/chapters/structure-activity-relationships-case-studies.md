@@ -16,7 +16,7 @@
 
 ### The Banyu Story with the Urea Structure
 
-Following a structure-based strategy, the Banyu group identified a hit (Cdk4 inhibitors project) having an urea moiety with an IC<sub>50</sub> of 44 &Mu;M. The hit was simplified (ortho substituent removed) in order to derive further knowledge based on SAR analyses. In the following pages an outline of the important steps that enabled successful exploitation of SAR is presented.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/banyu-story-urea-structure-b15894d4'><i class='fa fa-play' aria-hidden='true'></i></button>Following a structure-based strategy, the Banyu group identified a hit (Cdk4 inhibitors project) having an urea moiety with an IC<sub>50</sub> of 44 &micro;M. The hit was simplified (ortho substituent removed) in order to derive further knowledge based on SAR analyses. In the following pages an outline of the important steps that enabled successful exploitation of SAR is presented.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -40,7 +40,7 @@ Following a structure-based strategy, the Banyu group identified a hit (Cdk4 inh
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Moiety]: Fragments, functional groups or portions of chemical compounds.
 
-The complete loss of biological activity observed for the analog in which the anilino nitrogen atom is replaced by a carbon shows that the entire urea moiety is important for biological activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/importance-entire-urea-moiety-db058c5b'><i class='fa fa-play' aria-hidden='true'></i></button>The complete loss of biological activity observed for the analog in which the anilino nitrogen atom is replaced by a carbon shows that the entire urea moiety is important for biological activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -61,7 +61,7 @@ The complete loss of biological activity observed for the analog in which the an
 ### Bioactive Conformation?
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-Based on modeling analyses the Banyu group suspected that the binding of the compounds involved the N-H and the carbonyl by forming two hydrogen bonds with the protein, in a bidentate manner. This hypothesis requires a "cis" conformation for the amide fragment concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/bioactive-conformation-70319090'><i class='fa fa-play' aria-hidden='true'></i></button>Based on modeling analyses the Banyu group suspected that the binding of the compounds involved the N-H and the carbonyl by forming two hydrogen bonds with the protein, in a bidentate manner. This hypothesis requires a "cis" conformation for the amide fragment concerned.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[bidentate]: Having two anchorage points
 
@@ -81,7 +81,7 @@ Based on modeling analyses the Banyu group suspected that the binding of the com
     
 ### Design of Compounds with a Cis Conformation
 
-The aromatic phenyl was replaced by a pyridine, for all possible positions of the nitrogen atom (ortho, meta, para). The increased activity observed only for the 2-pyridyl isomer was interpreted as due to the increased population of the cis conformation (favored by an internal hydrogen bond).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/design-compounds-cis-conformation-e9fffd4b'><i class='fa fa-play' aria-hidden='true'></i></button>The aromatic phenyl was replaced by a pyridine, for all possible positions of the nitrogen atom (ortho, meta, para). The increased activity observed only for the 2-pyridyl isomer was interpreted as due to the increased population of the cis conformation (favored by an internal hydrogen bond).
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
 
@@ -101,7 +101,7 @@ The aromatic phenyl was replaced by a pyridine, for all possible positions of th
 ### Good Exploitation of the SAR Analyses
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The SAR analyses were further exploited and led to the discovery of very potent and selective compounds such as 15a. In summary, the major steps in this project were (1) discovery of a hit; (2) importance of the urea moiety; (3) modeling the probable bioactive conformation; (4) analogs favoring the cis conformation; (5) lead optimization.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/good-exploitation-sar-analyses-27d71852'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR analyses were further exploited and led to the discovery of very potent and selective compounds such as 15a. In summary, the major steps in this project were (1) discovery of a hit; (2) importance of the urea moiety; (3) modeling the probable bioactive conformation; (4) analogs favoring the cis conformation; (5) lead optimization.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -127,7 +127,7 @@ The SAR analyses were further exploited and led to the discovery of very potent 
 
 ### The Dioxobenzothiazole Scaffold
 
-The dioxobenzothiazole scaffold has been the object of SAR studies, in a project aiming at the discovery of CDK4 kinase inhibitors. Starting with the unsubstituted derivative having an IC<sub>50</sub> of 6 &Mu;M, a series of analogs were prepared.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/dioxobenzothiazole-scaffold-5cc9300b'><i class='fa fa-play' aria-hidden='true'></i></button>The dioxobenzothiazole scaffold has been the object of SAR studies, in a project aiming at the discovery of CDK4 kinase inhibitors. Starting with the unsubstituted derivative having an IC<sub>50</sub> of 6 &micro;M, a series of analogs were prepared.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -147,7 +147,7 @@ The dioxobenzothiazole scaffold has been the object of SAR studies, in a project
     
 ### Optimization of the Dioxobenzothiazole Lead
 
-A classical optimization of the series failed to find more potent compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/optimization-dioxobenzothiazole-lead-d05e5ccd'><i class='fa fa-play' aria-hidden='true'></i></button>A classical optimization of the series failed to find more potent compounds.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/dioxo_sar.png){: loading=lazy }
@@ -162,7 +162,7 @@ A classical optimization of the series failed to find more potent compounds.
 ### SAR Analyses
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The binding of the dioxobenzothiazole series can be interpreted in the light the known bidentate hydrogen-bond binding with the conserved kinase hinge. This model provides a basis for understanding the SAR in this series and clarifies why it was not possible to find more potent analogs: the problem is due to steric and polar repulsions between the nitrogen atom of the thiazole and the carbonyl of the hinge for all the analogs prepared. Note that another scaffold containing an N-H group instead of an sp<sup>2</sup> nitrogen atom may lead to more potent compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/sar-analyses-42b59eb1'><i class='fa fa-play' aria-hidden='true'></i></button>The binding of the dioxobenzothiazole series can be interpreted in the light the known bidentate hydrogen-bond binding with the conserved kinase hinge. This model provides a basis for understanding the SAR in this series and clarifies why it was not possible to find more potent analogs: the problem is due to steric and polar repulsions between the nitrogen atom of the thiazole and the carbonyl of the hinge for all the analogs prepared. Note that another scaffold containing an N-H group instead of an sp<sup>2</sup> nitrogen atom may lead to more potent compounds.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bidentate]: Having two anchorage points
@@ -180,7 +180,7 @@ The binding of the dioxobenzothiazole series can be interpreted in the light the
     
 ### Docking of the Dioxobenzothiazole Molecule
 
-Docking analyses confirm that there are undesirable steric and polar repulsions between the nitrogen atom of the thiazole, the methyl group and the carbonyl of the hinge, a characteristic present in all analogs synthesized.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/docking-dioxobenzothiazole-molecule-94f937b4'><i class='fa fa-play' aria-hidden='true'></i></button>Docking analyses confirm that there are undesirable steric and polar repulsions between the nitrogen atom of the thiazole, the methyl group and the carbonyl of the hinge, a characteristic present in all analogs synthesized.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -190,7 +190,7 @@ Docking analyses confirm that there are undesirable steric and polar repulsions 
 
 ### Being Trapped with a Bad Scaffold
 
-When a lead is chosen, it is useful to make sure that the corresponding scaffold does not contain structural elements that are constantly detrimental to the biological activities. It is worth spending some time addressing this issue before embarking on an SAR optimization program with a bad scaffold.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/being-trapped-bad-scaffold-ed6b0190'><i class='fa fa-play' aria-hidden='true'></i></button>When a lead is chosen, it is useful to make sure that the corresponding scaffold does not contain structural elements that are constantly detrimental to the biological activities. It is worth spending some time addressing this issue before embarking on an SAR optimization program with a bad scaffold.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -203,7 +203,7 @@ When a lead is chosen, it is useful to make sure that the corresponding scaffold
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Inhibitors of the EGF-R protein tyrosine kinase have enormous therapeutic potential in the treatment of malignant and nonmalignant epithelial diseases. Historically, this protein is one of the first tyrosine kinases described in the literature and was therefore chosen by many companies as a target for a research program in the signal transduction area. Many inhibitors from several structurally diverse classes were discovered, making it possible to interpret the SAR observed for these molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/therapeutic-utility-egf-r-kinase-inhibitors-756becf8'><i class='fa fa-play' aria-hidden='true'></i></button>Inhibitors of the EGF-R protein tyrosine kinase have enormous therapeutic potential in the treatment of malignant and nonmalignant epithelial diseases. Historically, this protein is one of the first tyrosine kinases described in the literature and was therefore chosen by many companies as a target for a research program in the signal transduction area. Many inhibitors from several structurally diverse classes were discovered, making it possible to interpret the SAR observed for these molecules.
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -214,7 +214,7 @@ Inhibitors of the EGF-R protein tyrosine kinase have enormous therapeutic potent
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Iressa and Tarceva are examples of inhibitors of the EGF-R protein kinase. They share the same 4-amino-quinazoline scaffold.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/amino-4-quinazoline-inhibitors-iressa-tarceva-a58752f8'><i class='fa fa-play' aria-hidden='true'></i></button>Iressa and Tarceva are examples of inhibitors of the EGF-R protein kinase. They share the same 4-amino-quinazoline scaffold.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -226,7 +226,7 @@ Iressa and Tarceva are examples of inhibitors of the EGF-R protein kinase. They 
 
 ### Analysis of Tarceva Binding to the EGF-R Kinase (1/4)
 
-ATP is the common cofactor of all protein kinases and is attached to the enzyme in a bidentate manner.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-tarceva-binding-to-egf-r-kinase-14-1a2573bd'><i class='fa fa-play' aria-hidden='true'></i></button>ATP is the common cofactor of all protein kinases and is attached to the enzyme in a bidentate manner.
 *[bidentate]: Having two anchorage points
 
 
@@ -246,7 +246,7 @@ ATP is the common cofactor of all protein kinases and is attached to the enzyme 
     
 #### Analysis of Tarceva Binding to the EGF-R Kinase (2/4)
 
-As demonstrated by X-ray studies, Tarceva adopts an extended conformation. Both nitrogen atoms of the quinazoline scaffold are involved as acceptors of hydrogen bonds; however the N3 nitrogen atom is too distant for the formation of a direct hydrogen bond with the kinase.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-tarceva-binding-to-egf-r-kinase-24-c0e5f410'><i class='fa fa-play' aria-hidden='true'></i></button>As demonstrated by X-ray studies, Tarceva adopts an extended conformation. Both nitrogen atoms of the quinazoline scaffold are involved as acceptors of hydrogen bonds; however the N3 nitrogen atom is too distant for the formation of a direct hydrogen bond with the kinase.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/tarceva.gif){: loading=lazy }
@@ -265,7 +265,7 @@ As demonstrated by X-ray studies, Tarceva adopts an extended conformation. Both 
     
 #### Analysis of Tarceva Binding to the EGF-R Kinase (3/4)
 
-Tarceva is an ATP competitive inhibitor of the EGF-R kinase. ATP and Tarceva exploit different anchoring interactions; a water molecule makes possible the interaction between the inhibitor and the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-tarceva-binding-to-egf-r-kinase-34-c21d3236'><i class='fa fa-play' aria-hidden='true'></i></button>Tarceva is an ATP competitive inhibitor of the EGF-R kinase. ATP and Tarceva exploit different anchoring interactions; a water molecule makes possible the interaction between the inhibitor and the enzyme.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -286,7 +286,7 @@ Tarceva is an ATP competitive inhibitor of the EGF-R kinase. ATP and Tarceva exp
     
 #### Analysis of Tarceva Binding to the EGF-R Kinase (4/4)
 
-The substituents in positions 6 and 7 extend towards the outside of the protein and serve to optimize the physico-chemical properties for better solubility and bioavailability.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-tarceva-binding-to-egf-r-kinase-44-8fc2de19'><i class='fa fa-play' aria-hidden='true'></i></button>The substituents in positions 6 and 7 extend towards the outside of the protein and serve to optimize the physico-chemical properties for better solubility and bioavailability.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 
 
@@ -307,7 +307,7 @@ The substituents in positions 6 and 7 extend towards the outside of the protein 
 ### SAR of the Quinazoline Scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Many chemical modifications of the amino-4 quinazoline scaffold have been studied and the resulting SAR features are summarized in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/sar-quinazoline-scaffold-58015fbe'><i class='fa fa-play' aria-hidden='true'></i></button>Many chemical modifications of the amino-4 quinazoline scaffold have been studied and the resulting SAR features are summarized in the figure below.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -353,14 +353,14 @@ Many chemical modifications of the amino-4 quinazoline scaffold have been studie
 ### SAR of Fused Rings in the Quinazoline Scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The SAR features of fused-ring additions are summarized in this diagram as well.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/sar-fused-rings-quinazoline-scaffold-95ef20c3'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR features of fused-ring additions are summarized in this diagram as well.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/surp_1_4_2_0_1.png){: loading=lazy }
 ### Analysis of a Surprising Observation
 
-The AstraZeneca group replaced the phenyl of the anilino moiety by a fused bicyclic heterocycle having a nitrogen atom located in different places. They observed that a nitrogen atom para or ortho to the N4 is detrimental to potency (compounds 15 and 16).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-surprising-observation-e617e681'><i class='fa fa-play' aria-hidden='true'></i></button>The AstraZeneca group replaced the phenyl of the anilino moiety by a fused bicyclic heterocycle having a nitrogen atom located in different places. They observed that a nitrogen atom para or ortho to the N4 is detrimental to potency (compounds 15 and 16).
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -376,7 +376,7 @@ The AstraZeneca group replaced the phenyl of the anilino moiety by a fused bicyc
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-The surprising difference in the biological activities observed for 15, 16 and 17 can be understood with 3D analyses. The rationale is only summarized in 2D to make it easier to understand the 3D view presented on the next page. For compounds 15 and 16, and due to the influence of nitrogen atoms on the electronic distribution, a positive charge is induced on the atom meta to N4, whereas in molecule 17 this position is negatively charged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-atomic-charges-different-analogs-652ffbe4'><i class='fa fa-play' aria-hidden='true'></i></button>The surprising difference in the biological activities observed for 15, 16 and 17 can be understood with 3D analyses. The rationale is only summarized in 2D to make it easier to understand the 3D view presented on the next page. For compounds 15 and 16, and due to the influence of nitrogen atoms on the electronic distribution, a positive charge is induced on the atom meta to N4, whereas in molecule 17 this position is negatively charged.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -384,7 +384,7 @@ The surprising difference in the biological activities observed for 15, 16 and 1
 #### Optimal Binding of Inhibitor 17
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-The good location of the isoquinoline nitrogen atom for direct formation of a hydrogen bond and a very favorable geometry allow for optimal binding of the potent inhibitor 17 to the EGF-R kinase. A water molecule is not needed any more (as for Tarceva) to assist to the interaction of the inhibitor with the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/optimal-binding-inhibitor-17-6df488f2'><i class='fa fa-play' aria-hidden='true'></i></button>The good location of the isoquinoline nitrogen atom for direct formation of a hydrogen bond and a very favorable geometry allow for optimal binding of the potent inhibitor 17 to the EGF-R kinase. A water molecule is not needed any more (as for Tarceva) to assist to the interaction of the inhibitor with the enzyme.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -397,7 +397,7 @@ The good location of the isoquinoline nitrogen atom for direct formation of a hy
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-Nifedipine is a well-known calcium channel antagonist drug used in the treatment of cardiovascular disorders including hypertension. When a methyl group is added to the structure of nifedipine either in the para position of the free phenyl ring (analog 1), or in position 4 of the 1,4-dihydropyridine ring (analog 2), the corresponding molecules are biologically inactive. Analyses of the origin of these inactivities will enable us to understand the molecular determinants that are crucial to the biological activity of nifedipine analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/two-inactive-analogs-nifedipine-9900b1cb'><i class='fa fa-play' aria-hidden='true'></i></button>Nifedipine is a well-known calcium channel antagonist drug used in the treatment of cardiovascular disorders including hypertension. When a methyl group is added to the structure of nifedipine either in the para position of the free phenyl ring (analog 1), or in position 4 of the 1,4-dihydropyridine ring (analog 2), the corresponding molecules are biologically inactive. Analyses of the origin of these inactivities will enable us to understand the molecular determinants that are crucial to the biological activity of nifedipine analogs.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
@@ -418,7 +418,7 @@ Nifedipine is a well-known calcium channel antagonist drug used in the treatment
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-When a substituent is introduced at the 4' position of the nifedipine structure, the corresponding molecule is biologically inactive. This is thought to be caused by steric clashes with the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-4-substituted-analogs-nifedipine-a23b3270'><i class='fa fa-play' aria-hidden='true'></i></button>When a substituent is introduced at the 4' position of the nifedipine structure, the corresponding molecule is biologically inactive. This is thought to be caused by steric clashes with the receptor.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/nife_101.png){: loading=lazy }
@@ -434,14 +434,14 @@ When a substituent is introduced at the 4' position of the nifedipine structure,
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-The inactivity of methyl-4 nifedipine cannot reasonably be explained by the presence of steric clashes with the receptor. In this case more subtle changes occur in the structure of the molecule. To analyze them, we will first look at the molecular geometry of the phenyl-4 dihydropyridine structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/analysis-4-substituted-analogs-nifedipine-f968d171'><i class='fa fa-play' aria-hidden='true'></i></button>The inactivity of methyl-4 nifedipine cannot reasonably be explained by the presence of steric clashes with the receptor. In this case more subtle changes occur in the structure of the molecule. To analyze them, we will first look at the molecular geometry of the phenyl-4 dihydropyridine structure.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/nife_102.png){: loading=lazy }
 ### Molecular Geometry of Phenyl-4 Dihydropyridine
 
-In phenyl-4 dihydropyridine, the 1,4-dihydropyridine ring can exist in two alternative boat conformations: the phenyl substituent is either in the axial or in the equatorial orientation. In the absence of substituents at the 3 and 5 positions of that ring, the phenyl substituent prefers to be in the equatorial position, as generally found in phenyl substituted rings.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/molecular-geometry-phenyl-4-dihydropyridine-bf098661'><i class='fa fa-play' aria-hidden='true'></i></button>In phenyl-4 dihydropyridine, the 1,4-dihydropyridine ring can exist in two alternative boat conformations: the phenyl substituent is either in the axial or in the equatorial orientation. In the absence of substituents at the 3 and 5 positions of that ring, the phenyl substituent prefers to be in the equatorial position, as generally found in phenyl substituted rings.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -449,14 +449,14 @@ In phenyl-4 dihydropyridine, the 1,4-dihydropyridine ring can exist in two alter
 
 ### Preferred Conformation of Nifedipine
 
-Contrary to the rule stated on the previous page, the preferred conformation of nifedipine corresponds to the one with the nitrophenyl in the axial position because this orientation enables the molecule to avoid the steric clashes that are created between the nitrophenyl group and the methylester substituents at the 3 and 5 positions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/preferred-conformation-nifedipine-191fcc26'><i class='fa fa-play' aria-hidden='true'></i></button>Contrary to the rule stated on the previous page, the preferred conformation of nifedipine corresponds to the one with the nitrophenyl in the axial position because this orientation enables the molecule to avoid the steric clashes that are created between the nitrophenyl group and the methylester substituents at the 3 and 5 positions.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/nife_104.png){: loading=lazy }
 ### Preferred Conformation of Methyl-4 Nifedipine
 
-The presence of the methyl substituent at position 4 of the dihydropyridine ring changes the conformational preference of the methyl-4 nifedipine molecule, and in this case, the preferred conformation of the molecule corresponds to the equatorial orientation of the nitrophenyl group. This has been confirmed by theoretical calculations and by X-ray crystallography. The energetic profile of methyl-4 nifedipine is compared to nifedipine in the figure below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/preferred-conformation-methyl-4-nifedipine-616fef3e'><i class='fa fa-play' aria-hidden='true'></i></button>The presence of the methyl substituent at position 4 of the dihydropyridine ring changes the conformational preference of the methyl-4 nifedipine molecule, and in this case, the preferred conformation of the molecule corresponds to the equatorial orientation of the nitrophenyl group. This has been confirmed by theoretical calculations and by X-ray crystallography. The energetic profile of methyl-4 nifedipine is compared to nifedipine in the figure below.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -472,7 +472,7 @@ The presence of the methyl substituent at position 4 of the dihydropyridine ring
 *[agonists]: A chemical substance capable of activating a given receptor.
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-It has been suggested that the bioactive conformation of dihydropyridine calcium antagonists corresponds to the molecular geometry with the phenyl substituent in the axial orientation. Further on the basis of detailed X-ray analyses it has been shown that the biological potencies can be correlated with the magnitude of the 1,4-dihydropyridine ring puckering: the more active compounds exhibit the smallest degree of ring distortion from planarity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/bioactive-conformation-nifedipine-like-antagonists-09732c13'><i class='fa fa-play' aria-hidden='true'></i></button>It has been suggested that the bioactive conformation of dihydropyridine calcium antagonists corresponds to the molecular geometry with the phenyl substituent in the axial orientation. Further on the basis of detailed X-ray analyses it has been shown that the biological potencies can be correlated with the magnitude of the 1,4-dihydropyridine ring puckering: the more active compounds exhibit the smallest degree of ring distortion from planarity.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -506,7 +506,7 @@ It has been suggested that the bioactive conformation of dihydropyridine calcium
 ### SAR Analyses Require Great Attention
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The examples presented in this chapter clearly demonstrate that structure-activity relationship data need to be analyzed in minute detail and carefully differentiated. Then, general rules can be deduced to get a good grasp of the structural determinants governing the biological properties of the molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/sar-analyses-require-great-attention-159f9c6d'><i class='fa fa-play' aria-hidden='true'></i></button>The examples presented in this chapter clearly demonstrate that structure-activity relationship data need to be analyzed in minute detail and carefully differentiated. Then, general rules can be deduced to get a good grasp of the structural determinants governing the biological properties of the molecules.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -535,7 +535,7 @@ The examples presented in this chapter clearly demonstrate that structure-activi
 
 ### The Carbonic Anhydrase Protein
 
-Carbonic anhydrase catalyzes the reversible reaction involving hydration of carbon dioxide and dehydration of carbonic acid. There are a number of isozymes of carbonic anhydrase. The isozyme, CA-II is found in red blood cells and other cells including the ciliary body of the eye. All the isoenzymes have a molecular weight of approximately 30,000 and contain one zinc atom per molecule. In the following pages we present how structure-activity relationship analyses led to the discovery of inhibitors of Carbonic anhydrase with sub-nanomolar activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/carbonic-anhydrase-protein-e2dbe648'><i class='fa fa-play' aria-hidden='true'></i></button>Carbonic anhydrase catalyzes the reversible reaction involving hydration of carbon dioxide and dehydration of carbonic acid. There are a number of isozymes of carbonic anhydrase. The isozyme, CA-II is found in red blood cells and other cells including the ciliary body of the eye. All the isoenzymes have a molecular weight of approximately 30,000 and contain one zinc atom per molecule. In the following pages we present how structure-activity relationship analyses led to the discovery of inhibitors of Carbonic anhydrase with sub-nanomolar activities.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -546,7 +546,7 @@ Carbonic anhydrase catalyzes the reversible reaction involving hydration of carb
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Carbonic anhydrase inhibitors are involved in multiple actions in the body. They decrease the formation of aqueous humor (the fluid found in the anterior chamber of the eye), resulting in decreased intraocular pressure, helping in the treatment of glaucoma. They also cause a diuretic type of action in the kidneys, which increases the amount of urine excreted. Carbonic anhydrase inhibitors appear to have some effect on the central nervous system (CNS) and have been found to be useful in the treatment of certain CNS disorders, such as epilepsy, when used together with other appropriate medications.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/therapeutic-utility-ca-inhibitors-43ecbedd'><i class='fa fa-play' aria-hidden='true'></i></button>Carbonic anhydrase inhibitors are involved in multiple actions in the body. They decrease the formation of aqueous humor (the fluid found in the anterior chamber of the eye), resulting in decreased intraocular pressure, helping in the treatment of glaucoma. They also cause a diuretic type of action in the kidneys, which increases the amount of urine excreted. Carbonic anhydrase inhibitors appear to have some effect on the central nervous system (CNS) and have been found to be useful in the treatment of certain CNS disorders, such as epilepsy, when used together with other appropriate medications.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -557,7 +557,7 @@ Carbonic anhydrase inhibitors are involved in multiple actions in the body. They
 ### MK-417 is a Potent Inhibitor of CA
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-MK-417 is a potent carbonic anhydrase inhibitor (pKi = 0.61 nM), which rapidly penetrates into the ocular tissues after topical application. The R-enantiomer of MK-417 is about 100 times less potent (pKi = 71 nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/mk-417-is-potent-inhibitor-ca-858018ea'><i class='fa fa-play' aria-hidden='true'></i></button>MK-417 is a potent carbonic anhydrase inhibitor (pKi = 0.61 nM), which rapidly penetrates into the ocular tissues after topical application. The R-enantiomer of MK-417 is about 100 times less potent (pKi = 71 nM).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -576,7 +576,7 @@ MK-417 is a potent carbonic anhydrase inhibitor (pKi = 0.61 nM), which rapidly p
     
 ### Binding of MK-417 with CA Protein (1/5)
 
-The X-ray structures of the complexes show that the binding mode of the two enantiomers is similar: The sulfonamide group is rigidly locked in a very small pocket at the back of the site interacting with a zinc atom which is tetrahedrally coordinated by three histidines.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-mk-417-ca-protein-15-52046c6c'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structures of the complexes show that the binding mode of the two enantiomers is similar: The sulfonamide group is rigidly locked in a very small pocket at the back of the site interacting with a zinc atom which is tetrahedrally coordinated by three histidines.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -589,14 +589,14 @@ The X-ray structures of the complexes show that the binding mode of the two enan
 
 #### Binding of MK-417 with CA Protein (2/5)
 
-The ring system and side chain lie across a larger cavity, but the positions of the sulfone group and the ethyl group are strongly determined by the way they fit precisely into small niches in the cavity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-mk-417-ca-protein-25-d3149413'><i class='fa fa-play' aria-hidden='true'></i></button>The ring system and side chain lie across a larger cavity, but the positions of the sulfone group and the ethyl group are strongly determined by the way they fit precisely into small niches in the cavity.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/mk417_binding2.gif){: loading=lazy }
 
 #### Binding of MK-417 with CA Protein (3/5)
 
-Both enantiomers placed the alkyl amino group in the less favored pseudo-axial orientation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-mk-417-ca-protein-35-5df24582'><i class='fa fa-play' aria-hidden='true'></i></button>Both enantiomers placed the alkyl amino group in the less favored pseudo-axial orientation.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -605,7 +605,7 @@ Both enantiomers placed the alkyl amino group in the less favored pseudo-axial o
 
 #### Binding of MK-417 with CA Protein (4/5)
 
-Hydrogen bonds are formed between both enantiomers and the enzyme involving the oxygen of the SO<sub>2</sub> group and the amino acid Gln-92.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-mk-417-ca-protein-45-81a0f4a3'><i class='fa fa-play' aria-hidden='true'></i></button>Hydrogen bonds are formed between both enantiomers and the enzyme involving the oxygen of the SO<sub>2</sub> group and the amino acid Gln-92.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -615,7 +615,7 @@ Hydrogen bonds are formed between both enantiomers and the enzyme involving the 
 
 #### Binding of MK-417 with CA Protein (5/5)
 
-Hydrogen bonds are formed between both enantiomers and the enzyme involving the amino acids Thr-199 and Thr-200.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-mk-417-ca-protein-55-4dbeb876'><i class='fa fa-play' aria-hidden='true'></i></button>Hydrogen bonds are formed between both enantiomers and the enzyme involving the amino acids Thr-199 and Thr-200.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -626,7 +626,7 @@ Hydrogen bonds are formed between both enantiomers and the enzyme involving the 
 ### S Enantiomer is more Potent than the R
 *[Enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
-The X-ray of both complex MK-417 and its enantiomer show a good superimposition between the two ligands. Why is MK-417 100 times more potent than its enantiomer ?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/s-enantiomer-is-more-potent-than-r-d9629323'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray of both complex MK-417 and its enantiomer show a good superimposition between the two ligands. Why is MK-417 100 times more potent than its enantiomer ?
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -637,7 +637,7 @@ The X-ray of both complex MK-417 and its enantiomer show a good superimposition 
 
 #### Geometry of Isobutyl Side Chain by X-rays
 
-The X-ray structures suggest that in the bioactive conformation of MK-417 the isobutyl side chain has an anti geometry whereas in the case of its enantiomer the isobutyl side chain has a gauche geometry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/geometry-isobutyl-side-chain-by-x-rays-fd8cec51'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structures suggest that in the bioactive conformation of MK-417 the isobutyl side chain has an anti geometry whereas in the case of its enantiomer the isobutyl side chain has a gauche geometry.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
@@ -646,7 +646,7 @@ The X-ray structures suggest that in the bioactive conformation of MK-417 the is
 
 #### Axial/Equatorial Orientation of the Side Chain
 
-In MK-417 the side chain is axial but equatorial for the R-enantiomer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/axialequatorial-orientation-side-chain-5bd02e4d'><i class='fa fa-play' aria-hidden='true'></i></button>In MK-417 the side chain is axial but equatorial for the R-enantiomer.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
@@ -655,28 +655,28 @@ In MK-417 the side chain is axial but equatorial for the R-enantiomer.
 #### Bioactive Conformation of MK-417
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-Why is the bioactive conformation of MK-417 axial ? MK-417 can adopt two conformations with axial and equatorial side chain. The equatorial conformation energy is 4.2 kJ/mol lower than the axial conformation. But equatorial conformation does not fit in the active site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/bioactive-conformation-mk-417-ac5ef353'><i class='fa fa-play' aria-hidden='true'></i></button>Why is the bioactive conformation of MK-417 axial ? MK-417 can adopt two conformations with axial and equatorial side chain. The equatorial conformation energy is 4.2 kJ/mol lower than the axial conformation. But equatorial conformation does not fit in the active site.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/carbo_12_5_4_1.png){: loading=lazy }
 #### Energy Considerations
 
-Why does the R-enantiomer have an equatorial-gauche conformation? The two possible conformations, axial and the lower energy equatorial of R-enantiomer, cannot fit into the active site. To enter into the active site, the equatorial conformation must adopt a less energetically favored gauche conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/energy-considerations-4147c3a7'><i class='fa fa-play' aria-hidden='true'></i></button>Why does the R-enantiomer have an equatorial-gauche conformation? The two possible conformations, axial and the lower energy equatorial of R-enantiomer, cannot fit into the active site. To enter into the active site, the equatorial conformation must adopt a less energetically favored gauche conformation.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/carbo_12_5_5_1.png){: loading=lazy }
 #### Results of the Analyses
 
-Conclusion: calculations show that the MK-417(S-axial-trans) is lower in energy than its enantiomer R-equatorial-gauche. This explains why MK-417 is more potent than its R-enantiomer.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/results-analyses-2fc91cad'><i class='fa fa-play' aria-hidden='true'></i></button>Conclusion: calculations show that the MK-417(S-axial-trans) is lower in energy than its enantiomer R-equatorial-gauche. This explains why MK-417 is more potent than its R-enantiomer.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/carbo_12_5_6_1.png){: loading=lazy }
 ### Optimization of MK-417
 
-In the bioactive conformation of MK-417, the isobutylamino group is oriented in the less favored pseudo-axial conformation. By adding a methyl group in position 6 (pro-S), this conformation becomes energetically favored.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/optimization-mk-417-5e7af79f'><i class='fa fa-play' aria-hidden='true'></i></button>In the bioactive conformation of MK-417, the isobutylamino group is oriented in the less favored pseudo-axial conformation. By adding a methyl group in position 6 (pro-S), this conformation becomes energetically favored.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
 
@@ -684,7 +684,7 @@ In the bioactive conformation of MK-417, the isobutylamino group is oriented in 
 ### Dorzolamide, a Potent Inhibitor of CA
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-These modifications lead to a new thienothiopyran analog (dorzolamide). To preserve the physicochemical properties of the molecule, two methyl substituents were removed from the isobutyl side chain. The potency was slightly improved (pKi = 0.37 nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/dorzolamide-potent-inhibitor-ca-c7835536'><i class='fa fa-play' aria-hidden='true'></i></button>These modifications lead to a new thienothiopyran analog (dorzolamide). To preserve the physicochemical properties of the molecule, two methyl substituents were removed from the isobutyl side chain. The potency was slightly improved (pKi = 0.37 nM).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -699,7 +699,7 @@ These modifications lead to a new thienothiopyran analog (dorzolamide). To prese
 
 ### Complex of CA with Dorzolamide
 
-The crystal structure of the complex CA/Dorzolamide has been resolved and is visualized here with some details.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/complex-ca-dorzolamide-f5bb5288'><i class='fa fa-play' aria-hidden='true'></i></button>The crystal structure of the complex CA/Dorzolamide has been resolved and is visualized here with some details.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -729,7 +729,7 @@ The crystal structure of the complex CA/Dorzolamide has been resolved and is vis
     
 ### Binding of Dorzolamide with CA Protein (1/5)
 
-The X-ray structure indicates that the bioactive conformation of dorzolamide fulfills the geometric requirements needed to be a potent carbonic anhydrase inhibitor. The sulfonamide group interacts with the zinc atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-dorzolamide-ca-protein-15-5f2165df'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structure indicates that the bioactive conformation of dorzolamide fulfills the geometric requirements needed to be a potent carbonic anhydrase inhibitor. The sulfonamide group interacts with the zinc atom.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -751,7 +751,7 @@ The X-ray structure indicates that the bioactive conformation of dorzolamide ful
     
 #### Binding of Dorzolamide with CA Protein (2/5)
 
-The SO<sub>2</sub> groups form hydrogen bonds with the enzyme
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-dorzolamide-ca-protein-25-fe151394'><i class='fa fa-play' aria-hidden='true'></i></button>The SO<sub>2</sub> groups form hydrogen bonds with the enzyme
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/dorzolamide_binding2.gif){: loading=lazy }
@@ -770,7 +770,7 @@ The SO<sub>2</sub> groups form hydrogen bonds with the enzyme
     
 #### Binding of Dorzolamide with CA Protein (3/5)
 
-The amino group in the bioactive conformation of dorzolamide is in a pseudo-axial orientation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-dorzolamide-ca-protein-35-13eb0685'><i class='fa fa-play' aria-hidden='true'></i></button>The amino group in the bioactive conformation of dorzolamide is in a pseudo-axial orientation.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
 
@@ -790,7 +790,7 @@ The amino group in the bioactive conformation of dorzolamide is in a pseudo-axia
     
 #### Binding of Dorzolamide with CA Protein (4/5)
 
-The isobutyl side chain has an anti geometry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-dorzolamide-ca-protein-45-9fdca35a'><i class='fa fa-play' aria-hidden='true'></i></button>The isobutyl side chain has an anti geometry.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/dorzolamide_binding4.gif){: loading=lazy }
@@ -809,7 +809,7 @@ The isobutyl side chain has an anti geometry.
     
 #### Binding of Dorzolamide with CA Protein (5/5)
 
-The dihedral angle between the sulfonamide group and the thiophene ring (N-S-C-S) is about 140&#176;, which is the optimal angle.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/binding-dorzolamide-ca-protein-55-5cc0e00a'><i class='fa fa-play' aria-hidden='true'></i></button>The dihedral angle between the sulfonamide group and the thiophene ring (N-S-C-S) is about 140&#176;, which is the optimal angle.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -831,7 +831,7 @@ The dihedral angle between the sulfonamide group and the thiophene ring (N-S-C-S
 
 ### Antibiotic Activities in the Cephalosporin Series
 
-In the course of synthetic work on cephalosporins, analogous compounds were prepared in which the double bond was in the &Delta;<sup>2</sup> position. It was observed that these cephalosporins were devoid of any antibiotic action. We describe in the following pages attempts that were made to understand the observed SAR.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/antibiotic-activities-cephalosporin-series-809f6852'><i class='fa fa-play' aria-hidden='true'></i></button>In the course of synthetic work on cephalosporins, analogous compounds were prepared in which the double bond was in the &Delta;<sup>2</sup> position. It was observed that these cephalosporins were devoid of any antibiotic action. We describe in the following pages attempts that were made to understand the observed SAR.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -846,7 +846,7 @@ In the course of synthetic work on cephalosporins, analogous compounds were prep
     
 ### Stereochemical Hypothesis
 
-At the time this observation was made the &alpha; stereochemistry of the penicillin carboxylic function was already known from X-ray crystallography, but in the &Delta;<sup>2</sup> cephalosporin this stereochemistry had not yet been proven. It was therefore suspected that the biological inactivities of the &Delta;<sup>2</sup> cephalosporins were possibly due to a "wrong" configuration of this carboxylic function in the &beta; orientation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/stereochemical-hypothesis-fc7be15e'><i class='fa fa-play' aria-hidden='true'></i></button>At the time this observation was made the &alpha; stereochemistry of the penicillin carboxylic function was already known from X-ray crystallography, but in the &Delta;<sup>2</sup> cephalosporin this stereochemistry had not yet been proven. It was therefore suspected that the biological inactivities of the &Delta;<sup>2</sup> cephalosporins were possibly due to a "wrong" configuration of this carboxylic function in the &beta; orientation.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -860,20 +860,20 @@ At the time this observation was made the &alpha; stereochemistry of the penicil
     
 #### Same Stereochemistry in the two Structures
 
-Subsequent studies showed that the absolute configuration of the carboxy group was, in fact, &alpha; and therefore identical with the one in penicillins.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/same-stereochemistry-two-structures-5890dd79'><i class='fa fa-play' aria-hidden='true'></i></button>Subsequent studies showed that the absolute configuration of the carboxy group was, in fact, &alpha; and therefore identical with the one in penicillins.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/betam_12_2_2_1.png){: loading=lazy }
 #### Inactivity not due to a Wrong Stereochemistry
 
-The biological inactivity was then attributed to a difference in the stability of the &beta;-lactam ring and not to a "wrong" carboxy configuration.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/inactivity-not-due-to-wrong-stereochemistry-e1a2647c'><i class='fa fa-play' aria-hidden='true'></i></button>The biological inactivity was then attributed to a difference in the stability of the &beta;-lactam ring and not to a "wrong" carboxy configuration.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/betam_12_2_3_1.png){: loading=lazy }
 ### Attempts Towards a Geometrical Interpretation
 
-New attempts were made by analyzing the geometrical properties and were carried out with X-ray studies. The 3D comparison of active penicillins, &Delta;<sup>3</sup> and &Delta;<sup>2</sup> cephalosporins was expected to reveal obvious similarities between the active compounds, penicillin and &Delta;<sup>3</sup> cephalopsorin. Surprisingly it showed that penicillin more closely resembled the inactive &Delta;<sup>2</sup> cephalosporin.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/attempts-towards-geometrical-interpretation-74bb6146'><i class='fa fa-play' aria-hidden='true'></i></button>New attempts were made by analyzing the geometrical properties and were carried out with X-ray studies. The 3D comparison of active penicillins, &Delta;<sup>3</sup> and &Delta;<sup>2</sup> cephalosporins was expected to reveal obvious similarities between the active compounds, penicillin and &Delta;<sup>3</sup> cephalopsorin. Surprisingly it showed that penicillin more closely resembled the inactive &Delta;<sup>2</sup> cephalosporin.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -893,14 +893,14 @@ New attempts were made by analyzing the geometrical properties and were carried 
     
 #### Flexibility of the Enzyme ?
 
-It was concluded that the geometrical requirements were not very restrictive as regards identifying the antibiotics as a substrate by the enzymes. The flexibility of the enzyme was also believed to easily adapt to the geometrical features of the molecules. However, the inactivity of the &Delta;<sup>2</sup> cephalosporins remained unaccounted for.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/flexibility-enzyme-6cea5bd4'><i class='fa fa-play' aria-hidden='true'></i></button>It was concluded that the geometrical requirements were not very restrictive as regards identifying the antibiotics as a substrate by the enzymes. The flexibility of the enzyme was also believed to easily adapt to the geometrical features of the molecules. However, the inactivity of the &Delta;<sup>2</sup> cephalosporins remained unaccounted for.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/enzyme_flexibility.gif){: loading=lazy }
 
 ### The Lactam Nitrogen Pyramidality Hypothesis
 
-In the X-ray studies it was also found that the lactam nitrogen atom of the &Delta;<sup>2</sup> cephalosporins was almost planar, in contrast to the pyramidal character existing in Penicillin and &Delta;<sup>3</sup> cephalosporin antibiotics. The biological activities observed in the three families of compounds were again attributed to the chemical reactivity of the &beta;-lactam amide bond.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/lactam-nitrogen-pyramidality-hypothesis-b664ba14'><i class='fa fa-play' aria-hidden='true'></i></button>In the X-ray studies it was also found that the lactam nitrogen atom of the &Delta;<sup>2</sup> cephalosporins was almost planar, in contrast to the pyramidal character existing in Penicillin and &Delta;<sup>3</sup> cephalosporin antibiotics. The biological activities observed in the three families of compounds were again attributed to the chemical reactivity of the &beta;-lactam amide bond.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -915,7 +915,7 @@ In the X-ray studies it was also found that the lactam nitrogen atom of the &Del
     
 ### Deficiency of the Nitrogen Pyramidality Hypothesis
 
-While developing a thienamycin antibiotic with high antibacterial properties, &Delta;<sup>1</sup>-thienamycin, a double bond isomer of thienamycin, was discovered but it was devoid of any antibiotic activity. When compared to thienamycin, its inactivity was attributed to a chemically less reactive &beta;-lactam amide bond.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/deficiency-nitrogen-pyramidality-hypothesis-44cc972e'><i class='fa fa-play' aria-hidden='true'></i></button>While developing a thienamycin antibiotic with high antibacterial properties, &Delta;<sup>1</sup>-thienamycin, a double bond isomer of thienamycin, was discovered but it was devoid of any antibiotic activity. When compared to thienamycin, its inactivity was attributed to a chemically less reactive &beta;-lactam amide bond.
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
 
@@ -939,13 +939,13 @@ While developing a thienamycin antibiotic with high antibacterial properties, &D
     
 #### Penem and Carbapenems
 
-At the same time, the antibacterial activities of even simpler but similar highly strained &beta;-lactams were studied. It was found that penem and &Delta;<sup>2</sup> carbapenem possess potential antibacterial activities, whereas &Delta;<sup>1</sup> carbapenem was found to be inactive.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/penem-carbapenems-2b63236e'><i class='fa fa-play' aria-hidden='true'></i></button>At the same time, the antibacterial activities of even simpler but similar highly strained &beta;-lactams were studied. It was found that penem and &Delta;<sup>2</sup> carbapenem possess potential antibacterial activities, whereas &Delta;<sup>1</sup> carbapenem was found to be inactive.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/betam_12_5_2_1.png){: loading=lazy }
 #### Pyramidality of Nitrogen Atom ?
 
-Analyses of the chemical reactivity of the molecules were made to assess the validity of the nitrogen pyramidality hypothesis. The ease of hydrolysis of the inactive &Delta;<sup>2</sup> carbapenem compared well with that of the active parent compounds. Moreover, the pyramidality of the nitrogen atom in that molecule is highly pronounced, and this observation runs counter of the nitrogen pyramidality hypothesis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/pyramidality-nitrogen-atom-addc7244'><i class='fa fa-play' aria-hidden='true'></i></button>Analyses of the chemical reactivity of the molecules were made to assess the validity of the nitrogen pyramidality hypothesis. The ease of hydrolysis of the inactive &Delta;<sup>2</sup> carbapenem compared well with that of the active parent compounds. Moreover, the pyramidality of the nitrogen atom in that molecule is highly pronounced, and this observation runs counter of the nitrogen pyramidality hypothesis.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -954,7 +954,7 @@ Analyses of the chemical reactivity of the molecules were made to assess the val
 #### Geometrical Aspects Need to be Reassessed
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The pyramidal character of the nitrogen atom is not sufficient to interpret the biological activities. The geometrical features, although not yet clearly understood, may play an important role in the biochemical process involved. Analyses of the geometrical features need to be reassessed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/geometrical-aspects-need-to-be-reassessed-b476fb1d'><i class='fa fa-play' aria-hidden='true'></i></button>The pyramidal character of the nitrogen atom is not sufficient to interpret the biological activities. The geometrical features, although not yet clearly understood, may play an important role in the biochemical process involved. Analyses of the geometrical features need to be reassessed.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -963,14 +963,14 @@ The pyramidal character of the nitrogen atom is not sufficient to interpret the 
 ### Bioactive Conformation of Penicillins?
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-It is imperative to pay close attention to the conformational possibilities of molecules. In particular the bicyclic penam nucleus of penicillins is capable of pseudorotating movements. In this process, the cyclic system can modify the orientation of the substituents and its geometry as shown here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/bioactive-conformation-penicillins-313fd861'><i class='fa fa-play' aria-hidden='true'></i></button>It is imperative to pay close attention to the conformational possibilities of molecules. In particular the bicyclic penam nucleus of penicillins is capable of pseudorotating movements. In this process, the cyclic system can modify the orientation of the substituents and its geometry as shown here.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/penicillin1.gif){: loading=lazy }
 
 #### Pseudorotation of the Penam Ring
 
-In the conformation shown on the left side, the carboxy group is in a pseudo-axial orientation (the X-ray data that was available and used in the attempts that failed to find a geometrical interpretation), whereas in the conformation shown on the right side it is pseudo-equatorial.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/pseudorotation-penam-ring-56756ea6'><i class='fa fa-play' aria-hidden='true'></i></button>In the conformation shown on the left side, the carboxy group is in a pseudo-axial orientation (the X-ray data that was available and used in the attempts that failed to find a geometrical interpretation), whereas in the conformation shown on the right side it is pseudo-equatorial.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/penam_pseudo_rotation.gif){: loading=lazy }
@@ -978,7 +978,7 @@ In the conformation shown on the left side, the carboxy group is in a pseudo-axi
 #### The two Forms were Found in X-ray Determinations
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
-The two forms have been experimentally observed in crystallographic studies. Small variations of energies accompany this process, and the carboxy group can easily fluctuate between the two positions. Molecular modeling studies show that the pseudo-axial form is more stable than the pseudo-equatorial one (difference of energy of about 2.9 kJ/mol).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/two-forms-were-found-x-ray-determinations-5b14a554'><i class='fa fa-play' aria-hidden='true'></i></button>The two forms have been experimentally observed in crystallographic studies. Small variations of energies accompany this process, and the carboxy group can easily fluctuate between the two positions. Molecular modeling studies show that the pseudo-axial form is more stable than the pseudo-equatorial one (difference of energy of about 2.9 kJ/mol).
 *[Molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -997,7 +997,7 @@ The two forms have been experimentally observed in crystallographic studies. Sma
 ### Revealing Bioactive Conformation of Penicillins
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-It is possible to establish a geometric separation between active and inactive structures by considering the penicillin in the pseudo-equatorial orientation. When the different structures are superimposed, the view reveals the sharp geometrical difference between the active and inactive structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/revealing-bioactive-conformation-penicillins-7572e8cb'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to establish a geometric separation between active and inactive structures by considering the penicillin in the pseudo-equatorial orientation. When the different structures are superimposed, the view reveals the sharp geometrical difference between the active and inactive structures.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1006,7 +1006,7 @@ It is possible to establish a geometric separation between active and inactive s
 
 #### Modeling Analyses
 
-The initial difficulty in clarifying the 3D features was in fact due to the existence of a stable pseudo-axial form of penicillin. It appeared in molecular models and also in X-ray crystallography data as perfectly capable of mimicking the inactive compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/modeling-analyses-459e7ced'><i class='fa fa-play' aria-hidden='true'></i></button>The initial difficulty in clarifying the 3D features was in fact due to the existence of a stable pseudo-axial form of penicillin. It appeared in molecular models and also in X-ray crystallography data as perfectly capable of mimicking the inactive compounds.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1022,7 +1022,7 @@ The initial difficulty in clarifying the 3D features was in fact due to the exis
 ### Separation Between Active and Inactive Molecules
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-As shown in the previous view, the active molecules have the carboxy group much closer to the &beta;-lactam amide function than the three inactive geometries. The distance between the oxygen &beta;-lactam amide and the carbon carboxy group was found to be a measure of activity. All active compounds have a distance of 3.0-3.9 &#8491;, whereas inactive compounds have a distance of more than 4.1 &#8491;.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/separation-between-active-inactive-molecules-10ca0204'><i class='fa fa-play' aria-hidden='true'></i></button>As shown in the previous view, the active molecules have the carboxy group much closer to the &beta;-lactam amide function than the three inactive geometries. The distance between the oxygen &beta;-lactam amide and the carbon carboxy group was found to be a measure of activity. All active compounds have a distance of 3.0-3.9 &#8491;, whereas inactive compounds have a distance of more than 4.1 &#8491;.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1037,7 +1037,7 @@ As shown in the previous view, the active molecules have the carboxy group much 
     
 ### Other Beta-Lactam Antibiotic Structures
 
-Other active &beta;-lactam antibiotic structures such as those indicated here were shown to fit well with the geometrical requirements analyzed here. For example the distance previously defined is 3.024 &#8491; for the oxa-analog and 3.355 &#8491; for Sulfazecin (oxygen-sulfur distance).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/other-beta-lactam-antibiotic-structures-248d4462'><i class='fa fa-play' aria-hidden='true'></i></button>Other active &beta;-lactam antibiotic structures such as those indicated here were shown to fit well with the geometrical requirements analyzed here. For example the distance previously defined is 3.024 &#8491; for the oxa-analog and 3.355 &#8491; for Sulfazecin (oxygen-sulfur distance).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1052,7 +1052,7 @@ Other active &beta;-lactam antibiotic structures such as those indicated here we
     
 ### Browser of Beta-Lactam Antibiotics
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/browser-beta-lactam-antibiotics-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -1060,7 +1060,7 @@ Other active &beta;-lactam antibiotic structures such as those indicated here we
 
 ### Validation and Perspectives
 
-Attempts to restore antibiotic activities to the inactive &Delta;<sup>2</sup> cephalosporin scaffold were not successful. The advent of X-ray crystallography of bacterial trans-peptidases has given new impetus to this area. These enzymes catalyze the formation of the cross-linked bacteria cell wall, a construction that provides structural strength and protection to bacteria. Here is shown the structure of a cephalosporin bound to the active site of a transpeptidase.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/validation-perspectives-797ada23'><i class='fa fa-play' aria-hidden='true'></i></button>Attempts to restore antibiotic activities to the inactive &Delta;<sup>2</sup> cephalosporin scaffold were not successful. The advent of X-ray crystallography of bacterial trans-peptidases has given new impetus to this area. These enzymes catalyze the formation of the cross-linked bacteria cell wall, a construction that provides structural strength and protection to bacteria. Here is shown the structure of a cephalosporin bound to the active site of a transpeptidase.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/validation.png){: loading=lazy }
@@ -1082,7 +1082,7 @@ Attempts to restore antibiotic activities to the inactive &Delta;<sup>2</sup> ce
 ### Potent Inhibitor of the EGF-R Protein Kinase
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-The following 4-anilino-quinazoline is a potent inhibitor of the EGF-R protein kinase. In the following pages we describe how structure-activity relationship analyses make it possible to pinpoint the molecular determinants that are responsible for the biological activity of this molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/potent-inhibitor-egf-r-protein-kinase-955e1c85'><i class='fa fa-play' aria-hidden='true'></i></button>The following 4-anilino-quinazoline is a potent inhibitor of the EGF-R protein kinase. In the following pages we describe how structure-activity relationship analyses make it possible to pinpoint the molecular determinants that are responsible for the biological activity of this molecule.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -1098,7 +1098,7 @@ The following 4-anilino-quinazoline is a potent inhibitor of the EGF-R protein k
 ### SAR: Substitution of Anilino N4
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The N-methyl analog of the 4-anilino-quinazoline lead was prepared and proved to have very poor inhibitory activity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/sar-substitution-anilino-n4-c7f36075'><i class='fa fa-play' aria-hidden='true'></i></button>The N-methyl analog of the 4-anilino-quinazoline lead was prepared and proved to have very poor inhibitory activity.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -1114,7 +1114,7 @@ The N-methyl analog of the 4-anilino-quinazoline lead was prepared and proved to
 ### N-Methyl Analog
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-By comparing the initial anilino-quinazoline lead and its N-methyl analog, it might seem that the activity of the initial lead is due to the formation of a hydrogen bond between a carbonyl of the kinase and the N-H group of the lead.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/n-methyl-analog-0f517bc7'><i class='fa fa-play' aria-hidden='true'></i></button>By comparing the initial anilino-quinazoline lead and its N-methyl analog, it might seem that the activity of the initial lead is due to the formation of a hydrogen bond between a carbonyl of the kinase and the N-H group of the lead.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1130,7 +1130,7 @@ By comparing the initial anilino-quinazoline lead and its N-methyl analog, it mi
 ### SAR Observations in a 4-Anilino-Quinazolines Series
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The hypothesis put forward on the previous page does not hold since the O- and the S-analogs of the initial lead proved to be potent EGF-R kinase inhibitors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/sar-observations-4-anilino-quinazolines-series-c27558d7'><i class='fa fa-play' aria-hidden='true'></i></button>The hypothesis put forward on the previous page does not hold since the O- and the S-analogs of the initial lead proved to be potent EGF-R kinase inhibitors.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1158,7 +1158,7 @@ The hypothesis put forward on the previous page does not hold since the O- and t
     
 ### Conformation of 4-Anilino-Quinazoline Molecules
 
-Conformational analyses indicate that the 4-anilino-quinazoline structure exists in an extended form, whereas in the N-Methyl analog, the aniline moiety cannot adopt an extended conformation because of steric repulsions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/conformation-4-anilino-quinazoline-molecules-bd2ba1ca'><i class='fa fa-play' aria-hidden='true'></i></button>Conformational analyses indicate that the 4-anilino-quinazoline structure exists in an extended form, whereas in the N-Methyl analog, the aniline moiety cannot adopt an extended conformation because of steric repulsions.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -1169,7 +1169,7 @@ Conformational analyses indicate that the 4-anilino-quinazoline structure exists
     ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/amino_quinazoline_nmethyl.png){: loading=lazy }
 ### Geometry of 4-Anilino-Quinazoline Structures
 
-The analyses presented in the previous pages raise the possibility that the molecular geometry of the molecules is an important determinant for the biological activities of the 4-anilino-quinazoline molecules. This geometry is controlled by the following two torsion angles: &Phi;-1 and &Phi;-2.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/geometry-4-anilino-quinazoline-structures-7fcdf30e'><i class='fa fa-play' aria-hidden='true'></i></button>The analyses presented in the previous pages raise the possibility that the molecular geometry of the molecules is an important determinant for the biological activities of the 4-anilino-quinazoline molecules. This geometry is controlled by the following two torsion angles: &Phi;-1 and &Phi;-2.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/amino_quinazoline-bioact_101.png){: loading=lazy }
@@ -1182,7 +1182,7 @@ The analyses presented in the previous pages raise the possibility that the mole
     
 ### Experimental Conformations of Anilino-Quinazolines
 
-A preliminary analysis of the conformation of free and bound anilino-quinazolines in the solid state and in solution shows that in general the molecules adopt an extended conformation (in parenthesis are indicated the values of the two torsion angles &Phi;-1 and &Phi;-2).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/experimental-conformations-anilino-quinazolines-189c96cc'><i class='fa fa-play' aria-hidden='true'></i></button>A preliminary analysis of the conformation of free and bound anilino-quinazolines in the solid state and in solution shows that in general the molecules adopt an extended conformation (in parenthesis are indicated the values of the two torsion angles &Phi;-1 and &Phi;-2).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1203,7 +1203,7 @@ A preliminary analysis of the conformation of free and bound anilino-quinazoline
 ### SAR: Substitution of N4 is Detrimental to Potency
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Further SAR analyses indicate that the substitution of N4 in 4-anilino-quinazolines is detrimental to their biological activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/sar-substitution-n4-is-detrimental-to-potency-40d1bad2'><i class='fa fa-play' aria-hidden='true'></i></button>Further SAR analyses indicate that the substitution of N4 in 4-anilino-quinazolines is detrimental to their biological activities.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -1227,7 +1227,7 @@ Further SAR analyses indicate that the substitution of N4 in 4-anilino-quinazoli
     
 ### Torsion Angle N3-C4-N4-C1' is Important for Potency
 
-The SAR data assembled for the 4-anilino-quinazoline suggest that the torsion angle &Phi; (N3-C4-N4-C1') which controls the position of the anilino phenyl group is important for potency; since good biological activities are associated with small values for this angle (close to zero degrees), and correspond to a flat structure with an extended conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/torsion-angle-n3-c4-n4-c1-is-important-for-potency-782d96e5'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR data assembled for the 4-anilino-quinazoline suggest that the torsion angle &Phi; (N3-C4-N4-C1') which controls the position of the anilino phenyl group is important for potency; since good biological activities are associated with small values for this angle (close to zero degrees), and correspond to a flat structure with an extended conformation.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1243,7 +1243,7 @@ The SAR data assembled for the 4-anilino-quinazoline suggest that the torsion an
     
 ### Energy of Bioactive Conformers
 
-Analysis of the energy of the conformation of the molecules in their extended conformation indicate that this form corresponds to the conformation of lowest energy for molecules 1 (initial lead), 8 and 9 (O- and S- analogs) but that this form corresponds to high energies for molecules 2, 4-7 and 3.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/energy-bioactive-conformers-c8ae8c8e'><i class='fa fa-play' aria-hidden='true'></i></button>Analysis of the energy of the conformation of the molecules in their extended conformation indicate that this form corresponds to the conformation of lowest energy for molecules 1 (initial lead), 8 and 9 (O- and S- analogs) but that this form corresponds to high energies for molecules 2, 4-7 and 3.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -1260,7 +1260,7 @@ Analysis of the energy of the conformation of the molecules in their extended co
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-The SAR analyses of the 4-anilino-quinazoline structures discussed here leads to the conclusion that the extended conformation corresponds to the bioactive conformation of the molecules, with the anilino moiety close to coplanarity with the plane of the quinazoline nucleus.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/browser-selected-anilino-quinazoline-analogs-d680fd3a'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR analyses of the 4-anilino-quinazoline structures discussed here leads to the conclusion that the extended conformation corresponds to the bioactive conformation of the molecules, with the anilino moiety close to coplanarity with the plane of the quinazoline nucleus.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1270,7 +1270,7 @@ The SAR analyses of the 4-anilino-quinazoline structures discussed here leads to
 
 ### Docking of 4-Anilino-Quinazoline Lead
 
-The docking of the 4-anilino-quinazoline lead with the EGF-R protein kinase reveals the binding mode described in the following figures. Note that the N-H anilino group is not involved in the formation of hydrogen bonds with the receptor; note also that the two substituents at positions 7 and 9 are pointing towards the outside of the protein (a feature that will be exploited for conceiving more soluble drug candidates). These predictions were confirmed by X-ray studies.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/docking-4-anilino-quinazoline-lead-11043d63'><i class='fa fa-play' aria-hidden='true'></i></button>The docking of the 4-anilino-quinazoline lead with the EGF-R protein kinase reveals the binding mode described in the following figures. Note that the N-H anilino group is not involved in the formation of hydrogen bonds with the receptor; note also that the two substituents at positions 7 and 9 are pointing towards the outside of the protein (a feature that will be exploited for conceiving more soluble drug candidates). These predictions were confirmed by X-ray studies.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
@@ -1289,7 +1289,7 @@ The docking of the 4-anilino-quinazoline lead with the EGF-R protein kinase reve
     
 ### Summary of Structural Analyses
 
-A summary of the structural determinants deduced by SAR analyses of the 4-anilino-quinazoline analogs is given below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/summary-structural-analyses-494bb143'><i class='fa fa-play' aria-hidden='true'></i></button>A summary of the structural determinants deduced by SAR analyses of the 4-anilino-quinazoline analogs is given below.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1307,10 +1307,11 @@ A summary of the structural determinants deduced by SAR analyses of the 4-anilin
 
 ### Additional Case Studies
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships-case-studies/additional-case-studies-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships-case-studies/sar_case_other_examples.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

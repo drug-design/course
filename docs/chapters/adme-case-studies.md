@@ -17,7 +17,7 @@
 
 ### Identification of Non-Genotoxic Carcinogens
 
-The identification of non-genotoxic carcinogens is an important issue in ADME/Tox analyses; large species differences may occur for sub-sets of compounds. A model addressing this particular issue for both pharmaceutical and chemical compounds was introduced by Walter Westerink and Willem Schoonen at Schering-Plough. This is presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/identification-non-genotoxic-carcinogens-2287224c'><i class='fa fa-play' aria-hidden='true'></i></button>The identification of non-genotoxic carcinogens is an important issue in ADME/Tox analyses; large species differences may occur for sub-sets of compounds. A model addressing this particular issue for both pharmaceutical and chemical compounds was introduced by Walter Westerink and Willem Schoonen at Schering-Plough. This is presented in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 
@@ -32,7 +32,7 @@ The identification of non-genotoxic carcinogens is an important issue in ADME/To
 ### Current ADME/Tox Analyses
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 
-Currently, carcinogens and non-genotoxic carcinogens are identified by means of *in vivo* and *in vitro* analyses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/current-admetox-analyses-fcd30e20'><i class='fa fa-play' aria-hidden='true'></i></button>Currently, carcinogens and non-genotoxic carcinogens are identified by means of *in vivo* and *in vitro* analyses.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/willem_current.png){: loading=lazy }
@@ -44,7 +44,7 @@ Currently, carcinogens and non-genotoxic carcinogens are identified by means of 
     
 ### Possible Models for Non-Genotoxic Carcinogens
 
-Two classes of non-genotoxic carcinogens are relevant for this kind of toxicity. These carcinogens can bind to two specific classes of nuclear receptors, which are well known as: Arylhydrocarbon Receptor (AhR), and Peroxysomal Proliferator Activating Receptor alpha (PPAR&alpha;).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/possible-models-for-non-genotoxic-carcinogens-96d962df'><i class='fa fa-play' aria-hidden='true'></i></button>Two classes of non-genotoxic carcinogens are relevant for this kind of toxicity. These carcinogens can bind to two specific classes of nuclear receptors, which are well known as: Arylhydrocarbon Receptor (AhR), and Peroxysomal Proliferator Activating Receptor alpha (PPAR&alpha;).
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/willem_two_classes.png){: loading=lazy }
@@ -56,7 +56,7 @@ Two classes of non-genotoxic carcinogens are relevant for this kind of toxicity.
     
 #### Both Receptors Form Heterodimers
 
-The Arylhydrocarbon Receptor forms heterodimers with the Arylhydrocarbon Receptor Nuclear Translocation (ARNT) protein, whereas the Peroxysomal Proliferator Activating Receptor alpha forms a heterodimer with the Retinoic acid X Receptor (RXR). Three different RXR forms exist, known as RXR&alpha;, RXR&beta;, and RXR&gamma;. Interaction with all three forms is possible, but RXR&alpha; is most commonly described in this aspect.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/both-receptors-form-heterodimers-2d9909af'><i class='fa fa-play' aria-hidden='true'></i></button>The Arylhydrocarbon Receptor forms heterodimers with the Arylhydrocarbon Receptor Nuclear Translocation (ARNT) protein, whereas the Peroxysomal Proliferator Activating Receptor alpha forms a heterodimer with the Retinoic acid X Receptor (RXR). Three different RXR forms exist, known as RXR&alpha;, RXR&beta;, and RXR&gamma;. Interaction with all three forms is possible, but RXR&alpha; is most commonly described in this aspect.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -70,7 +70,7 @@ The Arylhydrocarbon Receptor forms heterodimers with the Arylhydrocarbon Recepto
     
 ### Activation for the Arylhydrocarbon Receptor
 
-The mechanisms of activation for the Arylhydrocarbon Receptor (AhR) is as follows: A ligand enters the cell by diffusion and binds to AhR after dissociation of the Heat Shock Protein 90 (HSP90). This AhR occupied with ligand will pass through the nuclear membrane and forms a heterodimer with the AhR Nuclear Translocation (ARNT) protein. This heterodimer can finally bind to the specific Responsive Element (RE) in the promoter of the target gene and transcribe and translate many enzymes, such as cytochrome P450 variants CYP1A1, CYP1A2 and CYP1B1.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/activation-for-arylhydrocarbon-receptor-0fa0adc0'><i class='fa fa-play' aria-hidden='true'></i></button>The mechanisms of activation for the Arylhydrocarbon Receptor (AhR) is as follows: A ligand enters the cell by diffusion and binds to AhR after dissociation of the Heat Shock Protein 90 (HSP90). This AhR occupied with ligand will pass through the nuclear membrane and forms a heterodimer with the AhR Nuclear Translocation (ARNT) protein. This heterodimer can finally bind to the specific Responsive Element (RE) in the promoter of the target gene and transcribe and translate many enzymes, such as cytochrome P450 variants CYP1A1, CYP1A2 and CYP1B1.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -84,7 +84,7 @@ The mechanisms of activation for the Arylhydrocarbon Receptor (AhR) is as follow
     
 ### The Responsive Elements of Interaction (1/2)
 
-The responsive elements of AhR and PPAR&alpha; interaction as well as of estrogen (E), glucocorticoid (GT), thyroid hormone (T) and retinoic acid (RA) receptors are known. For interaction of nuclear receptors specific interaction sites exist in the promoter of specific genes. For homo- and heterodimers these sequences exist of 5 to 6 base pairs in an inversed repeat or mirror image. Characteristic examples are shown in the figure below and are explained in the following page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/responsive-elements-interaction-12-59d00483'><i class='fa fa-play' aria-hidden='true'></i></button>The responsive elements of AhR and PPAR&alpha; interaction as well as of estrogen (E), glucocorticoid (GT), thyroid hormone (T) and retinoic acid (RA) receptors are known. For interaction of nuclear receptors specific interaction sites exist in the promoter of specific genes. For homo- and heterodimers these sequences exist of 5 to 6 base pairs in an inversed repeat or mirror image. Characteristic examples are shown in the figure below and are explained in the following page.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -97,7 +97,7 @@ The responsive elements of AhR and PPAR&alpha; interaction as well as of estroge
     
 ### The Responsive Elements of Interaction (2/2)
 
-These 5 to 6 base pairs (in red) are very important for the interaction of the first zinc finger of the nuclear receptor with the DNA. A small change of one of these central base pairs 3 and/or 4 can change the activity from being active for estrogens in becoming active for glucocorticoids. Moreover, the space between the responsive elements is also very important, as shown for ERE and TRE, which contain either 3 different base pairs or none at all. In case of the AhR-RE the outside flanking of the 5 base pairs GCGTG is also very relevant for the recognition of AhR.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/responsive-elements-interaction-22-c24298c6'><i class='fa fa-play' aria-hidden='true'></i></button>These 5 to 6 base pairs (in red) are very important for the interaction of the first zinc finger of the nuclear receptor with the DNA. A small change of one of these central base pairs 3 and/or 4 can change the activity from being active for estrogens in becoming active for glucocorticoids. Moreover, the space between the responsive elements is also very important, as shown for ERE and TRE, which contain either 3 different base pairs or none at all. In case of the AhR-RE the outside flanking of the 5 base pairs GCGTG is also very relevant for the recognition of AhR.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -110,7 +110,7 @@ These 5 to 6 base pairs (in red) are very important for the interaction of the f
     
 ### Binding Analysis of the Arylhydrocarbon Receptor (AhR)
 
-The most common ligand is identified as dioxin. The chemical catastrophe in Seveso in Italy in the seventies resulted in a large exposure of dioxin. Due to this exposure many people, who came in contact with dioxin, suffered years later from the increases of tumor incidence. When the AhR was identified, assays were developed to measure the exposure towards dioxin. Binding studies with dioxin (TCDD) and 3-methylcholanthrene (3MC) are one way to identify this AhR (Riddick et al. 1994). The chemical structures of these ligands are shown on the next page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/binding-analysis-arylhydrocarbon-receptor-ahr-bab43458'><i class='fa fa-play' aria-hidden='true'></i></button>The most common ligand is identified as dioxin. The chemical catastrophe in Seveso in Italy in the seventies resulted in a large exposure of dioxin. Due to this exposure many people, who came in contact with dioxin, suffered years later from the increases of tumor incidence. When the AhR was identified, assays were developed to measure the exposure towards dioxin. Binding studies with dioxin (TCDD) and 3-methylcholanthrene (3MC) are one way to identify this AhR (Riddick et al. 1994). The chemical structures of these ligands are shown on the next page.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -134,7 +134,7 @@ The most common ligand is identified as dioxin. The chemical catastrophe in Seve
 ### Ligand Identification of the Arylhydrocarbon Receptor (AhR)
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Besides dioxin, also known under the name 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), more ligands were identified for the AhR. The ligands indicated in the figure below are also very particular. &beta;-Napthoflavone is present in vegetables, while Benzo[a]pyrene is present in the smoke of a cigarette and burned meat. Polychlorobivinyls are chemical waste products, while Induribin is a trypthophan derivative and Indigo a blue color dye.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/ligand-identification-arylhydrocarbon-receptor-ahr-ff8a5b46'><i class='fa fa-play' aria-hidden='true'></i></button>Besides dioxin, also known under the name 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), more ligands were identified for the AhR. The ligands indicated in the figure below are also very particular. &beta;-Napthoflavone is present in vegetables, while Benzo[a]pyrene is present in the smoke of a cigarette and burned meat. Polychlorobivinyls are chemical waste products, while Induribin is a trypthophan derivative and Indigo a blue color dye.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -148,7 +148,7 @@ Besides dioxin, also known under the name 2,3,7,8-tetrachlorodibenzo-p-dioxin (T
     
 ### Induction on the mRNA Level by AhR
 
-The mRNA induction levels of CYP1A1 and CYP1A2 are observed and expressed as fold change over the control. The measurements are performed by Q-PCR for several AhR agonists at different concentration levels in human liver hepatocytes in HepG2 cells (Westerink and Schoonen, 2007). If we look at the lowest concentration dependent inductions (Blue), we clearly see that TCDD is the most potent inducer for both CYP1A1 and CYP1A2, followed by 3-MC. Indirubin and Indigo, on the other hand, became active at 10<sup>-8</sup> M, and BNF at 10<sup>-7</sup> M.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/induction-on-mrna-level-by-ahr-78407a05'><i class='fa fa-play' aria-hidden='true'></i></button>The mRNA induction levels of CYP1A1 and CYP1A2 are observed and expressed as fold change over the control. The measurements are performed by Q-PCR for several AhR agonists at different concentration levels in human liver hepatocytes in HepG2 cells (Westerink and Schoonen, 2007). If we look at the lowest concentration dependent inductions (Blue), we clearly see that TCDD is the most potent inducer for both CYP1A1 and CYP1A2, followed by 3-MC. Indirubin and Indigo, on the other hand, became active at 10<sup>-8</sup> M, and BNF at 10<sup>-7</sup> M.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -172,7 +172,7 @@ The mRNA induction levels of CYP1A1 and CYP1A2 are observed and expressed as fol
     
 ### Induction on the Enzyme Level by AhR
 
-Also, the enzyme induction levels of CYP1A1 and CYP1A2 are observed and expressed as luminescence change. The measurements are performed with specific Promega substrates for CYP1A1 and CYP1A2 in combination with several AhR agonists at different concentration levels in human liver hepatocytes in HepG2 cells (Westerink and Schoonen, 2007). Again if we look at the lowest concentration dependent inductions (Blue), we clearly see that TCDD is the most potent inducer for both CYP1A1 and CYP1A2, followed by 3-MC. Indirubin, Indigo and BNF, on the other hand, became active at 10<sup>-8</sup> M.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/induction-on-enzyme-level-by-ahr-ac6fc04d'><i class='fa fa-play' aria-hidden='true'></i></button>Also, the enzyme induction levels of CYP1A1 and CYP1A2 are observed and expressed as luminescence change. The measurements are performed with specific Promega substrates for CYP1A1 and CYP1A2 in combination with several AhR agonists at different concentration levels in human liver hepatocytes in HepG2 cells (Westerink and Schoonen, 2007). Again if we look at the lowest concentration dependent inductions (Blue), we clearly see that TCDD is the most potent inducer for both CYP1A1 and CYP1A2, followed by 3-MC. Indirubin, Indigo and BNF, on the other hand, became active at 10<sup>-8</sup> M.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -197,7 +197,7 @@ Also, the enzyme induction levels of CYP1A1 and CYP1A2 are observed and expresse
 ### Similar Induction of Enzyme Activity Between Species (1/2)
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The induction of the enzyme activities of CYP1A1 and CYP1A2 can be relatively similar between different species (Westerink et al., 2008). This is the case for many AhR agonists, as shown below. For human HepG2 and rat H4IIE hepatocytes. TCDD is the most potent inducer in both the human and rat cell line. TCDD is equipotent for both cell lines as 3-MC is.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/similar-induction-enzyme-activity-between-species-12-2c2ee7fb'><i class='fa fa-play' aria-hidden='true'></i></button>The induction of the enzyme activities of CYP1A1 and CYP1A2 can be relatively similar between different species (Westerink et al., 2008). This is the case for many AhR agonists, as shown below. For human HepG2 and rat H4IIE hepatocytes. TCDD is the most potent inducer in both the human and rat cell line. TCDD is equipotent for both cell lines as 3-MC is.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -221,7 +221,7 @@ The induction of the enzyme activities of CYP1A1 and CYP1A2 can be relatively si
 ### Similar Induction of Enzyme Activity Between Species (2/2)
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Differences in strength can easily occur. PCB126 is a 1000-fold and indigo a 100-fold more active inducer for the rat hepatocyte, while Indirubin is a 100-fold more potent inducer for the human hepatocyte. Moreover, also benzo[a]pyrene and BNF were weaker inducers, both were still 100-fold more potent in rat than in human hepatocytes. At higher concentrations the compounds may become toxic, as indicated by the lower response rates.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/similar-induction-enzyme-activity-between-species-22-3c6ab4b6'><i class='fa fa-play' aria-hidden='true'></i></button>Differences in strength can easily occur. PCB126 is a 1000-fold and indigo a 100-fold more active inducer for the rat hepatocyte, while Indirubin is a 100-fold more potent inducer for the human hepatocyte. Moreover, also benzo[a]pyrene and BNF were weaker inducers, both were still 100-fold more potent in rat than in human hepatocytes. At higher concentrations the compounds may become toxic, as indicated by the lower response rates.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -242,7 +242,7 @@ Differences in strength can easily occur. PCB126 is a 1000-fold and indigo a 100
     
 ### Examples of Rat Specific Induction of Enzyme Activities
 
-Rat specific induction of the enzyme activities of CYP1A1 and CYP1A2 be completely different from other species. One of these compounds Org D appeared very carcinogenic in the rat *in vivo* setting. However, these compounds may appear to be very rat specific. These compounds will be called non-genotoxic carcinogens in rats, but may be irrelevant for the human setting. Rat specific carcinogenic studies will result in the wrong answers for humans.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/examples-rat-specific-induction-enzyme-activities-1458bff4'><i class='fa fa-play' aria-hidden='true'></i></button>Rat specific induction of the enzyme activities of CYP1A1 and CYP1A2 be completely different from other species. One of these compounds Org D appeared very carcinogenic in the rat *in vivo* setting. However, these compounds may appear to be very rat specific. These compounds will be called non-genotoxic carcinogens in rats, but may be irrelevant for the human setting. Rat specific carcinogenic studies will result in the wrong answers for humans.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/willem_rat_specific.png){: loading=lazy }
@@ -254,7 +254,7 @@ Rat specific induction of the enzyme activities of CYP1A1 and CYP1A2 be complete
     
 ### Examples of Human Specific Induction of Enzyme Activities
 
-Human specific induction of the enzyme activities of CYP1A1 and CYP1A2 be completely different from other species. This is the case for some AhR agonists. These compounds will be negative negative in *in vivo* carcinogenicity studies in rats, but may be human specific carcinogens. Rat specific *in vivo* carcinogenicity studies will result in the wrong answers for humans.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/examples-human-specific-induction-enzyme-activities-a2d87acd'><i class='fa fa-play' aria-hidden='true'></i></button>Human specific induction of the enzyme activities of CYP1A1 and CYP1A2 be completely different from other species. This is the case for some AhR agonists. These compounds will be negative negative in *in vivo* carcinogenicity studies in rats, but may be human specific carcinogens. Rat specific *in vivo* carcinogenicity studies will result in the wrong answers for humans.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
@@ -268,7 +268,7 @@ Human specific induction of the enzyme activities of CYP1A1 and CYP1A2 be comple
     
 ### Conclusion
 
-*In vitro* analysis, but not *in vivo* analysis for carcinogenesis in rat only, may result in the proper decision for non-genotoxic carcinogenic compounds. Therefore the identification of non-genotoxic carcinogens in humans can best be carried out with the following procedures, as summarized below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/conclusion-a9a2678c'><i class='fa fa-play' aria-hidden='true'></i></button>*In vitro* analysis, but not *in vivo* analysis for carcinogenesis in rat only, may result in the proper decision for non-genotoxic carcinogenic compounds. Therefore the identification of non-genotoxic carcinogens in humans can best be carried out with the following procedures, as summarized below.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/willem_conclusion.png){: loading=lazy }
@@ -280,7 +280,7 @@ Human specific induction of the enzyme activities of CYP1A1 and CYP1A2 be comple
     
 ### Outcome of this Testing
 
-The outcome of this testing is determinant for deciding further development of the drug candidate under consideration.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/outcome-this-testing-1a282ee4'><i class='fa fa-play' aria-hidden='true'></i></button>The outcome of this testing is determinant for deciding further development of the drug candidate under consideration.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/willem_outcome.png){: loading=lazy }
@@ -295,7 +295,7 @@ The outcome of this testing is determinant for deciding further development of t
 
 ### Case Studies Presented Here
 
-The case studies presented in the following pages aim at illustrating why a given drug can show marked species differences because of differences in pharmacological and pharmacokinetic (ADME) properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/case-studies-presented-here-fca86ad3'><i class='fa fa-play' aria-hidden='true'></i></button>The case studies presented in the following pages aim at illustrating why a given drug can show marked species differences because of differences in pharmacological and pharmacokinetic (ADME) properties.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
@@ -310,7 +310,7 @@ The case studies presented in the following pages aim at illustrating why a give
     
 ### The Action of a Drug
 
-To understand that, one has to keep in mind that the global action of a drug results of the combination of both pharmacokinetic (ADME) and pharmacodynamic properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/action-drug-dd1975ee'><i class='fa fa-play' aria-hidden='true'></i></button>To understand that, one has to keep in mind that the global action of a drug results of the combination of both pharmacokinetic (ADME) and pharmacodynamic properties.
 *[ADME]: Absorption, Distribution, Metabolism, Excretion
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[pharmacodynamic]: The study of the effects of drugs on the body and the relationship between drug concentration and effect.
@@ -326,7 +326,7 @@ To understand that, one has to keep in mind that the global action of a drug res
     
 ### Reasons for Species Specific Responses
 
-Related drugs may have entirely different species specific responses for reasons that are listed in the figure below. In the following pages examples are given to illustrate some of them.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/reasons-for-species-specific-responses-e99ce385'><i class='fa fa-play' aria-hidden='true'></i></button>Related drugs may have entirely different species specific responses for reasons that are listed in the figure below. In the following pages examples are given to illustrate some of them.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith_reasons.png){: loading=lazy }
@@ -339,7 +339,7 @@ Related drugs may have entirely different species specific responses for reasons
 ### Example-1: Differences in Metabolism
 *[nce]: New Chemical Entity: a compound not previously described.
 
-For two analog drugs the metabolic products are in general the same. In some cases different metabolic products are formed resulting in differences in species specific responses. This is the case of ketoconazole and its deacetyl-decotonazole analog.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/example-1-differences-metabolism-15f9181c'><i class='fa fa-play' aria-hidden='true'></i></button>For two analog drugs the metabolic products are in general the same. In some cases different metabolic products are formed resulting in differences in species specific responses. This is the case of ketoconazole and its deacetyl-decotonazole analog.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -355,7 +355,7 @@ For two analog drugs the metabolic products are in general the same. In some cas
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-Ketoconazole is a lipophilic antifungal drug rendered weakly basic by the presence of an immidazole grouping. Metabolism in humans is mainly by N-glucuronidation of this function rendering the compound much more water soluble. Rodents have very high amidase and esterase levels and the principal metabolites formed are by hydrolysis of the acetyl moiety. The resultant secondary amine renders this metabolite much more basic (and now ionised substantially at physiological pH than the parent ketoconazole, but still with substantial lipophilicity. The combination of lipophilicity and basicity is associated with substantial membrane interactions to the extent that toxicity in the form of phospholipidosis is observed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/different-metabolism-two-analogs-aada753d'><i class='fa fa-play' aria-hidden='true'></i></button>Ketoconazole is a lipophilic antifungal drug rendered weakly basic by the presence of an immidazole grouping. Metabolism in humans is mainly by N-glucuronidation of this function rendering the compound much more water soluble. Rodents have very high amidase and esterase levels and the principal metabolites formed are by hydrolysis of the acetyl moiety. The resultant secondary amine renders this metabolite much more basic (and now ionised substantially at physiological pH than the parent ketoconazole, but still with substantial lipophilicity. The combination of lipophilicity and basicity is associated with substantial membrane interactions to the extent that toxicity in the form of phospholipidosis is observed.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -369,7 +369,7 @@ Ketoconazole is a lipophilic antifungal drug rendered weakly basic by the presen
     
 #### Ketoconazole Binding
 
-In the phospholipid bilayer, ketoconazole orientates itself in order to maximize the hydrophobic interactions between its dichlorophenyl group and its acylated piperazine together with the long alkyl side chains of the lipid layer of the membranes (see figure below). This corresponds to weak binding interactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/ketoconazole-binding-4a8b7106'><i class='fa fa-play' aria-hidden='true'></i></button>In the phospholipid bilayer, ketoconazole orientates itself in order to maximize the hydrophobic interactions between its dichlorophenyl group and its acylated piperazine together with the long alkyl side chains of the lipid layer of the membranes (see figure below). This corresponds to weak binding interactions.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -390,7 +390,7 @@ In the phospholipid bilayer, ketoconazole orientates itself in order to maximize
     
 #### Desacetyl-Ketoconazole Binding
 
-In desacetyl-ketoconazole the situation is different because of the existence of a positive charge on the piperazine ring. The molecule adopts a conformation reverted as compared to ketoconazole where the dichlorophenyl group is inserted in the lipid layer and the piperazine moiety is pointing towards the aqueous phase. In this case there are strong binding interactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/desacetyl-ketoconazole-binding-522bd212'><i class='fa fa-play' aria-hidden='true'></i></button>In desacetyl-ketoconazole the situation is different because of the existence of a positive charge on the piperazine ring. The molecule adopts a conformation reverted as compared to ketoconazole where the dichlorophenyl group is inserted in the lipid layer and the piperazine moiety is pointing towards the aqueous phase. In this case there are strong binding interactions.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -413,7 +413,7 @@ In desacetyl-ketoconazole the situation is different because of the existence of
 ### Example-2: Differences in Rate of Metabolism
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Differences in rate of metabolism may lead to different dose response relationships. This is a common finding when comparing animals and human. Proxicomil is one such example, the compound is slowly metabolized in dogs and rapidly metabolized in rats and humans.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/example-2-differences-rate-metabolism-a5652e17'><i class='fa fa-play' aria-hidden='true'></i></button>Differences in rate of metabolism may lead to different dose response relationships. This is a common finding when comparing animals and human. Proxicomil is one such example, the compound is slowly metabolized in dogs and rapidly metabolized in rats and humans.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -434,7 +434,7 @@ Differences in rate of metabolism may lead to different dose response relationsh
     
 #### PK /PD Model of Response
 
-Due to the slow rate of metabolism concentrations of proxicromil are much higher for an equivalent dose in the dog than in rats and human. This results in exaggerated pharmacological and toxicological effects for equivalent doses in the two species.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/pk-pd-model-response-d810b39c'><i class='fa fa-play' aria-hidden='true'></i></button>Due to the slow rate of metabolism concentrations of proxicromil are much higher for an equivalent dose in the dog than in rats and human. This results in exaggerated pharmacological and toxicological effects for equivalent doses in the two species.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -447,7 +447,7 @@ Due to the slow rate of metabolism concentrations of proxicromil are much higher
     
 #### Origin of the Hepatotoxicity of Procicromil in Dog
 
-The differences in metabolism with Proxicromil result in it being hepatotoxic in dog. Further understanding is provided by considering the structures of proxicromil and its metabolite. The rapid hydroxylation in the liver in rat and man results in lowering the lipophilicity of the molecule and removing its amphipathis nature (detoxification). The hydroxylation is very slow in dog resulting in high concentrations of the detergent like proxicromil compound at the biliary canaliculus within the liver.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/origin-hepatotoxicity-procicromil-dog-93556d73'><i class='fa fa-play' aria-hidden='true'></i></button>The differences in metabolism with Proxicromil result in it being hepatotoxic in dog. Further understanding is provided by considering the structures of proxicromil and its metabolite. The rapid hydroxylation in the liver in rat and man results in lowering the lipophilicity of the molecule and removing its amphipathis nature (detoxification). The hydroxylation is very slow in dog resulting in high concentrations of the detergent like proxicromil compound at the biliary canaliculus within the liver.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -469,7 +469,7 @@ The differences in metabolism with Proxicromil result in it being hepatotoxic in
 #### Toxicity due to Different Plasma Clearance Values
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The enzymes that catalyse the oxidation of proxicromil are the CYP2C family with the dog homologue having a much lower rate of metabolism. Agents such as tolbutamide, diclofenac, tienilic acid, torasemide, bumetamide, probenicid, fenoprofen, flurbiprofen, etodolac, sultosilic acid, bucloxic acid and proxicromil are acidic and are CYP2C substrates. They are all slowly hydroxylated in dogs as compared to rat and humans. This results in potentially exaggerated pharmacological and toxicological effects at equivalent doses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/toxicity-due-to-different-plasma-clearance-values-e1a752f4'><i class='fa fa-play' aria-hidden='true'></i></button>The enzymes that catalyse the oxidation of proxicromil are the CYP2C family with the dog homologue having a much lower rate of metabolism. Agents such as tolbutamide, diclofenac, tienilic acid, torasemide, bumetamide, probenicid, fenoprofen, flurbiprofen, etodolac, sultosilic acid, bucloxic acid and proxicromil are acidic and are CYP2C substrates. They are all slowly hydroxylated in dogs as compared to rat and humans. This results in potentially exaggerated pharmacological and toxicological effects at equivalent doses.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith_rat_man_dog.png){: loading=lazy }
@@ -491,7 +491,7 @@ The enzymes that catalyse the oxidation of proxicromil are the CYP2C family with
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
-Differences in receptors between different species are fairly common, although in many cases these diffences are not sufficiently large to not give broadly equivalent responses to a particular compound. For some receptors the differences are meked and dwarf the effects previously described for clearance and metabolism. A classical case is the differences of affinity for cardiac glycosides and the human and rat cardiac Na+/K+ ATPase. This is presented in the next page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/example-3-differences-receptor-affinity-8cf6ebc7'><i class='fa fa-play' aria-hidden='true'></i></button>Differences in receptors between different species are fairly common, although in many cases these diffences are not sufficiently large to not give broadly equivalent responses to a particular compound. For some receptors the differences are meked and dwarf the effects previously described for clearance and metabolism. A classical case is the differences of affinity for cardiac glycosides and the human and rat cardiac Na+/K+ ATPase. This is presented in the next page.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -515,7 +515,7 @@ Differences in receptors between different species are fairly common, although i
 #### Affinity for Cardiac Na+/K+ ATPase (1/2)
 *[Affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
-The following slide illustrates why the pharmacodynamics of cardiac glycosides in terms of cardio-pharmacology and cardio-toxicity in human are poorly predicted in rat. The comparison of affinity for cardiac Na+/K+ ATPase in human and rat is presented here where species differences in systemic clearance and affinity of cardiac glycosides (ouabain) for cardiac Na+/K+ ATPase are observed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/affinity-for-cardiac-nak-atpase-12-22af4487'><i class='fa fa-play' aria-hidden='true'></i></button>The following slide illustrates why the pharmacodynamics of cardiac glycosides in terms of cardio-pharmacology and cardio-toxicity in human are poorly predicted in rat. The comparison of affinity for cardiac Na+/K+ ATPase in human and rat is presented here where species differences in systemic clearance and affinity of cardiac glycosides (ouabain) for cardiac Na+/K+ ATPase are observed.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[pharmacodynamics]: The study of the effects of drugs on the body and the relationship between drug concentration and effect.
@@ -533,7 +533,7 @@ The following slide illustrates why the pharmacodynamics of cardiac glycosides i
 #### Affinity for Cardiac Na+/K+ ATPase (2/2)
 *[Affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
-Affinity is shown as reciprocal to give the figure a common axis. Over 4 log units span the differences in affinity (Human affinity being much higher, therefore concentrations in rat would need to be 10,000 times higher than those in man to elicit the same effect on the heart. Such high concentrations are probably not achievable and would also cause effects on other related proteins.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/affinity-for-cardiac-nak-atpase-22-9e054555'><i class='fa fa-play' aria-hidden='true'></i></button>Affinity is shown as reciprocal to give the figure a common axis. Over 4 log units span the differences in affinity (Human affinity being much higher, therefore concentrations in rat would need to be 10,000 times higher than those in man to elicit the same effect on the heart. Such high concentrations are probably not achievable and would also cause effects on other related proteins.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -548,7 +548,7 @@ Affinity is shown as reciprocal to give the figure a common axis. Over 4 log uni
     
 ### Interpretation of Toxicology from Animal Data
 
-The interpretation of animal data and its extrapolation to man is complex and needs to be considered from pharmacokinetic and pharmacodynamic grounds. The simplest cases are where receptor profiles are similar in animals and man and adverse events in animals are separated by large multiples of dose and concentration from those to be used clinically. Even then progress in human is gradual and cautious.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/interpretation-toxicology-from-animal-data-505184d0'><i class='fa fa-play' aria-hidden='true'></i></button>The interpretation of animal data and its extrapolation to man is complex and needs to be considered from pharmacokinetic and pharmacodynamic grounds. The simplest cases are where receptor profiles are similar in animals and man and adverse events in animals are separated by large multiples of dose and concentration from those to be used clinically. Even then progress in human is gradual and cautious.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[pharmacodynamic]: The study of the effects of drugs on the body and the relationship between drug concentration and effect.
@@ -565,7 +565,7 @@ The interpretation of animal data and its extrapolation to man is complex and ne
     
 ### Interpretation of Toxicology from Human Data
 
-Even human is not a good model for human, as findings in as few as 1 in 30,000 patients, for a previously unseen toxicity, can lead to labelling warnings or even marketing withdrawal. Careful constant consideration of all the available data, from all viewpoints does though mitigate the risk.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/interpretation-toxicology-from-human-data-2355dd75'><i class='fa fa-play' aria-hidden='true'></i></button>Even human is not a good model for human, as findings in as few as 1 in 30,000 patients, for a previously unseen toxicity, can lead to labelling warnings or even marketing withdrawal. Careful constant consideration of all the available data, from all viewpoints does though mitigate the risk.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -581,7 +581,7 @@ Even human is not a good model for human, as findings in as few as 1 in 30,000 p
 
 ### Drug Failures, Lessons and Learnings for the Future
 
-A survey of drugs withdrawn in past 25 years in the US market is presented in the following pages. The reasons for drug withdrawals are described and lessons that can be learned are considered.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/drug-failures-lessons-learnings-for-future-f07199e6'><i class='fa fa-play' aria-hidden='true'></i></button>A survey of drugs withdrawn in past 25 years in the US market is presented in the following pages. The reasons for drug withdrawals are described and lessons that can be learned are considered.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_intro.png){: loading=lazy }
@@ -620,7 +620,7 @@ A survey of drugs withdrawn in past 25 years in the US market is presented in th
 ### Three Types of Drug Withdrawals
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The 1980-2005 drug withdrawals can be grouped into 3 categories. The drug toxicities were analyzed and classified based on the FDA AERS system (Adverse Event Reporting System) which consists of a primary surveillance database for post-marketing drug safety issues. They are shown in the table below; the fourth type of withdrawal (type D) is not considered here because there are no examples of drugs withdrawn for Type D toxicity over the period covered by this review.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/three-types-drug-withdrawals-04904a3b'><i class='fa fa-play' aria-hidden='true'></i></button>The 1980-2005 drug withdrawals can be grouped into 3 categories. The drug toxicities were analyzed and classified based on the FDA AERS system (Adverse Event Reporting System) which consists of a primary surveillance database for post-marketing drug safety issues. They are shown in the table below; the fourth type of withdrawal (type D) is not considered here because there are no examples of drugs withdrawn for Type D toxicity over the period covered by this review.
 *[FDA]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -642,7 +642,7 @@ The 1980-2005 drug withdrawals can be grouped into 3 categories. The drug toxici
     
 #### Type A
 
-Drug withdrawal of Type A: the toxic mechanism has a pharmacological basis. There are two subtypes of type A; one based on the primary pharmacology (type A1) of the drug (i.e. selective activity against the intended target of the drug) and the other based on other secondary pharmacology(s) (type A2) of the drug (non-selective activity against non-intended receptors, enzymes, ion channels etc.).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-b5719122'><i class='fa fa-play' aria-hidden='true'></i></button>Drug withdrawal of Type A: the toxic mechanism has a pharmacological basis. There are two subtypes of type A; one based on the primary pharmacology (type A1) of the drug (i.e. selective activity against the intended target of the drug) and the other based on other secondary pharmacology(s) (type A2) of the drug (non-selective activity against non-intended receptors, enzymes, ion channels etc.).
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_a.png){: loading=lazy }
@@ -654,7 +654,7 @@ Drug withdrawal of Type A: the toxic mechanism has a pharmacological basis. Ther
     
 #### Type B
 
-Drug withdrawal of Type B: the toxicity probably has an immunological base. Such toxicities do not necessarily exhibit classic dose-response relationships. They are generally observed in a very low proportion of patients and are suspected to involve a reaction between drug or metabolite and tissue macromolecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-b-5f486ff5'><i class='fa fa-play' aria-hidden='true'></i></button>Drug withdrawal of Type B: the toxicity probably has an immunological base. Such toxicities do not necessarily exhibit classic dose-response relationships. They are generally observed in a very low proportion of patients and are suspected to involve a reaction between drug or metabolite and tissue macromolecules.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -668,7 +668,7 @@ Drug withdrawal of Type B: the toxicity probably has an immunological base. Such
     
 #### Type C
 
-Drug withdrawal of Type C toxicity, is similar but the effect of the drug is also due to a chemical reaction between drug or metabolite and tissue macromolecules but there is a rapidly ensuing response. Similarly this toxicity follows a more classical dose response relationship.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-c-cdf58c59'><i class='fa fa-play' aria-hidden='true'></i></button>Drug withdrawal of Type C toxicity, is similar but the effect of the drug is also due to a chemical reaction between drug or metabolite and tissue macromolecules but there is a rapidly ensuing response. Similarly this toxicity follows a more classical dose response relationship.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -681,7 +681,7 @@ Drug withdrawal of Type C toxicity, is similar but the effect of the drug is als
     
 #### Type D
 
-Drug withdrawal of Type D refers to toxicity in which duration or time of administration is critical and the response is delayed, even for years. Examples of type D toxicity include carcinogenesis and teratogenesis. As indicated above, there are no examples of drugs withdrawn for Type D toxicity over the last 25 years; we are therefore mainly concerned in this review with types A, B and C.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-d-4efad4fe'><i class='fa fa-play' aria-hidden='true'></i></button>Drug withdrawal of Type D refers to toxicity in which duration or time of administration is critical and the response is delayed, even for years. Examples of type D toxicity include carcinogenesis and teratogenesis. As indicated above, there are no examples of drugs withdrawn for Type D toxicity over the last 25 years; we are therefore mainly concerned in this review with types A, B and C.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -694,7 +694,7 @@ Drug withdrawal of Type D refers to toxicity in which duration or time of admini
     
 ### Table of Drug Withdrawals from 1980
 
-Drug withdrawals from 1980 to date and reason for withdrawal are indicated in the table below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/table-drug-withdrawals-from-1980-0e540d0e'><i class='fa fa-play' aria-hidden='true'></i></button>Drug withdrawals from 1980 to date and reason for withdrawal are indicated in the table below.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2.examples_1980.png){: loading=lazy }
@@ -706,7 +706,7 @@ Drug withdrawals from 1980 to date and reason for withdrawal are indicated in th
     
 ### Type A1 Drug Withdrawals
 
-In the following pages are presented drugs withdrawn for problems on the Type A1 primary pharmacology of the drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-a1-drug-withdrawals-e6ffc076'><i class='fa fa-play' aria-hidden='true'></i></button>In the following pages are presented drugs withdrawn for problems on the Type A1 primary pharmacology of the drug.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_a1.png){: loading=lazy }
@@ -718,7 +718,7 @@ In the following pages are presented drugs withdrawn for problems on the Type A1
     
 #### Alosetron
 
-Alosetron is a 5-HT3 antagonist introduced for the treatment of irritable bowel syndrome (IBS). 5-HT3 antagonists suppress the reflex activation of colonic motor function in response to food ingestion and can cause constipation as a side effect. The withdrawal of the drug was due to several cases of ischemic colitis. Constipation can be one of the factors that facilitate the development of ischemic colitis. Alosetron was subsequently re-introduced in 2002, following a risk/benefit assessment, but is now significantly restricted in use.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/alosetron-dc847905'><i class='fa fa-play' aria-hidden='true'></i></button>Alosetron is a 5-HT3 antagonist introduced for the treatment of irritable bowel syndrome (IBS). 5-HT3 antagonists suppress the reflex activation of colonic motor function in response to food ingestion and can cause constipation as a side effect. The withdrawal of the drug was due to several cases of ischemic colitis. Constipation can be one of the factors that facilitate the development of ischemic colitis. Alosetron was subsequently re-introduced in 2002, following a risk/benefit assessment, but is now significantly restricted in use.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -748,7 +748,7 @@ Alosetron is a 5-HT3 antagonist introduced for the treatment of irritable bowel 
     
 #### Cerivastatin
 
-Cerivastatin was the most potent of a group of drugs inhibiting liver hydroxymethyl glutanyl-coenzyme A (HMG-CoA) termed statins. Muscle toxicity (myopathy) is a low incidence adverse effect of statins, the extreme form of which is rhabdomyolysis which can lead to kidney failure and death. Cerivastatin showed rates of rhabdomyolysis up to 10 fold greater than other HMG-CoA inhibitors. The systemic bioavailability was the highest of any statin. Bioavailability in this context could be viewed as a ratio of systemic burden (muscle-toxicity) versus hepatic burden (liver-efficacy) and may point to a key factor that differentiates this drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/cerivastatin-b6cca8e9'><i class='fa fa-play' aria-hidden='true'></i></button>Cerivastatin was the most potent of a group of drugs inhibiting liver hydroxymethyl glutanyl-coenzyme A (HMG-CoA) termed statins. Muscle toxicity (myopathy) is a low incidence adverse effect of statins, the extreme form of which is rhabdomyolysis which can lead to kidney failure and death. Cerivastatin showed rates of rhabdomyolysis up to 10 fold greater than other HMG-CoA inhibitors. The systemic bioavailability was the highest of any statin. Bioavailability in this context could be viewed as a ratio of systemic burden (muscle-toxicity) versus hepatic burden (liver-efficacy) and may point to a key factor that differentiates this drug.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -772,7 +772,7 @@ Cerivastatin was the most potent of a group of drugs inhibiting liver hydroxymet
     
 #### Flosequinan
 
-Flosequinan is a vasodilator with mixed arterial and venous effect. The agent had mild positive chronotropic and ionotropic effects. The drug has an active sulphone metabolite, Flosequinoxan, which also contributes to the effect and may be the active principle. Some of the pharmacology of Flosequinan and its metabolite may relate to its activity as a PDE III inhibitor. Flosequinan was associated with an excess mortality rate. It is probable that the detrimental effects of flosequinan are multifactorial but the drug increased circulating noradrenaline concentrations and heart rate and these may have been contributing factors in the mortality observed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/flosequinan-09ea821c'><i class='fa fa-play' aria-hidden='true'></i></button>Flosequinan is a vasodilator with mixed arterial and venous effect. The agent had mild positive chronotropic and ionotropic effects. The drug has an active sulphone metabolite, Flosequinoxan, which also contributes to the effect and may be the active principle. Some of the pharmacology of Flosequinan and its metabolite may relate to its activity as a PDE III inhibitor. Flosequinan was associated with an excess mortality rate. It is probable that the detrimental effects of flosequinan are multifactorial but the drug increased circulating noradrenaline concentrations and heart rate and these may have been contributing factors in the mortality observed.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -813,7 +813,7 @@ Flosequinan is a vasodilator with mixed arterial and venous effect. The agent ha
     
 #### Encainide
 
-Encainide was an anti-arrhythmic agent which blocked the Na+ channel excitatory current. A major series of studies (CAST) examined whether drugs of this type could prevent sudden death in high-risk patients. These patients had frequent premature ventricular extrasystoles (PVCs) and reduced ventricular function following acute myocardial infarction. The placebo group was found to have lower mortality compared to the group treated with Encainide (and Flecainide). The excess number of new ischemic events in the placebo group equaled the excess number of deaths in the treated group indicating that new ischemia was converted to sudden death.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/encainide-cc994a52'><i class='fa fa-play' aria-hidden='true'></i></button>Encainide was an anti-arrhythmic agent which blocked the Na+ channel excitatory current. A major series of studies (CAST) examined whether drugs of this type could prevent sudden death in high-risk patients. These patients had frequent premature ventricular extrasystoles (PVCs) and reduced ventricular function following acute myocardial infarction. The placebo group was found to have lower mortality compared to the group treated with Encainide (and Flecainide). The excess number of new ischemic events in the placebo group equaled the excess number of deaths in the treated group indicating that new ischemia was converted to sudden death.
 *[f deat]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 
 
@@ -834,7 +834,7 @@ Encainide was an anti-arrhythmic agent which blocked the Na+ channel excitatory 
     
 #### Rofecoxib
 
-Rofecoxib (Vioxx) belongs to the anti-inflammatory class of drugs termed COX-2 inhibitors. These were compounds with advantages over conventional non-selective COX inhibitors (NSAIDs) since the gastrointestinal effects such as ulceration, and internal bleeds are mediated by COX-1. Rofecoxib increased the risk of thrombotic cardiovascular events. A pharmacological rationalisation of this effect can be advanced concerning suppression of endothelial vascular PGI2 whilst not inhibiting platelet derived TXA2 production resulting in an imbalance of homeostatic, normally endothelium protective and antithrombotic, mechanisms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/rofecoxib-86d2a9b4'><i class='fa fa-play' aria-hidden='true'></i></button>Rofecoxib (Vioxx) belongs to the anti-inflammatory class of drugs termed COX-2 inhibitors. These were compounds with advantages over conventional non-selective COX inhibitors (NSAIDs) since the gastrointestinal effects such as ulceration, and internal bleeds are mediated by COX-1. Rofecoxib increased the risk of thrombotic cardiovascular events. A pharmacological rationalisation of this effect can be advanced concerning suppression of endothelial vascular PGI2 whilst not inhibiting platelet derived TXA2 production resulting in an imbalance of homeostatic, normally endothelium protective and antithrombotic, mechanisms.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -858,7 +858,7 @@ Rofecoxib (Vioxx) belongs to the anti-inflammatory class of drugs termed COX-2 i
     
 #### Lessons from Withdrawals due to Primary Pharmacology
 
-It is extremely difficult to draw simple conclusions from this class of market withdrawal. The obvious reaction of Regulatory Authorities and Pharmaceutical Companies is to study the drug more extensively in Development: "outcomes" trials now form part of Development rather than a post-marketing activity, contributing hugely to the cost of drug development.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/lessons-from-withdrawals-due-to-primary-pharmacology-d7641514'><i class='fa fa-play' aria-hidden='true'></i></button>It is extremely difficult to draw simple conclusions from this class of market withdrawal. The obvious reaction of Regulatory Authorities and Pharmaceutical Companies is to study the drug more extensively in Development: "outcomes" trials now form part of Development rather than a post-marketing activity, contributing hugely to the cost of drug development.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_lesson_a1.png){: loading=lazy }
@@ -870,7 +870,7 @@ It is extremely difficult to draw simple conclusions from this class of market w
     
 ##### A Broad Spectrum of Drugs
 
-The period covered (1980 to date) spans "phenomena" type drugs, such as Flosequinan to highly specific selective drugs such as Alosetron. Phenomena drugs do not have a specific target or mechanism. Screening of compounds is normally by pharmacological effect and the drugs therefore may have multiple mechanisms. Although it may be possible to separate the beneficial and deleterious effects, scientifically this is very difficult. This invariably makes the design of newer agents with improved therapeutic ratios almost impossible. Alosetron represents the other extreme where the selectivity is almost absolute and the side effects must be associated with the primary pharmacology.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/broad-spectrum-drugs-e8b54e13'><i class='fa fa-play' aria-hidden='true'></i></button>The period covered (1980 to date) spans "phenomena" type drugs, such as Flosequinan to highly specific selective drugs such as Alosetron. Phenomena drugs do not have a specific target or mechanism. Screening of compounds is normally by pharmacological effect and the drugs therefore may have multiple mechanisms. Although it may be possible to separate the beneficial and deleterious effects, scientifically this is very difficult. This invariably makes the design of newer agents with improved therapeutic ratios almost impossible. Alosetron represents the other extreme where the selectivity is almost absolute and the side effects must be associated with the primary pharmacology.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -883,7 +883,7 @@ The period covered (1980 to date) spans "phenomena" type drugs, such as Flosequi
     
 ##### Impact on Decisions in Drug Discovery
 
-It is extremely unlikely that a company would progress a follow-on drug on the off chance that it may be better.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/impact-on-decisions-drug-discovery-7fa8219a'><i class='fa fa-play' aria-hidden='true'></i></button>It is extremely unlikely that a company would progress a follow-on drug on the off chance that it may be better.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -896,7 +896,7 @@ It is extremely unlikely that a company would progress a follow-on drug on the o
     
 ### Type A2 Drug Withdrawals
 
-In the following pages are presented drugs withdrawn for problems on the Type A2 primary pharmacology of the drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-a2-drug-withdrawals-97d043a6'><i class='fa fa-play' aria-hidden='true'></i></button>In the following pages are presented drugs withdrawn for problems on the Type A2 primary pharmacology of the drug.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_typea2.png){: loading=lazy }
@@ -908,7 +908,7 @@ In the following pages are presented drugs withdrawn for problems on the Type A2
     
 #### Fenfluramine and Dexfenfluramine (1/2)
 
-The appetite suppressants Fenfluramine and Dexfenfluramine (single enantiomer of Fenfluramine), both effective in the treatment of obesity, were withdrawn from the marketplace because of association with pulmonary hypertension and valvular heart disease. Fenfluramine and Dexfenfuramine bind weakly to 5-HT receptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/fenfluramine-dexfenfluramine-12-30a4b727'><i class='fa fa-play' aria-hidden='true'></i></button>The appetite suppressants Fenfluramine and Dexfenfluramine (single enantiomer of Fenfluramine), both effective in the treatment of obesity, were withdrawn from the marketplace because of association with pulmonary hypertension and valvular heart disease. Fenfluramine and Dexfenfuramine bind weakly to 5-HT receptors.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 
 
@@ -935,7 +935,7 @@ The appetite suppressants Fenfluramine and Dexfenfluramine (single enantiomer of
     
 #### Fenfluramine and Dexfenfluramine (2/2)
 
-A major metabolite Norfenfluramine is responsible for the pharmacological activity. The drugs reduce appetite by activating 5-HT2C receptors. Norfenfuramine binds and potently activates 5-HT2C receptors but is equally potent as an agonist of 5-HT2B receptors. Activation of mitogenic 5-HT2B receptors on heart valves and pulmonary artery interstitial cells lead to the formation of proliferative fibromyxoid plaques that cause the deleterious changes in tissue integrity and function.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/fenfluramine-dexfenfluramine-22-b485ca85'><i class='fa fa-play' aria-hidden='true'></i></button>A major metabolite Norfenfluramine is responsible for the pharmacological activity. The drugs reduce appetite by activating 5-HT2C receptors. Norfenfuramine binds and potently activates 5-HT2C receptors but is equally potent as an agonist of 5-HT2B receptors. Activation of mitogenic 5-HT2B receptors on heart valves and pulmonary artery interstitial cells lead to the formation of proliferative fibromyxoid plaques that cause the deleterious changes in tissue integrity and function.
 *[agonist]: A chemical substance capable of activating a given receptor.
 
 
@@ -948,7 +948,7 @@ A major metabolite Norfenfluramine is responsible for the pharmacological activi
     
 #### Rapacuronium
 
-Rapacuronium was introduced as an ultra-short acting nondepolarising neuromuscular blocking agent of nicotinic receptors. The drug was used to facilitate intubation. The drug was withdrawn from clinical use due to a high incidence of bronchospasm, sometimes with lethal consequences. Rapacuronium is an antagonist of M2 muscarinic receptors. Normally the release of acetylcholine is terminated by the feedback of M2 receptors. Selective antagonism of these receptors leads to excessive release of acetylcholine, which can then act on the M3 receptors in airway smooth muscle, causing bronchospasm.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/rapacuronium-f4384e04'><i class='fa fa-play' aria-hidden='true'></i></button>Rapacuronium was introduced as an ultra-short acting nondepolarising neuromuscular blocking agent of nicotinic receptors. The drug was used to facilitate intubation. The drug was withdrawn from clinical use due to a high incidence of bronchospasm, sometimes with lethal consequences. Rapacuronium is an antagonist of M2 muscarinic receptors. Normally the release of acetylcholine is terminated by the feedback of M2 receptors. Selective antagonism of these receptors leads to excessive release of acetylcholine, which can then act on the M3 receptors in airway smooth muscle, causing bronchospasm.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -978,7 +978,7 @@ Rapacuronium was introduced as an ultra-short acting nondepolarising neuromuscul
     
 #### Astemizole, Cisapride, Grepafloxacin and Terfenadine (1/2)
 
-Astemizole, Cisapride, Grepafloxacin and Terfenadine are drugs that represent a pharmacologically diverse group. The primary pharmacology of Astermizole and Terfenadine are non-sedating H1 anti-histamines used to treat various allergic conditions. Cisapride is a gastro-intestinal pro-kinetic motility agent acting by activating 5-HT4 receptors, whilst Grepafloxacin is a fluoroquinolone antibiotic.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/astemizole-cisapride-grepafloxacin-terfenadine-12-92d41259'><i class='fa fa-play' aria-hidden='true'></i></button>Astemizole, Cisapride, Grepafloxacin and Terfenadine are drugs that represent a pharmacologically diverse group. The primary pharmacology of Astermizole and Terfenadine are non-sedating H1 anti-histamines used to treat various allergic conditions. Cisapride is a gastro-intestinal pro-kinetic motility agent acting by activating 5-HT4 receptors, whilst Grepafloxacin is a fluoroquinolone antibiotic.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_astemizole1.png){: loading=lazy }
@@ -990,7 +990,7 @@ Astemizole, Cisapride, Grepafloxacin and Terfenadine are drugs that represent a 
     
 #### Astemizole, Cisapride, Grepafloxacin and Terfenadine (2/2)
 
-All the compounds inhibit the rapidly activating delayed rectifier potassium current (channel) (IKr) in cardiac tissues. The slowing of repolarisation leads to QT interval prolongation and the appearance of potentially fatal arrythmias (torsade de pointes, "TdP").
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/astemizole-cisapride-grepafloxacin-terfenadine-22-46336822'><i class='fa fa-play' aria-hidden='true'></i></button>All the compounds inhibit the rapidly activating delayed rectifier potassium current (channel) (IKr) in cardiac tissues. The slowing of repolarisation leads to QT interval prolongation and the appearance of potentially fatal arrythmias (torsade de pointes, "TdP").
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1011,7 +1011,7 @@ All the compounds inhibit the rapidly activating delayed rectifier potassium cur
     
 #### Mibefradil
 
-Mibefradil is a long acting T-type calcium channel antagonist used for hypertension and chronic stable angina pectoris. Mibefradil was a potent inhibitor of CYP3A4, which resulted in multiple clinically relevant drug interactions. These included very important co-medications such as Simvastatin, which showed a large seven-fold elevation, sufficient to enhance potential adverse events, including rhabdomyolysis.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/mibefradil-afb5017a'><i class='fa fa-play' aria-hidden='true'></i></button>Mibefradil is a long acting T-type calcium channel antagonist used for hypertension and chronic stable angina pectoris. Mibefradil was a potent inhibitor of CYP3A4, which resulted in multiple clinically relevant drug interactions. These included very important co-medications such as Simvastatin, which showed a large seven-fold elevation, sufficient to enhance potential adverse events, including rhabdomyolysis.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1041,7 +1041,7 @@ Mibefradil is a long acting T-type calcium channel antagonist used for hypertens
     
 #### Lessons from Withdrawals Due to Secondary Pharmacology
 
-The impact of lack of specificity of a drug is obvious with hindsight and can be rationalised and incorporated into screening cascades. This is particularly appropriate today, since almost all drug discovery programmes are mounted using the "pure" protein as the primary screen. Close neighbours to the desired target as highlighted with Fenfluramine/Desfenfluramine, will be screened alongside the primary pharmacology.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/lessons-from-withdrawals-due-to-secondary-pharmacology-bbf421e8'><i class='fa fa-play' aria-hidden='true'></i></button>The impact of lack of specificity of a drug is obvious with hindsight and can be rationalised and incorporated into screening cascades. This is particularly appropriate today, since almost all drug discovery programmes are mounted using the "pure" protein as the primary screen. Close neighbours to the desired target as highlighted with Fenfluramine/Desfenfluramine, will be screened alongside the primary pharmacology.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1056,7 +1056,7 @@ The impact of lack of specificity of a drug is obvious with hindsight and can be
 ##### Impact on Discovery Screening Programs
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Other important screens such as IKr will also be placed high in the cascade particularly when the structure and physiochemistry of the lead chemical series makes interactions with this channel likely. Screens can be configured in high throughput format. Similarly screening for CYP inhibition takes place high in the cascade. Initially most screens examined reversible inhibition, but mechanism based inhibition, of the type seen with mibefradil, is now routinely incorporated. Broad ligand binding is also widely adopted at a later stage in drug discovery.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/impact-on-discovery-screening-programs-7960622c'><i class='fa fa-play' aria-hidden='true'></i></button>Other important screens such as IKr will also be placed high in the cascade particularly when the structure and physiochemistry of the lead chemical series makes interactions with this channel likely. Screens can be configured in high throughput format. Similarly screening for CYP inhibition takes place high in the cascade. Initially most screens examined reversible inhibition, but mechanism based inhibition, of the type seen with mibefradil, is now routinely incorporated. Broad ligand binding is also widely adopted at a later stage in drug discovery.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1070,7 +1070,7 @@ Other important screens such as IKr will also be placed high in the cascade part
     
 ### Type B and C Toxicity Drug Withdrawals (1/4)
 
-Benoxaprofen, Bromfenac, Ticrynafen, Troglitazone, Tolcapone and Trovafloxacin were withdrawn from the market place due to hepatotoxicity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-b-c-toxicity-drug-withdrawals-14-055350cd'><i class='fa fa-play' aria-hidden='true'></i></button>Benoxaprofen, Bromfenac, Ticrynafen, Troglitazone, Tolcapone and Trovafloxacin were withdrawn from the market place due to hepatotoxicity.
 *[apo]: 3D structure of a macromolecule without a ligand
 
 
@@ -1083,7 +1083,7 @@ Benoxaprofen, Bromfenac, Ticrynafen, Troglitazone, Tolcapone and Trovafloxacin w
     
 #### Type B and C Toxicity Drug Withdrawals (2/4)
 
-Temafloxacin, Nomifensine and Remoxipride were withdrawn due to haemolytic and aplastic anaemia.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-b-c-toxicity-drug-withdrawals-24-41483e7f'><i class='fa fa-play' aria-hidden='true'></i></button>Temafloxacin, Nomifensine and Remoxipride were withdrawn due to haemolytic and aplastic anaemia.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_bc2.png){: loading=lazy }
@@ -1121,7 +1121,7 @@ Temafloxacin, Nomifensine and Remoxipride were withdrawn due to haemolytic and a
     
 ##### Type B and C Toxicity Drug Withdrawals (3/4)
 
-Suprofen was withdrawn due to flank pain syndrome and Zomepirac due to anaphylaxis. The flank pain syndrome is accompanied by renal dysfunction and associated changes in the excretion of uric acid. In many of the cases more than one toxicity finding also contributed to the withdrawal. For instance Temafloxacin was also associated with renal and liver toxicity and Ticrynafen also exhibited flank pain syndrome.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-b-c-toxicity-drug-withdrawals-34-17f8e2f5'><i class='fa fa-play' aria-hidden='true'></i></button>Suprofen was withdrawn due to flank pain syndrome and Zomepirac due to anaphylaxis. The flank pain syndrome is accompanied by renal dysfunction and associated changes in the excretion of uric acid. In many of the cases more than one toxicity finding also contributed to the withdrawal. For instance Temafloxacin was also associated with renal and liver toxicity and Ticrynafen also exhibited flank pain syndrome.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1148,7 +1148,7 @@ Suprofen was withdrawn due to flank pain syndrome and Zomepirac due to anaphylax
     
 ###### Type B and C Toxicity Drug Withdrawals (4/4)
 
-Furthermore, some of these drugs such as Nomifensine or Troglitazone were withdrawn from a market that had safer, effective follow-on medicines available.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-b-c-toxicity-drug-withdrawals-44-52a9d814'><i class='fa fa-play' aria-hidden='true'></i></button>Furthermore, some of these drugs such as Nomifensine or Troglitazone were withdrawn from a market that had safer, effective follow-on medicines available.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_bc4.png){: loading=lazy }
@@ -1160,7 +1160,7 @@ Furthermore, some of these drugs such as Nomifensine or Troglitazone were withdr
     
 ####### Lessons Learned from Type B/C Toxicity
 
-In many cases of direct organ toxicity reactive metabolites, which co-valently bind to macromolecules are implicated in the mechanism. Certain groups or functions in molecules are particularly susceptible to metabolism to reactive intermediates. These groupings are termed "structural alerts". Of particular note are aromatic amines (anilines) and thiophenes. Such groupings occur in Bromfenac, Nomifensine, Suprofen and Ticrynafen.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/lessons-learned-from-type-bc-toxicity-345f67ac'><i class='fa fa-play' aria-hidden='true'></i></button>In many cases of direct organ toxicity reactive metabolites, which co-valently bind to macromolecules are implicated in the mechanism. Certain groups or functions in molecules are particularly susceptible to metabolism to reactive intermediates. These groupings are termed "structural alerts". Of particular note are aromatic amines (anilines) and thiophenes. Such groupings occur in Bromfenac, Nomifensine, Suprofen and Ticrynafen.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_lesson_b_c.png){: loading=lazy }
@@ -1193,7 +1193,7 @@ In many cases of direct organ toxicity reactive metabolites, which co-valently b
 #### Importance of Dose in B and C Toxicity
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Another feature of direct organ toxicity is that the causal drugs are often administered at a high dose usually of 100 mg or greater. It is noticeable that all the drugs are given at 100 mg per day or greater and that 6/11 are administered at doses above 400 mg per day. Optimisation of compounds in drug discovery can aim at low doses (optimal pharmacokinetics, high intrinsic potency) without obvious structural alerts will attenuate the risk.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/importance-dose-b-c-toxicity-b9db37f4'><i class='fa fa-play' aria-hidden='true'></i></button>Another feature of direct organ toxicity is that the causal drugs are often administered at a high dose usually of 100 mg or greater. It is noticeable that all the drugs are given at 100 mg per day or greater and that 6/11 are administered at doses above 400 mg per day. Optimisation of compounds in drug discovery can aim at low doses (optimal pharmacokinetics, high intrinsic potency) without obvious structural alerts will attenuate the risk.
 *[pharmacokinetics]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 
@@ -1207,7 +1207,7 @@ Another feature of direct organ toxicity is that the causal drugs are often admi
     
 ### Type D Toxicity Drug Withdrawals
 
-There are no examples of Type D withdrawals over the last 25 years. There are very few examples of drugs withdrawn due to human carcinogenicity. The only well documented is Diethylstilbestrol (withdrawn prior to the period covered by this review). With this drug primary pharmacology (A1) plays a major, although not necessarily the only role. Several factors lead to this conclusion: (I) studies in animals (mice) are able to recreate the changes in reproductive tract structure and function including malignant abnormalities seen in human; (II) these changes are dose related in terms of severity and (III) the changes are caused not just by Diethylstilbestrol but other estrogenic compounds (e.g. environmental estrogenic pollutants).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/type-d-toxicity-drug-withdrawals-85f8231d'><i class='fa fa-play' aria-hidden='true'></i></button>There are no examples of Type D withdrawals over the last 25 years. There are very few examples of drugs withdrawn due to human carcinogenicity. The only well documented is Diethylstilbestrol (withdrawn prior to the period covered by this review). With this drug primary pharmacology (A1) plays a major, although not necessarily the only role. Several factors lead to this conclusion: (I) studies in animals (mice) are able to recreate the changes in reproductive tract structure and function including malignant abnormalities seen in human; (II) these changes are dose related in terms of severity and (III) the changes are caused not just by Diethylstilbestrol but other estrogenic compounds (e.g. environmental estrogenic pollutants).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -1230,7 +1230,7 @@ There are no examples of Type D withdrawals over the last 25 years. There are ve
     
 #### Thalidomide
 
-An example of a drug withdrawn because of teratogenesis is Thalidomide (withdrawn prior to the period covered by this review) and the mechanism is still not fully defined. During the 25 year period a number of drugs received marketing authorisations which were teratogenic in animals. Such drugs receive labelling outlining the risk of administration to females.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/thalidomide-ed6f23cb'><i class='fa fa-play' aria-hidden='true'></i></button>An example of a drug withdrawn because of teratogenesis is Thalidomide (withdrawn prior to the period covered by this review) and the mechanism is still not fully defined. During the 25 year period a number of drugs received marketing authorisations which were teratogenic in animals. Such drugs receive labelling outlining the risk of administration to females.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_thalidomide.png){: loading=lazy }
@@ -1256,7 +1256,7 @@ An example of a drug withdrawn because of teratogenesis is Thalidomide (withdraw
     
 ### Balancing Benefit / Risk
 
-No matter how extensively tested a drug is prior to marketing a full understanding of its benefit / risk can only be approached after perhaps 100,000 patients have received the drug for an extensive period. Even then it is often extremely difficult to balance benefit / risk since in some cases many patients may benefit, but a small subset of patients (perhaps as low as 1 in 30,000) may be harmed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/balancing-benefit-risk-94dda4a9'><i class='fa fa-play' aria-hidden='true'></i></button>No matter how extensively tested a drug is prior to marketing a full understanding of its benefit / risk can only be approached after perhaps 100,000 patients have received the drug for an extensive period. Even then it is often extremely difficult to balance benefit / risk since in some cases many patients may benefit, but a small subset of patients (perhaps as low as 1 in 30,000) may be harmed.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1295,7 +1295,7 @@ No matter how extensively tested a drug is prior to marketing a full understandi
     
 ### Benefit Analyses for Antidepressants
 
-Availability of similar drugs in a class is a great help, as benefit across the class is approximately constant allowing risk to be more objectively compared. In the example below all anti-depressants are associated with a very low but real risk of hepatotoxicity. Nefazodone risk is substantially greater than the other drugs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/benefit-analyses-for-antidepressants-5de293e2'><i class='fa fa-play' aria-hidden='true'></i></button>Availability of similar drugs in a class is a great help, as benefit across the class is approximately constant allowing risk to be more objectively compared. In the example below all anti-depressants are associated with a very low but real risk of hepatotoxicity. Nefazodone risk is substantially greater than the other drugs.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_conclu2.png){: loading=lazy }
@@ -1307,7 +1307,7 @@ Availability of similar drugs in a class is a great help, as benefit across the 
     
 ### Monitoring
 
-In almost all cases awareness of the risks, by education of physicians and patients and therefore better monitoring would help alleviate the extreme cases, and as in the case of Alosetron allow re-introduction of the drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='adme-case-studies/monitoring-630f020b'><i class='fa fa-play' aria-hidden='true'></i></button>In almost all cases awareness of the risks, by education of physicians and patients and therefore better monitoring would help alleviate the extreme cases, and as in the case of Alosetron allow re-introduction of the drug.
 
 
 ![](https://media.drugdesign.org/course/adme-case-studies/smith2_conclu3.png){: loading=lazy }
@@ -1317,4 +1317,6 @@ In almost all cases awareness of the risks, by education of physicians and patie
     Academic Research Fellow supported by Pfizer, former vice President of Pharmacokinetics, Dynamics and Metabolism, Pfizer Global Research and Development, Sandwich, UK 
      
     
-Copyright © 2022 drugdesign.org
+
+
+Copyright © 2024 drugdesign.org

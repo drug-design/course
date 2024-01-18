@@ -17,9 +17,11 @@
 .playb .fa-play {
     color: black;
     font-size: 17px;
+    padding-right: 10px;
 }
 
 .playb .fa-pause {
   color: black;
   font-size: 17px;
+  padding-right: 10px;
 }

@@ -22,7 +22,7 @@
 ### Structure Activity Relationships (SAR)
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-When a new type of active compound is discovered the chemist through alterations in its molecular structure, attempts to produce new compounds with similar, perhaps improved activity, or with other valuable active properties. At a given stage the effects observed are interpreted in terms of structural variations, which are then used to decide which modifications to consider next. Relating biological activities to molecular structures is known as structure-activity relationships (SAR).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/structure-activity-relationships-sar-6b14c995'><i class='fa fa-play' aria-hidden='true'></i></button>When a new type of active compound is discovered the chemist through alterations in its molecular structure, attempts to produce new compounds with similar, perhaps improved activity, or with other valuable active properties. At a given stage the effects observed are interpreted in terms of structural variations, which are then used to decide which modifications to consider next. Relating biological activities to molecular structures is known as structure-activity relationships (SAR).
 *[structure-activity relationships]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -32,7 +32,7 @@ When a new type of active compound is discovered the chemist through alterations
 ### Aim of SAR Analyses
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-SAR analyses try to convert structure-activity observations into informative structure-activity relationships. They aim at maximizing the knowledge that can be extracted from the raw data in molecular terms, exploit this knowledge to identify which molecules should be synthesized and identify lead compounds for either additional modifications or further pre-clinical studies.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/aim-sar-analyses-3d85bae6'><i class='fa fa-play' aria-hidden='true'></i></button>SAR analyses try to convert structure-activity observations into informative structure-activity relationships. They aim at maximizing the knowledge that can be extracted from the raw data in molecular terms, exploit this knowledge to identify which molecules should be synthesized and identify lead compounds for either additional modifications or further pre-clinical studies.
 *[structure-activity relationships]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -43,7 +43,7 @@ SAR analyses try to convert structure-activity observations into informative str
 ### Results of a SAR Analysis
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The results of a SAR analysis can be represented in a condensed form, either in a ligand-based or a receptor-based approach, as illustrated below. They represent substantial amounts of time and money invested in human resources, scientific effort and human creativity in the project concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/results-sar-analysis-ff386e70'><i class='fa fa-play' aria-hidden='true'></i></button>The results of a SAR analysis can be represented in a condensed form, either in a ligand-based or a receptor-based approach, as illustrated below. They represent substantial amounts of time and money invested in human resources, scientific effort and human creativity in the project concerned.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -63,7 +63,7 @@ The results of a SAR analysis can be represented in a condensed form, either in 
 ### Principle: Alteration of an Active Substance
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The progressive alteration of the molecular structure of a reference compound allows for the determination of the importance of the structural elements involved. This can be done by removing, adding or replacing specific molecular fragments and testing how the structural variation affects biological activities. For example, if the analog is inactive, the original functional group is interpreted as being essential to binding; if the activity is not affected, the original functional group is considered to be unimportant. Each of the novel molecules synthesized is expected to yield useful knowledge.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/principle-alteration-an-active-substance-bd7a6252'><i class='fa fa-play' aria-hidden='true'></i></button>The progressive alteration of the molecular structure of a reference compound allows for the determination of the importance of the structural elements involved. This can be done by removing, adding or replacing specific molecular fragments and testing how the structural variation affects biological activities. For example, if the analog is inactive, the original functional group is interpreted as being essential to binding; if the activity is not affected, the original functional group is considered to be unimportant. Each of the novel molecules synthesized is expected to yield useful knowledge.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -78,7 +78,7 @@ The progressive alteration of the molecular structure of a reference compound al
     
 ### Development: a Single Modification at a Time
 
-Data of high informational content can be obtained when derived from single structural modifications of an initial lead structure. The introduction of multiple changes should be avoided because of the difficulties created for the correct interpretation of the biological results. The example below illustrates a molecule for which three alterations were introduced. In the absence of other SAR, the interpretation of the inactivity of the resulting molecule is impossible.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/development-single-modification-at-time-973e031c'><i class='fa fa-play' aria-hidden='true'></i></button>Data of high informational content can be obtained when derived from single structural modifications of an initial lead structure. The introduction of multiple changes should be avoided because of the difficulties created for the correct interpretation of the biological results. The example below illustrates a molecule for which three alterations were introduced. In the absence of other SAR, the interpretation of the inactivity of the resulting molecule is impossible.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -87,20 +87,20 @@ Data of high informational content can be obtained when derived from single stru
 ![](https://media.drugdesign.org/course/structure-activity-relationships/3-modification.png){: loading=lazy }
 ### Iterative Process
 
-The approach proceeds with successive iterations. It starts with the analysis of the structure of the initial target molecule. Many questions are raised, for which the chemist can identify candidate molecules that may be able to provide answers to the questions. In parallel, he looks for a synthetic program that can generate valuable active candidates to be further fine-tuned in the subsequent loops.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/iterative-process-30309add'><i class='fa fa-play' aria-hidden='true'></i></button>The approach proceeds with successive iterations. It starts with the analysis of the structure of the initial target molecule. Many questions are raised, for which the chemist can identify candidate molecules that may be able to provide answers to the questions. In parallel, he looks for a synthetic program that can generate valuable active candidates to be further fine-tuned in the subsequent loops.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_1_6_0_1.png){: loading=lazy }
 ### Chemical Modifications and Medicinal Chemist Tools
 
-The tools that are available to the medicinal chemist are diverse. Depending on the structural fragments that captured his interest during the analyses, the synthetic program can involve chemical modifications such as those described below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/chemical-modifications-medicinal-chemist-tools-1cb3dbaf'><i class='fa fa-play' aria-hidden='true'></i></button>The tools that are available to the medicinal chemist are diverse. Depending on the structural fragments that captured his interest during the analyses, the synthetic program can involve chemical modifications such as those described below.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_1_7_0_1.png){: loading=lazy }
 ### Chemistry is the Limiting Factor
 
-The implementation of the strategy is however biased by the actual synthetic possibilities; for example the systematic variation of all kind of substitutions in a ring is not always feasible. An intelligent program that allows for multiple variations in the final stage of the syntheses, although desirable is still biased, and covers only a small portion of the entire space of possible modifications.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/chemistry-is-limiting-factor-19885e9b'><i class='fa fa-play' aria-hidden='true'></i></button>The implementation of the strategy is however biased by the actual synthetic possibilities; for example the systematic variation of all kind of substitutions in a ring is not always feasible. An intelligent program that allows for multiple variations in the final stage of the syntheses, although desirable is still biased, and covers only a small portion of the entire space of possible modifications.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_1_8_0_1.png){: loading=lazy }
@@ -108,7 +108,7 @@ The implementation of the strategy is however biased by the actual synthetic pos
 ### Role of the Functional Groups in the Reference Structure
 *[nce]: New Chemical Entity: a compound not previously described.
 
-In current practice, many of the modifications that are implemented by medicinal chemists involve the functional groups of the reference compound. The systematic alteration of selected functional groups serves to probing their possible interactions with the receptor and to test their relevance to binding in terms of hydrogen bonds, hydrophobic or polar interactions. This will be presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/role-functional-groups-reference-structure-761f5a12'><i class='fa fa-play' aria-hidden='true'></i></button>In current practice, many of the modifications that are implemented by medicinal chemists involve the functional groups of the reference compound. The systematic alteration of selected functional groups serves to probing their possible interactions with the receptor and to test their relevance to binding in terms of hydrogen bonds, hydrophobic or polar interactions. This will be presented in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -119,7 +119,7 @@ In current practice, many of the modifications that are implemented by medicinal
 
 ### Principle for Probing Hydrogen Bond Interactions
 
-The method for probing the existence of hydrogen bond interactions with a specific functional group consists of preparing analogs where the functional group concerned is unable to make hydrogen bonds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/principle-for-probing-hydrogen-bond-interactions-5355558f'><i class='fa fa-play' aria-hidden='true'></i></button>The method for probing the existence of hydrogen bond interactions with a specific functional group consists of preparing analogs where the functional group concerned is unable to make hydrogen bonds.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -129,7 +129,7 @@ The method for probing the existence of hydrogen bond interactions with a specif
 
 ### Hydroxyl: Hypothetical H-Bond Interactions
 
-Hydroxyl groups of alcohols, phenols, enols, oximes etc... can act as hydrogen bond donors or acceptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/hydroxyl-hypothetical-h-bond-interactions-8482c10d'><i class='fa fa-play' aria-hidden='true'></i></button>Hydroxyl groups of alcohols, phenols, enols, oximes etc... can act as hydrogen bond donors or acceptors.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_donor.gif){: loading=lazy }
@@ -137,7 +137,7 @@ Hydroxyl groups of alcohols, phenols, enols, oximes etc... can act as hydrogen b
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Simple alterations of hydroxyl functions can be made to disrupt existing hydrogen bonds, as for example replacing the OH by H or by CH<sub>3</sub>.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-822416f6'><i class='fa fa-play' aria-hidden='true'></i></button>Simple alterations of hydroxyl functions can be made to disrupt existing hydrogen bonds, as for example replacing the OH by H or by CH<sub>3</sub>.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace.png){: loading=lazy }
@@ -147,7 +147,7 @@ Simple alterations of hydroxyl functions can be made to disrupt existing hydroge
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace_f2.png){: loading=lazy }
 #### Testing H-Bond Donor Capability of the Hydroxyl
 
-To test whether a hydroxyl group is involved as a donor of hydrogen bonds, it is possible to alkylate the hydroxyl or to prepare the corresponding ketone. If the biological activity drops, one can conclude that this hydroxyl group is important and is likely to interact with the protein as a hydrogen bond donor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-hydroxyl-4e92b2d4'><i class='fa fa-play' aria-hidden='true'></i></button>To test whether a hydroxyl group is involved as a donor of hydrogen bonds, it is possible to alkylate the hydroxyl or to prepare the corresponding ketone. If the biological activity drops, one can conclude that this hydroxyl group is important and is likely to interact with the protein as a hydrogen bond donor.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace2.png){: loading=lazy }
@@ -157,7 +157,7 @@ To test whether a hydroxyl group is involved as a donor of hydrogen bonds, it is
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace2_f2.png){: loading=lazy }
 #### Testing H-Bond Acceptor Capability of the Hydroxyl
 
-It is difficult to simply test whether a hydroxyl group is involved as an acceptor of hydrogen bonds: no simple alterations can be envisaged that would disrupt the existing hydrogen bond (both the methoxy and the C=O analogs can still have their oxygen atom involved as a hydrogen bond acceptor).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-acceptor-capability-hydroxyl-b6b7c3fd'><i class='fa fa-play' aria-hidden='true'></i></button>It is difficult to simply test whether a hydroxyl group is involved as an acceptor of hydrogen bonds: no simple alterations can be envisaged that would disrupt the existing hydrogen bond (both the methoxy and the C=O analogs can still have their oxygen atom involved as a hydrogen bond acceptor).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -169,7 +169,7 @@ It is difficult to simply test whether a hydroxyl group is involved as an accept
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_acceptor_replace_f2.png){: loading=lazy }
 #### Example 1: Pyrazolopyrimidines
 
-In the following example, replacing the phenolic OH by a methoxy, leads to the complete loss of biological activity. The hydroxyl is likely to form a hydrogen bond with the receptor (as a hydrogen bond donor). Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-pyrazolopyrimidines-1410bbf7'><i class='fa fa-play' aria-hidden='true'></i></button>In the following example, replacing the phenolic OH by a methoxy, leads to the complete loss of biological activity. The hydroxyl is likely to form a hydrogen bond with the receptor (as a hydrogen bond donor). Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/OH-example1.png){: loading=lazy }
@@ -182,7 +182,7 @@ In the following example, replacing the phenolic OH by a methoxy, leads to the c
     
 #### Example 2: Benzimidazoles
 
-In the example here, the phenolic OH was replaced by both a methoxy and a hydrogen atom. The phenolic hydroxyl is likely to form a hydrogen bond with the receptor (as a hydrogen bond donor). Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-benzimidazoles-4ca6d365'><i class='fa fa-play' aria-hidden='true'></i></button>In the example here, the phenolic OH was replaced by both a methoxy and a hydrogen atom. The phenolic hydroxyl is likely to form a hydrogen bond with the receptor (as a hydrogen bond donor). Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/OH-example2.png){: loading=lazy }
@@ -195,7 +195,7 @@ In the example here, the phenolic OH was replaced by both a methoxy and a hydrog
     
 #### Example 3: Pyrrolopyrimidine
 
-Replacing the phenolic OH by a methoxy, leads to a drop in biological activity. The hydroxyl may form a hydrogen bond with the receptor (as a hydrogen bond donor). Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-pyrrolopyrimidine-4ddd5de4'><i class='fa fa-play' aria-hidden='true'></i></button>Replacing the phenolic OH by a methoxy, leads to a drop in biological activity. The hydroxyl may form a hydrogen bond with the receptor (as a hydrogen bond donor). Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/OH-example3.png){: loading=lazy }
@@ -208,7 +208,7 @@ Replacing the phenolic OH by a methoxy, leads to a drop in biological activity. 
     
 #### Example 4: Salicylanilides
 
-The replacement of the phenolic OH by a methoxy, leads to the complete loss of the biological activity: the hydroxyl is therefore important and is likely be involved as a hydrogen bond donor. But is it an intra-molecular hydrogen bond (fixing the conformation in a bioactive geometry) or a hydrogen bond that is formed with the receptor? Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-4-salicylanilides-6780f7d1'><i class='fa fa-play' aria-hidden='true'></i></button>The replacement of the phenolic OH by a methoxy, leads to the complete loss of the biological activity: the hydroxyl is therefore important and is likely be involved as a hydrogen bond donor. But is it an intra-molecular hydrogen bond (fixing the conformation in a bioactive geometry) or a hydrogen bond that is formed with the receptor? Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/OH-example4.png){: loading=lazy }
@@ -221,7 +221,7 @@ The replacement of the phenolic OH by a methoxy, leads to the complete loss of t
     
 #### Example 5: Isoflavones
 
-In this example the replacement of the phenolic hydroxyls yields a completely inactive molecule. The two hydroxyl groups may be involved as hydrogen bond donors. Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-5-isoflavones-92892dc4'><i class='fa fa-play' aria-hidden='true'></i></button>In this example the replacement of the phenolic hydroxyls yields a completely inactive molecule. The two hydroxyl groups may be involved as hydrogen bond donors. Other factors including changes in the volume, the physico-chemical properties of the molecule such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/OH-example5.png){: loading=lazy }
@@ -234,14 +234,14 @@ In this example the replacement of the phenolic hydroxyls yields a completely in
     
 ### Carbonyl: Hypothetical H-Bond Interactions
 
-A carbonyl group can act only as a hydrogen bond acceptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/carbonyl-hypothetical-h-bond-interactions-1edf9dee'><i class='fa fa-play' aria-hidden='true'></i></button>A carbonyl group can act only as a hydrogen bond acceptor.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CO_acceptor.gif){: loading=lazy }
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-To test whether a carbonyl group is involved as an acceptor of hydrogen bonds, it is possible to replace the C=O by a C=CH<sub>2</sub>, a CH<sub>2</sub> or reduce it to an alcohol. If the biological activity drops, one can conclude that this carbonyl group may interact with the protein as a hydrogen bond acceptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-3357b763'><i class='fa fa-play' aria-hidden='true'></i></button>To test whether a carbonyl group is involved as an acceptor of hydrogen bonds, it is possible to replace the C=O by a C=CH<sub>2</sub>, a CH<sub>2</sub> or reduce it to an alcohol. If the biological activity drops, one can conclude that this carbonyl group may interact with the protein as a hydrogen bond acceptor.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CO_acceptor_replace.png){: loading=lazy }
@@ -253,7 +253,7 @@ To test whether a carbonyl group is involved as an acceptor of hydrogen bonds, i
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CO_acceptor_replace_f3.png){: loading=lazy }
 #### Example 1: Aminobenzophenones
 
-The SAR indicate that the carbonyl group of this series may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-aminobenzophenones-77b07e18'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR indicate that the carbonyl group of this series may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -267,7 +267,7 @@ The SAR indicate that the carbonyl group of this series may form a hydrogen bond
     
 #### Example 2: Thiazolidine-dione
 
-The carbonyl group may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-thiazolidine-dione-9c670b7c'><i class='fa fa-play' aria-hidden='true'></i></button>The carbonyl group may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/CO-example2.png){: loading=lazy }
@@ -280,7 +280,7 @@ The carbonyl group may form a hydrogen bond with the receptor site. Other change
     
 #### Example 3: Pyrazolopyridines
 
-The SAR observed for the three analogs synthesized indicate that the C=O may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-pyrazolopyridines-5c07d06c'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR observed for the three analogs synthesized indicate that the C=O may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -297,7 +297,7 @@ The SAR observed for the three analogs synthesized indicate that the C=O may for
     
 #### Example 4: Naphthyl Ketones
 
-The C=O group may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-4-naphthyl-ketones-53d03cef'><i class='fa fa-play' aria-hidden='true'></i></button>The C=O group may form a hydrogen bond with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/CO-example4.png){: loading=lazy }
@@ -310,7 +310,7 @@ The C=O group may form a hydrogen bond with the receptor site. Other changes inc
     
 #### Example 5: Cyclic Peptides
 
-The carbonyl group may form a hydrogen bond with the receptor site (an internal hydrogen bond is excluded because of no hydrogen bond donor candidate in the peptide molecule considered). Other changes including the volume, the conformational and the physico-chemical properties of the molecule such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-5-cyclic-peptides-99b83708'><i class='fa fa-play' aria-hidden='true'></i></button>The carbonyl group may form a hydrogen bond with the receptor site (an internal hydrogen bond is excluded because of no hydrogen bond donor candidate in the peptide molecule considered). Other changes including the volume, the conformational and the physico-chemical properties of the molecule such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/CO-example5.png){: loading=lazy }
@@ -323,7 +323,7 @@ The carbonyl group may form a hydrogen bond with the receptor site (an internal 
     
 ### Amide
 
-Amides are capable of acting as hydrogen bond donors (with the N-H) or acceptors (with either the nitrogen atom of the N-H or the oxygen atom of the C=O).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/amide-98e9ccc6'><i class='fa fa-play' aria-hidden='true'></i></button>Amides are capable of acting as hydrogen bond donors (with the N-H) or acceptors (with either the nitrogen atom of the N-H or the oxygen atom of the C=O).
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_amideN_acceptor_replace.gif){: loading=lazy }
@@ -331,26 +331,26 @@ Amides are capable of acting as hydrogen bond donors (with the N-H) or acceptors
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Testing the existence of hydrogen bond interactions of an amide group can be made by replacing this fragment by a trans double-bond.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-be129d59'><i class='fa fa-play' aria-hidden='true'></i></button>Testing the existence of hydrogen bond interactions of an amide group can be made by replacing this fragment by a trans double-bond.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_AmideN_acceptor_replace.png){: loading=lazy }
 #### Testing H-Bond Acceptor Capability of the Carbonyl
 
-It is possible to probe the hydrogen bond capability of the carbonyl of an amide fragment by making the corresponding ene-amine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-acceptor-capability-carbonyl-072d6f83'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to probe the hydrogen bond capability of the carbonyl of an amide fragment by making the corresponding ene-amine.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_AmideO_acceptor_replace.png){: loading=lazy }
 #### Testing H-Bond Donor Capability of the Nitrogen
 
-It is possible to test the hydrogen bond donor capability of the N-H group of an amide group by replacing the N-H by a N-CH<sub>3</sub>.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-nitrogen-a21ed0ed'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to test the hydrogen bond donor capability of the N-H group of an amide group by replacing the N-H by a N-CH<sub>3</sub>.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_AmideN_donor_replace.png){: loading=lazy }
 #### Example 1: Lactam Tricylic
 
-The SAR indicate that the N-H group may be involved as a hydrogen bond donor and the carbonyl oxygen as a hydrogen bond acceptor. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-lactam-tricylic-4292038d'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR indicate that the N-H group may be involved as a hydrogen bond donor and the carbonyl oxygen as a hydrogen bond acceptor. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -364,7 +364,7 @@ The SAR indicate that the N-H group may be involved as a hydrogen bond donor and
     
 #### Example 2: Pyrrolopyrimidinones
 
-The replacement of the hydrogen atom by a methyl indicates that the N-H group may be involved as a hydrogen bond donor in the interaction of the original molecule with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-pyrrolopyrimidinones-e1da6161'><i class='fa fa-play' aria-hidden='true'></i></button>The replacement of the hydrogen atom by a methyl indicates that the N-H group may be involved as a hydrogen bond donor in the interaction of the original molecule with the receptor site. Other changes including the volume, the conformational and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Amide-example2.png){: loading=lazy }
@@ -377,7 +377,7 @@ The replacement of the hydrogen atom by a methyl indicates that the N-H group ma
     
 ### Primary Amines
 
-Primary amines are capable of acting as hydrogen bond donors or acceptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/primary-amines-89184062'><i class='fa fa-play' aria-hidden='true'></i></button>Primary amines are capable of acting as hydrogen bond donors or acceptors.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NH2.gif){: loading=lazy }
@@ -385,7 +385,7 @@ Primary amines are capable of acting as hydrogen bond donors or acceptors.
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Simple alterations of primary amine functions can be made to disrupt existing hydrogen bonds, as for example replacing the NH<sub>2</sub> by H or by CH<sub>3</sub>.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-55a0a5e8'><i class='fa fa-play' aria-hidden='true'></i></button>Simple alterations of primary amine functions can be made to disrupt existing hydrogen bonds, as for example replacing the NH<sub>2</sub> by H or by CH<sub>3</sub>.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NH2_replace.png){: loading=lazy }
@@ -395,13 +395,13 @@ Simple alterations of primary amine functions can be made to disrupt existing hy
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NH2_replace_f2.png){: loading=lazy }
 #### Testing H-Bond Donor Capability of the Amines
 
-It is possible to test the hydrogen bond capability of a primary amine group by replacing the NH<sub>2</sub> by N(CH<sub>3</sub>)<sub>2</sub>.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-amines-93c2a28b'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to test the hydrogen bond capability of a primary amine group by replacing the NH<sub>2</sub> by N(CH<sub>3</sub>)<sub>2</sub>.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NH2_replace_f3.png){: loading=lazy }
 #### Example 1: Imidazole Acetic Acids
 
-The SAR data obtained in this example indicate that the NH<sub>2</sub> group may be involved with two hydrogen bonds in the interaction of the molecule with the receptor. Other changes including the geometrical and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-imidazole-acetic-acids-8dec94ac'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR data obtained in this example indicate that the NH<sub>2</sub> group may be involved with two hydrogen bonds in the interaction of the molecule with the receptor. Other changes including the geometrical and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -415,7 +415,7 @@ The SAR data obtained in this example indicate that the NH<sub>2</sub> group may
     
 #### Example 2: Salicylanilides
 
-The amino group may be involved as a hydrogen bond donor in the interaction with the receptor site. Other changes including the volume, the geometrical and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-salicylanilides-d4b33ddd'><i class='fa fa-play' aria-hidden='true'></i></button>The amino group may be involved as a hydrogen bond donor in the interaction with the receptor site. Other changes including the volume, the geometrical and the physico-chemical properties of the molecules such as the polar surface area, pKa, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/PrimN-example2.png){: loading=lazy }
@@ -428,7 +428,7 @@ The amino group may be involved as a hydrogen bond donor in the interaction with
     
 ### Secondary Amines
 
-Secondary amines are capable of acting as hydrogen bond donors or acceptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/secondary-amines-f85862b3'><i class='fa fa-play' aria-hidden='true'></i></button>Secondary amines are capable of acting as hydrogen bond donors or acceptors.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NHR.gif){: loading=lazy }
@@ -436,14 +436,14 @@ Secondary amines are capable of acting as hydrogen bond donors or acceptors.
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-To test for the existence of hydrogen bond interactions with a secondary amine can be made by replacing the N-H by a CH<sub>2</sub> group.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-d2fca33a'><i class='fa fa-play' aria-hidden='true'></i></button>To test for the existence of hydrogen bond interactions with a secondary amine can be made by replacing the N-H by a CH<sub>2</sub> group.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NHR_replace_N.png){: loading=lazy }
 #### Testing H-Bond Donor Capability of the Amines
 
-To test for the hydrogen bond capability of a secondary amine can be made by replacing the N-H by N-CH<sub>3</sub> or by O, S.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-amines-4ff8e592'><i class='fa fa-play' aria-hidden='true'></i></button>To test for the hydrogen bond capability of a secondary amine can be made by replacing the N-H by N-CH<sub>3</sub> or by O, S.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NHR_replace_H.png){: loading=lazy }
@@ -455,7 +455,7 @@ To test for the hydrogen bond capability of a secondary amine can be made by rep
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NHR_replace_H_f3.png){: loading=lazy }
 #### Example 1: Imidazoquinoxalines
 
-The N-H group may act as a hydrogen bond donor in the interaction of the original molecule with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-imidazoquinoxalines-a4673d33'><i class='fa fa-play' aria-hidden='true'></i></button>The N-H group may act as a hydrogen bond donor in the interaction of the original molecule with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/SecN-example2.png){: loading=lazy }
@@ -468,7 +468,7 @@ The N-H group may act as a hydrogen bond donor in the interaction of the origina
     
 #### Example 2: Anilinopyrimidines
 
-The N-H group may act as a hydrogen bond donor in the interaction with the receptor. Other changes including volume and the physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-anilinopyrimidines-58113a00'><i class='fa fa-play' aria-hidden='true'></i></button>The N-H group may act as a hydrogen bond donor in the interaction with the receptor. Other changes including volume and the physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/SecN-example4.png){: loading=lazy }
@@ -481,7 +481,7 @@ The N-H group may act as a hydrogen bond donor in the interaction with the recep
     
 #### Example 3: Aminoquinazolines
 
-By comparing the amino-quinazoline and its N-Methyl analog, one could think of a H-bond interaction with the N-H. This is not true, as evidenced by the O and S analogs that retain good activities. In the N-Methyl analog, the aniline moiety cannot adopt the extended bioactive conformation (steric repulsions), and this has been proven by X-ray crystallography (see next sub-page).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-aminoquinazolines-ef19ea07'><i class='fa fa-play' aria-hidden='true'></i></button>By comparing the amino-quinazoline and its N-Methyl analog, one could think of a H-bond interaction with the N-H. This is not true, as evidenced by the O and S analogs that retain good activities. In the N-Methyl analog, the aniline moiety cannot adopt the extended bioactive conformation (steric repulsions), and this has been proven by X-ray crystallography (see next sub-page).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -505,7 +505,7 @@ By comparing the amino-quinazoline and its N-Methyl analog, one could think of a
 ![](https://media.drugdesign.org/course/structure-activity-relationships/sar_44_s2_internet.gif){: loading=lazy }
 ### Tertiary Amines
 
-Tertiary amines can interact only as hydrogen bond acceptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/tertiary-amines-8cd3b15f'><i class='fa fa-play' aria-hidden='true'></i></button>Tertiary amines can interact only as hydrogen bond acceptors.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NR2.gif){: loading=lazy }
@@ -513,7 +513,7 @@ Tertiary amines can interact only as hydrogen bond acceptors.
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-It is possible to test for the existence of hydrogen bonds with a tertiary amine by making the analog where the nitrogen is replaced by a carbon atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-fd90310b'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to test for the existence of hydrogen bonds with a tertiary amine by making the analog where the nitrogen is replaced by a carbon atom.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -521,7 +521,7 @@ It is possible to test for the existence of hydrogen bonds with a tertiary amine
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NR2_replace.png){: loading=lazy }
 #### Example Dihydropyridopyrimidones
 
-As revealed by the SAR the nitrogen atom is important to binding. This atom may form a hydrogen bond with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-dihydropyridopyrimidones-bb2bbd70'><i class='fa fa-play' aria-hidden='true'></i></button>As revealed by the SAR the nitrogen atom is important to binding. This atom may form a hydrogen bond with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -535,7 +535,7 @@ As revealed by the SAR the nitrogen atom is important to binding. This atom may 
     
 ### Aromatic Nitrogens
 
-A nitrogen atom on an aromatic ring can act as a hydrogen bond donor if the amine is secondary, or acceptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/aromatic-nitrogens-41646f5d'><i class='fa fa-play' aria-hidden='true'></i></button>A nitrogen atom on an aromatic ring can act as a hydrogen bond donor if the amine is secondary, or acceptor.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NAr.gif){: loading=lazy }
@@ -543,14 +543,14 @@ A nitrogen atom on an aromatic ring can act as a hydrogen bond donor if the amin
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Testing the existence of hydrogen bond interactions with an aromatic nitrogen can be made by replacing the N-H by a C-H group.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-69604f19'><i class='fa fa-play' aria-hidden='true'></i></button>Testing the existence of hydrogen bond interactions with an aromatic nitrogen can be made by replacing the N-H by a C-H group.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NAr_replace_N.png){: loading=lazy }
 #### Testing H-Bond Donor Capability of the Amines
 
-The hydrogen bond donor capability of an aromatic nitrogen can be tested by replacing the N-H by N-CH<sub>3</sub> or by O,S.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-amines-9f4eec93'><i class='fa fa-play' aria-hidden='true'></i></button>The hydrogen bond donor capability of an aromatic nitrogen can be tested by replacing the N-H by N-CH<sub>3</sub> or by O,S.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NAr_replace_H.png){: loading=lazy }
@@ -562,7 +562,7 @@ The hydrogen bond donor capability of an aromatic nitrogen can be tested by repl
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NAr_replace_H_f3.png){: loading=lazy }
 #### Example 1: Imidazoles and Oxazoles
 
-The SAR in this example indicates that the N-H group may form a hydrogen bond with the receptor site. Other changes including the volume and physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-imidazoles-oxazoles-5390a62f'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR in this example indicates that the N-H group may form a hydrogen bond with the receptor site. Other changes including the volume and physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -576,7 +576,7 @@ The SAR in this example indicates that the N-H group may form a hydrogen bond wi
     
 #### Example 2: Pyrrolyl Ureas
 
-The N-H group may form a hydrogen bond with the receptor. Other changes including the volume and physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-pyrrolyl-ureas-eff86f01'><i class='fa fa-play' aria-hidden='true'></i></button>The N-H group may form a hydrogen bond with the receptor. Other changes including the volume and physico-chemical properties of the molecules such as the polar surface area, basicity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/SecN-example3.png){: loading=lazy }
@@ -589,7 +589,7 @@ The N-H group may form a hydrogen bond with the receptor. Other changes includin
     
 #### Example 3: Anilinoquinazolines
 
-Analogs of the 4-Anilino quinazoline structure were prepared to test the importance of the nitrogen atoms in this scaffold. The SAR indicate that a nitrogen atom needs to be present in positions 1 and 3, with however a greater importance for N1 as compared to N3 (compare the biological activities of B and C).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-anilinoquinazolines-6c5f94ca'><i class='fa fa-play' aria-hidden='true'></i></button>Analogs of the 4-Anilino quinazoline structure were prepared to test the importance of the nitrogen atoms in this scaffold. The SAR indicate that a nitrogen atom needs to be present in positions 1 and 3, with however a greater importance for N1 as compared to N3 (compare the biological activities of B and C).
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -607,7 +607,7 @@ Analogs of the 4-Anilino quinazoline structure were prepared to test the importa
     
 ##### Example 3: X-Ray Data
 
-Recent X-Ray studies of 4-Anilino quinazolines in complexes with the target protein revealed that the binding of the quinazoline scaffold involves hydrogen bond interactions with both N1 and N3: there is a direct hydrogen bond with N1, and an indirect one (via a water molecule) with N3.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-x-ray-data-24847e9a'><i class='fa fa-play' aria-hidden='true'></i></button>Recent X-Ray studies of 4-Anilino quinazolines in complexes with the target protein revealed that the binding of the quinazoline scaffold involves hydrogen bond interactions with both N1 and N3: there is a direct hydrogen bond with N1, and an indirect one (via a water molecule) with N3.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/X_Ray_complex_tarcevalike_AS.gif){: loading=lazy }
@@ -615,7 +615,7 @@ Recent X-Ray studies of 4-Anilino quinazolines in complexes with the target prot
 
 ### Carboxylic Acids
 
-As far as hydrogen bonds are concerned, carboxylic acid groups can act as hydrogen bond donors or acceptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/carboxylic-acids-d6c638a1'><i class='fa fa-play' aria-hidden='true'></i></button>As far as hydrogen bonds are concerned, carboxylic acid groups can act as hydrogen bond donors or acceptors.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -624,7 +624,7 @@ As far as hydrogen bonds are concerned, carboxylic acid groups can act as hydrog
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-It is possible to test for the existence of hydrogen bond interactions with a carboxyl by replacing the COOH group by H, methyl or vinyl.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-9a8fda0a'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to test for the existence of hydrogen bond interactions with a carboxyl by replacing the COOH group by H, methyl or vinyl.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -637,7 +637,7 @@ It is possible to test for the existence of hydrogen bond interactions with a ca
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_COOH_replace_f3.png){: loading=lazy }
 #### Testing H-Bond Donor Capability of the COOH
 
-It is possible to test for the hydrogen bond donor capability with a carboxyl by replacing the COOH group by COOCH<sub>3</sub>, CHO or CO-CH<sub>3</sub>.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-cooh-ba139067'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to test for the hydrogen bond donor capability with a carboxyl by replacing the COOH group by COOCH<sub>3</sub>, CHO or CO-CH<sub>3</sub>.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_COOH_donor_replace.png){: loading=lazy }
@@ -649,7 +649,7 @@ It is possible to test for the hydrogen bond donor capability with a carboxyl by
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_COOH_donor_replace_f3.png){: loading=lazy }
 #### Example 1: Imidazole Carboxylic Acids
 
-In this example, the drop in the biological activity indicates that the carboxyl group may be involved in hydrogen bond interactions or salt bridge interactions with the receptor. Other changes including the volume, the conformational and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-imidazole-carboxylic-acids-3b3e3fbb'><i class='fa fa-play' aria-hidden='true'></i></button>In this example, the drop in the biological activity indicates that the carboxyl group may be involved in hydrogen bond interactions or salt bridge interactions with the receptor. Other changes including the volume, the conformational and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/COOH-example1.png){: loading=lazy }
@@ -662,7 +662,7 @@ In this example, the drop in the biological activity indicates that the carboxyl
     
 #### Example 2: Pyrrolopyrimidines
 
-The esterification of the carboxylic acid leads to the complete loss of biological activity. The COOH is therefore important and may be involved as a hydrogen bond donor or in a salt bridge interaction. Other changes including the volume, the geometrical and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-pyrrolopyrimidines-e6bb0cb5'><i class='fa fa-play' aria-hidden='true'></i></button>The esterification of the carboxylic acid leads to the complete loss of biological activity. The COOH is therefore important and may be involved as a hydrogen bond donor or in a salt bridge interaction. Other changes including the volume, the geometrical and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/COOH-example2.png){: loading=lazy }
@@ -675,7 +675,7 @@ The esterification of the carboxylic acid leads to the complete loss of biologic
     
 #### Example 3: Peptide-Based Structures
 
-The carboxyl group of the molecule shown below may be involved as a hydrogen bond donor or in a salt bridge interaction. Other changes including the volume, the geometrical and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-peptide-based-structures-bff48078'><i class='fa fa-play' aria-hidden='true'></i></button>The carboxyl group of the molecule shown below may be involved as a hydrogen bond donor or in a salt bridge interaction. Other changes including the volume, the geometrical and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/COOH-example3.png){: loading=lazy }
@@ -688,7 +688,7 @@ The carboxyl group of the molecule shown below may be involved as a hydrogen bon
     
 #### Example 4: Aminoquinolones
 
-In the example illustrated here, the ester analog is completely inactive. The free carboxyl function is important and may be involved as a hydrogen bond donor or in a salt bridge interaction. Other changes including the volume, the geometrical and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-4-aminoquinolones-6e931fab'><i class='fa fa-play' aria-hidden='true'></i></button>In the example illustrated here, the ester analog is completely inactive. The free carboxyl function is important and may be involved as a hydrogen bond donor or in a salt bridge interaction. Other changes including the volume, the geometrical and also the physico-chemical properties of the molecules such as the polar surface area, acidity, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -703,7 +703,7 @@ In the example illustrated here, the ester analog is completely inactive. The fr
     
 ### Ethers
 
-Ether groups are capable of acting only as hydrogen bond acceptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/ethers-db0e1496'><i class='fa fa-play' aria-hidden='true'></i></button>Ether groups are capable of acting only as hydrogen bond acceptors.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OR_acceptor.gif){: loading=lazy }
@@ -711,7 +711,7 @@ Ether groups are capable of acting only as hydrogen bond acceptors.
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-To test for the existence of hydrogen bond interactions with an ether fragment, it is possible to make the analog where the oxygen atom is replaced by a carbon.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-98c16fe7'><i class='fa fa-play' aria-hidden='true'></i></button>To test for the existence of hydrogen bond interactions with an ether fragment, it is possible to make the analog where the oxygen atom is replaced by a carbon.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -719,7 +719,7 @@ To test for the existence of hydrogen bond interactions with an ether fragment, 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OR_replace.png){: loading=lazy }
 #### Example 1: Epothilone A
 
-In this example (epothilone A), replacing the oxygen in the epoxide moiety with a carbon atom leads to a completely inactive molecule. The oxygen atom may be involved in hydrogen bond interactions with the receptor site. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-epothilone-196fd3d5'><i class='fa fa-play' aria-hidden='true'></i></button>In this example (epothilone A), replacing the oxygen in the epoxide moiety with a carbon atom leads to a completely inactive molecule. The oxygen atom may be involved in hydrogen bond interactions with the receptor site. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -733,7 +733,7 @@ In this example (epothilone A), replacing the oxygen in the epoxide moiety with 
     
 #### Example 2: Clofibrate
 
-Clofibrate is a potent hypolipemic drug, whose activity is lost when replacing the oxygen atom by a carbon: an H-bond interaction might involve this oxygen. Other changes including the volume, the conformational and physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-clofibrate-ab6e6b15'><i class='fa fa-play' aria-hidden='true'></i></button>Clofibrate is a potent hypolipemic drug, whose activity is lost when replacing the oxygen atom by a carbon: an H-bond interaction might involve this oxygen. Other changes including the volume, the conformational and physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/ROR-example2.png){: loading=lazy }
@@ -748,7 +748,7 @@ Clofibrate is a potent hypolipemic drug, whose activity is lost when replacing t
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-The optimized molecule shown below (IC<sub>50</sub>=1.5nM) is active at the nanomolar range, and the addition of two methoxy substituents yields an analog (IC<sub>50</sub>=0.060nM) with picomolar activities. This is probably due to a better occupancy of a hydrophobic pocket rather than to the formation of additional H-bonds with the receptor (X-Rays).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-piperidine-renin-inhibitors-232e0e28'><i class='fa fa-play' aria-hidden='true'></i></button>The optimized molecule shown below (IC<sub>50</sub>=1.5nM) is active at the nanomolar range, and the addition of two methoxy substituents yields an analog (IC<sub>50</sub>=0.060nM) with picomolar activities. This is probably due to a better occupancy of a hydrophobic pocket rather than to the formation of additional H-bonds with the receptor (X-Rays).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -762,7 +762,7 @@ The optimized molecule shown below (IC<sub>50</sub>=1.5nM) is active at the nano
     
 ### Cyano
 
-A cyano group is capable of acting only as a hydrogen bond acceptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/cyano-67355ce8'><i class='fa fa-play' aria-hidden='true'></i></button>A cyano group is capable of acting only as a hydrogen bond acceptor.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CN_acceptor.gif){: loading=lazy }
@@ -770,7 +770,7 @@ A cyano group is capable of acting only as a hydrogen bond acceptor.
 #### Testing the Existence of H-Bond Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-To test for the existence of hydrogen bond interactions with a cyano group, it is possible to prepare the analog by replacing the nitrogen atom by a CH (triple bond).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-21cdc002'><i class='fa fa-play' aria-hidden='true'></i></button>To test for the existence of hydrogen bond interactions with a cyano group, it is possible to prepare the analog by replacing the nitrogen atom by a CH (triple bond).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -778,7 +778,7 @@ To test for the existence of hydrogen bond interactions with a cyano group, it i
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CN_replace.png){: loading=lazy }
 #### Example 1: Anilinopyrimidines
 
-The observed drop in the biological activity indicates that the cyano group may be involved in the formation of a hydrogen bond with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-anilinopyrimidines-cb3e6fc0'><i class='fa fa-play' aria-hidden='true'></i></button>The observed drop in the biological activity indicates that the cyano group may be involved in the formation of a hydrogen bond with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/CN-example1.png){: loading=lazy }
@@ -791,7 +791,7 @@ The observed drop in the biological activity indicates that the cyano group may 
     
 #### Example 2: Quinolinecarbonitriles
 
-The observed drop in the biological activity indicates that the cyano group may be involved in the formation of a hydrogen bond with the receptor. This hypothesis has been confirmed by molecular modeling and X-ray crystallographic studies.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-quinolinecarbonitriles-48a0eebc'><i class='fa fa-play' aria-hidden='true'></i></button>The observed drop in the biological activity indicates that the cyano group may be involved in the formation of a hydrogen bond with the receptor. This hypothesis has been confirmed by molecular modeling and X-ray crystallographic studies.
 *[molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -806,7 +806,7 @@ The observed drop in the biological activity indicates that the cyano group may 
     
 #### Example 3: Pyrrolopyrimidines
 
-The cyano group of the original compound seems to be involved in the formation of a hydrogen bond with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-pyrrolopyrimidines-513b154b'><i class='fa fa-play' aria-hidden='true'></i></button>The cyano group of the original compound seems to be involved in the formation of a hydrogen bond with the receptor. Other changes including the volume and the physico-chemical properties of the molecules such as the polar surface area, hydrophobicity, solubility, solvation etc... must also be envisaged.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -822,7 +822,7 @@ The cyano group of the original compound seems to be involved in the formation o
 
 ### Principle for Probing Ionic Interactions
 
-The method for probing the existence of ionic interactions with a specific functional group consists of preparing analogs where the functional group concerned is unable to make ionic interactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/principle-for-probing-ionic-interactions-eeed2b84'><i class='fa fa-play' aria-hidden='true'></i></button>The method for probing the existence of ionic interactions with a specific functional group consists of preparing analogs where the functional group concerned is unable to make ionic interactions.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -831,7 +831,7 @@ The method for probing the existence of ionic interactions with a specific funct
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_movie_3_1_0_1.gif){: loading=lazy }
 ### Carboxylates
 
-For a molecule containing a carboxyl group and when the pH is much greater than the pK<sub>a</sub> of the corresponding acid, the carboxyl function exists primarily in its ionized, conjugate base form and can therefore establish ionic interactions with positively charged groups. Unless the structure of the complex with the receptor is known, it is not easy to prove the existence of salt-bridge interactions, either with analogs, or by measuring the biological activities at different pHs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/carboxylates-3d1acc4a'><i class='fa fa-play' aria-hidden='true'></i></button>For a molecule containing a carboxyl group and when the pH is much greater than the pK<sub>a</sub> of the corresponding acid, the carboxyl function exists primarily in its ionized, conjugate base form and can therefore establish ionic interactions with positively charged groups. Unless the structure of the complex with the receptor is known, it is not easy to prove the existence of salt-bridge interactions, either with analogs, or by measuring the biological activities at different pHs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -841,7 +841,7 @@ For a molecule containing a carboxyl group and when the pH is much greater than 
 
 ### Amines
 
-In aqueous solution all amines can exist in an ionic form, however the quaternary ammonium bases are the most strongly ionized. Unless the structure of the complex with the receptor is known, it is not easy to prove the existence of salt-bridge interactions simply by preparing analog compounds that do not have the amine moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/amines-5b6fa34d'><i class='fa fa-play' aria-hidden='true'></i></button>In aqueous solution all amines can exist in an ionic form, however the quaternary ammonium bases are the most strongly ionized. Unless the structure of the complex with the receptor is known, it is not easy to prove the existence of salt-bridge interactions simply by preparing analog compounds that do not have the amine moiety.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -854,7 +854,7 @@ In aqueous solution all amines can exist in an ionic form, however the quaternar
 ### Importance of Hydrophobic Interactions
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Hydrophobic interactions represent an important force in the regulation of biological systems. Locally, they correspond to weak and non-directional forces, however their accumulation on entire molecular surfaces may represent forces that can produce substantial effects in terms of affinity and binding.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/importance-hydrophobic-interactions-555ea544'><i class='fa fa-play' aria-hidden='true'></i></button>Hydrophobic interactions represent an important force in the regulation of biological systems. Locally, they correspond to weak and non-directional forces, however their accumulation on entire molecular surfaces may represent forces that can produce substantial effects in terms of affinity and binding.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -874,7 +874,7 @@ Hydrophobic interactions represent an important force in the regulation of biolo
     
 ### Principles for Probing Hydrophobic Interactions
 
-The method for probing steric interactions consists of preparing analogs that allow for the introduction of groups having different sizes, in order to determine on the basis of their respective SAR, the shape and the exact nature of the steric interaction concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/principles-for-probing-hydrophobic-interactions-6a43ddef'><i class='fa fa-play' aria-hidden='true'></i></button>The method for probing steric interactions consists of preparing analogs that allow for the introduction of groups having different sizes, in order to determine on the basis of their respective SAR, the shape and the exact nature of the steric interaction concerned.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -884,14 +884,14 @@ The method for probing steric interactions consists of preparing analogs that al
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_4_2_0_1.gif){: loading=lazy }
 #### Alteration of Ring Size
 
-When an initial ring-containing molecule is suspected of interacting with hydrophobic moieties of the receptor site, a possible way to probe such interactions consists of varying the size of the ring, or fusing additional rings to the original structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/alteration-ring-size-af09ef3d'><i class='fa fa-play' aria-hidden='true'></i></button>When an initial ring-containing molecule is suspected of interacting with hydrophobic moieties of the receptor site, a possible way to probe such interactions consists of varying the size of the ring, or fusing additional rings to the original structure.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_3_0_1.gif){: loading=lazy }
 #### Example 1: Probing of a Hydrophobic Pocket
 
-In the following example, derivatives of the bicyclic benzocyclopentene molecule were prepared to determine the SAR of binding to phospholipase A<sub>2</sub>. In particular the acenaphthene analog proved to be 400 times more potent than the original compound. Modeling analyses confirm the existence of favorable interactions with the naphthalene moiety deeply buried in a hydrophobic pocket.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-probing-hydrophobic-pocket-c8f46dbd'><i class='fa fa-play' aria-hidden='true'></i></button>In the following example, derivatives of the bicyclic benzocyclopentene molecule were prepared to determine the SAR of binding to phospholipase A<sub>2</sub>. In particular the acenaphthene analog proved to be 400 times more potent than the original compound. Modeling analyses confirm the existence of favorable interactions with the naphthalene moiety deeply buried in a hydrophobic pocket.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -909,7 +909,7 @@ In the following example, derivatives of the bicyclic benzocyclopentene molecule
     
 #### Example 2 : Varying Ring Size
 
-Various cyclic analogs of the initial isopropyl derivative were prepared and tested. The biological activities proved to increase with the size of the ring. (The higher activity observed for the cyclopentane analog as compared to the cyclohexane can be understood as a better flexibility of the five-membered ring when interacting with the receptor.)
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-varying-ring-size-803611ba'><i class='fa fa-play' aria-hidden='true'></i></button>Various cyclic analogs of the initial isopropyl derivative were prepared and tested. The biological activities proved to increase with the size of the ring. (The higher activity observed for the cyclopentane analog as compared to the cyclohexane can be understood as a better flexibility of the five-membered ring when interacting with the receptor.)
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -924,7 +924,7 @@ Various cyclic analogs of the initial isopropyl derivative were prepared and tes
     
 #### Example 3: Probing a Hydrophobic Pocket
 
-The following example describes the SAR exploration of a hydrophobic pocket estimated to be in the vicinity of the amide moiety of the pyridopyrimidinone scaffold. The size of the pocket appears to be limited in length (methyl-cylohexane entirely inactive) and in shape, the most potent compound being the bicyclo-heptane analog (IC<sub>50</sub> = 38nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-probing-hydrophobic-pocket-7b37acd6'><i class='fa fa-play' aria-hidden='true'></i></button>The following example describes the SAR exploration of a hydrophobic pocket estimated to be in the vicinity of the amide moiety of the pyridopyrimidinone scaffold. The size of the pocket appears to be limited in length (methyl-cylohexane entirely inactive) and in shape, the most potent compound being the bicyclo-heptane analog (IC<sub>50</sub> = 38nM).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -940,7 +940,7 @@ The following example describes the SAR exploration of a hydrophobic pocket esti
     
 #### Example 4: Fusion with Additional Rings
 
-To probe the existence of hydrophobic interactions with the benzodiazepine receptor, naphthyl-fused diazepine compounds were found to be inactive. Further SAR proved that substantial increased affinities are obtained with molecules containing chlorine atoms. This effect that can be understood either in terms of special hydrophobic interactions, or of polar interactions with the chlorine atoms.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-4-fusion-additional-rings-2fd9c34d'><i class='fa fa-play' aria-hidden='true'></i></button>To probe the existence of hydrophobic interactions with the benzodiazepine receptor, naphthyl-fused diazepine compounds were found to be inactive. Further SAR proved that substantial increased affinities are obtained with molecules containing chlorine atoms. This effect that can be understood either in terms of special hydrophobic interactions, or of polar interactions with the chlorine atoms.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -961,14 +961,14 @@ To probe the existence of hydrophobic interactions with the benzodiazepine recep
     
 #### Homologation of Alkyl Chains
 
-The increase in the number of carbon atoms in a chain serves to progressively explore the existence and the depth of a pocket located in the region explored.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/homologation-alkyl-chains-40164da7'><i class='fa fa-play' aria-hidden='true'></i></button>The increase in the number of carbon atoms in a chain serves to progressively explore the existence and the depth of a pocket located in the region explored.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Homologation_a01.gif){: loading=lazy }
 #### Example 1 of Homologation
 
-The hydrogen atom connected to the nitrogen of apomorphine was replaced by methyl, ethyl, n-propyl and n-butyl groups. The best activity was found for the n-propyl analog, whereas the n-butyl demonstrated a great loss in potency.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-homologation-f86180fb'><i class='fa fa-play' aria-hidden='true'></i></button>The hydrogen atom connected to the nitrogen of apomorphine was replaced by methyl, ethyl, n-propyl and n-butyl groups. The best activity was found for the n-propyl analog, whereas the n-butyl demonstrated a great loss in potency.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[apo]: 3D structure of a macromolecule without a ligand
 
@@ -976,7 +976,7 @@ The hydrogen atom connected to the nitrogen of apomorphine was replaced by methy
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Apomorphine_chain-lenght.gif){: loading=lazy }
 #### Example 2 of Homologation
 
-In this example the length of the chain was explored, revealing the existence of an optimum for an n-butyl chain, which was further refined with the preparation of branched analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-homologation-51c90dd9'><i class='fa fa-play' aria-hidden='true'></i></button>In this example the length of the chain was explored, revealing the existence of an optimum for an n-butyl chain, which was further refined with the preparation of branched analogs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -992,7 +992,7 @@ In this example the length of the chain was explored, revealing the existence of
     
 #### Example 3 of Homologation
 
-This is an example of systematic homologation of an initial reference molecule. The SAR reveal the existence of an optimal activity for the n-heptyl chain. The inactivity of the cyclic derivatives indicates that these rings are too bulky to enter into the hypothetical hydrophobic pocket envisaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-homologation-dcfbf622'><i class='fa fa-play' aria-hidden='true'></i></button>This is an example of systematic homologation of an initial reference molecule. The SAR reveal the existence of an optimal activity for the n-heptyl chain. The inactivity of the cyclic derivatives indicates that these rings are too bulky to enter into the hypothetical hydrophobic pocket envisaged.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1007,7 +1007,7 @@ This is an example of systematic homologation of an initial reference molecule. 
     
 ### Exploring the Width of a Hydrophobic Pocket
 
-It is relatively easy to explore the width of a hydrophobic pocket by making a series of analogs of different sizes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/exploring-width-hydrophobic-pocket-a469a50b'><i class='fa fa-play' aria-hidden='true'></i></button>It is relatively easy to explore the width of a hydrophobic pocket by making a series of analogs of different sizes.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -1016,7 +1016,7 @@ It is relatively easy to explore the width of a hydrophobic pocket by making a s
 
 #### Example 1: Pyrazoles
 
-In this example the steric requirements of a hydrophobic pocket located in the vicinity of the pyrazole heterocycle were tested. The inactivity of the cyclohexyl derivative and the good activity observed for the naphthyl analog suggest that the hydrophobic pocket is flat and narrow.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-pyrazoles-07748295'><i class='fa fa-play' aria-hidden='true'></i></button>In this example the steric requirements of a hydrophobic pocket located in the vicinity of the pyrazole heterocycle were tested. The inactivity of the cyclohexyl derivative and the good activity observed for the naphthyl analog suggest that the hydrophobic pocket is flat and narrow.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -1030,7 +1030,7 @@ In this example the steric requirements of a hydrophobic pocket located in the v
     
 #### Example 2: Indolinones
 
-The indolinone scaffold was discovered by random screening, and this prompted a synthetic program to explore the potential of this scaffold (for protein kinase inhibition). The initial phenyl substituent was replaced by various heterocycles that were all inactive, except the pyrrole analog that showed submicromolar activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-indolinones-ef2b0c86'><i class='fa fa-play' aria-hidden='true'></i></button>The indolinone scaffold was discovered by random screening, and this prompted a synthetic program to explore the potential of this scaffold (for protein kinase inhibition). The initial phenyl substituent was replaced by various heterocycles that were all inactive, except the pyrrole analog that showed submicromolar activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1061,14 +1061,14 @@ The indolinone scaffold was discovered by random screening, and this prompted a 
 ##### Variations with the Pyrrole Moiety
 *[Moiety]: Fragments, functional groups or portions of chemical compounds.
 
-The scaffold was further explored with a pyrrole fragment. The variations included a tetrahydroindole and a propionic acid functionality at different positions and SU-5402 emerged as a lead candidate for development. The binding of this compound as revealed by X-ray crystallography, is presented in the next page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/variations-pyrrole-moiety-2ae4c4a5'><i class='fa fa-play' aria-hidden='true'></i></button>The scaffold was further explored with a pyrrole fragment. The variations included a tetrahydroindole and a propionic acid functionality at different positions and SU-5402 emerged as a lead candidate for development. The binding of this compound as revealed by X-ray crystallography, is presented in the next page.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/fgf_sugen_2_1.png){: loading=lazy }
 ##### X-Ray Data of Indolinone Analog
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-The X-ray data reveal that the indolinone moiety is located in the adenine binding site. The pyrrole and the indolinone rings are nearly coplanar due to the intramolecular H-bond between them. The X-ray data provide evidence on the existence of a flat region that can be reached only with planar moieties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/x-ray-data-indolinone-analog-f3c0d190'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray data reveal that the indolinone moiety is located in the adenine binding site. The pyrrole and the indolinone rings are nearly coplanar due to the intramolecular H-bond between them. The X-ray data provide evidence on the existence of a flat region that can be reached only with planar moieties.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1080,7 +1080,7 @@ The X-ray data reveal that the indolinone moiety is located in the adenine bindi
 
 #### Example 3: Pyridopyrimidines
 
-With an initial hit having an IC<sub>50</sub> of 3.7 &Mu;M, the SAR variations indicated the existence of a flat pocket occupied by the free phenyl substituent. It was difficult to have nanomolar activities, however the 3-5-dimethoxy analog showed an IC<sub>50</sub> of 60 nM. The orientation of this compound in the active site, as revealed by X-ray crystallography is presented in the next page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-pyridopyrimidines-45b47937'><i class='fa fa-play' aria-hidden='true'></i></button>With an initial hit having an IC<sub>50</sub> of 3.7 &micro;M, the SAR variations indicated the existence of a flat pocket occupied by the free phenyl substituent. It was difficult to have nanomolar activities, however the 3-5-dimethoxy analog showed an IC<sub>50</sub> of 60 nM. The orientation of this compound in the active site, as revealed by X-ray crystallography is presented in the next page.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1102,17 +1102,15 @@ With an initial hit having an IC<sub>50</sub> of 3.7 &Mu;M, the SAR variations i
     
 ##### X-Ray Data with Pyridopyrimidine Structure
 
-The X-ray data provide evidence on the existence of a flat region that is difficult to reach, being almost perpendicular to the pyrido-pyrimidine scaffold. This rather big and flat pocket, can be filled with fragments such as the 3-5-dimethoxy analog.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/x-ray-data-pyridopyrimidine-structure-853c074d'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray data provide evidence on the existence of a flat region that is difficult to reach, being almost perpendicular to the pyrido-pyrimidine scaffold. This rather big and flat pocket, can be filled with fragments such as the 3-5-dimethoxy analog.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/PD_pocket.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/snap_sar_87_s2.jpg){: loading=lazy }
-
 ### Probing the Polarity of a Pocket
 
-Dealing with a hydrophobic pocket does not mean that this pocket is 100% hydrophobic. It is possible to find heteroatoms belonging to the backbone or to side-chains of the receptor site. SAR are used to probe their existence and their location.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/probing-polarity-pocket-0d43adb9'><i class='fa fa-play' aria-hidden='true'></i></button>Dealing with a hydrophobic pocket does not mean that this pocket is 100% hydrophobic. It is possible to find heteroatoms belonging to the backbone or to side-chains of the receptor site. SAR are used to probe their existence and their location.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1125,7 +1123,7 @@ Dealing with a hydrophobic pocket does not mean that this pocket is 100% hydroph
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-In the following example a hydrophobic pocket has been found in the prolongation of the piperazine ring. Following the satisfactory results obtained for the phenyl analog (IC<sub>50</sub> = 52 nm) the three pyridyl isomers were prepared and proved to be less active. It is interesting to note the complete inactivity of the 4-pyridyl analog, which may reveal the presence of unfavorable polar interactions (e.g. with a C=O) with the nitrogen atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-dopamine-antagonists-74b6dcf1'><i class='fa fa-play' aria-hidden='true'></i></button>In the following example a hydrophobic pocket has been found in the prolongation of the piperazine ring. Following the satisfactory results obtained for the phenyl analog (IC<sub>50</sub> = 52 nm) the three pyridyl isomers were prepared and proved to be less active. It is interesting to note the complete inactivity of the 4-pyridyl analog, which may reveal the presence of unfavorable polar interactions (e.g. with a C=O) with the nitrogen atom.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1145,7 +1143,7 @@ In the following example a hydrophobic pocket has been found in the prolongation
 
 ### Halogens
 
-Halogen atoms are able to produce various sorts of interactions. Directly, they may be implicated in hydrophobic or polar interactions; and indirectly they are able to change the polarity of contiguous atoms or conjugated systems (e.g. atoms of aromatic rings). Halogen interactions are observed with many groups (amino, cyano, nitro, imino and other halogen atoms) and also with &pi; systems such as Phe, His, Trp, Tyr.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/halogens-872357a3'><i class='fa fa-play' aria-hidden='true'></i></button>Halogen atoms are able to produce various sorts of interactions. Directly, they may be implicated in hydrophobic or polar interactions; and indirectly they are able to change the polarity of contiguous atoms or conjugated systems (e.g. atoms of aromatic rings). Halogen interactions are observed with many groups (amino, cyano, nitro, imino and other halogen atoms) and also with &pi; systems such as Phe, His, Trp, Tyr.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Halogen-example4.png){: loading=lazy }
@@ -1158,7 +1156,7 @@ Halogen atoms are able to produce various sorts of interactions. Directly, they 
     
 #### Example 1: COX-2
 
-In this example the substitution by a chlorine atom leads to a compound which is by far more potent than the unsubstituted derivative. This can be interpreted by the existence of an empty space corresponding to the volume of a chlorine atom. The introduction of a chlorine atom can increase the binding affinity by establishing additional van der Waals interactions with the protein. Other reasons may be due to changes in the volume, the conformation or in the physico-chemical properties of the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-cox-2-a6b1f660'><i class='fa fa-play' aria-hidden='true'></i></button>In this example the substitution by a chlorine atom leads to a compound which is by far more potent than the unsubstituted derivative. This can be interpreted by the existence of an empty space corresponding to the volume of a chlorine atom. The introduction of a chlorine atom can increase the binding affinity by establishing additional van der Waals interactions with the protein. Other reasons may be due to changes in the volume, the conformation or in the physico-chemical properties of the molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
@@ -1174,7 +1172,7 @@ In this example the substitution by a chlorine atom leads to a compound which is
 #### Example 2: MDM2
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-Modeling analyses indicated the existence of an empty space between the peptide and the protein (Mdm2) corresponding to the volume of a methyl or a chlorine atom. Substituting the hydrogen by a methyl or a chlorine led to very potent compounds, whose activities were predicted (before being synthesized) by the formation of favorable steric interactions with the protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-mdm2-8ba96c1a'><i class='fa fa-play' aria-hidden='true'></i></button>Modeling analyses indicated the existence of an empty space between the peptide and the protein (Mdm2) corresponding to the volume of a methyl or a chlorine atom. Substituting the hydrogen by a methyl or a chlorine led to very potent compounds, whose activities were predicted (before being synthesized) by the formation of favorable steric interactions with the protein.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[Md]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
@@ -1194,7 +1192,7 @@ Modeling analyses indicated the existence of an empty space between the peptide 
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-Kynurenic acid is a poor glycine antagonist (IC<sub>50</sub> = 41 &Mu;M), however, this molecule proved to be an excellent initial lead. The introduction of a chlorine in position 7 resulted in a compound 70-fold more potent. The addition of a iodine in position 5 led to a compound which is 1000-fold more potent than kynurenic acid itself (IC<sub>50</sub> = 32 nM). This can be interpreted in terms of favorable electronic effects of the halogen atoms and good interactions with the receptor site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-glycine-antagonists-0ccc3764'><i class='fa fa-play' aria-hidden='true'></i></button>Kynurenic acid is a poor glycine antagonist (IC<sub>50</sub> = 41 &micro;M), however, this molecule proved to be an excellent initial lead. The introduction of a chlorine in position 7 resulted in a compound 70-fold more potent. The addition of a iodine in position 5 led to a compound which is 1000-fold more potent than kynurenic acid itself (IC<sub>50</sub> = 32 nM). This can be interpreted in terms of favorable electronic effects of the halogen atoms and good interactions with the receptor site.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -1219,7 +1217,7 @@ Kynurenic acid is a poor glycine antagonist (IC<sub>50</sub> = 41 &Mu;M), howeve
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-An important milestone in the search for EGF-R kinase inhibitors was the discovery of the 4-anilinoquinazoline pharmacophore. SAR showed that very potent compounds are obtained when substituting the anilino in meta, with halogen atoms (also with an ethynyl). It was later proved (initially by modeling and later by X-rays) that the substituted inhibitor creates favorable steric interactions with a hydrophobic chimney of the EGF-R-ATP binding domain of the kinase.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-4-egf-r-kinase-inhibitors-79aabcc3'><i class='fa fa-play' aria-hidden='true'></i></button>An important milestone in the search for EGF-R kinase inhibitors was the discovery of the 4-anilinoquinazoline pharmacophore. SAR showed that very potent compounds are obtained when substituting the anilino in meta, with halogen atoms (also with an ethynyl). It was later proved (initially by modeling and later by X-rays) that the substituted inhibitor creates favorable steric interactions with a hydrophobic chimney of the EGF-R-ATP binding domain of the kinase.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1246,7 +1244,7 @@ An important milestone in the search for EGF-R kinase inhibitors was the discove
     
 ### Probing Aromatic Ring Positions
 
-When dealing with aromatic rings, one of the most popular ways in medicinal chemistry for deriving SAR is to probe the aromatic ring positions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/probing-aromatic-ring-positions-f0ddcd33'><i class='fa fa-play' aria-hidden='true'></i></button>When dealing with aromatic rings, one of the most popular ways in medicinal chemistry for deriving SAR is to probe the aromatic ring positions.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -1255,7 +1253,7 @@ When dealing with aromatic rings, one of the most popular ways in medicinal chem
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-In this series, the ortho, meta and para substitutions were probed with a methoxy group. The SAR yielded the following order of preference: meta>ortho>para. An additional methoxy group was further introduced in the second meta position, and led to an inhibitor which proved to be even more potent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/kdr-inhibitors-ac7a5186'><i class='fa fa-play' aria-hidden='true'></i></button>In this series, the ortho, meta and para substitutions were probed with a methoxy group. The SAR yielded the following order of preference: meta>ortho>para. An additional methoxy group was further introduced in the second meta position, and led to an inhibitor which proved to be even more potent.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1273,7 +1271,7 @@ In this series, the ortho, meta and para substitutions were probed with a methox
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Modifications of the three aromatic groups of compound 1 (discovered by HTS) were investigated. Starting by varying the substituents in the aniline ring, the following SAR were observed (subnanomolar activities for the 4-Br and 4-Cl analogs).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/anthranilamide---factor-xa-inhibitors-09d1304d'><i class='fa fa-play' aria-hidden='true'></i></button>Modifications of the three aromatic groups of compound 1 (discovered by HTS) were investigated. Starting by varying the substituents in the aniline ring, the following SAR were observed (subnanomolar activities for the 4-Br and 4-Cl analogs).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1290,21 +1288,21 @@ Modifications of the three aromatic groups of compound 1 (discovered by HTS) wer
     
 ##### Exploration of Anthranilamide Substitution
 
-Keeping a 4-Cl substituent, the substitution of the central anthranilamide ring was then explored (with mono and di-substitutions). Subnanomolar activities are observed, only for a methyl or a chlorine at the C-5 position.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/exploration-anthranilamide-substitution-df270433'><i class='fa fa-play' aria-hidden='true'></i></button>Keeping a 4-Cl substituent, the substitution of the central anthranilamide ring was then explored (with mono and di-substitutions). Subnanomolar activities are observed, only for a methyl or a chlorine at the C-5 position.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/aromatic_subs_example4_2_1.png){: loading=lazy }
 ##### Replacement of the Benzothiophene Ring
 
-Finally, the substitution or the replacement of the benzothiophene ring were explored, but did not reveal new lead structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/replacement-benzothiophene-ring-937fcfe0'><i class='fa fa-play' aria-hidden='true'></i></button>Finally, the substitution or the replacement of the benzothiophene ring were explored, but did not reveal new lead structures.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/aromatic_subs_example4_3_1.png){: loading=lazy }
 ##### Useful Data Collected for Understanding SAR
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Systematic variations were made on the three aromatic groups of the initial compound. In the original work, the SAR were analyzed in terms of the properties of the substituents (e.g. size, electron-withdrawing, electron-donating, H-bond donating, isosteric, polar protic etc...). Modeling and crystallographic studies should complement the knowledge so far derived, and contribute to a better understanding of the SAR.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/useful-data-collected-for-understanding-sar-da9f3488'><i class='fa fa-play' aria-hidden='true'></i></button>Systematic variations were made on the three aromatic groups of the initial compound. In the original work, the SAR were analyzed in terms of the properties of the substituents (e.g. size, electron-withdrawing, electron-donating, H-bond donating, isosteric, polar protic etc...). Modeling and crystallographic studies should complement the knowledge so far derived, and contribute to a better understanding of the SAR.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -1315,7 +1313,7 @@ Systematic variations were made on the three aromatic groups of the initial comp
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[Ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Modifications of the initial tetrahydroisoquinoline structure were envisaged. The substitution at C-7 was first explored, and the 7-methyl analog proved to be the most potent compound of this series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/tetrahydroisoquinoline---serotonin-5-ht2a-ligands-53ef18d2'><i class='fa fa-play' aria-hidden='true'></i></button>Modifications of the initial tetrahydroisoquinoline structure were envisaged. The substitution at C-7 was first explored, and the 7-methyl analog proved to be the most potent compound of this series.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -1329,7 +1327,7 @@ Modifications of the initial tetrahydroisoquinoline structure were envisaged. Th
     
 ##### Preferred Position for the Chlorine
 
-Varying the position of the chlorine atom indicated a preference for the substitution at C-5.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/preferred-position-for-chlorine-abd0e06e'><i class='fa fa-play' aria-hidden='true'></i></button>Varying the position of the chlorine atom indicated a preference for the substitution at C-5.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1338,7 +1336,7 @@ Varying the position of the chlorine atom indicated a preference for the substit
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-Additional mono and di-substituted analogs were also prepared. The most potent compound proved to be the 5-Methoxy, 8-Br analog (IC<sub>50</sub> = 40 nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/most-potent-analogs-728b0ff4'><i class='fa fa-play' aria-hidden='true'></i></button>Additional mono and di-substituted analogs were also prepared. The most potent compound proved to be the 5-Methoxy, 8-Br analog (IC<sub>50</sub> = 40 nM).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -1350,7 +1348,7 @@ Additional mono and di-substituted analogs were also prepared. The most potent c
 ### Modification to Alter the Geometry of the Ligand
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-The method for probing the 3D stereochemical requirements of a receptor site consists of preparing analogs that allow for the introduction of groups of different sizes, shape, chirality, polarity and physico-chemical properties, in order to determine the exact nature of the 3D requirements for interacting with the receptor, in a more general perspective than with elementary SAR analyses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/modification-to-alter-geometry-ligand-12576e58'><i class='fa fa-play' aria-hidden='true'></i></button>The method for probing the 3D stereochemical requirements of a receptor site consists of preparing analogs that allow for the introduction of groups of different sizes, shape, chirality, polarity and physico-chemical properties, in order to determine the exact nature of the 3D requirements for interacting with the receptor, in a more general perspective than with elementary SAR analyses.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1360,7 +1358,7 @@ The method for probing the 3D stereochemical requirements of a receptor site con
 
 ### The Amide Function
 
-Acyclic secondary amide moieties are always found in the trans (Z) geometry. However, tertiary amides exist as a mixture of E and Z isomers: this is an important property of acyclic tertiary amides, which should not be overlooked when exploring SAR. Moreover, when the amide group is located in the center of the molecule, this situation can be exploited to explore the requirements of two entirely different regions of the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/amide-function-c42ff268'><i class='fa fa-play' aria-hidden='true'></i></button>Acyclic secondary amide moieties are always found in the trans (Z) geometry. However, tertiary amides exist as a mixture of E and Z isomers: this is an important property of acyclic tertiary amides, which should not be overlooked when exploring SAR. Moreover, when the amide group is located in the center of the molecule, this situation can be exploited to explore the requirements of two entirely different regions of the receptor.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -1372,7 +1370,7 @@ Acyclic secondary amide moieties are always found in the trans (Z) geometry. How
 *[Moiety]: Fragments, functional groups or portions of chemical compounds.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-In the following example the tertiary amide analog is 30,000 times more potent than the secondary amide. Based on NMR analyses of the chemical shift of the proton in position 2 of the quinoline, the SAR were interpreted with the bioactive conformation in out-of-plane orientation of the carbonyl. However, it is also possible to consider the existence of a cis geometry (see bottom view) that is only possible for the tertiary amide, which can reach an entirely new pocket.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/sar-example-an-amide-moiety-cd1e165f'><i class='fa fa-play' aria-hidden='true'></i></button>In the following example the tertiary amide analog is 30,000 times more potent than the secondary amide. Based on NMR analyses of the chemical shift of the proton in position 2 of the quinoline, the SAR were interpreted with the bioactive conformation in out-of-plane orientation of the carbonyl. However, it is also possible to consider the existence of a cis geometry (see bottom view) that is only possible for the tertiary amide, which can reach an entirely new pocket.
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -1391,7 +1389,7 @@ In the following example the tertiary amide analog is 30,000 times more potent t
     
 ### Ortho Substitution of Aromatic Ring
 
-When considering ortho, meta and para substitutions of aromatic rings, ortho analogs introduce conformational changes in the molecule due to steric repulsions (even with small substituents such as CH<sub>3</sub> or Cl). In meta and para analogs the conformation remains unchanged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/ortho-substitution-aromatic-ring-cee73bde'><i class='fa fa-play' aria-hidden='true'></i></button>When considering ortho, meta and para substitutions of aromatic rings, ortho analogs introduce conformational changes in the molecule due to steric repulsions (even with small substituents such as CH<sub>3</sub> or Cl). In meta and para analogs the conformation remains unchanged.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -1408,7 +1406,7 @@ When considering ortho, meta and para substitutions of aromatic rings, ortho ana
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-In a molecule containing an acyclic double bond, it might be useful to assess the properties of the E and Z isomers. Although the other isomer is not always easy to prepare, the measurement of its biological activity might be highly informative as to the global stereochemical requirements of the receptor site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/cis-trans-isomers-6f4d8868'><i class='fa fa-play' aria-hidden='true'></i></button>In a molecule containing an acyclic double bond, it might be useful to assess the properties of the E and Z isomers. Although the other isomer is not always easy to prepare, the measurement of its biological activity might be highly informative as to the global stereochemical requirements of the receptor site.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
@@ -1418,7 +1416,7 @@ In a molecule containing an acyclic double bond, it might be useful to assess th
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-The Z stereochemistry was suspected to be the bioactive geometry of methyl-idenyl-indolin-2-one derivatives. To test this hypothesis the 4'-chlorine molecule (right), and the 4'-chlorine 1'-methyl derivative (left), were conceived with geometrical considerations that were confirmed to be correct. N.M.R. studies indicate a Z geometry that is favored by an internal hydrogen bond for the first molecule, and the E geometry for the second compound. The biological tests confirmed that a Z stereochemistry is needed for having active molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-cis-trans-isomers-f8c16666'><i class='fa fa-play' aria-hidden='true'></i></button>The Z stereochemistry was suspected to be the bioactive geometry of methyl-idenyl-indolin-2-one derivatives. To test this hypothesis the 4'-chlorine molecule (right), and the 4'-chlorine 1'-methyl derivative (left), were conceived with geometrical considerations that were confirmed to be correct. N.M.R. studies indicate a Z geometry that is favored by an internal hydrogen bond for the first molecule, and the E geometry for the second compound. The biological tests confirmed that a Z stereochemistry is needed for having active molecules.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1435,7 +1433,7 @@ The Z stereochemistry was suspected to be the bioactive geometry of methyl-ideny
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-It is worth noticing that for the structures of the previous page, there are no separate Z and E isomers: they are in equilibrium! In this conjugated system, the double bond becomes single in the enolic tautomer form 2, which then allows the rotation about this bond. The isomerization is thermodynamically controlled with an E/Z ratio depending on the energies of the two isomers (for the R group concerned).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/z-e-isomers-are-equilibrium-f7996a7f'><i class='fa fa-play' aria-hidden='true'></i></button>It is worth noticing that for the structures of the previous page, there are no separate Z and E isomers: they are in equilibrium! In this conjugated system, the double bond becomes single in the enolic tautomer form 2, which then allows the rotation about this bond. The isomerization is thermodynamically controlled with an E/Z ratio depending on the energies of the two isomers (for the R group concerned).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -1446,7 +1444,7 @@ It is worth noticing that for the structures of the previous page, there are no 
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-The bioactive conformation for binding to the GABAc proved to correspond to the trans isomer. In the GABA series the trans (TACA) isomer is more potent than the cis (CACA); the inferior activity of GABA can be understood in terms of the free rotation around the central bond. In the methylphosphinic analogs it is also observed that the trans isomer (CGP44530) is more potent than the cis (CGP70523); however the good biological activity observed for the unsaturated CGP35024 is difficult to interpret.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-cis-trans-isomers-33bd59f4'><i class='fa fa-play' aria-hidden='true'></i></button>The bioactive conformation for binding to the GABAc proved to correspond to the trans isomer. In the GABA series the trans (TACA) isomer is more potent than the cis (CACA); the inferior activity of GABA can be understood in terms of the free rotation around the central bond. In the methylphosphinic analogs it is also observed that the trans isomer (CGP44530) is more potent than the cis (CGP70523); however the good biological activity observed for the unsaturated CGP35024 is difficult to interpret.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -1465,7 +1463,7 @@ The bioactive conformation for binding to the GABAc proved to correspond to the 
     
 ### Alter Stereochemistry
 
-The following is a simple example showing that a simple stereochemical change can lead to molecules with very different biological properties. Cis-platin is an active compound used to treat cancer; trans-platin, although very similar is completely inactive.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/alter-stereochemistry-4bba43ec'><i class='fa fa-play' aria-hidden='true'></i></button>The following is a simple example showing that a simple stereochemical change can lead to molecules with very different biological properties. Cis-platin is an active compound used to treat cancer; trans-platin, although very similar is completely inactive.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1475,7 +1473,7 @@ The following is a simple example showing that a simple stereochemical change ca
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-When comparing the SAR between flexible and rigid analogs, the geometrical aspects are of primary importance. Reciprocally, it is always possible to introduce in a structure, an additional rigidity to explore the consequence in the SAR, and derive useful knowledge on the 3D requirements of the active site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/rigid-analogs-sar-principle-3742c410'><i class='fa fa-play' aria-hidden='true'></i></button>When comparing the SAR between flexible and rigid analogs, the geometrical aspects are of primary importance. Reciprocally, it is always possible to introduce in a structure, an additional rigidity to explore the consequence in the SAR, and derive useful knowledge on the 3D requirements of the active site.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1507,7 +1505,7 @@ When comparing the SAR between flexible and rigid analogs, the geometrical aspec
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-Constraining the two methoxy groups in a benzodioxane-1,4 ring results in a molecule with improved affinity and binding. In addition to the geometrical changes, more favorable physico-chemical properties and also desolvation energies should not be excluded.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-gnrh-antagonists-rigidification-2937d9f9'><i class='fa fa-play' aria-hidden='true'></i></button>Constraining the two methoxy groups in a benzodioxane-1,4 ring results in a molecule with improved affinity and binding. In addition to the geometrical changes, more favorable physico-chemical properties and also desolvation energies should not be excluded.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 
 
@@ -1521,7 +1519,7 @@ Constraining the two methoxy groups in a benzodioxane-1,4 ring results in a mole
     
 #### Example 2: AChE Rigidification
 
-The rigidification of the free aromatic ring in a tricyclic structure leads to a molecule with increased potency. In addition to the geometrical changes, more favorable physico-chemical properties and also desolvation energies should not be excluded.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-2-ache-rigidification-cd6894e2'><i class='fa fa-play' aria-hidden='true'></i></button>The rigidification of the free aromatic ring in a tricyclic structure leads to a molecule with increased potency. In addition to the geometrical changes, more favorable physico-chemical properties and also desolvation energies should not be excluded.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -1537,7 +1535,7 @@ The rigidification of the free aromatic ring in a tricyclic structure leads to a
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-In the example shown below, the rigidification of the central rotatable bond leads to an ethylenic analog which is more potent than the saturated one. This gives useful information on the bioactive conformation required for binding to the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-p56-lck-inhibitors-rigidification-c313b627'><i class='fa fa-play' aria-hidden='true'></i></button>In the example shown below, the rigidification of the central rotatable bond leads to an ethylenic analog which is more potent than the saturated one. This gives useful information on the bioactive conformation required for binding to the receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
@@ -1556,7 +1554,7 @@ In the example shown below, the rigidification of the central rotatable bond lea
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 
-The n-butyl fragment of the imidazole compound shown below was replaced by the corresponding trans-butene moiety and resulted in a much more potent compound. This indicates that an extended conformation is required for binding to the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-4-angiotensin-ii-receptor-antagonists-3bdc5ff5'><i class='fa fa-play' aria-hidden='true'></i></button>The n-butyl fragment of the imidazole compound shown below was replaced by the corresponding trans-butene moiety and resulted in a much more potent compound. This indicates that an extended conformation is required for binding to the receptor.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -1570,7 +1568,7 @@ The n-butyl fragment of the imidazole compound shown below was replaced by the c
     
 #### Example 5: Dopaminergics Rigidification
 
-Dopamine has two trans rotameric forms that can be incorporated in different structurally constrained systems. Different biological activities were observed for the following tetralin rigid analogs. Such rigid scaffolds are excellent leads for further SAR analyses to probe the exact requirements for binding to the different sub-populations of dopamine receptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-5-dopaminergics-rigidification-1a6ef2d1'><i class='fa fa-play' aria-hidden='true'></i></button>Dopamine has two trans rotameric forms that can be incorporated in different structurally constrained systems. Different biological activities were observed for the following tetralin rigid analogs. Such rigid scaffolds are excellent leads for further SAR analyses to probe the exact requirements for binding to the different sub-populations of dopamine receptors.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -1599,7 +1597,7 @@ Dopamine has two trans rotameric forms that can be incorporated in different str
     
 #### Examples 6: Pseudo Rings
 
-It is possible to mimic the presence of a ring by designing a pseudo-cycle, whose "closure" will be an intramolecular hydrogen bond in the structure concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/examples-6-pseudo-rings-49b2b7db'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to mimic the presence of a ring by designing a pseudo-cycle, whose "closure" will be an intramolecular hydrogen bond in the structure concerned.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1613,7 +1611,7 @@ It is possible to mimic the presence of a ring by designing a pseudo-cycle, whos
     
 ##### Anthranilamides
 
-The following illustrates how an anthranilamide scaffold was successfully designed to resemble to an initial anilinophtalazine compound. The intramolecular H-bond between the aniline-NH and the benzanilide C=O favors the conformation which mimics well the reference bicyclic structure (see 3D view).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/anthranilamides-98f0ad28'><i class='fa fa-play' aria-hidden='true'></i></button>The following illustrates how an anthranilamide scaffold was successfully designed to resemble to an initial anilinophtalazine compound. The intramolecular H-bond between the aniline-NH and the benzanilide C=O favors the conformation which mimics well the reference bicyclic structure (see 3D view).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1631,7 +1629,7 @@ The following illustrates how an anthranilamide scaffold was successfully design
     
 ##### Phenoxyphenyltriazoles
 
-The phenyl-triazole derivative shown below was conceived to mimic the structure of benzodiazepine receptor antagonists such as estazolam. Its seven-membered diazepine ring is mimicked by a virtual ring, as can be seen from both the 2D and 3D superpositions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/phenoxyphenyltriazoles-a9048485'><i class='fa fa-play' aria-hidden='true'></i></button>The phenyl-triazole derivative shown below was conceived to mimic the structure of benzodiazepine receptor antagonists such as estazolam. Its seven-membered diazepine ring is mimicked by a virtual ring, as can be seen from both the 2D and 3D superpositions.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[antagonists]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
@@ -1653,7 +1651,7 @@ The phenyl-triazole derivative shown below was conceived to mimic the structure 
     
 ##### Salicylanilides
 
-The salicylanilide scaffold shown here was designed to match a reference quinazoline structure (assuming the formation of the proper H-bond, see 3D view). The "morphing" operation allowed for the discovery of a new type of scaffold, to be further optimized.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/salicylanilides-f081c48e'><i class='fa fa-play' aria-hidden='true'></i></button>The salicylanilide scaffold shown here was designed to match a reference quinazoline structure (assuming the formation of the proper H-bond, see 3D view). The "morphing" operation allowed for the discovery of a new type of scaffold, to be further optimized.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1681,7 +1679,7 @@ The salicylanilide scaffold shown here was designed to match a reference quinazo
     
 #### Example 7: Good and Bad Rigidification
 
-The rigidification of the two psychedelic drugs, DOB and mescaline are presented here. The rigidification of the methoxy groups in DOB leads to more active compounds, whereas the similar idea in mescaline yields inactive molecules. However, the biological activities are based on animal models, and the interpretations are tricky.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-7-good-bad-rigidification-c3f09cb4'><i class='fa fa-play' aria-hidden='true'></i></button>The rigidification of the two psychedelic drugs, DOB and mescaline are presented here. The rigidification of the methoxy groups in DOB leads to more active compounds, whereas the similar idea in mescaline yields inactive molecules. However, the biological activities are based on animal models, and the interpretations are tricky.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Rigid-example3.png){: loading=lazy }
@@ -1694,7 +1692,7 @@ The rigidification of the two psychedelic drugs, DOB and mescaline are presented
     
 #### Example 8: Rigidification of a Flexible Molecule
 
-The following example illustrates a successful attempt to reveal the probable bioactive conformation of a flexible molecule. The introduction of an additional ring (2 torsion angles blocked) results in favorable geometry of the molecule, as indicated by the increase in potency of the tricyclic compound. Note that due to steric repulsions, the poorly active ortho methyl analog cannot adopt the conformation of the tricyclic structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-8-rigidification-flexible-molecule-ef52d296'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates a successful attempt to reveal the probable bioactive conformation of a flexible molecule. The introduction of an additional ring (2 torsion angles blocked) results in favorable geometry of the molecule, as indicated by the increase in potency of the tricyclic compound. Note that due to steric repulsions, the poorly active ortho methyl analog cannot adopt the conformation of the tricyclic structure.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
@@ -1712,13 +1710,13 @@ The following example illustrates a successful attempt to reveal the probable bi
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-It is possible to introduce additional flexibility to a cyclic structure by suppressing one ring. This approach is generally used when the initial lead is not attractive enough; the main motivation is to find another starting point.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/flexible-analogs-sar-principle-bf99235d'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to introduce additional flexibility to a cyclic structure by suppressing one ring. This approach is generally used when the initial lead is not attractive enough; the main motivation is to find another starting point.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_6_18_0_1.png){: loading=lazy }
 #### Ring Suppression: Doxepin
 
-The structure of doxepin has been used as a starting point for the design of non-polycyclic analogs. Cutting one of the bonds in this structure results in an analog that has one ring less and with the same type of biological activities and can serve as a starting point for deriving new SAR.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/ring-suppression-doxepin-5077699b'><i class='fa fa-play' aria-hidden='true'></i></button>The structure of doxepin has been used as a starting point for the design of non-polycyclic analogs. Cutting one of the bonds in this structure results in an analog that has one ring less and with the same type of biological activities and can serve as a starting point for deriving new SAR.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1729,7 +1727,7 @@ The structure of doxepin has been used as a starting point for the design of non
 ### Alteration of Interatomic Distances
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The systematic alteration of interatomic distances between pharmacophore elements allows us to both explore the requirements of a receptor site and to optimize a series of molecules. The following is a typical analog program conducted for the systematic exploration of the biological properties of a reference active compound to probe the 3D requirements of the receptor site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/alteration-interatomic-distances-9b952276'><i class='fa fa-play' aria-hidden='true'></i></button>The systematic alteration of interatomic distances between pharmacophore elements allows us to both explore the requirements of a receptor site and to optimize a series of molecules. The following is a typical analog program conducted for the systematic exploration of the biological properties of a reference active compound to probe the 3D requirements of the receptor site.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1740,7 +1738,7 @@ The systematic alteration of interatomic distances between pharmacophore element
 ### Alteration of the Stereochemistry of the Ligand
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Altering the stereochemistry of an active compound is far from being the priority in SAR. When enantiomers have different activities, or if the synthesis of a natural compound (e.g. alkaloid, steroid etc...) allows it, analogs with inverted centers may be considered. For example retroprogesterone is a synthetic steroid which is more active than natural progesterone.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/alteration-stereochemistry-ligand-5352379b'><i class='fa fa-play' aria-hidden='true'></i></button>Altering the stereochemistry of an active compound is far from being the priority in SAR. When enantiomers have different activities, or if the synthesis of a natural compound (e.g. alkaloid, steroid etc...) allows it, analogs with inverted centers may be considered. For example retroprogesterone is a synthetic steroid which is more active than natural progesterone.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
@@ -1784,7 +1782,7 @@ Altering the stereochemistry of an active compound is far from being the priorit
 ### Complexity of the Structures Concerned
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Sometimes an elementary change (the replacement of an oxygen atom by a carbon, in the example below) cannot be interpreted easily. It may be due to a combination of many effects, such as for example the loss of an important intermolecular interaction, and/or the absence of an internal H-bond which favors the bioactive conformation, and/or changes in desolvation, pK<sub>a</sub>, etc..., where the activities cannot be understood in terms of elementary ligand-receptor interactions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/complexity-structures-concerned-4c1e48af'><i class='fa fa-play' aria-hidden='true'></i></button>Sometimes an elementary change (the replacement of an oxygen atom by a carbon, in the example below) cannot be interpreted easily. It may be due to a combination of many effects, such as for example the loss of an important intermolecular interaction, and/or the absence of an internal H-bond which favors the bioactive conformation, and/or changes in desolvation, pK<sub>a</sub>, etc..., where the activities cannot be understood in terms of elementary ligand-receptor interactions.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1794,7 +1792,7 @@ Sometimes an elementary change (the replacement of an oxygen atom by a carbon, i
 ![](https://media.drugdesign.org/course/structure-activity-relationships/cyclic_active_inactive.png){: loading=lazy }
 ### Observations with no Explanations
 
-SAR observations may be uninterpretable. This may arise from (1) insufficient informational content of the data; (2) the simplicity of our models; (3) our ignorance of other factors; (4) an experimental error. Until additional data allow for an acceptable solution to emerge, the SAR remain unclear. Look at the data below and try to explain the SAR; imagine new molecules to be synthesized that might contribute to providing an answer. A possible rationale is proposed in the associated sub-page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/observations-no-explanations-ad6f9461'><i class='fa fa-play' aria-hidden='true'></i></button>SAR observations may be uninterpretable. This may arise from (1) insufficient informational content of the data; (2) the simplicity of our models; (3) our ignorance of other factors; (4) an experimental error. Until additional data allow for an acceptable solution to emerge, the SAR remain unclear. Look at the data below and try to explain the SAR; imagine new molecules to be synthesized that might contribute to providing an answer. A possible rationale is proposed in the associated sub-page.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1820,7 +1818,7 @@ SAR observations may be uninterpretable. This may arise from (1) insufficient in
 ### Local Changes and Global Consequences
 *[nce]: New Chemical Entity: a compound not previously described.
 
-SAR analyses are based on the principle of independence: a local change is treated as not affecting the rest of the structure; however this is not always true. Sometimes a simple change in a molecule may completely change the property of the entire molecule (e.g. conformation) or its binding interaction (e.g. binding orientation). This is illustrated by a number of examples in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/local-changes-global-consequences-c052477f'><i class='fa fa-play' aria-hidden='true'></i></button>SAR analyses are based on the principle of independence: a local change is treated as not affecting the rest of the structure; however this is not always true. Sometimes a simple change in a molecule may completely change the property of the entire molecule (e.g. conformation) or its binding interaction (e.g. binding orientation). This is illustrated by a number of examples in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1829,7 +1827,7 @@ SAR analyses are based on the principle of independence: a local change is treat
 
 #### Small Modification that Substantially Alters the Geometry
 
-In the example shown below, a small structural modification, such as the replacement of the N-H by a N-CH<sub>3</sub> group, completely alters the conformational preference of the original molecule. This effect should not be overlooked when interpreting the biological activities of the two analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/small-modification-that-substantially-alters-geometry-fa72beee'><i class='fa fa-play' aria-hidden='true'></i></button>In the example shown below, a small structural modification, such as the replacement of the N-H by a N-CH<sub>3</sub> group, completely alters the conformational preference of the original molecule. This effect should not be overlooked when interpreting the biological activities of the two analogs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1839,7 +1837,7 @@ In the example shown below, a small structural modification, such as the replace
 
 #### Small Modification that Interferes with Other Interactions
 
-In the example represented here, the introduction of a methyl group leads to the complete loss of biological activity. The methyl group hampers the formation of an essential hydrogen bond interaction that existed upon binding of the original compound. The impact of the local change that was made can only be understood by looking at the molecule as a whole.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/small-modification-that-interferes-other-interactions-fe432695'><i class='fa fa-play' aria-hidden='true'></i></button>In the example represented here, the introduction of a methyl group leads to the complete loss of biological activity. The methyl group hampers the formation of an essential hydrogen bond interaction that existed upon binding of the original compound. The impact of the local change that was made can only be understood by looking at the molecule as a whole.
 
 
 === "Data"
@@ -1855,7 +1853,7 @@ In the example represented here, the introduction of a methyl group leads to the
     
 #### Modification that Alters the Binding Orientation
 
-By analogy with ATP, Olomoucine (an ATP competitive inhibitor of the protein kinase CDK2) was expected to have the same binding mode as found for ATP. However, X-ray studies demonstrated an entirely different binding mode for it (analyzed in detail in the chapter structure-based drug design: analysis). Such a drastic effect should not be overlooked when interpreting the biological activities of adenine-based inhibitors (this is analyzed in detail in the chapter structure-based drug design: analysis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/modification-that-alters-binding-orientation-fa598afa'><i class='fa fa-play' aria-hidden='true'></i></button>By analogy with ATP, Olomoucine (an ATP competitive inhibitor of the protein kinase CDK2) was expected to have the same binding mode as found for ATP. However, X-ray studies demonstrated an entirely different binding mode for it (analyzed in detail in the chapter structure-based drug design: analysis). Such a drastic effect should not be overlooked when interpreting the biological activities of adenine-based inhibitors (this is analyzed in detail in the chapter structure-based drug design: analysis).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1890,14 +1888,14 @@ By analogy with ATP, Olomoucine (an ATP competitive inhibitor of the protein kin
 #### Change that Alters a Characteristic of the Substance
 *[nce]: New Chemical Entity: a compound not previously described.
 
-A small alteration of a structure may introduce substantial changes in specific physico-chemical properties, with repercussions in the biological properties, which can be even more pronounced in-vivo. For example, the replacement of a carbon atom by an oxygen, or the change in the number of carbon atoms in a molecule can affect many properties of the substance. Examples of changes in pK<sub>a</sub> and logP are presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/change-that-alters-characteristic-substance-863a694f'><i class='fa fa-play' aria-hidden='true'></i></button>A small alteration of a structure may introduce substantial changes in specific physico-chemical properties, with repercussions in the biological properties, which can be even more pronounced in-vivo. For example, the replacement of a carbon atom by an oxygen, or the change in the number of carbon atoms in a molecule can affect many properties of the substance. Examples of changes in pK<sub>a</sub> and logP are presented in the following pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/pka_scale.png){: loading=lazy }
 ##### pKa
 
-The difference in the pK<sub>a</sub> values of cocaine analogs was called upon to explain the differences in their binding potencies: a high potency is associated with a high pK<sub>a</sub>. Note the considerable changes that occurred in the pK<sub>a</sub> values.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/pka-e1443337'><i class='fa fa-play' aria-hidden='true'></i></button>The difference in the pK<sub>a</sub> values of cocaine analogs was called upon to explain the differences in their binding potencies: a high potency is associated with a high pK<sub>a</sub>. Note the considerable changes that occurred in the pK<sub>a</sub> values.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1918,13 +1916,13 @@ The difference in the pK<sub>a</sub> values of cocaine analogs was called upon t
     
 ##### LogP
 
-When changes are introduced in a structure, their impact in the global characteristics of the modified compounds must be considered. The example below illustrates a change in logP that is not negligible.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/logp-55e0faf5'><i class='fa fa-play' aria-hidden='true'></i></button>When changes are introduced in a structure, their impact in the global characteristics of the modified compounds must be considered. The example below illustrates a change in logP that is not negligible.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Local_example2.png){: loading=lazy }
 ### Non Additivity of Biological Effects
 
-Knowing the biological effects of mono-structural changes in a series does not make it possible to predict the biological activity of an analog containing multiple changes simultaneously. SAR often rely on the principle of additivity of the biological properties: however this is not always true. In the following pages some examples of non-additivity of biological effects are presented.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/non-additivity-biological-effects-5548164e'><i class='fa fa-play' aria-hidden='true'></i></button>Knowing the biological effects of mono-structural changes in a series does not make it possible to predict the biological activity of an analog containing multiple changes simultaneously. SAR often rely on the principle of additivity of the biological properties: however this is not always true. In the following pages some examples of non-additivity of biological effects are presented.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -1932,7 +1930,7 @@ Knowing the biological effects of mono-structural changes in a series does not m
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Adetivity_1and2.gif){: loading=lazy }
 #### Additivity in Steroids: Norethisterone
 
-The norethisterone (NET) steroid was used as a starting point for SAR. The following single modifications were considered and led to compounds with increased potencies.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/additivity-steroids-norethisterone-4bde3906'><i class='fa fa-play' aria-hidden='true'></i></button>The norethisterone (NET) steroid was used as a starting point for SAR. The following single modifications were considered and led to compounds with increased potencies.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
@@ -1946,13 +1944,13 @@ The norethisterone (NET) steroid was used as a starting point for SAR. The follo
     
 ##### Additivity of Biological Effects
 
-The introduction of two modifications simultaneously, leads to compounds with biological activities that are about the sum of those observed with single changes.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/additivity-biological-effects-b789f7a9'><i class='fa fa-play' aria-hidden='true'></i></button>The introduction of two modifications simultaneously, leads to compounds with biological activities that are about the sum of those observed with single changes.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Adetivity_C2_7_11_2_1.png){: loading=lazy }
 ##### Non Additivity of Biological Effects
 
-A compound twelve times more potent would be expected, when the three modifications are introduced simultaneously. In fact, the molecule is only nine times more potent than the initial reference steroid. In this example the biological effects are not simply additive.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/non-additivity-biological-effects-69b81118'><i class='fa fa-play' aria-hidden='true'></i></button>A compound twelve times more potent would be expected, when the three modifications are introduced simultaneously. In fact, the molecule is only nine times more potent than the initial reference steroid. In this example the biological effects are not simply additive.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -1960,7 +1958,7 @@ A compound twelve times more potent would be expected, when the three modificati
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Adetivity_C2_7_11_3_1.png){: loading=lazy }
 #### Furanyl Example: Non-Additivity
 
-In the example below the substitution of one furanyl group, improves the biological activities, but the bi-substituted analog is found to be less active.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/furanyl-example-non-additivity-d753ae96'><i class='fa fa-play' aria-hidden='true'></i></button>In the example below the substitution of one furanyl group, improves the biological activities, but the bi-substituted analog is found to be less active.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -1974,7 +1972,7 @@ In the example below the substitution of one furanyl group, improves the biologi
     
 #### Phenoxypyrimidines: Non Additivity
 
-In the phenoxypyrimidine series, it has been observed that the mono-methyl substituted analogs at C-2 or at C-4 have biological activities close to that of the unsubstituted compound. On the contrary, the analog with the two methyl groups, is three times more potent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/phenoxypyrimidines-non-additivity-09e4b96b'><i class='fa fa-play' aria-hidden='true'></i></button>In the phenoxypyrimidine series, it has been observed that the mono-methyl substituted analogs at C-2 or at C-4 have biological activities close to that of the unsubstituted compound. On the contrary, the analog with the two methyl groups, is three times more potent.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1990,14 +1988,14 @@ In the phenoxypyrimidine series, it has been observed that the mono-methyl subst
     
 ### Being Trapped with Poor Biological Activities
 
-The danger of being trapped in a series with poor biological activities is high when the receptor site is not known. When a lead is chosen, it is useful to make sure that the corresponding scaffold does not contain structural elements that are detrimental to the biological activities. It is worth spending some time addressing this issue before embarking on an SAR optimization program with a bad scaffold.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/being-trapped-poor-biological-activities-a71dcec0'><i class='fa fa-play' aria-hidden='true'></i></button>The danger of being trapped in a series with poor biological activities is high when the receptor site is not known. When a lead is chosen, it is useful to make sure that the corresponding scaffold does not contain structural elements that are detrimental to the biological activities. It is worth spending some time addressing this issue before embarking on an SAR optimization program with a bad scaffold.
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/SAR_bad_table.png){: loading=lazy }
 #### The Dioxobenzothiazole Scaffold
 
-The dioxobenzothiazole scaffold has been the object of SAR studies, in a project aiming at the discovery of CDK4 kinase inhibitors. Starting with the unsubstituted derivative having an IC<sub>50</sub> of 6 &Mu;M, a series of analogs were prepared, whose activities remained in the same micromolar range.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/dioxobenzothiazole-scaffold-448e3109'><i class='fa fa-play' aria-hidden='true'></i></button>The dioxobenzothiazole scaffold has been the object of SAR studies, in a project aiming at the discovery of CDK4 kinase inhibitors. Starting with the unsubstituted derivative having an IC<sub>50</sub> of 6 &micro;M, a series of analogs were prepared, whose activities remained in the same micromolar range.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -2016,7 +2014,7 @@ The dioxobenzothiazole scaffold has been the object of SAR studies, in a project
     
 #### Origin of the Problem
 
-Now that the interactions of inhibitors with the CDK4 kinase are well understood, it is possible to interpret the origin of the problem as being due to steric and polar repulsions between the nitrogen atom of the thiazole and the carbonyl of the hinge. Note that another scaffold containing an N-H group in this position could be ideal for improving the biological activities!
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/origin-problem-bf4bf804'><i class='fa fa-play' aria-hidden='true'></i></button>Now that the interactions of inhibitors with the CDK4 kinase are well understood, it is possible to interpret the origin of the problem as being due to steric and polar repulsions between the nitrogen atom of the thiazole and the carbonyl of the hinge. Note that another scaffold containing an N-H group in this position could be ideal for improving the biological activities!
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -2025,7 +2023,7 @@ Now that the interactions of inhibitors with the CDK4 kinase are well understood
 ![](https://media.drugdesign.org/course/structure-activity-relationships/pocket_polarity_ex3.png){: loading=lazy }
 ### The Combinatorial Era
 
-Our combinatorial chemistry-HTS era tends to generate what is sometimes called a "combinatorial chaos". Indeed computerized SAR programs are developed to handle this situation however the danger is to work with black-box-tools where the exact physico-chemical content diminishes. The real issue in SAR is to convert the data into useful knowledge that can be further exploited. Statistically-based programs cannot replace the creative and time consuming work needed to analyze SAR and extract this knowledge.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/combinatorial-era-90ea95a4'><i class='fa fa-play' aria-hidden='true'></i></button>Our combinatorial chemistry-HTS era tends to generate what is sometimes called a "combinatorial chaos". Indeed computerized SAR programs are developed to handle this situation however the danger is to work with black-box-tools where the exact physico-chemical content diminishes. The real issue in SAR is to convert the data into useful knowledge that can be further exploited. Statistically-based programs cannot replace the creative and time consuming work needed to analyze SAR and extract this knowledge.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -2036,7 +2034,7 @@ Our combinatorial chemistry-HTS era tends to generate what is sometimes called a
 
 ### The Banyu Story with the Urea Structure
 
-Following a structure-based strategy, the Banyu group identified a hit (Cdk4 inhibitors project) having an urea moiety with an IC<sub>50</sub> of 44 &Mu;M. The hit was simplified (ortho substituent removed) in order to derive further knowledge based on SAR analyses. In the following pages an outline of the important steps that enabled successful exploitation of SAR is presented.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/banyu-story-urea-structure-b15894d4'><i class='fa fa-play' aria-hidden='true'></i></button>Following a structure-based strategy, the Banyu group identified a hit (Cdk4 inhibitors project) having an urea moiety with an IC<sub>50</sub> of 44 &micro;M. The hit was simplified (ortho substituent removed) in order to derive further knowledge based on SAR analyses. In the following pages an outline of the important steps that enabled successful exploitation of SAR is presented.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -2060,7 +2058,7 @@ Following a structure-based strategy, the Banyu group identified a hit (Cdk4 inh
 *[nce]: New Chemical Entity: a compound not previously described.
 *[Moiety]: Fragments, functional groups or portions of chemical compounds.
 
-The complete loss of biological activity observed for the analog in which the anilino nitrogen atom is replaced by a carbon shows that the entire urea moiety is important for biological activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/importance-entire-urea-moiety-db058c5b'><i class='fa fa-play' aria-hidden='true'></i></button>The complete loss of biological activity observed for the analog in which the anilino nitrogen atom is replaced by a carbon shows that the entire urea moiety is important for biological activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
@@ -2081,7 +2079,7 @@ The complete loss of biological activity observed for the analog in which the an
 ### Bioactive Conformation?
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-Based on modeling analyses the Banyu group suspected that the binding of the compounds involved the N-H and the carbonyl by forming two hydrogen bonds with the protein, in a bidentate manner. This hypothesis requires a "cis" conformation for the amide fragment concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/bioactive-conformation-70319090'><i class='fa fa-play' aria-hidden='true'></i></button>Based on modeling analyses the Banyu group suspected that the binding of the compounds involved the N-H and the carbonyl by forming two hydrogen bonds with the protein, in a bidentate manner. This hypothesis requires a "cis" conformation for the amide fragment concerned.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[bidentate]: Having two anchorage points
 
@@ -2101,7 +2099,7 @@ Based on modeling analyses the Banyu group suspected that the binding of the com
     
 ### Design of Compounds with a Cis Conformation
 
-The aromatic phenyl was replaced by a pyridine, for all possible positions of the nitrogen atom (ortho, meta, para). The increased activity observed only for the 2-pyridyl isomer was interpreted as due to the increased population of the cis conformation (favored by an internal hydrogen bond).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/design-compounds-cis-conformation-e9fffd4b'><i class='fa fa-play' aria-hidden='true'></i></button>The aromatic phenyl was replaced by a pyridine, for all possible positions of the nitrogen atom (ortho, meta, para). The increased activity observed only for the 2-pyridyl isomer was interpreted as due to the increased population of the cis conformation (favored by an internal hydrogen bond).
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
 
@@ -2121,7 +2119,7 @@ The aromatic phenyl was replaced by a pyridine, for all possible positions of th
 ### Good Exploitation of the SAR Analyses
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The SAR analyses were further exploited and led to the discovery of very potent and selective compounds such as 15a. In summary, the major steps in this project were (1) discovery of a hit; (2) importance of the urea moiety; (3) modeling the probable bioactive conformation; (4) analogs favoring the cis conformation; (5) lead optimization.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/good-exploitation-sar-analyses-27d71852'><i class='fa fa-play' aria-hidden='true'></i></button>The SAR analyses were further exploited and led to the discovery of very potent and selective compounds such as 15a. In summary, the major steps in this project were (1) discovery of a hit; (2) importance of the urea moiety; (3) modeling the probable bioactive conformation; (4) analogs favoring the cis conformation; (5) lead optimization.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -2143,4 +2141,6 @@ The SAR analyses were further exploited and led to the discovery of very potent 
     J. Med. Chem 
     44 2001  
     
-Copyright © 2022 drugdesign.org
+
+
+Copyright © 2024 drugdesign.org

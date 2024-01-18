@@ -18,7 +18,7 @@
 ### Geometries, Energies and Conformational Analysis
 *[Conformational Analysis]: The study of the geometries and their associated energies for a given molecule.
 
-As shown in the previous chapters, a molecule possesses many conformers and an energy is associated to each of these conformations. The aim of this chapter is to present the concept of "conformational analysis" as a framework that integrates the information about geometries and energies discussed in the previous chapters.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/geometries-energies-conformational-analysis-39802a3e'><i class='fa fa-play' aria-hidden='true'></i></button>As shown in the previous chapters, a molecule possesses many conformers and an energy is associated to each of these conformations. The aim of this chapter is to present the concept of "conformational analysis" as a framework that integrates the information about geometries and energies discussed in the previous chapters.
 *[conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -27,7 +27,7 @@ As shown in the previous chapters, a molecule possesses many conformers and an e
 
 ### Energy Profile: a Global Information
 
-The description of the energy of a molecule in the multidimensional space of its degrees of freedom defines the "conformational potential surface" of the compound. This global representation is extremely useful in understanding, assessing, controlling and eventually influencing the properties of a given molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/energy-profile-global-information-c18f3fb8'><i class='fa fa-play' aria-hidden='true'></i></button>The description of the energy of a molecule in the multidimensional space of its degrees of freedom defines the "conformational potential surface" of the compound. This global representation is extremely useful in understanding, assessing, controlling and eventually influencing the properties of a given molecule.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -36,7 +36,7 @@ The description of the energy of a molecule in the multidimensional space of its
 ### Definition of Conformational Analysis
 *[Conformational Analysis]: The study of the geometries and their associated energies for a given molecule.
 
-Molecules can change their geometries by processes involving changes in torsion angles. The study of these geometries and their associated energies is called "conformational analysis".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/definition-conformational-analysis-ad26401c'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules can change their geometries by processes involving changes in torsion angles. The study of these geometries and their associated energies is called "conformational analysis".
 *[conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 
 
@@ -46,7 +46,7 @@ Molecules can change their geometries by processes involving changes in torsion 
 
 ### Conformational Potential Surface: One Rotation
 
-In the case of a molecule with one rotatable bond, the "conformational potential surface" consists of the curve representing the molecular energy as a function of the torsion angle. The minima of the curve correspond to low energy conformations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/conformational-potential-surface-one-rotation-4d5f58e2'><i class='fa fa-play' aria-hidden='true'></i></button>In the case of a molecule with one rotatable bond, the "conformational potential surface" consists of the curve representing the molecular energy as a function of the torsion angle. The minima of the curve correspond to low energy conformations.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/2_1_0_1.png){: loading=lazy }
@@ -59,28 +59,28 @@ In the case of a molecule with one rotatable bond, the "conformational potential
     
 ### Conformational Potential Surface: Two Rotations
 
-In the case of a molecule with two rotatable bonds, the total energy is represented (Energy axis) as a function of the two variable torsion angles (Torsion 1 and Torsion 2 axis).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/conformational-potential-surface-two-rotations-30fcc9ae'><i class='fa fa-play' aria-hidden='true'></i></button>In the case of a molecule with two rotatable bonds, the total energy is represented (Energy axis) as a function of the two variable torsion angles (Torsion 1 and Torsion 2 axis).
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/2_2_1_1.png){: loading=lazy }
 
 #### Energy Profile Viewed from the Top
 
-This picture represents the same energy profile viewed from the top.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/energy-profile-viewed-from-top-ce64ed9d'><i class='fa fa-play' aria-hidden='true'></i></button>This picture represents the same energy profile viewed from the top.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/2_2_2_1.png){: loading=lazy }
 
 #### Energy Profile Viewed as Contour Lines
 
-The previous representation can also be visualized with contour lines drawn by computers and connecting together all points with the same value of the energy. The energy levels are color-coded.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/energy-profile-viewed-as-contour-lines-b950ce5d'><i class='fa fa-play' aria-hidden='true'></i></button>The previous representation can also be visualized with contour lines drawn by computers and connecting together all points with the same value of the energy. The energy levels are color-coded.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/2_2_3_1.png){: loading=lazy }
 
 ### Conformational Potential Surface
 
-Most molecules have more than two variable torsion angles. Therefore their conformational potential surface cannot be visualized because the surface is defined in a space of more than 3 dimensions. This surface can be represented schematically as a curve displaying the energy as a function of a parameter (p) that has no real geometrical meaning.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/conformational-potential-surface-399fc93d'><i class='fa fa-play' aria-hidden='true'></i></button>Most molecules have more than two variable torsion angles. Therefore their conformational potential surface cannot be visualized because the surface is defined in a space of more than 3 dimensions. This surface can be represented schematically as a curve displaying the energy as a function of a parameter (p) that has no real geometrical meaning.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/2_3_0_1.png){: loading=lazy }
@@ -100,7 +100,7 @@ Most molecules have more than two variable torsion angles. Therefore their confo
 ### Special Forms
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
-The conformational potential surface contains "local minima" (low energy conformers), "barriers" (high energy conformers), and a "global minimum" (the conformation of lowest energy). Saddle points correspond to points where not all the derivatives of the energy with respect to the coordinates are equal to zero.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/special-forms-810f507e'><i class='fa fa-play' aria-hidden='true'></i></button>The conformational potential surface contains "local minima" (low energy conformers), "barriers" (high energy conformers), and a "global minimum" (the conformation of lowest energy). Saddle points correspond to points where not all the derivatives of the energy with respect to the coordinates are equal to zero.
 *[global minimum]: The global minimum of a function is the smallest value it takes on over its entire range of possibilities
 
 
@@ -113,7 +113,7 @@ The conformational potential surface contains "local minima" (low energy conform
 ### Interconversion Between Conformers
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-Conformational minimas are separated by transition states. The interconversion from one conformer to the other requires the crossing of the energy barrier. A low barrier corresponds to rapid interconversion rates. For example for a barrier of about 40 kJ/mol the conversion occurs one million times per second.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/interconversion-between-conformers-a391a7f6'><i class='fa fa-play' aria-hidden='true'></i></button>Conformational minimas are separated by transition states. The interconversion from one conformer to the other requires the crossing of the energy barrier. A low barrier corresponds to rapid interconversion rates. For example for a barrier of about 40 kJ/mol the conversion occurs one million times per second.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/alt5_2_5_0_1.gif){: loading=lazy }
@@ -127,7 +127,7 @@ Conformational minimas are separated by transition states. The interconversion f
     
 ### Energy Barriers
 
-When the barrier is high, the interconversion is either slow or impossible. For example for values greater than 80 kJ/mol the interconversion is not possible at room temperature.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/energy-barriers-70d8b8fb'><i class='fa fa-play' aria-hidden='true'></i></button>When the barrier is high, the interconversion is either slow or impossible. For example for values greater than 80 kJ/mol the interconversion is not possible at room temperature.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/alt5_2_6_0_1.gif){: loading=lazy }
@@ -141,7 +141,7 @@ When the barrier is high, the interconversion is either slow or impossible. For 
     
 ### Interconversion Pathway
 
-The interconversion always proceeds along the pathway of lowest energy. If there is a pathway requiring the crossing of a barrier of less than 80 kJ/mol, it will occur at room temperature.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/interconversion-pathway-8ae7fd28'><i class='fa fa-play' aria-hidden='true'></i></button>The interconversion always proceeds along the pathway of lowest energy. If there is a pathway requiring the crossing of a barrier of less than 80 kJ/mol, it will occur at room temperature.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -153,7 +153,7 @@ The interconversion always proceeds along the pathway of lowest energy. If there
 ### Conformational Analysis Principles
 *[Conformational Analysis]: The study of the geometries and their associated energies for a given molecule.
 
-The conformational analysis of a molecule results in the full knowledge of its conformational potential surface.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/conformational-analysis-principles-dcc60443'><i class='fa fa-play' aria-hidden='true'></i></button>The conformational analysis of a molecule results in the full knowledge of its conformational potential surface.
 *[conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 
 
@@ -161,14 +161,14 @@ The conformational analysis of a molecule results in the full knowledge of its c
 
 ### Systematic Scanning of All Potential Surfaces
 
-A simple method for exploring the conformational potential surface can be accomplished by a systematic scanning of all geometries of the molecule. Each point of the surface is geometrically constructed and its energy is calculated. This provides comprehensive information about the conformational profile of the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/systematic-scanning-all-potential-surfaces-b08d91b8'><i class='fa fa-play' aria-hidden='true'></i></button>A simple method for exploring the conformational potential surface can be accomplished by a systematic scanning of all geometries of the molecule. Each point of the surface is geometrically constructed and its energy is calculated. This provides comprehensive information about the conformational profile of the molecule.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/alt5_3_2_0_1.gif){: loading=lazy }
 
 ### Systematic Scanning is Time Consuming
 
-However the systematic search becomes rapidly impractical. For example, the following molecule has 7 rotatable bonds and one non-planar ring. If we consider a 10&#176; resolution for each rotatable bond (36 conformers per bond) and 4 conformations for the piperazine ring, the numbers of conformers to generate is: 36x36x36x36x36x36x36x4 which correspond to 300 billion conformers. This is unfeasible and impractical.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/systematic-scanning-is-time-consuming-7d1cec70'><i class='fa fa-play' aria-hidden='true'></i></button>However the systematic search becomes rapidly impractical. For example, the following molecule has 7 rotatable bonds and one non-planar ring. If we consider a 10&#176; resolution for each rotatable bond (36 conformers per bond) and 4 conformations for the piperazine ring, the numbers of conformers to generate is: 36x36x36x36x36x36x36x4 which correspond to 300 billion conformers. This is unfeasible and impractical.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/3_3_0_1.png){: loading=lazy }
@@ -182,7 +182,7 @@ However the systematic search becomes rapidly impractical. For example, the foll
     
 ### How to Reduce Conformational Search?
 
-The comprehensive scanning of the surface becomes rapidly impractical; one has to find ways to reduce the number of points. In fact all the geometries inside a given well correspond to a same family of conformers. Therefore, one conformation will be sufficient for representing the entire family. At this point the conformational analysis is reduced to the identification of all the families of conformers for the molecule concerned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/how-to-reduce-conformational-search-30967d0f'><i class='fa fa-play' aria-hidden='true'></i></button>The comprehensive scanning of the surface becomes rapidly impractical; one has to find ways to reduce the number of points. In fact all the geometries inside a given well correspond to a same family of conformers. Therefore, one conformation will be sufficient for representing the entire family. At this point the conformational analysis is reduced to the identification of all the families of conformers for the molecule concerned.
 *[conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -191,7 +191,7 @@ The comprehensive scanning of the surface becomes rapidly impractical; one has t
 
 ### One Conformer Represents a Whole Family
 
-The geometrical differences within a given family are in the amplitude and numerical values of the torsion angles; however from the qualitative point of view they are all the same.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/one-conformer-represents-whole-family-a7b114ea'><i class='fa fa-play' aria-hidden='true'></i></button>The geometrical differences within a given family are in the amplitude and numerical values of the torsion angles; however from the qualitative point of view they are all the same.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -211,28 +211,28 @@ The geometrical differences within a given family are in the amplitude and numer
     
 ### Working with a Set of Representative Conformers
 
-With a resolution of 10&#176; the conformers of n-butane will be represented by 36 geometries. However they can be reduced to a much smaller set represented by the local minima. In this case we can select the following three equilibrium geometries: the gauche (+), gauche (-) and the anti, and not 36 positions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/working-set-representative-conformers-12ee539f'><i class='fa fa-play' aria-hidden='true'></i></button>With a resolution of 10&#176; the conformers of n-butane will be represented by 36 geometries. However they can be reduced to a much smaller set represented by the local minima. In this case we can select the following three equilibrium geometries: the gauche (+), gauche (-) and the anti, and not 36 positions.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/3_6_1_1.png){: loading=lazy }
 #### Sildenafil Example
 
-With such a rule, all the "typically different" conformers of the molecule are represented. In the example presented here, instead of studying hundred billions of forms, we now have only to study 8748 (3x3x3x3x3x3x3x4=8748) conformers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/sildenafil-example-ee26fdb6'><i class='fa fa-play' aria-hidden='true'></i></button>With such a rule, all the "typically different" conformers of the molecule are represented. In the example presented here, instead of studying hundred billions of forms, we now have only to study 8748 (3x3x3x3x3x3x3x4=8748) conformers.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/3_6_2_1.png){: loading=lazy }
 ### Family Representatives: Small Rings
 
-Select a given ring size and select the bond multiplicity scheme you want for the ring (i.e. single or double bonds). The  conformations associated to the system you have chosen appear both in 2D (with the signs of the torsion angles) and in 3D.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/family-representatives-small-rings-023ccdca'><i class='fa fa-play' aria-hidden='true'></i></button>Select a given ring size and select the bond multiplicity scheme you want for the ring (i.e. single or double bonds). The  conformations associated to the system you have chosen appear both in 2D (with the signs of the torsion angles) and in 3D.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/alt2_c7_2.gif){: loading=lazy }
 
 ### Family Representatives: Acyclic Bonds
 
-Describe the nature of the central bond atoms and their hybridization. Newman representations appear and are clickable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/family-representatives-acyclic-bonds-1fe74779'><i class='fa fa-play' aria-hidden='true'></i></button>Describe the nature of the central bond atoms and their hybridization. Newman representations appear and are clickable.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/alt2_ab5.gif){: loading=lazy }
@@ -241,7 +241,7 @@ Describe the nature of the central bond atoms and their hybridization. Newman re
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-In drug design applications, the minima and their relative energies are of central importance. The representative forms that are generated correspond to theoretical forms and they are not necessarily at the minimum of their corresponding well. Their energies are meaningless. In order to have meaningful values, one has to relax their geometries to find the point of minimum energy; this treatment is called "minimization".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/consequence-minimization-treatments-53c510d9'><i class='fa fa-play' aria-hidden='true'></i></button>In drug design applications, the minima and their relative energies are of central importance. The representative forms that are generated correspond to theoretical forms and they are not necessarily at the minimum of their corresponding well. Their energies are meaningless. In order to have meaningful values, one has to relax their geometries to find the point of minimum energy; this treatment is called "minimization".
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -252,13 +252,13 @@ In drug design applications, the minima and their relative energies are of centr
 
 ### Example: Analysis of Elementary Fragments
 
-Let us visualize the analysis of methyl-cyclohexene-1-ketone. The carbonyl of the keto group can be either s-trans or s-cis relative to the double bond of the ring. The cyclohexene ring can adopt 4 different conformations (2 chairs and 2 boats).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/example-analysis-elementary-fragments-622fab95'><i class='fa fa-play' aria-hidden='true'></i></button>Let us visualize the analysis of methyl-cyclohexene-1-ketone. The carbonyl of the keto group can be either s-trans or s-cis relative to the double bond of the ring. The cyclohexene ring can adopt 4 different conformations (2 chairs and 2 boats).
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/3_10_0_1.png){: loading=lazy }
 ### Example: Generation of Representative Conformers
 
-The representative geometries of the molecule can be represented by a set of 2x4 = 8 typically different conformers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/example-generation-representative-conformers-a40f67c5'><i class='fa fa-play' aria-hidden='true'></i></button>The representative geometries of the molecule can be represented by a set of 2x4 = 8 typically different conformers.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/3_11_0_1.gif){: loading=lazy }
@@ -266,7 +266,7 @@ The representative geometries of the molecule can be represented by a set of 2x4
 ### Example: Results of Conformational Analysis
 *[Conformational Analysis]: The study of the geometries and their associated energies for a given molecule.
 
-The forms were all minimized and the following relative energies were obtained:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/example-results-conformational-analysis-2b95ab1c'><i class='fa fa-play' aria-hidden='true'></i></button>The forms were all minimized and the following relative energies were obtained:
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
@@ -275,7 +275,7 @@ The forms were all minimized and the following relative energies were obtained:
 ### Conformational Analysis Principles: Summary
 *[Conformational Analysis]: The study of the geometries and their associated energies for a given molecule.
 
-In the great majority of molecules, it is not possible to systematically generate all their conformers. One has to consider a method that produces typically different conformers. They can be generated either by the analysis of their fragments or by random methods (e.g. Monte Carlo). Minimizations procedures then have to be considered for meaningful energy values.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/conformational-analysis-principles-summary-a6b84a0d'><i class='fa fa-play' aria-hidden='true'></i></button>In the great majority of molecules, it is not possible to systematically generate all their conformers. One has to consider a method that produces typically different conformers. They can be generated either by the analysis of their fragments or by random methods (e.g. Monte Carlo). Minimizations procedures then have to be considered for meaningful energy values.
 *[Minimizations]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
@@ -296,7 +296,7 @@ In the great majority of molecules, it is not possible to systematically generat
 ### Definition of the Minimization of a Conformer
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-Minimization treatment consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface. The minimization is terminated when it is not possible to find a conformer of lower energy in the current well considered.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/definition-minimization-conformer-7068471a'><i class='fa fa-play' aria-hidden='true'></i></button>Minimization treatment consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface. The minimization is terminated when it is not possible to find a conformer of lower energy in the current well considered.
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -304,7 +304,7 @@ Minimization treatment consists of successive alterations of the geometry of the
 
 ### Improved Geometries and Good Energies
 
-A non-minimized conformer may be used for rough geometrical analyses but not for energy considerations. A minimized structure is a good model for both the geometry and the energy.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/improved-geometries-good-energies-2aa3391c'><i class='fa fa-play' aria-hidden='true'></i></button>A non-minimized conformer may be used for rough geometrical analyses but not for energy considerations. A minimized structure is a good model for both the geometry and the energy.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/alt5_4_2_0_1.gif){: loading=lazy }
@@ -312,7 +312,7 @@ A non-minimized conformer may be used for rough geometrical analyses but not for
 ### The Minimization Treatment
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-In energy minimization an initial conformation is submitted to full geometry optimization, where all parameters defining the geometry of the system are modified by small increments, until the total energy of the system reaches a minimum.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-treatment-77a42086'><i class='fa fa-play' aria-hidden='true'></i></button>In energy minimization an initial conformation is submitted to full geometry optimization, where all parameters defining the geometry of the system are modified by small increments, until the total energy of the system reaches a minimum.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -321,7 +321,7 @@ In energy minimization an initial conformation is submitted to full geometry opt
 ### How Does Minimization Works?
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-Small modifications of the molecular geometry are considered, if the resulting geometry has a lower energy than the original, then another step is made in the same direction. Otherwise a smaller step in a different direction is carried out. The process is continued until the energy cannot decrease.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/how-does-minimization-works-a411f368'><i class='fa fa-play' aria-hidden='true'></i></button>Small modifications of the molecular geometry are considered, if the resulting geometry has a lower energy than the original, then another step is made in the same direction. Otherwise a smaller step in a different direction is carried out. The process is continued until the energy cannot decrease.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/4_4_0_1.png){: loading=lazy }
@@ -343,7 +343,7 @@ Small modifications of the molecular geometry are considered, if the resulting g
 ### Minimization Methods
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-There are different algorithms for conducting a minimization. For example, for the steepest descent, the conjugated gradients or Newton-Raphson procedures require the calculation of the first or second derivatives of the energy all along the iterative process.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-methods-b0659243'><i class='fa fa-play' aria-hidden='true'></i></button>There are different algorithms for conducting a minimization. For example, for the steepest descent, the conjugated gradients or Newton-Raphson procedures require the calculation of the first or second derivatives of the energy all along the iterative process.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -384,7 +384,7 @@ There are different algorithms for conducting a minimization. For example, for t
     
 ### Many Variables Are Minimized
 
-Bond lengths, bond angles and torsion angles are the variables of the minimization process. The total energy of the following molecule is a function of 132 variables.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/many-variables-are-minimized-ae0d030e'><i class='fa fa-play' aria-hidden='true'></i></button>Bond lengths, bond angles and torsion angles are the variables of the minimization process. The total energy of the following molecule is a function of 132 variables.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -393,7 +393,7 @@ Bond lengths, bond angles and torsion angles are the variables of the minimizati
 ### Minimization is a Time-Consuming Treatment
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-The minimization of one conformer may require thousands of iterations, each one requiring the calculation of the new energy. Moreover the minimization treatment has to be applied thousands of times (one minimization for each conformer generated).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-is-time-consuming-treatment-6b51400d'><i class='fa fa-play' aria-hidden='true'></i></button>The minimization of one conformer may require thousands of iterations, each one requiring the calculation of the new energy. Moreover the minimization treatment has to be applied thousands of times (one minimization for each conformer generated).
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -405,7 +405,7 @@ The minimization of one conformer may require thousands of iterations, each one 
 ### Minimization with Stretching Strain
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-The stretching energy of the starting geometry is extremely high. Press the START button to initiate the minimization process and note the variation of each of the elementary contributions (e.g. stretching, bending, van der Waals) until the lowest energy conformation is reached.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-stretching-strain-13848782'><i class='fa fa-play' aria-hidden='true'></i></button>The stretching energy of the starting geometry is extremely high. Press the START button to initiate the minimization process and note the variation of each of the elementary contributions (e.g. stretching, bending, van der Waals) until the lowest energy conformation is reached.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -413,7 +413,7 @@ The stretching energy of the starting geometry is extremely high. Press the STAR
 ### Minimization with Bending Strain
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-Stretching, bending, and van der Waals energies of the starting geometry are high. Press the START button to initiate the minimization process and note their variation until the lowest energy conformation is reached.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-bending-strain-f22acd0f'><i class='fa fa-play' aria-hidden='true'></i></button>Stretching, bending, and van der Waals energies of the starting geometry are high. Press the START button to initiate the minimization process and note their variation until the lowest energy conformation is reached.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -422,7 +422,7 @@ Stretching, bending, and van der Waals energies of the starting geometry are hig
 ### Minimization with Torsional Strain
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-Torsional and van der Waals energies of the starting geometry are high. Press the START button to initiate the minimization process and note their variation until the lowest energy conformation is reached.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-torsional-strain-fa45a5f1'><i class='fa fa-play' aria-hidden='true'></i></button>Torsional and van der Waals energies of the starting geometry are high. Press the START button to initiate the minimization process and note their variation until the lowest energy conformation is reached.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -431,7 +431,7 @@ Torsional and van der Waals energies of the starting geometry are high. Press th
 ### Minimization with Van der Waals Strain
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-In their initial relative orientations the van der Waals interactions between the two molecules are not optimal. Press the START button to view how the minimization of the entire system achieves better interactions with shorter distances and finally finds the minimum energy.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-van-der-waals-strain-ad738afb'><i class='fa fa-play' aria-hidden='true'></i></button>In their initial relative orientations the van der Waals interactions between the two molecules are not optimal. Press the START button to view how the minimization of the entire system achieves better interactions with shorter distances and finally finds the minimum energy.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -442,7 +442,7 @@ In their initial relative orientations the van der Waals interactions between th
 ### Minimization with Electrostatic Component
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-The electrostatic component of the starting conformer is small and at the end of the minimization, it turns negative (attractions).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-electrostatic-component-42454bfe'><i class='fa fa-play' aria-hidden='true'></i></button>The electrostatic component of the starting conformer is small and at the end of the minimization, it turns negative (attractions).
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -451,7 +451,7 @@ The electrostatic component of the starting conformer is small and at the end of
 ### Minimization with Hydrogen Bond Component
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-Press the START button to view how the minimization process optimizes a favorable intramolecular hydrogen bond.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/minimization-hydrogen-bond-component-6dd4ad26'><i class='fa fa-play' aria-hidden='true'></i></button>Press the START button to view how the minimization process optimizes a favorable intramolecular hydrogen bond.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
 
@@ -459,7 +459,7 @@ Press the START button to view how the minimization process optimizes a favorabl
 
 ### Distribution of Energy Strain
 
-The following example illustrates a case where the strain energy of the starting conformer is high due to severe van der Waals repulsions and can be reduced only with substantial deformations of other components including torsional, stretching and bending energies. In the final minimized conformer, the forces acting on the atoms are all balanced.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/distribution-energy-strain-f8cf1461'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates a case where the strain energy of the starting conformer is high due to severe van der Waals repulsions and can be reduced only with substantial deformations of other components including torsional, stretching and bending energies. In the final minimized conformer, the forces acting on the atoms are all balanced.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -471,7 +471,7 @@ The following example illustrates a case where the strain energy of the starting
 ### Conformational Analysis in Drug Design
 *[Conformational Analysis]: The study of the geometries and their associated energies for a given molecule.
 
-Conformational analysis and drug design are two independent disciplines. They have in common the conformation (and energy) of the bioactive form. Conformational analyses are used to predict the biological properties of candidate prototype structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/conformational-analysis-drug-design-d71b7277'><i class='fa fa-play' aria-hidden='true'></i></button>Conformational analysis and drug design are two independent disciplines. They have in common the conformation (and energy) of the bioactive form. Conformational analyses are used to predict the biological properties of candidate prototype structures.
 *[Conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 
 
@@ -479,7 +479,7 @@ Conformational analysis and drug design are two independent disciplines. They ha
 
 ### Energy of the Bioactive Form
 
-In order to be able to assess the population of the bioactive form, it is necessary to know the energy of the global minimum of the molecule concerned. This requires conformational analysis studies.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/energy-bioactive-form-d3c13d35'><i class='fa fa-play' aria-hidden='true'></i></button>In order to be able to assess the population of the bioactive form, it is necessary to know the energy of the global minimum of the molecule concerned. This requires conformational analysis studies.
 *[conformational analysis]: The study of the geometries and their associated energies for a given molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -491,7 +491,7 @@ In order to be able to assess the population of the bioactive form, it is necess
 ### Low Energy of the Bioactive Conformation
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-The difference of energy between the bioactive conformation and the conformation found in the crystal is generally less than 13 kJ/mol; this can be understood in the framework of the "induced-fit" theory.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/low-energy-bioactive-conformation-b2bad17b'><i class='fa fa-play' aria-hidden='true'></i></button>The difference of energy between the bioactive conformation and the conformation found in the crystal is generally less than 13 kJ/mol; this can be understood in the framework of the "induced-fit" theory.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -509,7 +509,7 @@ The difference of energy between the bioactive conformation and the conformation
 ### Geometry of the Bioactive Conformation
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-The geometry of the bioactive conformation of a molecule can be very different from the conformation of the isolated molecule in solution or in the crystal, let alone the isolated (in vacuo) state given by energy minimization. The example shown here illustrates the case of methotrexate where the conformation of the free molecule is shown in white, and in blue when the molecule is bound to its biological target.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/geometry-bioactive-conformation-cae1b89c'><i class='fa fa-play' aria-hidden='true'></i></button>The geometry of the bioactive conformation of a molecule can be very different from the conformation of the isolated molecule in solution or in the crystal, let alone the isolated (in vacuo) state given by energy minimization. The example shown here illustrates the case of methotrexate where the conformation of the free molecule is shown in white, and in blue when the molecule is bound to its biological target.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -532,7 +532,7 @@ The geometry of the bioactive conformation of a molecule can be very different f
 ### The Experienced Molecular Modeler
 *[nce]: New Chemical Entity: a compound not previously described.
 
-A good molecular modeler can intelligently save time-consuming treatments. He can judge, assess, and estimate using the 3D manipulation of a mechanical molecular model until he feels that a calculation is needed. For example, an experienced modeler can easily guess the geometry of the global minimum of a molecule and possibly minimize 5-10 different candidate geometries instead of the thousands that would be needed in a fully computerized study. He will use the computerized treatments for clarifying features that are beyond the things he knows.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/experienced-molecular-modeler-c9861e0c'><i class='fa fa-play' aria-hidden='true'></i></button>A good molecular modeler can intelligently save time-consuming treatments. He can judge, assess, and estimate using the 3D manipulation of a mechanical molecular model until he feels that a calculation is needed. For example, an experienced modeler can easily guess the geometry of the global minimum of a molecule and possibly minimize 5-10 different candidate geometries instead of the thousands that would be needed in a fully computerized study. He will use the computerized treatments for clarifying features that are beyond the things he knows.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[global minimum]: The global minimum of a function is the smallest value it takes on over its entire range of possibilities
@@ -550,7 +550,7 @@ A good molecular modeler can intelligently save time-consuming treatments. He ca
 ### Common Errors Made with Minimization
 *[Minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 
-Among the common errors that are observed in the use of molecular modeling systems is the belief that a minimized conformer has a "quality label" of validity. This is not true. The minimum obtained depends on the initial conformation that has been used. Although 'improved' by the minimization treatment, this is not sufficient. What is important is the location of this conformation with respect to the low energy minima, including the global minimum of the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/common-errors-made-minimization-75b0b919'><i class='fa fa-play' aria-hidden='true'></i></button>Among the common errors that are observed in the use of molecular modeling systems is the belief that a minimized conformer has a "quality label" of validity. This is not true. The minimum obtained depends on the initial conformation that has been used. Although 'improved' by the minimization treatment, this is not sufficient. What is important is the location of this conformation with respect to the low energy minima, including the global minimum of the molecule.
 *[molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -568,14 +568,14 @@ Among the common errors that are observed in the use of molecular modeling syste
     
 #### Example 1
 
-This is an example of a minimized molecule corresponding to an input conformation introduced by the modeler. The problem is that the "cis" conformation of an acyclic ester is almost inexistent; the "trans" form is by far the preferred one. The population of this conformation visualized here is close to 0%. The same can also be said for amide bonds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/example-1-ad9f79f4'><i class='fa fa-play' aria-hidden='true'></i></button>This is an example of a minimized molecule corresponding to an input conformation introduced by the modeler. The problem is that the "cis" conformation of an acyclic ester is almost inexistent; the "trans" form is by far the preferred one. The population of this conformation visualized here is close to 0%. The same can also be said for amide bonds.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/snap_v1_b5_6_6_2.gif){: loading=lazy }
 
 #### Example 2
 
-The following is a representation of a minimized conformation of a molecule where two bulky groups are in a 1-3 diaxial orientation. The molecule will not stay in this conformation. The cyclohexane ring will change its conformation and adopt the alternative chair conformer in which the two substituents will be both in an equatorial orientation. The population of the conformation visualized here is close to 0%.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/example-2-99583f88'><i class='fa fa-play' aria-hidden='true'></i></button>The following is a representation of a minimized conformation of a molecule where two bulky groups are in a 1-3 diaxial orientation. The molecule will not stay in this conformation. The cyclohexane ring will change its conformation and adopt the alternative chair conformer in which the two substituents will be both in an equatorial orientation. The population of the conformation visualized here is close to 0%.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/snap_v1_b5_6_6_3.gif){: loading=lazy }
@@ -586,7 +586,7 @@ The following is a representation of a minimized conformation of a molecule wher
 ### Molecular Dynamics
 *[Molecular Dynamics]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-Molecular dynamics provide an alternative approach to determine the preferred conformers and the global minimum of a molecule. This is achieved by the simulation of the dynamical motions of the molecule as it vibrates and undergoes internal rotation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/molecular-dynamics-cc82c218'><i class='fa fa-play' aria-hidden='true'></i></button>Molecular dynamics provide an alternative approach to determine the preferred conformers and the global minimum of a molecule. This is achieved by the simulation of the dynamical motions of the molecule as it vibrates and undergoes internal rotation.
 *[Molecular dynamics]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 *[global minimum]: The global minimum of a function is the smallest value it takes on over its entire range of possibilities
 
@@ -595,7 +595,7 @@ Molecular dynamics provide an alternative approach to determine the preferred co
 
 ### Theoretical Basis of Molecular Dynamic Calculations
 
-Molecular dynamics is an extension of the molecular mechanics approach and based on the idea that the atoms of the molecule feel forces and want to move. Each atom is treated as a particle responding to Newton's equations of motion. Integration of these equations with successive time steps lead to the trajectory of the atoms over time in the form of a list of positions and velocities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/theoretical-basis-molecular-dynamic-calculations-6269b0a9'><i class='fa fa-play' aria-hidden='true'></i></button>Molecular dynamics is an extension of the molecular mechanics approach and based on the idea that the atoms of the molecule feel forces and want to move. Each atom is treated as a particle responding to Newton's equations of motion. Integration of these equations with successive time steps lead to the trajectory of the atoms over time in the form of a list of positions and velocities.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[Molecular dynamics]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 *[molecular mechanics]: Molecular mechanics is a is a computer simulation technique for modeling the molecular geometry and energy of a system based on the energy minimization of its potential energy function. The set of potential functions used to calculate the energy is known as the force-field.
@@ -613,7 +613,7 @@ Molecular dynamics is an extension of the molecular mechanics approach and based
 ### Local Minima and Global Minimum
 *[Global Minimum]: The global minimum of a function is the smallest value it takes on over its entire range of possibilities
 
-Molecular dynamic simulations can be used to obtain low energy conformers. The simulations can run with differing temperatures to obtain different families of conformers. At higher temperatures, more conformers are possible and it becomes feasible to cross energy barriers. Current methodology and computer capabilities do not allow the sampling of the conformational space of large molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/local-minima-global-minimum-939fa0d3'><i class='fa fa-play' aria-hidden='true'></i></button>Molecular dynamic simulations can be used to obtain low energy conformers. The simulations can run with differing temperatures to obtain different families of conformers. At higher temperatures, more conformers are possible and it becomes feasible to cross energy barriers. Current methodology and computer capabilities do not allow the sampling of the conformational space of large molecules.
 
 
 ![](https://media.drugdesign.org/course/conformational-analysis/7_3_0_1.gif){: loading=lazy }
@@ -632,7 +632,7 @@ Molecular dynamic simulations can be used to obtain low energy conformers. The s
     
 ### Simulated Annealing, a Special Type of Dynamics
 
-Simulated annealing is a technique where the molecule is heated and then cooled very slowly so that conformational changes occurring will be at a local minimum. This process is generally repeated many times until several very closely related and low energy conformations are obtained. The conformer of lowest energy is assumed to be global minimum.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/simulated-annealing-special-type-dynamics-ca55b4d2'><i class='fa fa-play' aria-hidden='true'></i></button>Simulated annealing is a technique where the molecule is heated and then cooled very slowly so that conformational changes occurring will be at a local minimum. This process is generally repeated many times until several very closely related and low energy conformations are obtained. The conformer of lowest energy is assumed to be global minimum.
 *[global minimum]: The global minimum of a function is the smallest value it takes on over its entire range of possibilities
 
 
@@ -640,7 +640,7 @@ Simulated annealing is a technique where the molecule is heated and then cooled 
 
 ### Coherency of Molecular Motions
 
-The motions of the atoms and chemical groups obtained by molecular dynamics simulation reveal subtle underlying molecular machinery. In the beginning of the simulation, the motions are frequently interrupted by collisions with neighboring groups and each group seems to have an erratic trajectory. However, over longer periods of time, coherent and collective motions start to develop, revealing how some groups can fluctuate somewhat more than others.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/coherency-molecular-motions-d071c0a8'><i class='fa fa-play' aria-hidden='true'></i></button>The motions of the atoms and chemical groups obtained by molecular dynamics simulation reveal subtle underlying molecular machinery. In the beginning of the simulation, the motions are frequently interrupted by collisions with neighboring groups and each group seems to have an erratic trajectory. However, over longer periods of time, coherent and collective motions start to develop, revealing how some groups can fluctuate somewhat more than others.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[molecular dynamics]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 *[trajectory]: Trajectory = positions + velocities.
@@ -658,7 +658,7 @@ The motions of the atoms and chemical groups obtained by molecular dynamics simu
 ### A Typical Molecular Dynamics Run
 *[Molecular Dynamics]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
-Typically one can generate about 100 conformations and minimize them with molecular mechanics. The minimized forms are used as starting points for dynamics simulation varying the time and temperature. For each starting point, a number of steps of dynamics at 1 femtosecond intervals are made; the coordinates and energy of each point are recorded. The conformation representing every picosecond steps is saved, and finally, at the end of the study, the atoms' trajectories can be displayed as a movie by quickly displaying the sequence of individual frames. Throughout the treatments, conformers with low energies are saved (coordinates and energies).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='conformational-analysis/typical-molecular-dynamics-run-96b154a4'><i class='fa fa-play' aria-hidden='true'></i></button>Typically one can generate about 100 conformations and minimize them with molecular mechanics. The minimized forms are used as starting points for dynamics simulation varying the time and temperature. For each starting point, a number of steps of dynamics at 1 femtosecond intervals are made; the coordinates and energy of each point are recorded. The conformation representing every picosecond steps is saved, and finally, at the end of the study, the atoms' trajectories can be displayed as a movie by quickly displaying the sequence of individual frames. Throughout the treatments, conformers with low energies are saved (coordinates and energies).
 *[nce]: New Chemical Entity: a compound not previously described.
 *[molecular mechanics]: Molecular mechanics is a is a computer simulation technique for modeling the molecular geometry and energy of a system based on the energy minimization of its potential energy function. The set of potential functions used to calculate the energy is known as the force-field.
 *[trajectories]: Trajectory = positions + velocities.
@@ -669,4 +669,5 @@ Typically one can generate about 100 conformations and minimize them with molecu
 
 ![](https://media.drugdesign.org/course/conformational-analysis/7_6_0_1.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

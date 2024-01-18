@@ -15,7 +15,7 @@
 
 ### Captopril
 
-Captopril was the first angiotensin-converting enzyme (ACE) inhibitor to be marketed (1981). The therapeutic concept, which aimed at reducing blood pressure by blocking the formation of the potent pressor agent angiotensin II from angiotensin I, through the inhibition of the Angiotensin Converting Enzyme, proved to be successful and was the foundation of an entirely new class of orally active antihypertensive drugs: the ACE inhibitors. The Captopril story is outlined in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/captopril-070180bf'><i class='fa fa-play' aria-hidden='true'></i></button>Captopril was the first angiotensin-converting enzyme (ACE) inhibitor to be marketed (1981). The therapeutic concept, which aimed at reducing blood pressure by blocking the formation of the potent pressor agent angiotensin II from angiotensin I, through the inhibition of the Angiotensin Converting Enzyme, proved to be successful and was the foundation of an entirely new class of orally active antihypertensive drugs: the ACE inhibitors. The Captopril story is outlined in the following pages.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -28,7 +28,7 @@ Captopril was the first angiotensin-converting enzyme (ACE) inhibitor to be mark
     
 ### Captopril Target - ACE
 
-The angiotensin converting enzyme (ACE) is the exopeptidase that catalyzes the production of angiotensin II through removal of the terminal dipeptide of angiotensin I. Angiotensin II causes potent vasoconstriction, a release of aldosterone and an increase in sodium absorption, all of which contribute to elevated blood pressure. Inhibiting ACE reduces production of Angiotensin II is therefore an ideal means of treating high blood pressure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/captopril-target---ace-28982e18'><i class='fa fa-play' aria-hidden='true'></i></button>The angiotensin converting enzyme (ACE) is the exopeptidase that catalyzes the production of angiotensin II through removal of the terminal dipeptide of angiotensin I. Angiotensin II causes potent vasoconstriction, a release of aldosterone and an increase in sodium absorption, all of which contribute to elevated blood pressure. Inhibiting ACE reduces production of Angiotensin II is therefore an ideal means of treating high blood pressure.
 
 
 === "Renin cascade"
@@ -41,13 +41,13 @@ The angiotensin converting enzyme (ACE) is the exopeptidase that catalyzes the p
     
 ### Starting Point: Venom Causes Drop in Blood Pressure
 
-Intrigued by the drastic drop in blood pressure observed in a person bitten by a Brazilian viper, a team led by Rocha e Silva extracted the viper's venom to study its properties. One of Rocha e Silva's postdoctoral students went to London with samples of venom in the mid 1960s to work in the laboratory of Sir John Vane, who at that time was actively involved in the study of angiotensin I, angiotensin II and ACE.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/starting-point-venom-causes-drop-blood-pressure-28e3a184'><i class='fa fa-play' aria-hidden='true'></i></button>Intrigued by the drastic drop in blood pressure observed in a person bitten by a Brazilian viper, a team led by Rocha e Silva extracted the viper's venom to study its properties. One of Rocha e Silva's postdoctoral students went to London with samples of venom in the mid 1960s to work in the laboratory of Sir John Vane, who at that time was actively involved in the study of angiotensin I, angiotensin II and ACE.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_starting_point.png){: loading=lazy }
 #### Snake Venom Acts on the ACE Cascade
 
-There were great reservations at that time about the role of Angiotensin I and II in hypertension but while studying the effects of the venom on the angiotensin system, Vane and Bakhle showed in 1968 that something in the venom appeared to be a potent inhibitor of ACE. Realizing that this discovery could be of importance in treating cardiovascular diseases, Vane, who was a consultant to the U.S. pharmaceutical company Squibb, suggested that they study the effects of the snake venom in order to find out whether angiotensin II was involved in regulating blood pressure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/snake-venom-acts-on-ace-cascade-b8c1f5cb'><i class='fa fa-play' aria-hidden='true'></i></button>There were great reservations at that time about the role of Angiotensin I and II in hypertension but while studying the effects of the venom on the angiotensin system, Vane and Bakhle showed in 1968 that something in the venom appeared to be a potent inhibitor of ACE. Realizing that this discovery could be of importance in treating cardiovascular diseases, Vane, who was a consultant to the U.S. pharmaceutical company Squibb, suggested that they study the effects of the snake venom in order to find out whether angiotensin II was involved in regulating blood pressure.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -55,7 +55,7 @@ There were great reservations at that time about the role of Angiotensin I and I
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_ace.png){: loading=lazy }
 ### The Captopril Story
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/captopril-story-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -76,14 +76,14 @@ There were great reservations at that time about the role of Angiotensin I and I
     
 #### Developing an Assay for ACE
 
-Despite great reluctance on the part of the Squibb research management, Cushman and Ondetti, an enzymologist and a synthetic peptide chemist, were finally put to work. Cushman began working at the Squibb institute in 1968 and had formulated the first quantitative assay for ACE. Cushman and Ondetti hypothesized that ACE was a zinc metalloprotease with a zinc ion at the heart of its enzymatic protein-cleavage action, based on early studies that had shown its inhibition using chelating agents such as EDTA and its reactivation using various divalent metal ions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/developing-an-assay-for-ace-7f29f355'><i class='fa fa-play' aria-hidden='true'></i></button>Despite great reluctance on the part of the Squibb research management, Cushman and Ondetti, an enzymologist and a synthetic peptide chemist, were finally put to work. Cushman began working at the Squibb institute in 1968 and had formulated the first quantitative assay for ACE. Cushman and Ondetti hypothesized that ACE was a zinc metalloprotease with a zinc ion at the heart of its enzymatic protein-cleavage action, based on early studies that had shown its inhibition using chelating agents such as EDTA and its reactivation using various divalent metal ions.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_assay.png){: loading=lazy }
 #### Isolating and Purifying the Venom Peptides
 
-In 1970, they successfully isolated and purified six venom peptides that caused ACE inhibition, amongst them the peptide with the best duration of action, which was later called teprotide. They subsequently determined its chemical structure, a nona-peptide (9 amino acids) shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/isolating-purifying-venom-peptides-6bcd0e05'><i class='fa fa-play' aria-hidden='true'></i></button>In 1970, they successfully isolated and purified six venom peptides that caused ACE inhibition, amongst them the peptide with the best duration of action, which was later called teprotide. They subsequently determined its chemical structure, a nona-peptide (9 amino acids) shown below.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_isolation.png){: loading=lazy }
@@ -96,7 +96,7 @@ In 1970, they successfully isolated and purified six venom peptides that caused 
     
 #### Encouraging Clinical Trial Results
 
-A synthetic form of the teprotide entered into clinical trials where it was intravenously administered to patients. The first results were very encouraging as the compound had a blood pressure-lowering effect and confirmed the therapeutic validity of the project: ACE inhibitors could potentially be used as antihypertensive drugs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/encouraging-clinical-trial-results-8ae6ae85'><i class='fa fa-play' aria-hidden='true'></i></button>A synthetic form of the teprotide entered into clinical trials where it was intravenously administered to patients. The first results were very encouraging as the compound had a blood pressure-lowering effect and confirmed the therapeutic validity of the project: ACE inhibitors could potentially be used as antihypertensive drugs.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -111,7 +111,7 @@ A synthetic form of the teprotide entered into clinical trials where it was intr
     
 #### Project Virtually Abandoned at Squibb
 
-Despite the promising blood pressure-lowering capability of teprotide, the peptide had low oral bioavailability due to its large size, which meant that it was unsuitable for development as a drug for chronic hypertension. Further peptidomimetic efforts and random screening of thousands of compounds did not yield a better candidate. The ACE-inhibitor project at Squibb was thus halted in 1972.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/project-virtually-abandoned-at-squibb-ef5a2c6e'><i class='fa fa-play' aria-hidden='true'></i></button>Despite the promising blood pressure-lowering capability of teprotide, the peptide had low oral bioavailability due to its large size, which meant that it was unsuitable for development as a drug for chronic hypertension. Further peptidomimetic efforts and random screening of thousands of compounds did not yield a better candidate. The ACE-inhibitor project at Squibb was thus halted in 1972.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -124,7 +124,7 @@ Despite the promising blood pressure-lowering capability of teprotide, the pepti
     
 #### Back to the Project
 
-In March 1974, Miguel Ondetti and David Cushman came across a publication by Byers and Wolfenden that detailed a new potent inhibitor of Carboxypeptidase-A (CPA): benzylsuccinic acid. They were very excited by this paper because CPA was a zinc-metalloprotease, as they had considered ACE to be. The new inhibitor of CPA combined in one molecule an analog of the terminal amino acid cleaved off during hydrolysis of the substrate and the liberated terminal carboxyl group of the other product. It was referred to as a bi-product inhibitor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/back-to-project-b2012b1f'><i class='fa fa-play' aria-hidden='true'></i></button>In March 1974, Miguel Ondetti and David Cushman came across a publication by Byers and Wolfenden that detailed a new potent inhibitor of Carboxypeptidase-A (CPA): benzylsuccinic acid. They were very excited by this paper because CPA was a zinc-metalloprotease, as they had considered ACE to be. The new inhibitor of CPA combined in one molecule an analog of the terminal amino acid cleaved off during hydrolysis of the substrate and the liberated terminal carboxyl group of the other product. It was referred to as a bi-product inhibitor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -144,7 +144,7 @@ In March 1974, Miguel Ondetti and David Cushman came across a publication by Bye
 #### Applying the Concepts to ACE
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Cushman and Ondetti returned to the ACE inhibitor project. This time around, rather than focusing on the structure of potential inhibitors, they decided to concentrate more on the structure of the active site of ACE based on its assumed similarity to CPA. Rather they imagined a new structure that in one molecule brought together some important elements present in both the snake venom and in the recently published CPA inhibitor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/applying-concepts-to-ace-a7f26097'><i class='fa fa-play' aria-hidden='true'></i></button>Cushman and Ondetti returned to the ACE inhibitor project. This time around, rather than focusing on the structure of potential inhibitors, they decided to concentrate more on the structure of the active site of ACE based on its assumed similarity to CPA. Rather they imagined a new structure that in one molecule brought together some important elements present in both the snake venom and in the recently published CPA inhibitor.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -153,7 +153,7 @@ Cushman and Ondetti returned to the ACE inhibitor project. This time around, rat
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_concept5.png){: loading=lazy }
 #### The Basis of ACE and CPA Similarity
 
-The basis for the assumption that ACE was like CPA was that they were both: (1) inhibited by metal chelating agents, (2) reactivated by manganese, zinc and cobalt, and (3) unable to cleave substrate analogs that possessed a terminal carboxamide-dicarboxylic amino acid.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/basis-ace-cpa-similarity-86296793'><i class='fa fa-play' aria-hidden='true'></i></button>The basis for the assumption that ACE was like CPA was that they were both: (1) inhibited by metal chelating agents, (2) reactivated by manganese, zinc and cobalt, and (3) unable to cleave substrate analogs that possessed a terminal carboxamide-dicarboxylic amino acid.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -161,7 +161,7 @@ The basis for the assumption that ACE was like CPA was that they were both: (1) 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_sbbd1.png){: loading=lazy }
 #### X-ray Structure of CPA
 
-Despite the small number of three-dimensional protein structures that had been determined by X-ray crystallography at that time, the structure of CPA had fortunately been discovered by Quiocho and Lipscomb in 1967. The knowledge of this structure was crucial to the development of a conceptual model of ACE's active site by Cushman and Ondetti.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/x-ray-structure-cpa-ed620058'><i class='fa fa-play' aria-hidden='true'></i></button>Despite the small number of three-dimensional protein structures that had been determined by X-ray crystallography at that time, the structure of CPA had fortunately been discovered by Quiocho and Lipscomb in 1967. The knowledge of this structure was crucial to the development of a conceptual model of ACE's active site by Cushman and Ondetti.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -193,7 +193,7 @@ Despite the small number of three-dimensional protein structures that had been d
     
 #### Modeling the Active Site of ACE (1/4)
 
-Cushman and Ondetti constructed a conceptual model of the active site of ACE based on comparison with CPA. They concluded that the proposed active site of ACE had to possess the following characteristics: (1) A positively charged residue at the active site (analogous to Arg-145 of carboxypeptidase-A) which should bind with the negatively charged carboxyl group at the C-terminal of a peptide substrate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/modeling-active-site-ace-14-e6f1c2a7'><i class='fa fa-play' aria-hidden='true'></i></button>Cushman and Ondetti constructed a conceptual model of the active site of ACE based on comparison with CPA. They concluded that the proposed active site of ACE had to possess the following characteristics: (1) A positively charged residue at the active site (analogous to Arg-145 of carboxypeptidase-A) which should bind with the negatively charged carboxyl group at the C-terminal of a peptide substrate.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -201,19 +201,19 @@ Cushman and Ondetti constructed a conceptual model of the active site of ACE bas
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_m_active_site.png){: loading=lazy }
 ##### Modeling the Active Site of ACE (2/4)
 
-(2) The zinc-ion of ACE, which is responsible for cleavage of the terminal dipeptide of angiotensin I, had to be bound to the enzyme at a place which is a dipeptide-length away from the aforementioned positively charged residue, unlike that of CPA which is a single amino-acid-length away
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/modeling-active-site-ace-24-0b1f3e71'><i class='fa fa-play' aria-hidden='true'></i></button>(2) The zinc-ion of ACE, which is responsible for cleavage of the terminal dipeptide of angiotensin I, had to be bound to the enzyme at a place which is a dipeptide-length away from the aforementioned positively charged residue, unlike that of CPA which is a single amino-acid-length away
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_m_active_site2.png){: loading=lazy }
 ##### Modeling the Active Site of ACE (3/4)
 
-(3) ACE, unlike CPA, showed no specificity for C-terminal hydrophobic amino acids and was therefore not expected to have a hydrophobic binding pocket as CPA does.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/modeling-active-site-ace-34-a0bffee4'><i class='fa fa-play' aria-hidden='true'></i></button>(3) ACE, unlike CPA, showed no specificity for C-terminal hydrophobic amino acids and was therefore not expected to have a hydrophobic binding pocket as CPA does.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_m_active_site3.png){: loading=lazy }
 ##### Modeling the Active Site of ACE (4/4)
 
-(4) The ACE active site was presumed to contain a hydrogen-bond donor residue between the R1 and R2 binding pockets that would bind to the terminal, non-scissile, peptide bond of the substrate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/modeling-active-site-ace-44-2f121ab3'><i class='fa fa-play' aria-hidden='true'></i></button>(4) The ACE active site was presumed to contain a hydrogen-bond donor residue between the R1 and R2 binding pockets that would bind to the terminal, non-scissile, peptide bond of the substrate.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -221,7 +221,7 @@ Cushman and Ondetti constructed a conceptual model of the active site of ACE bas
 #### Design of a Novel ACE Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Using the information they had gathered about the new CPA inhibitor and the characteristics of the active site, they surmised that the succinyl carboxyl group of the CPA inhibitor, benzyl succinic acid, would most likely interact with the central catalytic zinc ion of CPA. They further hypothesized that a succinylamino acid derivative, whose structure was similar to the dipeptide product of ACE action and had an additional zinc-binding succinyl carboxyl group, might inhibit ACE specifically.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/design-novel-ace-inhibitor-405c336e'><i class='fa fa-play' aria-hidden='true'></i></button>Using the information they had gathered about the new CPA inhibitor and the characteristics of the active site, they surmised that the succinyl carboxyl group of the CPA inhibitor, benzyl succinic acid, would most likely interact with the central catalytic zinc ion of CPA. They further hypothesized that a succinylamino acid derivative, whose structure was similar to the dipeptide product of ACE action and had an additional zinc-binding succinyl carboxyl group, might inhibit ACE specifically.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -229,7 +229,7 @@ Using the information they had gathered about the new CPA inhibitor and the char
 #### The Phe-Ala-Pro Pharmacophore
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-At the first instance, this led them to succinyl proline, whose succinyl carboxyl group, they thought, would interact with the catalytic zinc ion. When tested, this compound did not have particularly good inhibitory properties but encouragingly, did have specificity for ACE. At the time that teprotide had been discovered, Cushman and Ondetti had carried out structure-activity studies on numerous venom peptides and their synthetic analogs; it emerged that a number of compounds that competitively inhibited ACE possessed the C-terminal amino acid sequence "Phe-Ala-Pro".
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/phe-ala-pro-pharmacophore-3e4c522f'><i class='fa fa-play' aria-hidden='true'></i></button>At the first instance, this led them to succinyl proline, whose succinyl carboxyl group, they thought, would interact with the catalytic zinc ion. When tested, this compound did not have particularly good inhibitory properties but encouragingly, did have specificity for ACE. At the time that teprotide had been discovered, Cushman and Ondetti had carried out structure-activity studies on numerous venom peptides and their synthetic analogs; it emerged that a number of compounds that competitively inhibited ACE possessed the C-terminal amino acid sequence "Phe-Ala-Pro".
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -240,7 +240,7 @@ At the first instance, this led them to succinyl proline, whose succinyl carboxy
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_phe_ala_pro.png){: loading=lazy }
 #### Finding a Lead Compound
 
-Exploiting this optimal inhibitory "Phe-Ala-Pro" pharmacophore, Cushman and Ondetti subsequently synthesized the compound 2-methyl succinyl proline, which mimicked the terminal dipeptide Ala-Pro and still possessed a zinc-binding carboxyl group. This displayed better inhibition of ACE than succinyl proline and became the new lead compound.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/finding-lead-compound-ec21289a'><i class='fa fa-play' aria-hidden='true'></i></button>Exploiting this optimal inhibitory "Phe-Ala-Pro" pharmacophore, Cushman and Ondetti subsequently synthesized the compound 2-methyl succinyl proline, which mimicked the terminal dipeptide Ala-Pro and still possessed a zinc-binding carboxyl group. This displayed better inhibition of ACE than succinyl proline and became the new lead compound.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -248,7 +248,7 @@ Exploiting this optimal inhibitory "Phe-Ala-Pro" pharmacophore, Cushman and Onde
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_back4.png){: loading=lazy }
 #### The Discovery of Captopril
 
-During the subsequent optimization of this lead more than 60 different analogs were synthesized and tested by Cushman and Ondetti for their inhibition of ACE. They finally discovered the potent ACE inhibitor shown below, later named Captopril. The replacement of the carboxylate (expected to interact with the zinc atom) with a thiol group proved to be 1000 times more potent in inhibiting the enzyme than 2-methyl succinyl proline and 10-20 times more potent than the venom peptide, teprotide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/discovery-captopril-547cca4a'><i class='fa fa-play' aria-hidden='true'></i></button>During the subsequent optimization of this lead more than 60 different analogs were synthesized and tested by Cushman and Ondetti for their inhibition of ACE. They finally discovered the potent ACE inhibitor shown below, later named Captopril. The replacement of the carboxylate (expected to interact with the zinc atom) with a thiol group proved to be 1000 times more potent in inhibiting the enzyme than 2-methyl succinyl proline and 10-20 times more potent than the venom peptide, teprotide.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -257,14 +257,14 @@ During the subsequent optimization of this lead more than 60 different analogs w
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_discovery.png){: loading=lazy }
 ### The Captopril Project Timeline
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/captopril-project-timeline-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_timeline.png){: loading=lazy }
 ### What Made the Success of the Project Possible?
 
-If we try to retrospectively understand how this project turned into a success story despite the management's decision to stop it, aside from the persistence of the authors to continue searching, the major factors that contributed to the discovery of Captopril were the effective use of structure-based and ligand-based design approaches, as explained in the following pages. Note that serendipity also played a small part.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/what-made-success-project-possible-79a45d47'><i class='fa fa-play' aria-hidden='true'></i></button>If we try to retrospectively understand how this project turned into a success story despite the management's decision to stop it, aside from the persistence of the authors to continue searching, the major factors that contributed to the discovery of Captopril were the effective use of structure-based and ligand-based design approaches, as explained in the following pages. Note that serendipity also played a small part.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -272,7 +272,7 @@ If we try to retrospectively understand how this project turned into a success s
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_comp.png){: loading=lazy }
 #### Structure-Based Component
 
-Positive results were only achieved once Cushman and Ondetti changed their focus from the structure of known inhibitors to trying to understand the nature of the active site of ACE and its biological activity in terms of geometrical binding to the enzyme. The Captopril story is considered to be the first structure-based drug design project; their hypothetical model of the active site of angiotensin-converting enzyme was used to guide the design of potential small molecule inhibitors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/structure-based-component-c46a6785'><i class='fa fa-play' aria-hidden='true'></i></button>Positive results were only achieved once Cushman and Ondetti changed their focus from the structure of known inhibitors to trying to understand the nature of the active site of ACE and its biological activity in terms of geometrical binding to the enzyme. The Captopril story is considered to be the first structure-based drug design project; their hypothetical model of the active site of angiotensin-converting enzyme was used to guide the design of potential small molecule inhibitors.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -283,7 +283,7 @@ Positive results were only achieved once Cushman and Ondetti changed their focus
 #### Ligand-Based Component
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-The structure activity studies that were carried out on the venom peptides and their synthetic analogs led to the identification of the pharmacophoric element (Phe-Ala-Pro). More importantly, the discovery of Benzylsuccinic acid, the Carboxypeptidase-A inhibitor described in the 1974 paper, was proven to be a crucial step in enabling the Squibb team to obtain an orally available drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/ligand-based-component-261f4544'><i class='fa fa-play' aria-hidden='true'></i></button>The structure activity studies that were carried out on the venom peptides and their synthetic analogs led to the identification of the pharmacophoric element (Phe-Ala-Pro). More importantly, the discovery of Benzylsuccinic acid, the Carboxypeptidase-A inhibitor described in the 1974 paper, was proven to be a crucial step in enabling the Squibb team to obtain an orally available drug.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -295,14 +295,14 @@ The structure activity studies that were carried out on the venom peptides and t
     ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_comp3.png){: loading=lazy }
 ### Following the Discovery
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/following-discovery-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/captopril_following.png){: loading=lazy }
 #### Recent Structure of Captopril-ACE Complex
 
-Although conceived from a structure-based perspective, the first X-ray complexes of inhibitors of ACE appeared only recently. The thiol group was found to bind to a Zinc atom and the carboxyl group forms hydrogen bonds with three residues: Lys-551, Tyr-520 and Gln-281 (and not arginine, as imagined 30 years earlier). It is interesting to note that the study reveals that the ACE protein actually bears little 3D similarity to that of carboxypeptidase-A.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/recent-structure-captopril-ace-complex-670f1e4c'><i class='fa fa-play' aria-hidden='true'></i></button>Although conceived from a structure-based perspective, the first X-ray complexes of inhibitors of ACE appeared only recently. The thiol group was found to bind to a Zinc atom and the carboxyl group forms hydrogen bonds with three residues: Lys-551, Tyr-520 and Gln-281 (and not arginine, as imagined 30 years earlier). It is interesting to note that the study reveals that the ACE protein actually bears little 3D similarity to that of carboxypeptidase-A.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -322,7 +322,7 @@ Although conceived from a structure-based perspective, the first X-ray complexes
     
 ### Other Drugs in This Class
 
-The design of Captopril enabled other companies to develop further ACE inhibitors for treatment of hypertension, some of them are shown below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/other-drugs-this-class-2248042e'><i class='fa fa-play' aria-hidden='true'></i></button>The design of Captopril enabled other companies to develop further ACE inhibitors for treatment of hypertension, some of them are shown below.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -350,7 +350,7 @@ The design of Captopril enabled other companies to develop further ACE inhibitor
 
 ### Aliskiren
 
-Aliskiren (Tekturna, Rasilez) is the prototype of an entirely new class of antihypertensive drugs acting through the inhibition of the enzyme Renin and was introduced to the market in 2007. The Aliskiren story is presented in the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/aliskiren-4ab9ffdf'><i class='fa fa-play' aria-hidden='true'></i></button>Aliskiren (Tekturna, Rasilez) is the prototype of an entirely new class of antihypertensive drugs acting through the inhibition of the enzyme Renin and was introduced to the market in 2007. The Aliskiren story is presented in the following pages.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_00.png){: loading=lazy }
@@ -379,7 +379,7 @@ Aliskiren (Tekturna, Rasilez) is the prototype of an entirely new class of antih
     
 ### Aliskiren Target - Renin
 
-Renin is secreted from the kidneys in response to a reduction in renal filtration pressure. The enzyme is found at the start of the Renin-Angiotensin cascade and is responsible for hydrolyzing Angiotensinogen, produced by the liver, to Angiotensin I. Angiotensin I is subsequently converted into Angiotensin II, which causes potent vasoconstriction, a release of aldosterone and an increase in sodium absorption, all of which contribute to elevated blood pressure. Renin inhibition was therefore thought to be an excellent means of reducing hypertension.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/aliskiren-target---renin-41cd6c44'><i class='fa fa-play' aria-hidden='true'></i></button>Renin is secreted from the kidneys in response to a reduction in renal filtration pressure. The enzyme is found at the start of the Renin-Angiotensin cascade and is responsible for hydrolyzing Angiotensinogen, produced by the liver, to Angiotensin I. Angiotensin I is subsequently converted into Angiotensin II, which causes potent vasoconstriction, a release of aldosterone and an increase in sodium absorption, all of which contribute to elevated blood pressure. Renin inhibition was therefore thought to be an excellent means of reducing hypertension.
 
 
 === "Renin cascade"
@@ -392,7 +392,7 @@ Renin is secreted from the kidneys in response to a reduction in renal filtratio
     
 ### Starting Point
 
-By the early 1980's the therapeutic concept of interrupting the renin-angiotensin cascade to lower blood pressure was well established, as evidenced by the successful commercialization of the ACE inhibitors (e.g. Captopril and related drugs). Although the ACE inhibitors were successful drugs, they possessed undesirable side effects (e.g. cough) that prompted pharmaceutical companies to search for new, better tolerated antihypertensive agents. Renin inhibition and Angiotensin-II (A-II) blockade were the two major R&#38;D areas that were pursued.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/starting-point-11352627'><i class='fa fa-play' aria-hidden='true'></i></button>By the early 1980's the therapeutic concept of interrupting the renin-angiotensin cascade to lower blood pressure was well established, as evidenced by the successful commercialization of the ACE inhibitors (e.g. Captopril and related drugs). Although the ACE inhibitors were successful drugs, they possessed undesirable side effects (e.g. cough) that prompted pharmaceutical companies to search for new, better tolerated antihypertensive agents. Renin inhibition and Angiotensin-II (A-II) blockade were the two major R&#38;D areas that were pursued.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -415,7 +415,7 @@ By the early 1980's the therapeutic concept of interrupting the renin-angiotensi
     
 ### The Aliskiren Story
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/aliskiren-story-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -441,7 +441,7 @@ By the early 1980's the therapeutic concept of interrupting the renin-angiotensi
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-In the 1980's, pharmaceutical companies began to look at ways to design Renin inhibitors. The designs were based on the transition state analog approach. The figure below shows one example of a so-called 'transition state' inhibitor discovered in 1985 by Novartis (Ciba-Geigy); however, such a molecule could not be further developed because of its high molecular weight (1500 Daltons).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/first-generation-renin-inhibitors-bbe21b8b'><i class='fa fa-play' aria-hidden='true'></i></button>In the 1980's, pharmaceutical companies began to look at ways to design Renin inhibitors. The designs were based on the transition state analog approach. The figure below shows one example of a so-called 'transition state' inhibitor discovered in 1985 by Novartis (Ciba-Geigy); however, such a molecule could not be further developed because of its high molecular weight (1500 Daltons).
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[transition state analog]: A molecule that mimics the transition state of an enzymatic reaction.The transition state is an intermediate high energy conformation that all substrates must pass though during a reaction. This state normally prevents the spontaneous conversion of substrate to product and is usually stabilized by the enzyme involved.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -464,7 +464,7 @@ In the 1980's, pharmaceutical companies began to look at ways to design Renin in
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Development of the second generation of Renin inhibitors focused on diminishing both the molecular weight and the peptidic character of the first-generation inhibitors. CGP38560 is an example of such a molecule discovered at Novartis in 1988. However, clinical trials revealed there was low oral absorption and rapid biliary excretion of the molecule. The development of this drug candidate was thus dropped.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/second-generation-renin-inhibitors-81d15170'><i class='fa fa-play' aria-hidden='true'></i></button>Development of the second generation of Renin inhibitors focused on diminishing both the molecular weight and the peptidic character of the first-generation inhibitors. CGP38560 is an example of such a molecule discovered at Novartis in 1988. However, clinical trials revealed there was low oral absorption and rapid biliary excretion of the molecule. The development of this drug candidate was thus dropped.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -479,28 +479,28 @@ Development of the second generation of Renin inhibitors focused on diminishing 
     
 #### Peptidomimetic Approach was Unsuccessful
 
-In fact many pharmaceutical companies tried this same approach and gave up for the same reasons. Here are some examples of drug candidates that were all abandoned.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/peptidomimetic-approach-was-unsuccessful-d08a41c2'><i class='fa fa-play' aria-hidden='true'></i></button>In fact many pharmaceutical companies tried this same approach and gave up for the same reasons. Here are some examples of drug candidates that were all abandoned.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_06.png){: loading=lazy }
 #### The Need for a New Non-Peptidic Scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The researchers at Novartis saw that making changes to the 2D peptide molecule in a step-wise manner in an attempt to reduce its peptidic character would not yield a successful candidate. They knew that they needed a completely different, non peptidic molecule. Subsequently, they tried the random screening approach, but this did not yield any hit that could serve as a basis for a synthetic program.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/need-for-new-non-peptidic-scaffold-dee4a3e6'><i class='fa fa-play' aria-hidden='true'></i></button>The researchers at Novartis saw that making changes to the 2D peptide molecule in a step-wise manner in an attempt to reduce its peptidic character would not yield a successful candidate. They knew that they needed a completely different, non peptidic molecule. Subsequently, they tried the random screening approach, but this did not yield any hit that could serve as a basis for a synthetic program.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_07.png){: loading=lazy }
 #### Novartis's New Rational Approach
 
-The management at Novartis realized that the key to success was to look at the molecules in 3D and incorporate a modeling strategy into the project. In 1988, one modeler, Cohen and three medicinal chemistry teams led by Goeschke, Rasetti and Maibaum, began to tackle the issue by deploying a rational drug design approach.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/novartiss-new-rational-approach-1cb70ae4'><i class='fa fa-play' aria-hidden='true'></i></button>The management at Novartis realized that the key to success was to look at the molecules in 3D and incorporate a modeling strategy into the project. In 1988, one modeler, Cohen and three medicinal chemistry teams led by Goeschke, Rasetti and Maibaum, began to tackle the issue by deploying a rational drug design approach.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_group.png){: loading=lazy }
 #### 3D Model of the Enzyme
 
-As no X-ray structures of renin were available, one the team's first priorities was to obtain a 3D model of the target. The team used a homology model of renin developed by Blundell et al that was based on penicillopepsin. This model played an important role in the subsequent discovery of Aliskiren.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/3d-model-enzyme-4bd81469'><i class='fa fa-play' aria-hidden='true'></i></button>As no X-ray structures of renin were available, one the team's first priorities was to obtain a 3D model of the target. The team used a homology model of renin developed by Blundell et al that was based on penicillopepsin. This model played an important role in the subsequent discovery of Aliskiren.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_model.png){: loading=lazy }
@@ -519,7 +519,7 @@ As no X-ray structures of renin were available, one the team's first priorities 
 #### Predicting the Bioactive Conformation of CGP38560
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
 
-Extensive conformational and docking analyses were carried out to identify the Renin-CGP38560 complex with the lowest energy, which was assumed to correspond to the bioactive conformation of CGP38560. In this model the ligand binds into the sub-pockets P1, P2, P3 and P4 and forms six hydrogen bonds with the enzyme. It was estimated that P1 and P3 contributed to the binding more than P2 and P4.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/predicting-bioactive-conformation-cgp38560-d6506bf9'><i class='fa fa-play' aria-hidden='true'></i></button>Extensive conformational and docking analyses were carried out to identify the Renin-CGP38560 complex with the lowest energy, which was assumed to correspond to the bioactive conformation of CGP38560. In this model the ligand binds into the sub-pockets P1, P2, P3 and P4 and forms six hydrogen bonds with the enzyme. It was estimated that P1 and P3 contributed to the binding more than P2 and P4.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -539,7 +539,7 @@ Extensive conformational and docking analyses were carried out to identify the R
     
 #### The Design Strategy
 
-The team came to the conclusion that in order to reduce the peptidic character of the CGP38560, part of its peptidic backbone had to be removed (as indicated in the figure below). By removing it, the Phe side-chain interacting at the P3 subsite would no longer be connected to the molecule but could be connected to the side-chain in P1. Analysis of binding requirements showed that although the P2 and P4 interactions could be sacrificed, a hydrogen-bond with the Serine-219 should be maintained.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/design-strategy-95d6acea'><i class='fa fa-play' aria-hidden='true'></i></button>The team came to the conclusion that in order to reduce the peptidic character of the CGP38560, part of its peptidic backbone had to be removed (as indicated in the figure below). By removing it, the Phe side-chain interacting at the P3 subsite would no longer be connected to the molecule but could be connected to the side-chain in P1. Analysis of binding requirements showed that although the P2 and P4 interactions could be sacrificed, a hydrogen-bond with the Serine-219 should be maintained.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/design_strategy.gif){: loading=lazy }
@@ -553,7 +553,7 @@ The team came to the conclusion that in order to reduce the peptidic character o
     
 ##### Finding a Feasible Scaffold
 
-From the design strategy, the Novartis team defined their goal: to find a scaffold that would connect a group interacting at the P1 pocket, a group interacting at the P3 pocket and a group forming a hydrogen bond with Serine-219, to the rest of the molecule. The three teams of chemists started to search for suitable scaffolds based on their chemical feasibility and subsequently proposed hundreds of potential scaffolds to the modeler for consideration.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/finding-feasible-scaffold-0392e9bd'><i class='fa fa-play' aria-hidden='true'></i></button>From the design strategy, the Novartis team defined their goal: to find a scaffold that would connect a group interacting at the P1 pocket, a group interacting at the P3 pocket and a group forming a hydrogen bond with Serine-219, to the rest of the molecule. The three teams of chemists started to search for suitable scaffolds based on their chemical feasibility and subsequently proposed hundreds of potential scaffolds to the modeler for consideration.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -567,7 +567,7 @@ From the design strategy, the Novartis team defined their goal: to find a scaffo
     
 ##### Criteria for Good Candidate Molecules
 
-The modeler defined the criteria for a good candidate molecule: (1) a good overlap with the predicted bioactive conformation of the reference peptide, (2) the energy of the desired conformation of the candidate molecule had to be less than 1 kcal/mol above the global minimum of the molecule and (3) the existence of favorable interactions upon docking, including the formation of the six intermolecular hydrogen bonds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/criteria-for-good-candidate-molecules-d2ccebe5'><i class='fa fa-play' aria-hidden='true'></i></button>The modeler defined the criteria for a good candidate molecule: (1) a good overlap with the predicted bioactive conformation of the reference peptide, (2) the energy of the desired conformation of the candidate molecule had to be less than 1 kcal/mol above the global minimum of the molecule and (3) the existence of favorable interactions upon docking, including the formation of the six intermolecular hydrogen bonds.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[global minimum]: The global minimum of a function is the smallest value it takes on over its entire range of possibilities
@@ -585,14 +585,14 @@ The modeler defined the criteria for a good candidate molecule: (1) a good overl
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-At the beginning most of the proposed scaffolds were unsuitable from a modeling point of view, but after some interactive educational work between the chemists and the modeler, the designs slowly came into focus. The three teams ended up with different scaffold designs: a tetrahydroquinoline, a phenoxy, an indole and a salicylamide series. The development of these four series' are described in more detail on the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/parallel-design-non-peptide-renin-inhibitors-98625eeb'><i class='fa fa-play' aria-hidden='true'></i></button>At the beginning most of the proposed scaffolds were unsuitable from a modeling point of view, but after some interactive educational work between the chemists and the modeler, the designs slowly came into focus. The three teams ended up with different scaffold designs: a tetrahydroquinoline, a phenoxy, an indole and a salicylamide series. The development of these four series' are described in more detail on the following pages.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_paralel_design.png){: loading=lazy }
 ##### The THQ Series
 
-The first breakthrough was obtained by the Rasetti group with the tetrahydroquinoline (THQ) scaffold shown in the figure below; this molecule was active at the nanomolar range (and this was without optimization!). The superimposition (see button "Modeling and 3D design") shows a good overlap of the phenyl rings in P3. A gem-dimethyl group was introduced in P1 and a chemical spacer was designed to connect the two fragments. Note how the hydrogen bond with the Serine-219 was maintained.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/thq-series-7ed08ea5'><i class='fa fa-play' aria-hidden='true'></i></button>The first breakthrough was obtained by the Rasetti group with the tetrahydroquinoline (THQ) scaffold shown in the figure below; this molecule was active at the nanomolar range (and this was without optimization!). The superimposition (see button "Modeling and 3D design") shows a good overlap of the phenyl rings in P3. A gem-dimethyl group was introduced in P1 and a chemical spacer was designed to connect the two fragments. Note how the hydrogen bond with the Serine-219 was maintained.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -612,7 +612,7 @@ The first breakthrough was obtained by the Rasetti group with the tetrahydroquin
     
 ##### Validation of the Design Strategy
 
-The good biological activity of the THQ molecule validated the project strategy. It is interesting to note that the THQ molecule was synthesized in three main steps and with each step the molecule gradually increased in potency. In the first step the linear anilino molecule (white) was synthesized (submicromolar activity), then the second ring (red) was introduced (IC<sub>50</sub> of 10 <sup>-7</sup>M) and finally the ester group (yellow) was added in order to form a hydrogen-bond with the Serine residue.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/validation-design-strategy-02641bd8'><i class='fa fa-play' aria-hidden='true'></i></button>The good biological activity of the THQ molecule validated the project strategy. It is interesting to note that the THQ molecule was synthesized in three main steps and with each step the molecule gradually increased in potency. In the first step the linear anilino molecule (white) was synthesized (submicromolar activity), then the second ring (red) was introduced (IC<sub>50</sub> of 10 <sup>-7</sup>M) and finally the ester group (yellow) was added in order to form a hydrogen-bond with the Serine residue.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -626,7 +626,7 @@ The good biological activity of the THQ molecule validated the project strategy.
     
 ##### The Phenoxy Series
 
-The Goeschke research group worked in parallel on a second series with a phenyl-based scaffold. Analyses of this series showed that the phenyl ring did not align well with the Phe residue of the CGP38560; therefore a tert-butyl group was added at the para-position to extend the molecule and occupy the Phe position in the P3 pocket. The isopropyl moiety at P1 mimicked the cyclohexane group of the peptide well. This initial scaffold had an IC<sub>50</sub> of 0.1 &Mu;M.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/phenoxy-series-766f3b09'><i class='fa fa-play' aria-hidden='true'></i></button>The Goeschke research group worked in parallel on a second series with a phenyl-based scaffold. Analyses of this series showed that the phenyl ring did not align well with the Phe residue of the CGP38560; therefore a tert-butyl group was added at the para-position to extend the molecule and occupy the Phe position in the P3 pocket. The isopropyl moiety at P1 mimicked the cyclohexane group of the peptide well. This initial scaffold had an IC<sub>50</sub> of 0.1 &micro;M.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -674,7 +674,7 @@ The Goeschke research group worked in parallel on a second series with a phenyl-
     
 ###### Optimization of the Phenoxy Lead
 
-The tert-butyl was replaced by a methoxy because it was synthetically more accessible and retained good biological activity. Modeling analyses showed that in order to create the hydrogen-bond with Serine-219, a substitution should be made at position 3' of the phenyl ring, which was additionally confirmed by superimposing the molecule with the THQ lead (Sup). The substituted ester "A" and the dialkoxy "B" (see "Nanomolar Leads") led to molecules with nanomolar activities. Aliskiren is a direct descendant of the structures of the phenoxy series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/optimization-phenoxy-lead-76b9a51f'><i class='fa fa-play' aria-hidden='true'></i></button>The tert-butyl was replaced by a methoxy because it was synthetically more accessible and retained good biological activity. Modeling analyses showed that in order to create the hydrogen-bond with Serine-219, a substitution should be made at position 3' of the phenyl ring, which was additionally confirmed by superimposing the molecule with the THQ lead (Sup). The substituted ester "A" and the dialkoxy "B" (see "Nanomolar Leads") led to molecules with nanomolar activities. Aliskiren is a direct descendant of the structures of the phenoxy series.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -696,7 +696,7 @@ The tert-butyl was replaced by a methoxy because it was synthetically more acces
     
 ##### The Indole Series
 
-The Maibaum research group worked in parallel on a third series with an indole-based scaffold. A benzyl group was added to the indole heterocycle to mimic the Phe residue of the peptide located in P3. The carbonyl group of the ester was expected to establish a hydrogen-bond with Ser-219. The molecule shown here was synthesized and had an IC<sub>50</sub> of 3nM.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/indole-series-d5146fad'><i class='fa fa-play' aria-hidden='true'></i></button>The Maibaum research group worked in parallel on a third series with an indole-based scaffold. A benzyl group was added to the indole heterocycle to mimic the Phe residue of the peptide located in P3. The carbonyl group of the ester was expected to establish a hydrogen-bond with Ser-219. The molecule shown here was synthesized and had an IC<sub>50</sub> of 3nM.
 
 
 === "Nanomolar lead"
@@ -708,7 +708,7 @@ The Maibaum research group worked in parallel on a third series with an indole-b
     ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_indole3_sup.png){: loading=lazy }
 ##### The Salicylamide Series
 
-After the discovery of the three series, their X-ray complexes with renin were determined and confirmed the poor overlap of the phenyl ring of the phenoxy structure with the Phe residue of CGP38560 that was predicted by modeling. The modeler raised the two following questions: (1) what is the preferred location for a phenyl ring in the P3 pocket? and (2) how could the phenoxy scaffold be modified to position its phenyl ring at the preferred location?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/salicylamide-series-7c32120c'><i class='fa fa-play' aria-hidden='true'></i></button>After the discovery of the three series, their X-ray complexes with renin were determined and confirmed the poor overlap of the phenyl ring of the phenoxy structure with the Phe residue of CGP38560 that was predicted by modeling. The modeler raised the two following questions: (1) what is the preferred location for a phenyl ring in the P3 pocket? and (2) how could the phenoxy scaffold be modified to position its phenyl ring at the preferred location?
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -725,7 +725,7 @@ After the discovery of the three series, their X-ray complexes with renin were d
     
 ###### A Docking Experiment
 
-To answer the first question, the dialkoxy-phenyl moiety of the phenoxy inhibitor was disconnected from the second part of the molecule, and the two disconnected parts were then docked simultaneously - each part being free to bind optimally to the recently determined X-ray structure of the enzyme. The docking simulation revealed that the aromatic ring of the phenyl-dialkoxy moiety moved approximately 2&#8491; away from the other moiety, and reached the exact position occupied by the phenyl ring of the Phe residue of CGP38560.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/docking-experiment-a89792ef'><i class='fa fa-play' aria-hidden='true'></i></button>To answer the first question, the dialkoxy-phenyl moiety of the phenoxy inhibitor was disconnected from the second part of the molecule, and the two disconnected parts were then docked simultaneously - each part being free to bind optimally to the recently determined X-ray structure of the enzyme. The docking simulation revealed that the aromatic ring of the phenyl-dialkoxy moiety moved approximately 2&#8491; away from the other moiety, and reached the exact position occupied by the phenyl ring of the Phe residue of CGP38560.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -739,7 +739,7 @@ To answer the first question, the dialkoxy-phenyl moiety of the phenoxy inhibito
     ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_spacer2.png){: loading=lazy }
 ###### Design of the Salicylamide Molecule
 
-Sitting in front of the screen, with the model of the disconnected docked moieties into the 3D structure of renin, Cohen and Maibaum searched for spacers that would assemble the two parts in one single molecule. The carboxamidomethylene (CO-NH-CH2) spacer was selected as the best solution; the first molecule that was prepared proved to be active at the nanomolar level. This led to a fourth family of inhibitors: the salicylamide series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/design-salicylamide-molecule-2a6a7d67'><i class='fa fa-play' aria-hidden='true'></i></button>Sitting in front of the screen, with the model of the disconnected docked moieties into the 3D structure of renin, Cohen and Maibaum searched for spacers that would assemble the two parts in one single molecule. The carboxamidomethylene (CO-NH-CH2) spacer was selected as the best solution; the first molecule that was prepared proved to be active at the nanomolar level. This led to a fourth family of inhibitors: the salicylamide series.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
@@ -765,14 +765,14 @@ Sitting in front of the screen, with the model of the disconnected docked moieti
 #### Transferrable SAR's
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-Although the four scaffolds were structurally unrelated, the 3D modeling strategy allowed any structure-activity relationship result found in one series to be successfully applied to the other series' and this was used extensively throughout the design process.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/transferrable-sars-c56115f6'><i class='fa fa-play' aria-hidden='true'></i></button>Although the four scaffolds were structurally unrelated, the 3D modeling strategy allowed any structure-activity relationship result found in one series to be successfully applied to the other series' and this was used extensively throughout the design process.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_tranfer2.png){: loading=lazy }
 ##### Example of Transferrable SAR's
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-To illustrate the successful transfer of SAR's between series, one example is given here. In order to form a hydrogen bond with Ser-219, the dialkoxy tail of the phenoxy series had to be placed at the meta position of the benzene ring. When transferring this knowledge to the salicylamide series, a 2D representation of the molecules was insufficient to deduce the correct positioning of the dialkoxy tail. Only by viewing the molecules in 3D can we see that the dialkoxy chain has to be copied to the ortho position of the salicylamide benzene ring to ensure good 3D mimicry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/example-transferrable-sars-ab390aaf'><i class='fa fa-play' aria-hidden='true'></i></button>To illustrate the successful transfer of SAR's between series, one example is given here. In order to form a hydrogen bond with Ser-219, the dialkoxy tail of the phenoxy series had to be placed at the meta position of the benzene ring. When transferring this knowledge to the salicylamide series, a 2D representation of the molecules was insufficient to deduce the correct positioning of the dialkoxy tail. Only by viewing the molecules in 3D can we see that the dialkoxy chain has to be copied to the ortho position of the salicylamide benzene ring to ensure good 3D mimicry.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -784,7 +784,7 @@ To illustrate the successful transfer of SAR's between series, one example is gi
 
 #### Four Unrelated Lead Compounds
 
-By November 1992 after 3 years of extensive work the team had discovered four structurally unrelated lead compounds each active at low nanomolar range and each had the potential to be developed into a therapeutic renin inhibitor: a THQ compound, a phenoxy compound, an indole compound and a salicylamide compound. A superimposition of the four compounds is illustrated below; it summarizes in a single view the successful achievements obtained after several years of intensive effort.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/four-unrelated-lead-compounds-546fee0f'><i class='fa fa-play' aria-hidden='true'></i></button>By November 1992 after 3 years of extensive work the team had discovered four structurally unrelated lead compounds each active at low nanomolar range and each had the potential to be developed into a therapeutic renin inhibitor: a THQ compound, a phenoxy compound, an indole compound and a salicylamide compound. A superimposition of the four compounds is illustrated below; it summarizes in a single view the successful achievements obtained after several years of intensive effort.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -832,7 +832,7 @@ By November 1992 after 3 years of extensive work the team had discovered four st
 #### Browser of the Novartis Renin Inhibitor Leads
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/browser-novartis-renin-inhibitor-leads-ac1e06ff'><i class='fa fa-play' aria-hidden='true'></i></button>
         
 
 
@@ -901,7 +901,7 @@ By November 1992 after 3 years of extensive work the team had discovered four st
     
 #### From Initial Lead to Aliskiren
 
-An optimization program was carried out which involved the synthesis of more that 1400 analogs of all four series. One of the phenoxy analogs was selected for further development (later named Aliskiren) as it possessed the best physicochemical and pharmacokinetic properties. The compound entered into clinical trials in 1999 and was approved by the FDA in March 2007. Aliskiren trade names include Tekturna (USA) and Rasilez (Europe).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/from-initial-lead-to-aliskiren-df8ea1a9'><i class='fa fa-play' aria-hidden='true'></i></button>An optimization program was carried out which involved the synthesis of more that 1400 analogs of all four series. One of the phenoxy analogs was selected for further development (later named Aliskiren) as it possessed the best physicochemical and pharmacokinetic properties. The compound entered into clinical trials in 1999 and was approved by the FDA in March 2007. Aliskiren trade names include Tekturna (USA) and Rasilez (Europe).
 *[FDA]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
@@ -933,14 +933,14 @@ An optimization program was carried out which involved the synthesis of more tha
     
 ### The Aliskiren Project Timeline
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/aliskiren-project-timeline-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_timeline.png){: loading=lazy }
 ### What Made the Success of the Project Possible?
 
-Many pharmaceutical companies have been involved in the discovery of Renin inhibitors for more than 20 years, investing millions of hours of scientific effort, intensive teamwork, human creativity and money into projects that have failed to produce suitable drugs. What enabled Novartis to successfully meet this challenge? This question is addressed in the following three pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/what-made-success-project-possible-d226ca6a'><i class='fa fa-play' aria-hidden='true'></i></button>Many pharmaceutical companies have been involved in the discovery of Renin inhibitors for more than 20 years, investing millions of hours of scientific effort, intensive teamwork, human creativity and money into projects that have failed to produce suitable drugs. What enabled Novartis to successfully meet this challenge? This question is addressed in the following three pages.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -957,13 +957,13 @@ Many pharmaceutical companies have been involved in the discovery of Renin inhib
     
 #### The Incorporation of Modeling
 
-Novartis luckily was not put off by the failure of CGP38560 in clinical trials and had the foresight to incorporate the expertise of a molecular modeler who gave the research group the ability to start tackling the problem from a modeling perspective.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/incorporation-modeling-4dbb650d'><i class='fa fa-play' aria-hidden='true'></i></button>Novartis luckily was not put off by the failure of CGP38560 in clinical trials and had the foresight to incorporate the expertise of a molecular modeler who gave the research group the ability to start tackling the problem from a modeling perspective.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_modeling2.png){: loading=lazy }
 #### Modeling - The Key to Aliskiren's Success
 
-Modeling was the key to Aliskiren's success; based only on the homology model of renin, the team predicted the CGP38560 bioactive conformation, analyzed the binding requirements, defined a strategy, designed molecules and rapidly identified lead compounds with nanomolar activity without the need for much optimization.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/modeling---key-to-aliskirens-success-0af405f6'><i class='fa fa-play' aria-hidden='true'></i></button>Modeling was the key to Aliskiren's success; based only on the homology model of renin, the team predicted the CGP38560 bioactive conformation, analyzed the binding requirements, defined a strategy, designed molecules and rapidly identified lead compounds with nanomolar activity without the need for much optimization.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -978,7 +978,7 @@ Modeling was the key to Aliskiren's success; based only on the homology model of
     
 #### Historical Document
 
-This achievement impressed the Novartis management and they asked the team to write a signed and dated document summarizing their structure-based predictions to serve as a basis for comparison with experimental X-ray data when these became available. These predictions were confirmed experimentally one year later.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/historical-document-ee511cca'><i class='fa fa-play' aria-hidden='true'></i></button>This achievement impressed the Novartis management and they asked the team to write a signed and dated document summarizing their structure-based predictions to serve as a basis for comparison with experimental X-ray data when these became available. These predictions were confirmed experimentally one year later.
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_historical_doc.png){: loading=lazy }
@@ -991,7 +991,7 @@ This achievement impressed the Novartis management and they asked the team to wr
     
 #### Good Teamwork
 
-Another key factor that led to the success of this project was the exemplary co-operation between the medicinal chemists and the modeler. Daily collaborative meetings (the MDM - "Molecular Design Meetings") were held and focused on design issues. The meetings were constructive as they strengthened the team as a unit and gave each member a solid grasp of both the individual and group objectives thus allowing the team to converge towards many successful designs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/good-teamwork-ae4750fe'><i class='fa fa-play' aria-hidden='true'></i></button>Another key factor that led to the success of this project was the exemplary co-operation between the medicinal chemists and the modeler. Daily collaborative meetings (the MDM - "Molecular Design Meetings") were held and focused on design issues. The meetings were constructive as they strengthened the team as a unit and gave each member a solid grasp of both the individual and group objectives thus allowing the team to converge towards many successful designs.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[MD]: Molecular dynamics (MD) is a computer simulation technique which follows the time evolution of a molecular system in 3D. Successive integration of Newtons equations of motion over time enables to obtain information about time-dependent properties of the system
 
@@ -1006,14 +1006,14 @@ Another key factor that led to the success of this project was the exemplary co-
     
 ### Following the Discovery
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/following-discovery-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_after_discovery.png){: loading=lazy }
 #### X-rays of Complex with CGP38560
 
-In 1991 X-ray studies were carried out on the reference CGP38560 peptide. The modeling predictions of the bioactive conformation made in 1987 proved to be correct and gave the research team a four-year head start on the project. The difference in the position of the Histidine moiety is of minor importance and did not affect the project.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/x-rays-complex-cgp38560-357000b1'><i class='fa fa-play' aria-hidden='true'></i></button>In 1991 X-ray studies were carried out on the reference CGP38560 peptide. The modeling predictions of the bioactive conformation made in 1987 proved to be correct and gave the research team a four-year head start on the project. The difference in the position of the Histidine moiety is of minor importance and did not affect the project.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -1051,7 +1051,7 @@ In 1991 X-ray studies were carried out on the reference CGP38560 peptide. The mo
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-X-ray determinations were carried out with all the lead compounds discovered. They confirmed the accuracy of the predictions made on the basis of modeling studies, with however one surprise concerning the indole inhibitor, as detailed in the following page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/x-ray-determination-lead-inhibitors-5ade097d'><i class='fa fa-play' aria-hidden='true'></i></button>X-ray determinations were carried out with all the lead compounds discovered. They confirmed the accuracy of the predictions made on the basis of modeling studies, with however one surprise concerning the indole inhibitor, as detailed in the following page.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -1090,7 +1090,7 @@ X-ray determinations were carried out with all the lead compounds discovered. Th
     
 #### The Indole X-ray
 
-The X-ray of the indole inhibitor revealed that its binding mode was not as predicted and the indole heterocyle was in fact inverted, with the benzyl group pointing towards the S3sp sub-pocket. The reason for the indole's good potency was that its benzyl moiety actually interacted with the S3sp sub-pocket. This was the first hint that the hydrogen bond formed with the Serine-219 was not mandatory.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/indole-x-ray-6ee10475'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray of the indole inhibitor revealed that its binding mode was not as predicted and the indole heterocyle was in fact inverted, with the benzyl group pointing towards the S3sp sub-pocket. The reason for the indole's good potency was that its benzyl moiety actually interacted with the S3sp sub-pocket. This was the first hint that the hydrogen bond formed with the Serine-219 was not mandatory.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -1111,7 +1111,7 @@ The X-ray of the indole inhibitor revealed that its binding mode was not as pred
     
 #### The S3sp sub-Pocket
 
-The X-ray structures of the complexes revealed the existence of a sub-pocket that is not exploited by the natural substrate or the peptide-like inhibitors. The additional side chains (e.g. dialkoxy tail) designed to interact with Ser-219 luckily entered this sub-pocket. The strategic decision to keep the hydrogen-bond with Ser-219 proved to be a key element in the success of the project.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/s3sp-sub-pocket-dc15dc2c'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structures of the complexes revealed the existence of a sub-pocket that is not exploited by the natural substrate or the peptide-like inhibitors. The additional side chains (e.g. dialkoxy tail) designed to interact with Ser-219 luckily entered this sub-pocket. The strategic decision to keep the hydrogen-bond with Ser-219 proved to be a key element in the success of the project.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -1129,7 +1129,7 @@ The X-ray structures of the complexes revealed the existence of a sub-pocket tha
     
 ### Other Work on Drugs in this Class
 
-The diagram here gives us a global perspective of the effort deployed by the various pharmaceutical companies over the years in the search for renin inhibitors. The Novartis story is represented on the top. Note that the Phase 1 and 2 clinical trials were carried out by Speedel and Novartis exercised their call-back option in 2002. Companies like Merck, Pfizer and Glaxo have recently shown renewed interest and reactivated their renin inhibitor projects.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='success-stories-in-drug-discovery/other-work-on-drugs-this-class-1643ee5c'><i class='fa fa-play' aria-hidden='true'></i></button>The diagram here gives us a global perspective of the effort deployed by the various pharmaceutical companies over the years in the search for renin inhibitors. The Novartis story is represented on the top. Note that the Phase 1 and 2 clinical trials were carried out by Speedel and Novartis exercised their call-back option in 2002. Companies like Merck, Pfizer and Glaxo have recently shown renewed interest and reactivated their renin inhibitor projects.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -1137,4 +1137,5 @@ The diagram here gives us a global perspective of the effort deployed by the var
 
 ![](https://media.drugdesign.org/course/success-stories-in-drug-discovery/aliskiren_27.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

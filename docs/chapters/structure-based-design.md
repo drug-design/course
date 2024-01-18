@@ -15,7 +15,7 @@
 
 ### Design of Drug Candidates: An Iterative Process
 
-The design of new ligands is carried out as a step-by-step procedure. The state-of-the art design process is based in large part, on a good understanding of the molecular recognition of protein-ligand complexes relying upon analogies to other systems and using advanced computerized molecular design programs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/design-drug-candidates-an-iterative-process-81cbcfa6'><i class='fa fa-play' aria-hidden='true'></i></button>The design of new ligands is carried out as a step-by-step procedure. The state-of-the art design process is based in large part, on a good understanding of the molecular recognition of protein-ligand complexes relying upon analogies to other systems and using advanced computerized molecular design programs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -26,13 +26,13 @@ The design of new ligands is carried out as a step-by-step procedure. The state-
 
 ### Steps in Structure-Based Drug Design
 
-The steps used in structure-based drug design for designing new lead compounds are illustrated in the following diagram.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/steps-structure-based-drug-design-56cbee4b'><i class='fa fa-play' aria-hidden='true'></i></button>The steps used in structure-based drug design for designing new lead compounds are illustrated in the following diagram.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/1_2_0_1.png){: loading=lazy }
 ### Small Changes Can Produce Huge Effects
 
-When structural changes are made that modify the energy of interaction of a ligand with its receptor, one can observe a large change in the biological properties. For example the SB203580 molecule has a Ki of 100 nM on the protein kinase p38. However the molecule looses its activity if residue Thr-106 is mutated by Met-106. The same molecule is entirely inactive on the kinase ERK2, however if the residue Glu-105 of the protein is mutated by Thr-105, the Ki of the molecule becomes 13 nM. The following pages will provide a 3D interpretation of these observations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/small-changes-can-produce-huge-effects-90bacd6e'><i class='fa fa-play' aria-hidden='true'></i></button>When structural changes are made that modify the energy of interaction of a ligand with its receptor, one can observe a large change in the biological properties. For example the SB203580 molecule has a Ki of 100 nM on the protein kinase p38. However the molecule looses its activity if residue Thr-106 is mutated by Met-106. The same molecule is entirely inactive on the kinase ERK2, however if the residue Glu-105 of the protein is mutated by Thr-105, the Ki of the molecule becomes 13 nM. The following pages will provide a 3D interpretation of these observations.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -65,7 +65,7 @@ When structural changes are made that modify the energy of interaction of a liga
     
 #### p38 Wild
 
-The crystallographic structure of the complex of the inhibitor SB203580 with the p38 kinase reveals good complementary features between the inhibitor and the protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/p38-wild-7e5d2687'><i class='fa fa-play' aria-hidden='true'></i></button>The crystallographic structure of the complex of the inhibitor SB203580 with the p38 kinase reveals good complementary features between the inhibitor and the protein.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -74,7 +74,7 @@ The crystallographic structure of the complex of the inhibitor SB203580 with the
 
 #### p38 Mutant
 
-Replacing in the X-ray structure residue Thr-106 by a Met-106 reveals the existence of strong steric repulsions between the mutated protein and SB203580. This explains why SB203580 is not anymore active on the mutated protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/p38-mutant-78323d82'><i class='fa fa-play' aria-hidden='true'></i></button>Replacing in the X-ray structure residue Thr-106 by a Met-106 reveals the existence of strong steric repulsions between the mutated protein and SB203580. This explains why SB203580 is not anymore active on the mutated protein.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -83,7 +83,7 @@ Replacing in the X-ray structure residue Thr-106 by a Met-106 reveals the existe
 
 #### ERK-2 Wild
 
-There is no complex between SB203580 with the wild ERK2 kinase. The following model was constructed using the crystallographic structure of the complex with the ERK2-(Q105T) mutant. It shows strong repulsions between SB203580 and the Glu-105 residue and explains why the compound is inactive on ERK2.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/erk-2-wild-0056b180'><i class='fa fa-play' aria-hidden='true'></i></button>There is no complex between SB203580 with the wild ERK2 kinase. The following model was constructed using the crystallographic structure of the complex with the ERK2-(Q105T) mutant. It shows strong repulsions between SB203580 and the Glu-105 residue and explains why the compound is inactive on ERK2.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -91,7 +91,7 @@ There is no complex between SB203580 with the wild ERK2 kinase. The following mo
 
 #### ERK-2 Mutant
 
-The crystallographic structure of the complex of SB203580 with the mutated ERK2 (Q105T) kinase reveals favorable interactions between the inhibitor and the protein. This example shows how a single point mutation can transform an inactive molecule into a nanomolar inhibitor. Small structural modifications can greatly affect the potency of an inhibitor, this can be well exploited for achieving potency and specificity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/erk-2-mutant-2c8056ad'><i class='fa fa-play' aria-hidden='true'></i></button>The crystallographic structure of the complex of SB203580 with the mutated ERK2 (Q105T) kinase reveals favorable interactions between the inhibitor and the protein. This example shows how a single point mutation can transform an inactive molecule into a nanomolar inhibitor. Small structural modifications can greatly affect the potency of an inhibitor, this can be well exploited for achieving potency and specificity.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -100,14 +100,14 @@ The crystallographic structure of the complex of SB203580 with the mutated ERK2 
 
 ### Increasing Biological Activity
 
-Each small amount that is gained in the binding energy of a ligand is translated into significant improvements in its biological activity. The following table illustrates the relative values of Kd as a function of the binding energies, at 300&#176;K.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/increasing-biological-activity-57dc9b17'><i class='fa fa-play' aria-hidden='true'></i></button>Each small amount that is gained in the binding energy of a ligand is translated into significant improvements in its biological activity. The following table illustrates the relative values of Kd as a function of the binding energies, at 300&#176;K.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/1_4_0_1.png){: loading=lazy }
 ### Beginning the Design Phase
 
-Once the phase of analysis is complete, the design phase can start. One has to identify candidate scaffolds with appropriate substituents that can ensure enhanced interactions with selected sites of the protein. In the case of the optimization of a known series, the information is used to design new analogs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/beginning-design-phase-1c6ea11e'><i class='fa fa-play' aria-hidden='true'></i></button>Once the phase of analysis is complete, the design phase can start. One has to identify candidate scaffolds with appropriate substituents that can ensure enhanced interactions with selected sites of the protein. In the case of the optimization of a known series, the information is used to design new analogs.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -117,7 +117,7 @@ Once the phase of analysis is complete, the design phase can start. One has to i
 
 ### A Simple Example of Design
 
-A molecule active at the micromolar range has been discovered and the X-ray structure of the complex of this molecule with the target protein has been solved. Following is an example of analog designed from the X-ray data.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/simple-example-design-8daeada6'><i class='fa fa-play' aria-hidden='true'></i></button>A molecule active at the micromolar range has been discovered and the X-ray structure of the complex of this molecule with the target protein has been solved. Following is an example of analog designed from the X-ray data.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -138,7 +138,7 @@ A molecule active at the micromolar range has been discovered and the X-ray stru
     
 #### Extension of the Molecule to Form another H-Bond
 
-The X-ray structure reveals the binding mode of the micromolar molecule. On the basis of this information one could expect to obtain a more potent compound by making the amino-analog of the molecule. As can be seen on the view, the amino moiety creates hydrogen bonds with two backbone carbonyls of the target protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/extension-molecule-to-form-another-h-bond-4fd82453'><i class='fa fa-play' aria-hidden='true'></i></button>The X-ray structure reveals the binding mode of the micromolar molecule. On the basis of this information one could expect to obtain a more potent compound by making the amino-analog of the molecule. As can be seen on the view, the amino moiety creates hydrogen bonds with two backbone carbonyls of the target protein.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
@@ -149,7 +149,7 @@ The X-ray structure reveals the binding mode of the micromolar molecule. On the 
 
 #### Checking the Validity of the Design
 
-The next step is to test the biological activity of the molecule to see if the design concept was structurally correct. This information could provide answers to such questions as: If the molecule was potent, was it potent for the correct reasons built into the design? If the compound was weaker than expected, how and why did the concept design fail?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/checking-validity-design-a4d17b0b'><i class='fa fa-play' aria-hidden='true'></i></button>The next step is to test the biological activity of the molecule to see if the design concept was structurally correct. This information could provide answers to such questions as: If the molecule was potent, was it potent for the correct reasons built into the design? If the compound was weaker than expected, how and why did the concept design fail?
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -158,7 +158,7 @@ The next step is to test the biological activity of the molecule to see if the d
 
 ### Definition of Docking
 
-Given the 3D structure of a protein target, compounds can be designed to fit in a cavity, which is called "docking". Starting with an approximate orientation of a ligand into the active site, the docking process modifies its position and conformation in order to have a maximum of favorable intermolecular interactions. The treatment ends when a minimum of energy is obtained for the complex.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/definition-docking-f98b0f5c'><i class='fa fa-play' aria-hidden='true'></i></button>Given the 3D structure of a protein target, compounds can be designed to fit in a cavity, which is called "docking". Starting with an approximate orientation of a ligand into the active site, the docking process modifies its position and conformation in order to have a maximum of favorable intermolecular interactions. The treatment ends when a minimum of energy is obtained for the complex.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -208,7 +208,7 @@ Given the 3D structure of a protein target, compounds can be designed to fit in 
     
 ### Docking Treatments
 
-Docking treatments are very useful for assessing the quality of candidate prototypes. If the ligand is a known active molecule, docking simulations allow us to identify its bioactive conformation. If the ligand is a candidate molecule, the docking allows us to analyze how it fits to the receptor. The best-docked compounds can be used as leads for further design and optimization.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/docking-treatments-663627e2'><i class='fa fa-play' aria-hidden='true'></i></button>Docking treatments are very useful for assessing the quality of candidate prototypes. If the ligand is a known active molecule, docking simulations allow us to identify its bioactive conformation. If the ligand is a candidate molecule, the docking allows us to analyze how it fits to the receptor. The best-docked compounds can be used as leads for further design and optimization.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -220,7 +220,7 @@ Docking treatments are very useful for assessing the quality of candidate protot
 ### Eight Golden Rules in Receptor-Based Ligand Design
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Binding efficiency is not only a matter of geometry; the energetics of interactions must be considered. Filling the space in the active site of a protein is a delicate operation. The following examples illustrate some of the important considerations for receptor-based ligand design. Eight rules are presented here.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/eight-golden-rules-receptor-based-ligand-design-65836396'><i class='fa fa-play' aria-hidden='true'></i></button>Binding efficiency is not only a matter of geometry; the energetics of interactions must be considered. Filling the space in the active site of a protein is a delicate operation. The following examples illustrate some of the important considerations for receptor-based ligand design. Eight rules are presented here.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -228,7 +228,7 @@ Binding efficiency is not only a matter of geometry; the energetics of interacti
 
 ### Rule 1: Coordinate to Key Anchoring Sites
 
-When working with target proteins, first one has to consider the proper anchorage of the ligand to key elements of the catalytic site. For example the Zinc of a metalloprotein, the Heme of a cytochrome P450 enzyme, the aspartates of an aspartic protease, the oxyanion hole of serine protease.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-1-coordinate-to-key-anchoring-sites-9b4f069f'><i class='fa fa-play' aria-hidden='true'></i></button>When working with target proteins, first one has to consider the proper anchorage of the ligand to key elements of the catalytic site. For example the Zinc of a metalloprotein, the Heme of a cytochrome P450 enzyme, the aspartates of an aspartic protease, the oxyanion hole of serine protease.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -236,7 +236,7 @@ When working with target proteins, first one has to consider the proper anchorag
 
 #### Desolvation Upon Binding
 
-This anchorage not only positions the ligand in the active site but also counteracts the effect of de-solvating the two components when binding occurs. This is very important energetically.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/desolvation-upon-binding-3bb107b0'><i class='fa fa-play' aria-hidden='true'></i></button>This anchorage not only positions the ligand in the active site but also counteracts the effect of de-solvating the two components when binding occurs. This is very important energetically.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -244,7 +244,7 @@ This anchorage not only positions the ligand in the active site but also counter
 
 ### Rule 2: Exploit Hydrophobic Interactions
 
-With hydrophobic pockets, placing a hydrophobic surface of the ligand in hydrophobic sites of the target protein provides an important driving force in complex formation because it reduces non-polar surface areas exposed to water. The more water molecules liberated in drug binding, the greater the gain in entropy and therefore the greater the affinity of the drug for the protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-2-exploit-hydrophobic-interactions-b0467cfe'><i class='fa fa-play' aria-hidden='true'></i></button>With hydrophobic pockets, placing a hydrophobic surface of the ligand in hydrophobic sites of the target protein provides an important driving force in complex formation because it reduces non-polar surface areas exposed to water. The more water molecules liberated in drug binding, the greater the gain in entropy and therefore the greater the affinity of the drug for the protein.
 *[affinity]: The affinity of a ligand is its ability to bind to its biological target.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -253,7 +253,7 @@ With hydrophobic pockets, placing a hydrophobic surface of the ligand in hydroph
 
 #### Many Small Contributions
 
-Although individually small, the total contribution of hydrophobic bonds to drug-receptor interactions is substantial. Empirical data suggests that the free energy contribution due to hydrophobic bonding is approximately 2.9 kJ/mol per methylene group and 8.4 kJ/mol for a benzene ring. Unlike hydrogen bonds, the hydrophobic interactions are not directional.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/many-small-contributions-690fd59c'><i class='fa fa-play' aria-hidden='true'></i></button>Although individually small, the total contribution of hydrophobic bonds to drug-receptor interactions is substantial. Empirical data suggests that the free energy contribution due to hydrophobic bonding is approximately 2.9 kJ/mol per methylene group and 8.4 kJ/mol for a benzene ring. Unlike hydrogen bonds, the hydrophobic interactions are not directional.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -261,7 +261,7 @@ Although individually small, the total contribution of hydrophobic bonds to drug
 
 ### Rule 3: Exploit Hydrogen Bonding Capabilities
 
-Once a new skeleton fills a large portion of the available space, a hydrogen-bonding functionality can be placed to complement those functional groups presented either by the protein or water molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-3-exploit-hydrogen-bonding-capabilities-e3c0b71c'><i class='fa fa-play' aria-hidden='true'></i></button>Once a new skeleton fills a large portion of the available space, a hydrogen-bonding functionality can be placed to complement those functional groups presented either by the protein or water molecules.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -269,7 +269,7 @@ Once a new skeleton fills a large portion of the available space, a hydrogen-bon
 
 #### Hydrogen Bonds with Backbone Atoms
 
-A carbonyl oxygen is optimally satisfied when it accepts two different hydrogen bonds with C=O --- H angles close to 120&#176;. However hydrogen bonds to carbonyl oxygen atoms with a C=O --- H angle close to 180&#176; form the basis for &beta;-sheet formation and are quite favorable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/hydrogen-bonds-backbone-atoms-765727ac'><i class='fa fa-play' aria-hidden='true'></i></button>A carbonyl oxygen is optimally satisfied when it accepts two different hydrogen bonds with C=O --- H angles close to 120&#176;. However hydrogen bonds to carbonyl oxygen atoms with a C=O --- H angle close to 180&#176; form the basis for &beta;-sheet formation and are quite favorable.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -277,7 +277,7 @@ A carbonyl oxygen is optimally satisfied when it accepts two different hydrogen 
 
 #### Geometry of a Hydrogen Bond and Solvation Issues
 
-The average N-H --- O angle is about 155&#176;, with 90% lying between 140&#176; and 180&#176;. Almost all protein groups are capable of forming hydrogen bonds like this. Where groups are not explicitly hydrogen bonded, they are probably solvated.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/geometry-hydrogen-bond-solvation-issues-f737b59c'><i class='fa fa-play' aria-hidden='true'></i></button>The average N-H --- O angle is about 155&#176;, with 90% lying between 140&#176; and 180&#176;. Almost all protein groups are capable of forming hydrogen bonds like this. Where groups are not explicitly hydrogen bonded, they are probably solvated.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -285,7 +285,7 @@ The average N-H --- O angle is about 155&#176;, with 90% lying between 140&#176;
 
 #### Hydrogen Bonds with Residue Atoms
 
-Unsatisfied hydrogen bond donors and acceptors are rarely seen in proteins. A corollary for protein-ligand complexes would be burying potential donors and acceptors without forming a complementary hydrogen bond, this would also be highly unfavorable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/hydrogen-bonds-residue-atoms-6e1191a3'><i class='fa fa-play' aria-hidden='true'></i></button>Unsatisfied hydrogen bond donors and acceptors are rarely seen in proteins. A corollary for protein-ligand complexes would be burying potential donors and acceptors without forming a complementary hydrogen bond, this would also be highly unfavorable.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -293,7 +293,7 @@ Unsatisfied hydrogen bond donors and acceptors are rarely seen in proteins. A co
 ![](https://media.drugdesign.org/course/structure-based-design/2_6_0_1.png){: loading=lazy }
 ### Rule 4: Exploit Electrostatic Interactions
 
-The optimization of ligand-protein electrostatics can be achieved by placing a positive charge in close vicinity to an enzyme negative charge. The interaction should be fine tuned by subtle structural modifications.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-4-exploit-electrostatic-interactions-6e883b56'><i class='fa fa-play' aria-hidden='true'></i></button>The optimization of ligand-protein electrostatics can be achieved by placing a positive charge in close vicinity to an enzyme negative charge. The interaction should be fine tuned by subtle structural modifications.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -301,7 +301,7 @@ The optimization of ligand-protein electrostatics can be achieved by placing a p
 
 ### Rule 5: Favor Bioactive Form &#38; Avoid Energy Strain
 
-Conformational energy calculations are performed on each design idea in order to determine the internal penalty required for the new ligand to attain its bioactive binding conformation inside the protein. The internal energy that is required for the small molecule to reach its binding conformation is energy lost in binding.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-5-favor-bioactive-form-amp-avoid-energy-strain-db048221'><i class='fa fa-play' aria-hidden='true'></i></button>Conformational energy calculations are performed on each design idea in order to determine the internal penalty required for the new ligand to attain its bioactive binding conformation inside the protein. The internal energy that is required for the small molecule to reach its binding conformation is energy lost in binding.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -311,7 +311,7 @@ Conformational energy calculations are performed on each design idea in order to
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[Ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Restricting the conformation space of an inhibitor can be beneficial to binding when the conformation is biased towards the bioactive conformer. However, if parts of the constricting group generate unfavorable interactions with the protein or induce a non-bioactive conformer, then deleterious effects on binding occur.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/advantage-limitation-rigid-ligands-d5df2af9'><i class='fa fa-play' aria-hidden='true'></i></button>Restricting the conformation space of an inhibitor can be beneficial to binding when the conformation is biased towards the bioactive conformer. However, if parts of the constricting group generate unfavorable interactions with the protein or induce a non-bioactive conformer, then deleterious effects on binding occur.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -319,7 +319,7 @@ Restricting the conformation space of an inhibitor can be beneficial to binding 
 
 ### Rule 6: Optimize VDW Contacts and Avoid Bumps
 
-Attractive van der Waals interactions occur over a short distance range and attraction decreases as 1/r<sup>6</sup>. As a result, optimization of attractive van der Waals interactions occurs as the shape of the protein binding site and the shape of the ligand match well. A difference of binding energy of 6.3 kJ/mol corresponds to a 10 fold difference in the biological activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-6-optimize-vdw-contacts-avoid-bumps-8f7597b0'><i class='fa fa-play' aria-hidden='true'></i></button>Attractive van der Waals interactions occur over a short distance range and attraction decreases as 1/r<sup>6</sup>. As a result, optimization of attractive van der Waals interactions occurs as the shape of the protein binding site and the shape of the ligand match well. A difference of binding energy of 6.3 kJ/mol corresponds to a 10 fold difference in the biological activities.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -329,7 +329,7 @@ Attractive van der Waals interactions occur over a short distance range and attr
 #### The Frontier between an Excellent Fit and a Bump 
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
-The frontier between an excellent fit and a bump is sometimes difficult to recognize visually; it has to be assessed with additional calculations or determined experimentally. Note that calculations of steric fit are difficult because of possible flexing motions of the protein backbone and especially the residue side-chains.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/frontier-between-an-excellent-fit-bump-742fb0a3'><i class='fa fa-play' aria-hidden='true'></i></button>The frontier between an excellent fit and a bump is sometimes difficult to recognize visually; it has to be assessed with additional calculations or determined experimentally. Note that calculations of steric fit are difficult because of possible flexing motions of the protein backbone and especially the residue side-chains.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -337,14 +337,14 @@ The frontier between an excellent fit and a bump is sometimes difficult to recog
 
 ### Rule 7: Structural Water Molecules and Solvation
 
-Inhibitor design strategies have great potential when they target the displacement of water molecules tightly bound to the protein by incorporating elements of the water molecule within the inhibitor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-7-structural-water-molecules-solvation-3517ce8e'><i class='fa fa-play' aria-hidden='true'></i></button>Inhibitor design strategies have great potential when they target the displacement of water molecules tightly bound to the protein by incorporating elements of the water molecule within the inhibitor.
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/2_10_1_1.png){: loading=lazy }
 #### Desolvation Energies
 
-Desolvation energies are the "price to be paid" for the ligand to attain its binding conformation inside the protein.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/desolvation-energies-add781cb'><i class='fa fa-play' aria-hidden='true'></i></button>Desolvation energies are the "price to be paid" for the ligand to attain its binding conformation inside the protein.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -352,7 +352,7 @@ Desolvation energies are the "price to be paid" for the ligand to attain its bin
 
 #### Leave Some Room to Solvate Charged Centers 
 
-When polar charged groups are considered in the design of a ligand, one should leave some room for other water molecules to solvate the charged center (except possibly when a salt bridge is formed).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/leave-some-room-to-solvate-charged-centers-5bc77098'><i class='fa fa-play' aria-hidden='true'></i></button>When polar charged groups are considered in the design of a ligand, one should leave some room for other water molecules to solvate the charged center (except possibly when a salt bridge is formed).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -360,7 +360,7 @@ When polar charged groups are considered in the design of a ligand, one should l
 
 ### Rule 8: Consider Entropic Effect
 
-A flexible molecule has a better chance of finding an optimal fit into a receptor, but this is achieved at the cost of large conformational entropy. Sufficient conformational rigidity is essential to ensure that the loss of entropy upon ligand binding is acceptable. A rigid molecule has little conformational entropy but is unlikely to fit optimally into the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rule-8-consider-entropic-effect-e2499a83'><i class='fa fa-play' aria-hidden='true'></i></button>A flexible molecule has a better chance of finding an optimal fit into a receptor, but this is achieved at the cost of large conformational entropy. Sufficient conformational rigidity is essential to ensure that the loss of entropy upon ligand binding is acceptable. A rigid molecule has little conformational entropy but is unlikely to fit optimally into the receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -369,7 +369,7 @@ A flexible molecule has a better chance of finding an optimal fit into a recepto
 
 #### Gaining Binding by Reduction of Entropy
 
-Conformational flexibility and the associated free energy of the ligand play an important role in ligand-receptor interactions. An analysis of the contributions of various functional groups to binding demonstrates that each freely rotating bond in a ligand reduces binding free energy by about 2.9 kJ/mol.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/gaining-binding-by-reduction-entropy-912bd0d6'><i class='fa fa-play' aria-hidden='true'></i></button>Conformational flexibility and the associated free energy of the ligand play an important role in ligand-receptor interactions. An analysis of the contributions of various functional groups to binding demonstrates that each freely rotating bond in a ligand reduces binding free energy by about 2.9 kJ/mol.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -379,7 +379,7 @@ Conformational flexibility and the associated free energy of the ligand play an 
 #### Example of Ligand Rigidification
 *[Ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
-Making a ligand more rigid will lead to enhanced activity if the right conformation is maintained. For example freezing of two rotational degrees of freedom in flexible antiulcer agents in a rigid analog resulted in a 150-fold enhancement in activity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/example-ligand-rigidification-ee930c70'><i class='fa fa-play' aria-hidden='true'></i></button>Making a ligand more rigid will lead to enhanced activity if the right conformation is maintained. For example freezing of two rotational degrees of freedom in flexible antiulcer agents in a rigid analog resulted in a 150-fold enhancement in activity.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -389,7 +389,7 @@ Making a ligand more rigid will lead to enhanced activity if the right conformat
 ![](https://media.drugdesign.org/course/structure-based-design/2_12_2_1.png){: loading=lazy }
 #### Making a Flexible Molecule More Rigid
 
-Making a flexible molecule more rigid will lead to enhanced activity if the right conformation is maintained.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/making-flexible-molecule-more-rigid-b86e0912'><i class='fa fa-play' aria-hidden='true'></i></button>Making a flexible molecule more rigid will lead to enhanced activity if the right conformation is maintained.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -399,7 +399,7 @@ Making a flexible molecule more rigid will lead to enhanced activity if the righ
 
 ### The Four Design Methods
 
-There are four basic methods in receptor-based drug design: analog design, database searching, computerized de novo design and manual design.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/four-design-methods-d5f13f59'><i class='fa fa-play' aria-hidden='true'></i></button>There are four basic methods in receptor-based drug design: analog design, database searching, computerized de novo design and manual design.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 
 
@@ -411,7 +411,7 @@ There are four basic methods in receptor-based drug design: analog design, datab
 ### Principles of Analog Design
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-In analog design, chemically related molecules are synthesized and tested in order to collect useful data on the structural requirements for the biological activities. In structure-based drug design the structure-activity relationships (SAR) are analyzed in 3D; for example a loss in potency is interpreted as a loss of good complementary between the ligand and the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/principles-analog-design-5e176099'><i class='fa fa-play' aria-hidden='true'></i></button>In analog design, chemically related molecules are synthesized and tested in order to collect useful data on the structural requirements for the biological activities. In structure-based drug design the structure-activity relationships (SAR) are analyzed in 3D; for example a loss in potency is interpreted as a loss of good complementary between the ligand and the receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -423,7 +423,7 @@ In analog design, chemically related molecules are synthesized and tested in ord
 ### Example of Analog Design
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-The analysis of the crystal structure of the complex between trimethoprim and dihydrofolate reductase (DHFR) reveals the existence of possible additional binding sites. In particular, a basic arginine residue could be considered for increasing the binding.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/example-analog-design-e1182126'><i class='fa fa-play' aria-hidden='true'></i></button>The analysis of the crystal structure of the complex between trimethoprim and dihydrofolate reductase (DHFR) reveals the existence of possible additional binding sites. In particular, a basic arginine residue could be considered for increasing the binding.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -453,7 +453,7 @@ The analysis of the crystal structure of the complex between trimethoprim and di
     
 ### Additional Binding with Arginine Residue
 
-The analysis indicated that a carboxyl function introduced in the chemical structure of trimethoprim could form an ionic linkage with the arginine residue. The carboxyl analog proved to be significantly more potent than the reference trimethoprim and its X-ray structure confirmed the validity of this finding.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/additional-binding-arginine-residue-75ebda6d'><i class='fa fa-play' aria-hidden='true'></i></button>The analysis indicated that a carboxyl function introduced in the chemical structure of trimethoprim could form an ionic linkage with the arginine residue. The carboxyl analog proved to be significantly more potent than the reference trimethoprim and its X-ray structure confirmed the validity of this finding.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -464,7 +464,7 @@ The analysis indicated that a carboxyl function introduced in the chemical struc
 
 ### 3D Database Searching
 
-It is sometimes a challenge to design de novo leads on the basis of an unliganded protein structure alone. In practice the database approach provides an easy way to arrive at leads. It consists of a 3D computerized search of a database of synthesized or naturally occurring compounds and testing them in silico. In this process each candidate molecule is automatically inserted, oriented and minimized into the active site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/3d-database-searching-83e36576'><i class='fa fa-play' aria-hidden='true'></i></button>It is sometimes a challenge to design de novo leads on the basis of an unliganded protein structure alone. In practice the database approach provides an easy way to arrive at leads. It consists of a 3D computerized search of a database of synthesized or naturally occurring compounds and testing them in silico. In this process each candidate molecule is automatically inserted, oriented and minimized into the active site.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[in silico]: means using silicon-based computer technologies to perform simulations, modeling and experiments
 
@@ -473,20 +473,20 @@ It is sometimes a challenge to design de novo leads on the basis of an unligande
 
 ### Scoring the Hits
 
-The result of this treatment is a list of compounds ranked by a score based on the overall match with the receptor.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/scoring-hits-3ce0015e'><i class='fa fa-play' aria-hidden='true'></i></button>The result of this treatment is a list of compounds ranked by a score based on the overall match with the receptor.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/5_1_2_1.png){: loading=lazy }
 ### Advantages of Database Searching
 
-An advantage of this method is that it generally does not require special synthetic efforts (the molecule is available) but on the other hand it is highly dependent on the content of the database and also it is time-consuming.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/advantages-database-searching-a4d964ef'><i class='fa fa-play' aria-hidden='true'></i></button>An advantage of this method is that it generally does not require special synthetic efforts (the molecule is available) but on the other hand it is highly dependent on the content of the database and also it is time-consuming.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/5_2_0_1.gif){: loading=lazy }
 
 ### Problems of Conformational Complexity
 
-Due to the conformational complexity of the current molecules, only a few of their conformations are actually stored in the databank. Unless complicated conformational generators are incorporated in the calculations, database searching cannot be exhaustive and therefore many molecules may be overlooked in the process.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/problems-conformational-complexity-6d25cc0d'><i class='fa fa-play' aria-hidden='true'></i></button>Due to the conformational complexity of the current molecules, only a few of their conformations are actually stored in the databank. Unless complicated conformational generators are incorporated in the calculations, database searching cannot be exhaustive and therefore many molecules may be overlooked in the process.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/alt5_5_3_1_1.gif){: loading=lazy }
@@ -537,14 +537,14 @@ Due to the conformational complexity of the current molecules, only a few of the
     
 ### Assessing the Validity of the 3D Structures
 
-Whenever results are obtained from a database search, one should always be critical and check the validity of the result, especially its geometry. For example, using a query consisting of 4 phenyl rings and one OH group, the following search result was obtained. Although geometrically correct, the conformation of the result with all the substituents in the axial orientation is highly unrealistic (too high energy).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/assessing-validity-3d-structures-ff223ec5'><i class='fa fa-play' aria-hidden='true'></i></button>Whenever results are obtained from a database search, one should always be critical and check the validity of the result, especially its geometry. For example, using a query consisting of 4 phenyl rings and one OH group, the following search result was obtained. Although geometrically correct, the conformation of the result with all the substituents in the axial orientation is highly unrealistic (too high energy).
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_5_3_s2.png){: loading=lazy }
 
 ### Example of Database Searching
 
-In order to identify small molecules that are complementary in shape to the active site of HIV-1 protease, the 3D structure of the enzyme was used as a screen. The following benzophenone derivative was found as an HIV-1 inhibitor (IC<sub>50</sub> = 11 mM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/example-database-searching-dbf95b27'><i class='fa fa-play' aria-hidden='true'></i></button>In order to identify small molecules that are complementary in shape to the active site of HIV-1 protease, the 3D structure of the enzyme was used as a screen. The following benzophenone derivative was found as an HIV-1 inhibitor (IC<sub>50</sub> = 11 mM).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -554,7 +554,7 @@ In order to identify small molecules that are complementary in shape to the acti
 
 ### Limitations in Database Approaches
 
-Using the crystallographic structure of the HIV-1 protease for screening, Haloperidol was found as a "hit" able to bind to the catalytic site. The molecule was tested and showed moderate inhibitory activity (Ki = 100 &Mu;M).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/limitations-database-approaches-b127e312'><i class='fa fa-play' aria-hidden='true'></i></button>Using the crystallographic structure of the HIV-1 protease for screening, Haloperidol was found as a "hit" able to bind to the catalytic site. The molecule was tested and showed moderate inhibitory activity (Ki = 100 &micro;M).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -570,7 +570,7 @@ Using the crystallographic structure of the HIV-1 protease for screening, Halope
 ### Unexpected Binding Mode of Haloperidol
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
-Subsequent X-ray crystallographic studies revealed that the structure was not binding in the catalytic site as foreseen initially, but in another region 5 &#8491; away and rotated by 80&#176; from the orientation predicted in the computational search; the Haloperidol analog is represented here in yellow. It was expected to interact in the region occupied by known inhibitors, as for example MVT-101 represented in pink.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/unexpected-binding-mode-haloperidol-8fb73e7f'><i class='fa fa-play' aria-hidden='true'></i></button>Subsequent X-ray crystallographic studies revealed that the structure was not binding in the catalytic site as foreseen initially, but in another region 5 &#8491; away and rotated by 80&#176; from the orientation predicted in the computational search; the Haloperidol analog is represented here in yellow. It was expected to interact in the region occupied by known inhibitors, as for example MVT-101 represented in pink.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -581,14 +581,14 @@ Subsequent X-ray crystallographic studies revealed that the structure was not bi
 
 ### Databases of Molecules in 3D
 
-Throughout the world there are thousands of chemical suppliers offering more than 3 million of organic molecules. The advantage of using commercially available molecules in database searching is that they offer a great diversity and can be purchased and tested rapidly. The 3D structures of molecules are either obtained experimentally (X-ray data, NMR) or by modeling techniques.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/databases-molecules-3d-dc65d924'><i class='fa fa-play' aria-hidden='true'></i></button>Throughout the world there are thousands of chemical suppliers offering more than 3 million of organic molecules. The advantage of using commercially available molecules in database searching is that they offer a great diversity and can be purchased and tested rapidly. The 3D structures of molecules are either obtained experimentally (X-ray data, NMR) or by modeling techniques.
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/5_6_0_1.png){: loading=lazy }
 ### The Main Purpose of a 3D-Database Search
 
-The main purpose of a 3D-database search is not to find compounds with ultrapotent activities. A realistic goal of a 3D-database search should be the discovery of active search results, which can subsequently be used as the basis for further synthetic modifications.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/main-purpose-3d-database-search-eeb735da'><i class='fa fa-play' aria-hidden='true'></i></button>The main purpose of a 3D-database search is not to find compounds with ultrapotent activities. A realistic goal of a 3D-database search should be the discovery of active search results, which can subsequently be used as the basis for further synthetic modifications.
 *[apo]: 3D structure of a macromolecule without a ligand
 
 
@@ -598,7 +598,7 @@ The main purpose of a 3D-database search is not to find compounds with ultrapote
 
 ### Automated Construction Approaches
 
-The purpose of construction programs is to discover a new chemical framework that fits to the active site of the target receptor or enzyme. Some methods are based on an existing moiety and additional fragments are appended by a step-by-step build up procedure. Other methods consist of assembling novel molecules from pieces that are positioned optimally in favorable regions of the active site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/automated-construction-approaches-279c940a'><i class='fa fa-play' aria-hidden='true'></i></button>The purpose of construction programs is to discover a new chemical framework that fits to the active site of the target receptor or enzyme. Some methods are based on an existing moiety and additional fragments are appended by a step-by-step build up procedure. Other methods consist of assembling novel molecules from pieces that are positioned optimally in favorable regions of the active site.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -673,7 +673,7 @@ The purpose of construction programs is to discover a new chemical framework tha
     
 ### Molecule Generated by an Automated Method
 
-The crystallographic structure of the immunophillin FKBP-12 was used as input for the design of new ligands, based on a construction approach. Among other solutions, the following structure was proposed. The molecule was synthesized and the biological tests confirmed that the compound was active (Ki = 16 &Mu;M).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/molecule-generated-by-an-automated-method-ab527ce2'><i class='fa fa-play' aria-hidden='true'></i></button>The crystallographic structure of the immunophillin FKBP-12 was used as input for the design of new ligands, based on a construction approach. Among other solutions, the following structure was proposed. The molecule was synthesized and the biological tests confirmed that the compound was active (Ki = 16 &micro;M).
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 *[ligands]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
@@ -691,7 +691,7 @@ The crystallographic structure of the immunophillin FKBP-12 was used as input fo
 
 ### Manual Design
 
-It is a major challenge to design de novo leads on the basis of an unliganded protein structure alone. However manual design is greatly facilitated by starting from an existing "solution" which consists of the visualization of a complex (an experimental result or a model). This procedure is currently undertaken either by the medicinal chemist or the molecular modeler.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/manual-design-7c6b0af7'><i class='fa fa-play' aria-hidden='true'></i></button>It is a major challenge to design de novo leads on the basis of an unliganded protein structure alone. However manual design is greatly facilitated by starting from an existing "solution" which consists of the visualization of a complex (an experimental result or a model). This procedure is currently undertaken either by the medicinal chemist or the molecular modeler.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
 
 
@@ -700,7 +700,7 @@ It is a major challenge to design de novo leads on the basis of an unliganded pr
 ### Importance of Visualization
 *[nce]: New Chemical Entity: a compound not previously described.
 
-In manual design the visualization is of central importance. It helps to see in a condensed way the molecular objects. In addition, it triggers the synergy between knowledge and intuition for identifying key features of the receptor pocket or for building molecules under given requirements.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/importance-visualization-8c3c3b47'><i class='fa fa-play' aria-hidden='true'></i></button>In manual design the visualization is of central importance. It helps to see in a condensed way the molecular objects. In addition, it triggers the synergy between knowledge and intuition for identifying key features of the receptor pocket or for building molecules under given requirements.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -709,7 +709,7 @@ In manual design the visualization is of central importance. It helps to see in 
 
 ### Tools in Manual Design
 
-Real time rotations, molecular editing functions such as deletion, addition, fusion, connections, torsion angle alterations, superimpositions, coloring and stereo constitute the minimum necessary for sketching and assessing the validity of a solution considered in manual design. On a higher level, the energy calculations and minimizations can complete the panoply of the synthetic chemist.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/tools-manual-design-4d42b323'><i class='fa fa-play' aria-hidden='true'></i></button>Real time rotations, molecular editing functions such as deletion, addition, fusion, connections, torsion angle alterations, superimpositions, coloring and stereo constitute the minimum necessary for sketching and assessing the validity of a solution considered in manual design. On a higher level, the energy calculations and minimizations can complete the panoply of the synthetic chemist.
 *[minimizations]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -719,7 +719,7 @@ Real time rotations, molecular editing functions such as deletion, addition, fus
 
 ### Fully Exploiting the Fruits of the Analyses
 
-Manual design aims at the rapid exploitation of the information revealed by molecules previously tested and the translation of this knowledge into the structure of a new molecule to be synthesized. In this example, the analyses of known active molecules indicated the existence of two hydrogen bonds as indicated in the view. However only one hydrogen bond is exploited by the known molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/fully-exploiting-fruits-analyses-097f90d2'><i class='fa fa-play' aria-hidden='true'></i></button>Manual design aims at the rapid exploitation of the information revealed by molecules previously tested and the translation of this knowledge into the structure of a new molecule to be synthesized. In this example, the analyses of known active molecules indicated the existence of two hydrogen bonds as indicated in the view. However only one hydrogen bond is exploited by the known molecules.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -727,7 +727,7 @@ Manual design aims at the rapid exploitation of the information revealed by mole
 
 ### Design of a Hybrid Molecule
 
-The designed keto molecule incorporates knowledge extracted from the two other active phenyl-imidazole analogs. The imidazole ring of each of the compounds is mimicked by a pyridine ring in the designed structure. The resulting compound proved to be much more potent than the other two compounds.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/design-hybrid-molecule-fdd5f9c0'><i class='fa fa-play' aria-hidden='true'></i></button>The designed keto molecule incorporates knowledge extracted from the two other active phenyl-imidazole analogs. The imidazole ring of each of the compounds is mimicked by a pyridine ring in the designed structure. The resulting compound proved to be much more potent than the other two compounds.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -738,7 +738,7 @@ The designed keto molecule incorporates knowledge extracted from the two other a
 
 ### Another Round of Analysis &#38; Design
 
-The new biological results, the availability of a new X-ray structure, the improved understanding of structure-activity relationships, the optimization of a series, and the need for an entirely new chemical structure are all reasons for the medicinal chemist to return to the "analysis" or "design" modes. The information is used as the basis for another round of analysis, design, synthesis and compound testing.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/another-round-analysis-amp-design-eb11a54d'><i class='fa fa-play' aria-hidden='true'></i></button>The new biological results, the availability of a new X-ray structure, the improved understanding of structure-activity relationships, the optimization of a series, and the need for an entirely new chemical structure are all reasons for the medicinal chemist to return to the "analysis" or "design" modes. The information is used as the basis for another round of analysis, design, synthesis and compound testing.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 *[structure-activity relationships]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -748,7 +748,7 @@ The new biological results, the availability of a new X-ray structure, the impro
 
 ### Example of Successful Structure-Based Design
 
-The use of the crystallographic structure of the HIV-1 protease in drug design represents one of the more impressive success stories in the structure-based drug design field. Based on the structure of the protein, many groups have used an iterative structure-based design process. This has resulted in the identification of distinct classes of inhibitors and several successful drug candidates have emerged from these studies and are used in the control of AIDS.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/example-successful-structure-based-design-c2f285b8'><i class='fa fa-play' aria-hidden='true'></i></button>The use of the crystallographic structure of the HIV-1 protease in drug design represents one of the more impressive success stories in the structure-based drug design field. Based on the structure of the protein, many groups have used an iterative structure-based design process. This has resulted in the identification of distinct classes of inhibitors and several successful drug candidates have emerged from these studies and are used in the control of AIDS.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -757,14 +757,14 @@ The use of the crystallographic structure of the HIV-1 protease in drug design r
 
 ### Mechanism of Action of the HIV-1 Protease
 
-The HIV-1 protease plays a crucial part in the life cycle of the HIV virus. The task of the HIV-1 protease is to cut this long 'polyprotein' into the proper protein-sized pieces. As a result of this crucial task, HIV-1 protease is an excellent target for drug therapy. Inhibitor drugs block the action of the protease and the virus perishes because it is unable to mature into its infectious form.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/mechanism-action-hiv-1-protease-baf11008'><i class='fa fa-play' aria-hidden='true'></i></button>The HIV-1 protease plays a crucial part in the life cycle of the HIV virus. The task of the HIV-1 protease is to cut this long 'polyprotein' into the proper protein-sized pieces. As a result of this crucial task, HIV-1 protease is an excellent target for drug therapy. Inhibitor drugs block the action of the protease and the virus perishes because it is unable to mature into its infectious form.
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/9_2_0_1.png){: loading=lazy }
 ### The Crystallographic Structure of the HIV-1 Protease
 
-The HIV-1 protease is a small dimer enzyme comprising two identical folded 99 amino-acid chains A and B. This view represents the &alpha; carbons of the HIV-1 protease.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/crystallographic-structure-hiv-1-protease-53396f90'><i class='fa fa-play' aria-hidden='true'></i></button>The HIV-1 protease is a small dimer enzyme comprising two identical folded 99 amino-acid chains A and B. This view represents the &alpha; carbons of the HIV-1 protease.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/alt1_9_3_1_1.png){: loading=lazy }
@@ -792,7 +792,7 @@ The HIV-1 protease is a small dimer enzyme comprising two identical folded 99 am
     
 #### Hydrophobic Cavity of the HIV-1 Protease
 
-The assembly of the two chains of the HIV-1 protease forms a hydrophobic cavity at the center of the catalytic site of the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/hydrophobic-cavity-hiv-1-protease-4aea7659'><i class='fa fa-play' aria-hidden='true'></i></button>The assembly of the two chains of the HIV-1 protease forms a hydrophobic cavity at the center of the catalytic site of the enzyme.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
@@ -800,7 +800,7 @@ The assembly of the two chains of the HIV-1 protease forms a hydrophobic cavity 
 
 #### Flap of the HIV-1 Protease
 
-An interesting feature of the structure is the "flap region" in each chain that arches over the active site. Relative to the free enzyme, the complex exhibits backbone movements as the flap regions close jaw-like over the substrate.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/flap-hiv-1-protease-f8cb45ef'><i class='fa fa-play' aria-hidden='true'></i></button>An interesting feature of the structure is the "flap region" in each chain that arches over the active site. Relative to the free enzyme, the complex exhibits backbone movements as the flap regions close jaw-like over the substrate.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -811,7 +811,7 @@ An interesting feature of the structure is the "flap region" in each chain that 
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
 
-Since the key catalytic step for virus replication is breaking the peptide bond, analogues were designed which resemble the transition state intermediate but are not cleaved by the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/transition-state-concept-for-design-inhibitors-56250c96'><i class='fa fa-play' aria-hidden='true'></i></button>Since the key catalytic step for virus replication is breaking the peptide bond, analogues were designed which resemble the transition state intermediate but are not cleaved by the enzyme.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 
@@ -819,7 +819,7 @@ Since the key catalytic step for virus replication is breaking the peptide bond,
 ![](https://media.drugdesign.org/course/structure-based-design/9_4_0_1.png){: loading=lazy }
 ### Topography of the Active Site of the Enzyme
 
-It was found that several hexapeptides were inhibitors of HIV-1 protease. Based on these results, it was suggested that the first requirement is that the inhibitor must have side chains which will enter in 6 subpockets (P1, P2, P3, P1', P2', P3') of the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/topography-active-site-enzyme-05e7cd8c'><i class='fa fa-play' aria-hidden='true'></i></button>It was found that several hexapeptides were inhibitors of HIV-1 protease. Based on these results, it was suggested that the first requirement is that the inhibitor must have side chains which will enter in 6 subpockets (P1, P2, P3, P1', P2', P3') of the enzyme.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -828,7 +828,7 @@ It was found that several hexapeptides were inhibitors of HIV-1 protease. Based 
 ### The MVT-101 Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-The MVT-101 compound was found to inhibit the HIV-1 protease (Ki = 780 nM). It is a hexapeptide in which the scissile peptide bond (that which is cleaved by the protease) is replaced by an aminomethylene group.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/mvt-101-inhibitor-afeae72c'><i class='fa fa-play' aria-hidden='true'></i></button>The MVT-101 compound was found to inhibit the HIV-1 protease (Ki = 780 nM). It is a hexapeptide in which the scissile peptide bond (that which is cleaved by the protease) is replaced by an aminomethylene group.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/9_6_0_1.png){: loading=lazy }
@@ -841,7 +841,7 @@ The MVT-101 compound was found to inhibit the HIV-1 protease (Ki = 780 nM). It i
     
 ### Crystallographic Resolution of the HIV-1 Protease
 
-A major milestone in HIV-1 inhibition occurred in 1989 with the crystallographic determination of the three dimensional structure of the enzyme. A decade later, more than four hundred structures were available in the PDB, including several genetic strains of the enzyme, complexes of the enzyme with many different drugs and inhibitors, and dozens of mutant enzymes. This information played a major role in the successful development of drugs against AIDS.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/crystallographic-resolution-hiv-1-protease-243bb4dc'><i class='fa fa-play' aria-hidden='true'></i></button>A major milestone in HIV-1 inhibition occurred in 1989 with the crystallographic determination of the three dimensional structure of the enzyme. A decade later, more than four hundred structures were available in the PDB, including several genetic strains of the enzyme, complexes of the enzyme with many different drugs and inhibitors, and dozens of mutant enzymes. This information played a major role in the successful development of drugs against AIDS.
 *[PDB]: The "Protein Data Bank". A worldwide repository source of 3D structures of proteins obtained by X-ray crystallography or NMR studies.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -873,7 +873,7 @@ A major milestone in HIV-1 inhibition occurred in 1989 with the crystallographic
     
 ### X-ray of the Complex of MVT-101 with the Enzyme (1/3)
 
-The complex of MVT-101 with the HIV-1 protease is one of the first crystallographic complexes that was solved. It revealed the binding mode of MVT-101 that proved to be of great importance for the discovery of effective drugs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/x-ray-complex-mvt-101-enzyme-13-fff793f6'><i class='fa fa-play' aria-hidden='true'></i></button>The complex of MVT-101 with the HIV-1 protease is one of the first crystallographic complexes that was solved. It revealed the binding mode of MVT-101 that proved to be of great importance for the discovery of effective drugs.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 
@@ -894,7 +894,7 @@ The complex of MVT-101 with the HIV-1 protease is one of the first crystallograp
     
 #### X-ray of the Complex of MVT-101 with the Enzyme (2/3)
 
-A key feature of HIV-1 protease inhibitors is the hydrogen bonding formed with the two central carbonyls to a water molecule which acts, via hydrogen bonding, as a bridge to Ile-50 and Ile-50' in the flaps of HIV-1 protease and stabilizes the ''closed" conformation.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/x-ray-complex-mvt-101-enzyme-23-471c66eb'><i class='fa fa-play' aria-hidden='true'></i></button>A key feature of HIV-1 protease inhibitors is the hydrogen bonding formed with the two central carbonyls to a water molecule which acts, via hydrogen bonding, as a bridge to Ile-50 and Ile-50' in the flaps of HIV-1 protease and stabilizes the ''closed" conformation.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -915,7 +915,7 @@ A key feature of HIV-1 protease inhibitors is the hydrogen bonding formed with t
     
 #### X-ray of the Complex of MVT-101 with the Enzyme (3/3)
 
-The inhibitors have also a very extended hydrogen bond network with other amino acids in the catalytic site. For example,MVT-101 forms hydrogen bonds with Ile-50, Ile-50', Gly-48, Gly-48', Asp-29, Asp-29', Gly-27 and Gly-27'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/x-ray-complex-mvt-101-enzyme-33-487f1a21'><i class='fa fa-play' aria-hidden='true'></i></button>The inhibitors have also a very extended hydrogen bond network with other amino acids in the catalytic site. For example,MVT-101 forms hydrogen bonds with Ile-50, Ile-50', Gly-48, Gly-48', Asp-29, Asp-29', Gly-27 and Gly-27'.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -937,7 +937,7 @@ The inhibitors have also a very extended hydrogen bond network with other amino 
     
 ### Design of Peptide-Like Structures
 
-The information provided by the X-ray complex of MVT-101 with the protease gave the impetus to the discovery of potent peptidomimetic molecules. Peptide-like structures were designed to anchor not only to Ile-50 and Ile-50' but also to Asp-25 and Asp-25' , that stabilize the "closed" conformation of the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/design-peptide-like-structures-5a1bbce8'><i class='fa fa-play' aria-hidden='true'></i></button>The information provided by the X-ray complex of MVT-101 with the protease gave the impetus to the discovery of potent peptidomimetic molecules. Peptide-like structures were designed to anchor not only to Ile-50 and Ile-50' but also to Asp-25 and Asp-25' , that stabilize the "closed" conformation of the enzyme.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_9_9_s1.png){: loading=lazy }
@@ -962,7 +962,7 @@ The information provided by the X-ray complex of MVT-101 with the protease gave 
     
 #### Optimization to Fit the hydrophobic pockets
 
-Additional efforts were also made to better fill the hydrophobic pockets (green=MVT-101, red=designed).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/optimization-to-fit-hydrophobic-pockets-a03b704c'><i class='fa fa-play' aria-hidden='true'></i></button>Additional efforts were also made to better fill the hydrophobic pockets (green=MVT-101, red=designed).
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -970,13 +970,13 @@ Additional efforts were also made to better fill the hydrophobic pockets (green=
 
 #### Example of Optimized Structure
 
-A typical example of a peptidic compound that bears these changes is A-77003, which is about 5000 times more potent than MVT-101 (pKi = 0.15 nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/example-optimized-structure-b3b9425c'><i class='fa fa-play' aria-hidden='true'></i></button>A typical example of a peptidic compound that bears these changes is A-77003, which is about 5000 times more potent than MVT-101 (pKi = 0.15 nM).
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/9_9_3_1.png){: loading=lazy }
 ### X-ray Structure of the A-77003 Complex (1/4)
 
-Analysis of the complex shows that A-77003 (in which the scissile amide bond of the substrate is replaced by a diol moiety) anchors well on the two aspartic acids Asp-25 and Asp-25'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/x-ray-structure-a-77003-complex-14-a98f563c'><i class='fa fa-play' aria-hidden='true'></i></button>Analysis of the complex shows that A-77003 (in which the scissile amide bond of the substrate is replaced by a diol moiety) anchors well on the two aspartic acids Asp-25 and Asp-25'.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -984,21 +984,21 @@ Analysis of the complex shows that A-77003 (in which the scissile amide bond of 
 
 #### X-ray Structure of the A-77003 Complex (2/4)
 
-A-77003 also binds to Ile-50 and Ile-50' through a water molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/x-ray-structure-a-77003-complex-24-0de32b23'><i class='fa fa-play' aria-hidden='true'></i></button>A-77003 also binds to Ile-50 and Ile-50' through a water molecule.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_9_10_s2.png){: loading=lazy }
 
 #### X-ray Structure of the A-77003 Complex (3/4)
 
-The hydrophobic pockets are well filled by phenyl and isopropyl groups.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/x-ray-structure-a-77003-complex-34-f4e80715'><i class='fa fa-play' aria-hidden='true'></i></button>The hydrophobic pockets are well filled by phenyl and isopropyl groups.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/alt1_9_10_3_1.png){: loading=lazy }
 
 #### X-ray Structure of the A-77003 Complex (4/4)
 
-The inhibitor forms several additional hydrogen bonds with the enzyme.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/x-ray-structure-a-77003-complex-44-20f1d15b'><i class='fa fa-play' aria-hidden='true'></i></button>The inhibitor forms several additional hydrogen bonds with the enzyme.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -1007,7 +1007,7 @@ The inhibitor forms several additional hydrogen bonds with the enzyme.
 
 ### A Drug Design Solution Using Database Searching
 
-In order to improve the bioavailability of the inhibitors a data-base approach was considered. Based on the docked A77003 diol/HIV-1 protease complex, a simple pharmacophore was defined by the intramolecular distances between the symmetric hydrophobic groups (P1 and P1') and a hydrogen bond donor/acceptor group bound to the catalytic aspartates.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/drug-design-solution-using-database-searching-a9e33109'><i class='fa fa-play' aria-hidden='true'></i></button>In order to improve the bioavailability of the inhibitors a data-base approach was considered. Based on the docked A77003 diol/HIV-1 protease complex, a simple pharmacophore was defined by the intramolecular distances between the symmetric hydrophobic groups (P1 and P1') and a hydrogen bond donor/acceptor group bound to the catalytic aspartates.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1032,7 +1032,7 @@ In order to improve the bioavailability of the inhibitors a data-base approach w
     
 ### The Terphenyl Hit
 
-Using this query in a 3D database search resulted in the following terphenyl derivative hit:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/terphenyl-hit-c2013cfc'><i class='fa fa-play' aria-hidden='true'></i></button>Using this query in a 3D database search resulted in the following terphenyl derivative hit:
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_9_12.png){: loading=lazy }
@@ -1051,7 +1051,7 @@ Using this query in a 3D database search resulted in the following terphenyl der
     
 ### In Depth Analysis of the Hit
 
-The following analyses determined the successful continuation of the project; docking experiments of the terphenyl derivative in the HIV-1 protease showed that the top methoxy group is mimicking the structural water whereas the bottom hydroxy and methoxy groups bind to the Asp-25.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/depth-analysis-hit-abe4fa7d'><i class='fa fa-play' aria-hidden='true'></i></button>The following analyses determined the successful continuation of the project; docking experiments of the terphenyl derivative in the HIV-1 protease showed that the top methoxy group is mimicking the structural water whereas the bottom hydroxy and methoxy groups bind to the Asp-25.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_9_13_s1.png){: loading=lazy }
@@ -1070,7 +1070,7 @@ The following analyses determined the successful continuation of the project; do
     
 #### Incorporating Binding Features of the Water Molecule
 
-Based on this analysis it was deduced that the incorporation of the binding features of the water molecule into the inhibitor structure would be beneficial because its displacement should be energetically favored.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/incorporating-binding-features-water-molecule-740705e2'><i class='fa fa-play' aria-hidden='true'></i></button>Based on this analysis it was deduced that the incorporation of the binding features of the water molecule into the inhibitor structure would be beneficial because its displacement should be energetically favored.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -1078,14 +1078,14 @@ Based on this analysis it was deduced that the incorporation of the binding feat
 #### Rigidification of the Linear Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-Also, a rigidification of the linear inhibitor was predicted to provide a positive entropic effect (less conformations available).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/rigidification-linear-inhibitor-ea405e67'><i class='fa fa-play' aria-hidden='true'></i></button>Also, a rigidification of the linear inhibitor was predicted to provide a positive entropic effect (less conformations available).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/9_13_3_1.png){: loading=lazy }
 #### Considerations for Specificity 
 
-Moreover, mimicking the water molecule within the inhibitor should ensure HIV protease specificity against other aspartic proteases, as only retroviral proteases share this structural water.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/considerations-for-specificity-f38d047a'><i class='fa fa-play' aria-hidden='true'></i></button>Moreover, mimicking the water molecule within the inhibitor should ensure HIV protease specificity against other aspartic proteases, as only retroviral proteases share this structural water.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -1093,7 +1093,7 @@ Moreover, mimicking the water molecule within the inhibitor should ensure HIV pr
 
 #### Design of Cyclohexanone Scaffold
 
-A new scaffold cyclohexanone derivative was then designed based on these concepts.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/design-cyclohexanone-scaffold-fd8296c7'><i class='fa fa-play' aria-hidden='true'></i></button>A new scaffold cyclohexanone derivative was then designed based on these concepts.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -1101,7 +1101,7 @@ A new scaffold cyclohexanone derivative was then designed based on these concept
 
 ### The Design of Cyclic Ureas
 
-Modeling studies were performed and showed that replacing the cyclohexanone by a cyclic-urea (7-membered ring) increased the binding to the enzyme. The change provided a better hydrogen bonding to the Asp-25 and Asp-25' as illustrated below.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/design-cyclic-ureas-f6c77b1d'><i class='fa fa-play' aria-hidden='true'></i></button>Modeling studies were performed and showed that replacing the cyclohexanone by a cyclic-urea (7-membered ring) increased the binding to the enzyme. The change provided a better hydrogen bonding to the Asp-25 and Asp-25' as illustrated below.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_9_14_s1.png){: loading=lazy }
@@ -1120,21 +1120,21 @@ Modeling studies were performed and showed that replacing the cyclohexanone by a
     
 #### Limitation of the 6-Membered Ring Scaffold
 
-The 6-membered ring did not provide the proper directions to reach the two other pockets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/limitation-6-membered-ring-scaffold-f19e6f2b'><i class='fa fa-play' aria-hidden='true'></i></button>The 6-membered ring did not provide the proper directions to reach the two other pockets.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/alt1_9_14_2_1.png){: loading=lazy }
 
 #### The 7-Membered cyclic Urea Scaffold
 
-The 7-membered cyclic urea provided the exact stereochemical features to anchor to the aspartates, to mimic the structural water molecule and to provide the correct directions of substitution for accessing to the four hydrophobic pockets.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/7-membered-cyclic-urea-scaffold-f43a2e16'><i class='fa fa-play' aria-hidden='true'></i></button>The 7-membered cyclic urea provided the exact stereochemical features to anchor to the aspartates, to mimic the structural water molecule and to provide the correct directions of substitution for accessing to the four hydrophobic pockets.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_9_14_s3.png){: loading=lazy }
 
 #### Design of the Cyclic Urea XK-263
 
-All this effort led to the design and modeling of an entirely novel series of potent inhibitors: cyclic urea compounds such as XK-263 (pKi = 0.31 nM).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/design-cyclic-urea-xk-263-b6a7a14e'><i class='fa fa-play' aria-hidden='true'></i></button>All this effort led to the design and modeling of an entirely novel series of potent inhibitors: cyclic urea compounds such as XK-263 (pKi = 0.31 nM).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -1142,7 +1142,7 @@ All this effort led to the design and modeling of an entirely novel series of po
 ![](https://media.drugdesign.org/course/structure-based-design/9_14_4_1.png){: loading=lazy }
 ### The Crystallographic Structure of XK-263 Complex (1/3)
 
-The validity of the design was finally experimentally proven as shown here by the X-ray structure of the complex of XK-263 with the HIV-1 protease. Notice the following features: The carbonyl oxygen mimics the structural water and binds directly to Ile-50 and Ile-50'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/crystallographic-structure-xk-263-complex-13-6f2e8ccc'><i class='fa fa-play' aria-hidden='true'></i></button>The validity of the design was finally experimentally proven as shown here by the X-ray structure of the complex of XK-263 with the HIV-1 protease. Notice the following features: The carbonyl oxygen mimics the structural water and binds directly to Ile-50 and Ile-50'.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/snap_v1_c6_9_15_s1.png){: loading=lazy }
@@ -1166,7 +1166,7 @@ The validity of the design was finally experimentally proven as shown here by th
     
 #### The Crystallographic Structure of XK-263 Complex (2/3)
 
-The diol moiety anchors well to the two aspartic acids Asp-25 and Asp-25'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/crystallographic-structure-xk-263-complex-23-c4cf7a96'><i class='fa fa-play' aria-hidden='true'></i></button>The diol moiety anchors well to the two aspartic acids Asp-25 and Asp-25'.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -1191,7 +1191,7 @@ The diol moiety anchors well to the two aspartic acids Asp-25 and Asp-25'.
     
 #### The Crystallographic Structure of XK-263 Complex (3/3)
 
-The benzyl and naphthyl groups fill the hydrophobic pockets P1, P1', P2 and P2'.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/crystallographic-structure-xk-263-complex-33-208223c3'><i class='fa fa-play' aria-hidden='true'></i></button>The benzyl and naphthyl groups fill the hydrophobic pockets P1, P1', P2 and P2'.
 
 
 ![](https://media.drugdesign.org/course/structure-based-design/alt1_9_15_3_1.png){: loading=lazy }
@@ -1215,7 +1215,7 @@ The benzyl and naphthyl groups fill the hydrophobic pockets P1, P1', P2 and P2'.
     
 ### Lessons From HIV-1 Protease Inhibition
 
-The key learnings acquired in the course of this study are as follows: (1) the project took advantage of previous knowledge of other projects (renin inhibition; renin is an aspartic protease); (2) medicinal chemistry played a pivotal role in bringing data of high informational content at the beginning of the project and in enabling the design of tailor-made structures that were relatively easy to synthesize; (3) X-ray crystallography played a key role in revealing the structural features of the enzyme and the binding modes of the inhibitor. This allowed efficient design of non-peptidic structures and the rapid optimization of the lead compounds; (4) database searching provided an intermediate molecule with information of high informational content. Finally it paved the way for other projects to aim at converting the knowledge of a substrate or a peptide inhibitor into the structure of a non-peptidic drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/lessons-from-hiv-1-protease-inhibition-70a48ede'><i class='fa fa-play' aria-hidden='true'></i></button>The key learnings acquired in the course of this study are as follows: (1) the project took advantage of previous knowledge of other projects (renin inhibition; renin is an aspartic protease); (2) medicinal chemistry played a pivotal role in bringing data of high informational content at the beginning of the project and in enabling the design of tailor-made structures that were relatively easy to synthesize; (3) X-ray crystallography played a key role in revealing the structural features of the enzyme and the binding modes of the inhibitor. This allowed efficient design of non-peptidic structures and the rapid optimization of the lead compounds; (4) database searching provided an intermediate molecule with information of high informational content. Finally it paved the way for other projects to aim at converting the knowledge of a substrate or a peptide inhibitor into the structure of a non-peptidic drug.
                 
                 
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1228,7 +1228,7 @@ The key learnings acquired in the course of this study are as follows: (1) the p
 
 ### Conclusion
 
-The molecular recognition of protein-ligand complexes is highly complex and the utilization of an iterative design process has greatly advanced the use of protein structure for the design of drug candidates. The state-of-the-art design process relies, in a large part, on a qualitative understanding of the molecular recognition of protein-ligand complexes based upon analogies to other systems and the use of several methods in parallel.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-based-design/conclusion-b60e207f'><i class='fa fa-play' aria-hidden='true'></i></button>The molecular recognition of protein-ligand complexes is highly complex and the utilization of an iterative design process has greatly advanced the use of protein structure for the design of drug candidates. The state-of-the-art design process relies, in a large part, on a qualitative understanding of the molecular recognition of protein-ligand complexes based upon analogies to other systems and the use of several methods in parallel.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -1236,4 +1236,6 @@ The molecular recognition of protein-ligand complexes is highly complex and the 
 
 ![](https://media.drugdesign.org/course/structure-based-design/10_1_0_1.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+
+Copyright © 2024 drugdesign.org

@@ -16,7 +16,7 @@
 
 ### Key Peptides in Drug Discovery
 
-Peptide molecules are an essential part of the biological processes. They act as substrates in many enzymatic reactions and can regulate the activation and inhibition of many biological pathways. As such, peptides are attractive targets as therapeutic drugs and drug-leads (see examples below). Furthermore, if one starts with a peptidic substance, it is relatively easy to find new peptidic analogs that are also biologically active.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/key-peptides-drug-discovery-d6032964'><i class='fa fa-play' aria-hidden='true'></i></button>Peptide molecules are an essential part of the biological processes. They act as substrates in many enzymatic reactions and can regulate the activation and inhibition of many biological pathways. As such, peptides are attractive targets as therapeutic drugs and drug-leads (see examples below). Furthermore, if one starts with a peptidic substance, it is relatively easy to find new peptidic analogs that are also biologically active.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -50,7 +50,7 @@ Peptide molecules are an essential part of the biological processes. They act as
 ### Definition of Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
-Drug development sometimes requires the imitation of a reference peptide molecule. "Peptido-mimicry" or peptidomimetics is defined as the process of mimicking the biological properties of a peptidic substance.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/definition-peptidomimetics-be4e6ee3'><i class='fa fa-play' aria-hidden='true'></i></button>Drug development sometimes requires the imitation of a reference peptide molecule. "Peptido-mimicry" or peptidomimetics is defined as the process of mimicking the biological properties of a peptidic substance.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
@@ -59,7 +59,7 @@ Drug development sometimes requires the imitation of a reference peptide molecul
 
 ### Problems with Peptide Molecules
 
-However, peptide compounds cannot be developed as drugs. Despite the excellent biological tests demonstrated in the laboratory, peptide molecules yield very poor results when the molecules are entered in clinical trials. The reason is that poor pharmacokinetics (including rapid proteolysis, metabolism, poor transport properties and rapid excretion) hinder the development of peptide and peptide-like molecules. In summary, peptidic molecules are:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/problems-peptide-molecules-9afe16d2'><i class='fa fa-play' aria-hidden='true'></i></button>However, peptide compounds cannot be developed as drugs. Despite the excellent biological tests demonstrated in the laboratory, peptide molecules yield very poor results when the molecules are entered in clinical trials. The reason is that poor pharmacokinetics (including rapid proteolysis, metabolism, poor transport properties and rapid excretion) hinder the development of peptide and peptide-like molecules. In summary, peptidic molecules are:
 *[pharmacokinetics]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
 
@@ -68,7 +68,7 @@ However, peptide compounds cannot be developed as drugs. Despite the excellent b
 ### The Aim of Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
-The aim of peptidomimetics is to find a non-peptidic molecule that mimics the action of a reference peptide ligand. A non-peptidic structure has also the advantage of providing the structural diversity necessary to allow optimization of specificity, oral bioavailability and pharmacokinetic properties. Also, in identifying an alternate series with different pharmacological properties, peptido-mimicry provides a powerful tool for creating proprietary molecules with a strong patent position.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/aim-peptidomimetics-0aa311c2'><i class='fa fa-play' aria-hidden='true'></i></button>The aim of peptidomimetics is to find a non-peptidic molecule that mimics the action of a reference peptide ligand. A non-peptidic structure has also the advantage of providing the structural diversity necessary to allow optimization of specificity, oral bioavailability and pharmacokinetic properties. Also, in identifying an alternate series with different pharmacological properties, peptido-mimicry provides a powerful tool for creating proprietary molecules with a strong patent position.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
@@ -76,14 +76,16 @@ The aim of peptidomimetics is to find a non-peptidic molecule that mimics the ac
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-=== "pic"
+
+=== "Pic"
     ![](https://media.drugdesign.org/course/peptidomimetics/aim_peptido.png){: loading=lazy }
+
 === "3D"
-    <div id="nglviewer-container-aim" class="nglviewer-container" data-molecule-id="aim" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-aim' class='nglviewer-container' data-molecule-id='aim' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Typical Peptidomimicry Projects
 
-The following steps have been taken in many typical peptidomimicry projects: knowing the structure of a peptide molecule (a substrate or a hit from a phage-display library), a systematic synthetic chemistry program permitted the discovery of active small peptide analogs. Active peptide molecules can be easily discovered, however the question is how to make out of it a useful drug?
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/typical-peptidomimicry-projects-a4fcb3cf'><i class='fa fa-play' aria-hidden='true'></i></button>The following steps have been taken in many typical peptidomimicry projects: knowing the structure of a peptide molecule (a substrate or a hit from a phage-display library), a systematic synthetic chemistry program permitted the discovery of active small peptide analogs. Active peptide molecules can be easily discovered, however the question is how to make out of it a useful drug?
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -95,7 +97,7 @@ The following steps have been taken in many typical peptidomimicry projects: kno
 
 ### From Peptides to Non-peptidic Molecules
 
-The entire spectrum of molecules is schematically represented in the following diagram. The initial peptide reference structures are on the left side while the ideal non-peptidic structures are located on the right side of the spectrum. The greater the distance, the less peptidic the molecule is. There are two routes for such transformations, which will be described in the next pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/from-peptides-to-non-peptidic-molecules-aa61769b'><i class='fa fa-play' aria-hidden='true'></i></button>The entire spectrum of molecules is schematically represented in the following diagram. The initial peptide reference structures are on the left side while the ideal non-peptidic structures are located on the right side of the spectrum. The greater the distance, the less peptidic the molecule is. There are two routes for such transformations, which will be described in the next pages.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -104,7 +106,7 @@ The entire spectrum of molecules is schematically represented in the following d
 
 ### Peptide-Like Examples
 
-The first approach consists of successive modifications of the initial peptide, that will progressively reduce its peptide character in order to get a compound that is far enough from the starting reference.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/first-route-successive-modifications-peptide-46b6be5b'><i class='fa fa-play' aria-hidden='true'></i></button>The first approach consists of successive modifications of the initial peptide, that will progressively reduce its peptide character in order to get a compound that is far enough from the starting reference.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -112,14 +114,14 @@ The first approach consists of successive modifications of the initial peptide, 
 
 #### Depeptidization
 
-The successive modifications of the structure of a reference peptide is a complicated operation. It is sometimes called "depeptidization" and is relatively subjective. This approach requires a continuous effort of chemical syntheses.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/depeptidization-7749fe82'><i class='fa fa-play' aria-hidden='true'></i></button>The successive modifications of the structure of a reference peptide is a complicated operation. It is sometimes called "depeptidization" and is relatively subjective. This approach requires a continuous effort of chemical syntheses.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/peptidomimetics/4_2_0_1.png){: loading=lazy }
 #### Range of Structural Modifications
 
-From a structural point of view, a peptide mimic can be designed by approaches ranging from relatively conservative replacements to more drastic modifications. Examples of selected approaches are demonstrated in the following pages. Each of these approaches can be the end-point of a peptidomimetic project or just one step in a sequence of modifications aiming at reducing the peptidic character.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/range-structural-modifications-328378de'><i class='fa fa-play' aria-hidden='true'></i></button>From a structural point of view, a peptide mimic can be designed by approaches ranging from relatively conservative replacements to more drastic modifications. Examples of selected approaches are demonstrated in the following pages. Each of these approaches can be the end-point of a peptidomimetic project or just one step in a sequence of modifications aiming at reducing the peptidic character.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -153,13 +155,13 @@ From a structural point of view, a peptide mimic can be designed by approaches r
     
 #### Side Chain Mimicry
 
-A relatively simple approach is to modify the side chains of various amino acids. The residues of interest are replaced by natural or non-natural amino acids with chemically and structurally similar side chains. The following are examples of some possible replacements.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/side-chain-mimicry-a265861b'><i class='fa fa-play' aria-hidden='true'></i></button>A relatively simple approach is to modify the side chains of various amino acids. The residues of interest are replaced by natural or non-natural amino acids with chemically and structurally similar side chains. The following are examples of some possible replacements.
 
 
 ![](https://media.drugdesign.org/course/peptidomimetics/2_4_0_1.png){: loading=lazy }
 #### Short-Range Cyclizations (Bridging)
 
-A successful strategy for the development of peptidomimetics involves the synthesis of conformationally restricted peptide analogs that imitate the receptor-bound conformation of the peptidic ligand as closely as possible, with the introduction of local bridges between different atoms in the molecule. The bridges, can be of various lengths and can link two side chain atoms, two backbone atoms, or a side chain atom and a backbone atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/short-range-cyclizations-bridging-60aec0f7'><i class='fa fa-play' aria-hidden='true'></i></button>A successful strategy for the development of peptidomimetics involves the synthesis of conformationally restricted peptide analogs that imitate the receptor-bound conformation of the peptidic ligand as closely as possible, with the introduction of local bridges between different atoms in the molecule. The bridges, can be of various lengths and can link two side chain atoms, two backbone atoms, or a side chain atom and a backbone atom.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
@@ -207,7 +209,7 @@ A successful strategy for the development of peptidomimetics involves the synthe
     
 #### Long Range Cyclizations
 
-Global restrictions of the peptide conformation are possible by limiting the flexibility of the peptide strand through cyclizations. In order to retain the biological activity, cyclic constraints should act on the backbone conformation to allow crucial side-chain interactions with the receptor to be strengthened.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/long-range-cyclizations-ec4313df'><i class='fa fa-play' aria-hidden='true'></i></button>Global restrictions of the peptide conformation are possible by limiting the flexibility of the peptide strand through cyclizations. In order to retain the biological activity, cyclic constraints should act on the backbone conformation to allow crucial side-chain interactions with the receptor to be strengthened.
 
 
 ![](https://media.drugdesign.org/course/peptidomimetics/pmi_3_4_1.png){: loading=lazy }
@@ -240,7 +242,8 @@ Global restrictions of the peptide conformation are possible by limiting the fle
     
 #### Mimicking the Peptidic Bond
 
-Some atoms or group of atoms of the backbone of the peptide can be replaced by equivalent groups. The following examples are some of the most common replacements considered in backbone mimicry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/mimicking-peptidic-bond-81d8c323'><i class='fa fa-play' aria-hidden='true'></i></button>Some atoms or group of atoms of the backbone of the peptide can be replaced by equivalent groups. The following examples are some of the most common replacements considered in backbone mimicry.
+
 
 === "NH"
     ![](https://media.drugdesign.org/course/peptidomimetics/2_2_0_1_f1.png){: loading=lazy }
@@ -267,24 +270,29 @@ Some atoms or group of atoms of the backbone of the peptide can be replaced by e
     Chemistry and Biochemistry of Amino Acids, Peptides and Proteins, Vol. III 
     Marcel Dekker  1983   
     
-#### Browser of Bioisosteric Replacements
-*[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.    
+##### Browser of Bioisosteric Replacements
+*[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-=== "pic"
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/browser-bioisosteric-replacements-84fa99ea'><i class='fa fa-play' aria-hidden='true'></i></button>
+          
+
+
+=== "Pic"
     ![](https://media.drugdesign.org/course/peptidomimetics/replacement.gif){: loading=lazy }
+
 === "3D Browser"
-    <div id="nglviewer-container-browser-bio" class="nglviewer-container" data-molecule-id="bio" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-bio' class='nglviewer-container' data-molecule-id='bio' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 #### C&alpha; Modifications
 
-Modification of the amino acid &alpha;-carbon is another approach of backbone mimicry. For example it is possible to replace the C&alpha; with a nitrogen atom (to give azapeptides) or a boron (to give borapeptide), and also consider mono or di-substitutions of the &alpha;-carbon atom (synthetic non-coded amino acids).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/calpha-modifications-fafdfc60'><i class='fa fa-play' aria-hidden='true'></i></button>Modification of the amino acid &alpha;-carbon is another approach of backbone mimicry. For example it is possible to replace the C&alpha; with a nitrogen atom (to give azapeptides) or a boron (to give borapeptide), and also consider mono or di-substitutions of the &alpha;-carbon atom (synthetic non-coded amino acids).
 
 
 ![](https://media.drugdesign.org/course/peptidomimetics/c_modification.gif){: loading=lazy }
 
 ##### Tetra Substituted Amino Acids
 
-Tetra substituted amino acids are widely used in peptidomimetics for their conformational properties that are restricted by steric effects with the substituents. When inserted into a peptide chain, most of the tetra substituted amino acids are strong promoters of folded and helical conformations such as &beta;-turns, &alpha;-helices and 3<sub>10</sub>-helices. Here we present some typical situations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/tetra-substituted-amino-acids-9d664332'><i class='fa fa-play' aria-hidden='true'></i></button>Tetra substituted amino acids are widely used in peptidomimetics for their conformational properties that are restricted by steric effects with the substituents. When inserted into a peptide chain, most of the tetra substituted amino acids are strong promoters of folded and helical conformations such as &beta;-turns, &alpha;-helices and 3<sub>10</sub>-helices. Here we present some typical situations.
 *[peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
 
@@ -311,15 +319,14 @@ Tetra substituted amino acids are widely used in peptidomimetics for their confo
     
 ##### Azapeptides
 
-Azapeptides have emerged as another important class of biologically stable and conformationally constrained backbone mimics. Aza amino acids provide a unique conformational property to the peptide backbone because of a chiral center loss (the &alpha;-carbon) and the extension of the area of planarity as compared with that of a normal amide bond. It was found that this more constrained backbone is limiting the peptide conformations to &beta;-turn like conformations and helical structures.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/azapeptides-3fc636d2'><i class='fa fa-play' aria-hidden='true'></i></button>Azapeptides have emerged as another important class of biologically stable and conformationally constrained backbone mimics. Aza amino acids provide a unique conformational property to the peptide backbone because of a chiral center loss (the &alpha;-carbon) and the extension of the area of planarity as compared with that of a normal amide bond. It was found that this more constrained backbone is limiting the peptide conformations to &beta;-turn like conformations and helical structures.
 
 
-=== "pic"
+=== "Pic"
     ![](https://media.drugdesign.org/course/peptidomimetics/azapeptide.gif){: loading=lazy }
 
 === "3D Browser"
-    <div id="nglviewer-container-azapeptide" class="nglviewer-container" data-molecule-id="azapeptide" style="width: 750px; height: 450px;" data-initialized="false"></div> 
-
+    <div id='nglviewer-container-azapeptide' class='nglviewer-container' data-molecule-id='azapeptide' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -335,7 +342,7 @@ Azapeptides have emerged as another important class of biologically stable and c
     
 #### Extension of the Peptide Chain
 
-The extension of the peptide backbone is another way to make a peptide mimic which is resistant to proteolytic enzymes. An extended backbone structure introduces additional degrees of torsional freedom as compared to the two degrees of the &alpha;-amino acids. However, the conformational space of the combined torsion angles is quite limited and thus, well conceived oligomers can adopt well-defined secondary structures such as helices, turns, and small sheet like structures. Such oligomers and other polymers that tend to adopt specific compact conformations are known as foldamers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/extension-peptide-chain-3060fe70'><i class='fa fa-play' aria-hidden='true'></i></button>The extension of the peptide backbone is another way to make a peptide mimic which is resistant to proteolytic enzymes. An extended backbone structure introduces additional degrees of torsional freedom as compared to the two degrees of the &alpha;-amino acids. However, the conformational space of the combined torsion angles is quite limited and thus, well conceived oligomers can adopt well-defined secondary structures such as helices, turns, and small sheet like structures. Such oligomers and other polymers that tend to adopt specific compact conformations are known as foldamers.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -361,7 +368,7 @@ The extension of the peptide backbone is another way to make a peptide mimic whi
     
 ##### &beta;-Peptides
 
-&beta;-peptides are oligomers build of &beta;-amino acids, which include one extra carbon in the backbone unit. The effects of substituents on the conformation of &beta;-amino acids have been the subject of extensive experimental and theoretical studies and are here summarized. In general, a gauche conformation around the &#920; torsion angle of the C2-C3 bond (see figure) will lead to helical or turn-like structures of the &beta;-peptides whereas a trans conformation will lead to a sheet-like structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/beta-peptides-c0127661'><i class='fa fa-play' aria-hidden='true'></i></button>&beta;-peptides are oligomers build of &beta;-amino acids, which include one extra carbon in the backbone unit. The effects of substituents on the conformation of &beta;-amino acids have been the subject of extensive experimental and theoretical studies and are here summarized. In general, a gauche conformation around the &#920; torsion angle of the C2-C3 bond (see figure) will lead to helical or turn-like structures of the &beta;-peptides whereas a trans conformation will lead to a sheet-like structure.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -411,14 +418,14 @@ The extension of the peptide backbone is another way to make a peptide mimic whi
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-The main problem in the first route (successive modifications of a reference peptide) is to know when to stop the process. The following pages illustrate typical difficulties encountered in the development of this approach.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/problems-peptide-based-analogs-4ee7d932'><i class='fa fa-play' aria-hidden='true'></i></button>The main problem in the first route (successive modifications of a reference peptide) is to know when to stop the process. The following pages illustrate typical difficulties encountered in the development of this approach.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/peptidomimetics/2_1_0_1.png){: loading=lazy }
 #### Example of Reduction of Peptide Character
 
-The peptidic sequence of angiotensinogen (the substrate of renin) served as a basis for the discovery of renin inhibitors. A-72517 (Zankiren) is an example of a very potent inhibitor with a substantially reduced peptidic character.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/example-reduction-peptide-character-34ac7e90'><i class='fa fa-play' aria-hidden='true'></i></button>The peptidic sequence of angiotensinogen (the substrate of renin) served as a basis for the discovery of renin inhibitors. A-72517 (Zankiren) is an example of a very potent inhibitor with a substantially reduced peptidic character.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -474,17 +481,18 @@ The peptidic sequence of angiotensinogen (the substrate of renin) served as a ba
     
 #### A-72517 is a Mimic of Angiotensinogen
 
-The superimposition of A-72517 with the reference peptide is displayed below and shows how the designed structure alligns well in 3D with the amino-acids adjacent to the scissile bond of angiotensinogen (center).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/a-72517-is-mimic-angiotensinogen-2048727b'><i class='fa fa-play' aria-hidden='true'></i></button>The superimposition of A-72517 with the reference peptide is displayed below and shows how the designed structure alligns well in 3D with the amino-acids adjacent to the scissile bond of angiotensinogen (center).
 *[nce]: New Chemical Entity: a compound not previously described.
 
-=== "3D-pic"
+
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/peptidomimetics/v1_d2_3_2_internet.png){: loading=lazy }
 === "3D"
-    <div id="nglviewer-container-A-72517-mimic" class="nglviewer-container" data-molecule-id="a72517" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-a72517' class='nglviewer-container' data-molecule-id='a72517' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 #### Dead End in the Development of A-72517
 
-Although very active in vitro, the clinical development of A-72517 was hindered by poor pharmacokinetics, which included low oral bioavailability and rapid excretion. The clinical trials on the renin inhibitor A-72517 were discontinued; Zankiren did not reach the market. The "depeptidization" operation require to be further pursued.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/dead-end-development-a-72517-f6791246'><i class='fa fa-play' aria-hidden='true'></i></button>Although very active in vitro, the clinical development of A-72517 was hindered by poor pharmacokinetics, which included low oral bioavailability and rapid excretion. The clinical trials on the renin inhibitor A-72517 were discontinued; Zankiren did not reach the market. The "depeptidization" operation require to be further pursued.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[pharmacokinetics]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
@@ -493,14 +501,15 @@ Although very active in vitro, the clinical development of A-72517 was hindered 
 
 === "2D"
     ![](https://media.drugdesign.org/course/peptidomimetics/3_3_1_1.png){: loading=lazy }
-=== "3D-pic"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/peptidomimetics/dead_end.png){: loading=lazy }
+
 === "3D"
-    <div id="nglviewer-container-A-72517" class="nglviewer-container" data-molecule-id="dead-end" style="width: 750px; height: 450px;" data-initialized="false"></div> 
+    <div id='nglviewer-container-dead-end' class='nglviewer-container' data-molecule-id='dead-end' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Second Route:De Novo Design of Non Peptide Mimics
 
-In the second approach, the activity of the initial peptide is viewed as created by a favorable 3D arrangement of pharmacophore elements. This information will be the basis of a "de novo" design of chemically unrelated substances mimicking in 3D the important moieties of the reference peptide.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/second-routede-novo-design-non-peptide-mimics-2b6b99fb'><i class='fa fa-play' aria-hidden='true'></i></button>In the second approach, the activity of the initial peptide is viewed as created by a favorable 3D arrangement of pharmacophore elements. This information will be the basis of a "de novo" design of chemically unrelated substances mimicking in 3D the important moieties of the reference peptide.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
@@ -510,14 +519,14 @@ In the second approach, the activity of the initial peptide is viewed as created
 
 #### Operational Framework
 
-The activity of a molecule is due to its proper 3D pharmacophoric arrangement. This method requires data of high informational content that will be used for the identification of the pharmacophoric moieties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/operational-framework-42734546'><i class='fa fa-play' aria-hidden='true'></i></button>The activity of a molecule is due to its proper 3D pharmacophoric arrangement. This method requires data of high informational content that will be used for the identification of the pharmacophoric moieties.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
 ![](https://media.drugdesign.org/course/peptidomimetics/4_3_2_1.png){: loading=lazy }
 #### Removing Non-Essential Fragments
 
-In the second phase, and based on the previous analysis all non-essential structural fragments are removed from the reference peptide. This provides an operational framework in which the peptidic elements are removed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/removing-non-essential-fragments-2b97ed5e'><i class='fa fa-play' aria-hidden='true'></i></button>In the second phase, and based on the previous analysis all non-essential structural fragments are removed from the reference peptide. This provides an operational framework in which the peptidic elements are removed.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -525,7 +534,7 @@ In the second phase, and based on the previous analysis all non-essential struct
 
 #### Design of New Molecules
 
-The operational framework previously defined allows the design to proceed. In this phase, new molecules carrying the proper 3D pharmacophoric elements are designed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/design-new-molecules-8deaf69f'><i class='fa fa-play' aria-hidden='true'></i></button>The operational framework previously defined allows the design to proceed. In this phase, new molecules carrying the proper 3D pharmacophoric elements are designed.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -533,8 +542,9 @@ The operational framework previously defined allows the design to proceed. In th
 
 #### Thyrotropin-Releasing Hormone (TRH) Example
 
-TRH (Thyrotropin-Releasing Hormone) is produced by the hypothalamus and this peptide has been considered as a target for treating Alzheimer disease and spinal injury.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/thyrotropin-releasing-hormone-trh-example-f29adfaa'><i class='fa fa-play' aria-hidden='true'></i></button>TRH (Thyrotropin-Releasing Hormone) is produced by the hypothalamus and this peptide has been considered as a target for treating Alzheimer disease and spinal injury.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
+
 
 ![](https://media.drugdesign.org/course/peptidomimetics/trh_roche.png){: loading=lazy }
 
@@ -556,7 +566,7 @@ TRH (Thyrotropin-Releasing Hormone) is produced by the hypothalamus and this pep
     
 ##### Ro-24-9975 is a Non-Peptidic Mimic of TRH
 
-Design effort for identifying non-peptidic mimics of TRH succeeded in creating molecules such as Ro 24-9975 as potential drug candidates. The X-ray structure of TRH, NMR studies and molecular modeling were essential parts in the discovery of such mimics. An illustration of the concept considered in this projet is given in the following page.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/ro-24-9975-is-non-peptidic-mimic-trh-5d5245c4'><i class='fa fa-play' aria-hidden='true'></i></button>Design effort for identifying non-peptidic mimics of TRH succeeded in creating molecules such as Ro 24-9975 as potential drug candidates. The X-ray structure of TRH, NMR studies and molecular modeling were essential parts in the discovery of such mimics. An illustration of the concept considered in this projet is given in the following page.
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 *[molecular modeling]: A field that models molecular behavior with theoretical methods and computational techniques.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -582,12 +592,16 @@ Design effort for identifying non-peptidic mimics of TRH succeeded in creating m
     438-9 1980  
     
 ##### TRH Browser
-   
-=== "Pic"
+
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/trh-browser-84fa99ea'><i class='fa fa-play' aria-hidden='true'></i></button>
+          
+
+
+=== "Browser (Gif)"
     ![](https://media.drugdesign.org/course/peptidomimetics/trh.gif){: loading=lazy }
 
-=== "Browser 3D"
-    <div id="nglviewer-container-trh" class="nglviewer-container" data-molecule-id="br-trh" style="width: 750px; height: 450px;" data-initialized="false"></div>
+=== "Browser (3D)"
+    <div id='nglviewer-container-br-trh' class='nglviewer-container' data-molecule-id='br-trh' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -598,7 +612,7 @@ Design effort for identifying non-peptidic mimics of TRH succeeded in creating m
     
 ### Which Route Should be Used?
 
-The first approach is conceptually straightforward whereas the second is more complicated to implement. In both cases it is difficult to estimate the amount of effort that will be necessary to obtain compounds satisfying the criteria of good oral activity and pharmaco-kinetic properties. Examples of both approaches will be extensively presented and discussed in the following chapter.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/which-route-should-be-used-3d21747f'><i class='fa fa-play' aria-hidden='true'></i></button>The first approach is conceptually straightforward whereas the second is more complicated to implement. In both cases it is difficult to estimate the amount of effort that will be necessary to obtain compounds satisfying the criteria of good oral activity and pharmaco-kinetic properties. Examples of both approaches will be extensively presented and discussed in the following chapter.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
@@ -609,7 +623,7 @@ The first approach is conceptually straightforward whereas the second is more co
 
 ### Challenges in Peptide Modifications
 
-The successive modifications of the structure of a reference peptide are feasible. The advantages of this approach are multiple: a number of biologically active molecules are generated; they shed light on the structural requirements for biological activities; and they pave the road for deciding which molecules to synthesize next. {newLine} This approach requires however a continuous effort of chemical syntheses. The accumulation of active molecules may nurture the illusion that the breakthrough is "just around the bend". However in this approach it is difficult to assess if substantial progress was made until real clinical trials indicate the exact situation. {newLine} If it succeeds, the knowledge gained can be easily transposed to other similar projects. If it fails, the structural information acquired is of great value for considering a de novo design strategy for non peptidic mimics.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/challenges-peptide-modifications-6b2902ed'><i class='fa fa-play' aria-hidden='true'></i></button>The successive modifications of the structure of a reference peptide are feasible. The advantages of this approach are multiple: a number of biologically active molecules are generated; they shed light on the structural requirements for biological activities; and they pave the road for deciding which molecules to synthesize next. {newLine} This approach requires however a continuous effort of chemical syntheses. The accumulation of active molecules may nurture the illusion that the breakthrough is "just around the bend". However in this approach it is difficult to assess if substantial progress was made until real clinical trials indicate the exact situation. {newLine} If it succeeds, the knowledge gained can be easily transposed to other similar projects. If it fails, the structural information acquired is of great value for considering a de novo design strategy for non peptidic mimics.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -618,7 +632,7 @@ The successive modifications of the structure of a reference peptide are feasibl
 
 ### Challenges in Non-Peptidic Mimicry
 
-The de novo design strategy for non-peptidic mimics is an alternative approach for utilizing the information acquired on the reference peptide. When a non-peptidic compound is discovered, its scaffold provides the necessary framework to optimize specificity, oral bioavailability and pharmacokinetic properties. {newLine}Advanced computerized molecular design technologies are useful for exploiting optimally the information available and for the design and the synthetic efforts that have to be developed in an integrated manner. Sufficient time might be needed before the breakthrough occurs and patience is needed when inactive molecules are obtained.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/challenges-non-peptidic-mimicry-44aabfc2'><i class='fa fa-play' aria-hidden='true'></i></button>The de novo design strategy for non-peptidic mimics is an alternative approach for utilizing the information acquired on the reference peptide. When a non-peptidic compound is discovered, its scaffold provides the necessary framework to optimize specificity, oral bioavailability and pharmacokinetic properties. {newLine}Advanced computerized molecular design technologies are useful for exploiting optimally the information available and for the design and the synthetic efforts that have to be developed in an integrated manner. Sufficient time might be needed before the breakthrough occurs and patience is needed when inactive molecules are obtained.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
@@ -631,7 +645,7 @@ The de novo design strategy for non-peptidic mimics is an alternative approach f
 ### Perspectives in Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
-There is no systematic method for transforming a peptide into a substance for drug development. In the past, medicinal chemists tended to embark on the process of making analogs of the peptide rather rapidly, hoping to find within a reasonable amount of time a compound with entirely different pharmacokinetic properties. {newLine}{newLine}Today since many success stories on de novo peptidomimicry have been reported, this approach has become more accepted. Currently, this trend encourages the development of sophisticated computerized packages allowing the enormous amount of experimental data accumulated in the course of many projects to be exploited in a global way.{newLine}{newLine} This encourages the creation of entirely new conditions for drug design and the definition of an entirely new way of considering lead discovery.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/perspectives-peptidomimetics-ce7c86ba'><i class='fa fa-play' aria-hidden='true'></i></button>There is no systematic method for transforming a peptide into a substance for drug development. In the past, medicinal chemists tended to embark on the process of making analogs of the peptide rather rapidly, hoping to find within a reasonable amount of time a compound with entirely different pharmacokinetic properties. {newLine}{newLine}Today since many success stories on de novo peptidomimicry have been reported, this approach has become more accepted. Currently, this trend encourages the development of sophisticated computerized packages allowing the enormous amount of experimental data accumulated in the course of many projects to be exploited in a global way.{newLine}{newLine} This encourages the creation of entirely new conditions for drug design and the definition of an entirely new way of considering lead discovery.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -641,4 +655,6 @@ There is no systematic method for transforming a peptide into a substance for dr
 
 ![](https://media.drugdesign.org/course/peptidomimetics/11_3_0_1.jpg){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+
+Copyright © 2024 drugdesign.org

@@ -15,14 +15,14 @@
 
 ### Properties of a Molecule
 
-Molecules are defined by 2D chemical formulas but the information they carry is not sufficient for  understanding the physical, chemical, or biological properties of the compound. Molecules are 3D entities and only their 3D geometries provide relevant information for understanding such properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/properties-molecule-22b211dc'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules are defined by 2D chemical formulas but the information they carry is not sufficient for  understanding the physical, chemical, or biological properties of the compound. Molecules are 3D entities and only their 3D geometries provide relevant information for understanding such properties.
 
 
 ![](https://media.drugdesign.org/course/molecular-properties/1_1_0_1.png){: loading=lazy }
 
 ### Average of a Conformational-Dependent Property
 
-Molecular properties are directly related to the 3D structure of the molecule. When a molecule exists as a mixture of conformers, then any property that this molecule exhibits is an average of that property over all of the conformations it visits, weighted by the conformers populations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/average-conformational-dependent-property-e2affc4f'><i class='fa fa-play' aria-hidden='true'></i></button>Molecular properties are directly related to the 3D structure of the molecule. When a molecule exists as a mixture of conformers, then any property that this molecule exhibits is an average of that property over all of the conformations it visits, weighted by the conformers populations.
 
 
 ![](https://media.drugdesign.org/course/molecular-properties/1_2_0_1.png){: loading=lazy }
@@ -30,7 +30,7 @@ Molecular properties are directly related to the 3D structure of the molecule. W
 ### Importance of the 3D Molecular Geometries
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The following pages illustrate the relationships between the 3D molecular geometry of molecules with various properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/importance-3d-molecular-geometries-1a97f673'><i class='fa fa-play' aria-hidden='true'></i></button>The following pages illustrate the relationships between the 3D molecular geometry of molecules with various properties.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -40,7 +40,7 @@ The following pages illustrate the relationships between the 3D molecular geomet
 
 ### Biological Properties of Proteins
 
-The function of a protein is controlled by its three-dimensional structure. Enzymes and receptors recognize substrates on the basis of their 3D molecular geometries. Drugs also are designed on the basis of their precise 3D properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/biological-properties-proteins-16ead079'><i class='fa fa-play' aria-hidden='true'></i></button>The function of a protein is controlled by its three-dimensional structure. Enzymes and receptors recognize substrates on the basis of their 3D molecular geometries. Drugs also are designed on the basis of their precise 3D properties.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -48,7 +48,7 @@ The function of a protein is controlled by its three-dimensional structure. Enzy
 
 ### Biological Properties of Chiral Analgesics
 
-Even very similar compounds such as isomers or stereoisomers may have very different biological properties. Ibuprofen exists as a racemic mixture, only the S enantiomer has analgesic properties. The biological activity/inactivity is directly related to the molecular geometries of the two enantiomers.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/biological-properties-chiral-analgesics-2b6f35e4'><i class='fa fa-play' aria-hidden='true'></i></button>Even very similar compounds such as isomers or stereoisomers may have very different biological properties. Ibuprofen exists as a racemic mixture, only the S enantiomer has analgesic properties. The biological activity/inactivity is directly related to the molecular geometries of the two enantiomers.
 *[enantiomer]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[enantiomers]: Enantiomers are pairs of stereoisomers that are mirror images of one other
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -91,7 +91,7 @@ Even very similar compounds such as isomers or stereoisomers may have very diffe
 
 ### Physical Properties
 
-The boiling point, the refractive index or the magnetic susceptibility are physical properties that can be derived from the molecular geometries of the molecules. For example the boiling point of iso-butane (-12<sup>o</sup> C) is lower than that of n-butane (-1<sup>o</sup> C). This is due to the difference in the molecular structures of the two isomers. Isobutane is almost spherical and has less intermolecular forces than n-butane which has an extended geometry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/physical-properties-3bafede8'><i class='fa fa-play' aria-hidden='true'></i></button>The boiling point, the refractive index or the magnetic susceptibility are physical properties that can be derived from the molecular geometries of the molecules. For example the boiling point of iso-butane (-12<sup>o</sup> C) is lower than that of n-butane (-1<sup>o</sup> C). This is due to the difference in the molecular structures of the two isomers. Isobutane is almost spherical and has less intermolecular forces than n-butane which has an extended geometry.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -113,7 +113,7 @@ The boiling point, the refractive index or the magnetic susceptibility are physi
     
 ### Calculation of Other Physical Properties
 
-Theoretical treatments facilitate the calculation of a number of molecular properties and require as input the molecular geometry of the molecule concerned. The properties that can be calculated are electronic properties (ionization potentials, atomic charges, electrostatic potentials, molecular orbitals) or thermodynamic properties (activation energies, enthalpies, entropy, free energies, heat of formation). The picture shows the partial atomic charges for this representative molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/calculation-other-physical-properties-90e2fcbe'><i class='fa fa-play' aria-hidden='true'></i></button>Theoretical treatments facilitate the calculation of a number of molecular properties and require as input the molecular geometry of the molecule concerned. The properties that can be calculated are electronic properties (ionization potentials, atomic charges, electrostatic potentials, molecular orbitals) or thermodynamic properties (activation energies, enthalpies, entropy, free energies, heat of formation). The picture shows the partial atomic charges for this representative molecule.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -177,7 +177,7 @@ Theoretical treatments facilitate the calculation of a number of molecular prope
 
 ### Chemical Properties
 
-A chemical compound has physical and chemical properties that are determined by its precise chemical constitution and architecture. Chemical reactions occur in three-dimensions. The way a chemical reaction develops can be explained by analyzing the reactants and their interactions in three dimensions. This is so important that chemists try to incorporate this information into their two dimensional diagrams using some additional conventions.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/chemical-properties-41e9b30d'><i class='fa fa-play' aria-hidden='true'></i></button>A chemical compound has physical and chemical properties that are determined by its precise chemical constitution and architecture. Chemical reactions occur in three-dimensions. The way a chemical reaction develops can be explained by analyzing the reactants and their interactions in three dimensions. This is so important that chemists try to incorporate this information into their two dimensional diagrams using some additional conventions.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -192,7 +192,7 @@ A chemical compound has physical and chemical properties that are determined by 
     
 ### Enolization of Keto-3 Steroids
 
-The enolization of keto-3 steroids occurs as a mixture of the two enolic forms.  There is a greater proportion of the enol with the double bond in the &Delta;<sup>2</sup> position than the one in the &Delta;<sup>3</sup>.  The explanation is given on the following pages.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/enolization-keto-3-steroids-e0ce63d7'><i class='fa fa-play' aria-hidden='true'></i></button>The enolization of keto-3 steroids occurs as a mixture of the two enolic forms.  There is a greater proportion of the enol with the double bond in the &Delta;<sup>2</sup> position than the one in the &Delta;<sup>3</sup>.  The explanation is given on the following pages.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
@@ -214,7 +214,7 @@ The enolization of keto-3 steroids occurs as a mixture of the two enolic forms. 
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-A qualitative analysis allows us to explain this preference. At the fusion with ring B the torsion angle of ring A  has a value of about -57<sup>o</sup>; it should become -61<sup>o</sup> (left bottom) or -45<sup>o</sup> (right bottom) after the reaction, which correspond to a variation (in absolute values) of 4<sup>o</sup> and 12<sup>o</sup>, respectively. Assuming that the 4<sup>o</sup> variation will be preferred, this qualitative analysis explains why there are greater proportions of the &Delta;<sup>2</sup> enol.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/relative-stability-isomers-5238f6f2'><i class='fa fa-play' aria-hidden='true'></i></button>A qualitative analysis allows us to explain this preference. At the fusion with ring B the torsion angle of ring A  has a value of about -57<sup>o</sup>; it should become -61<sup>o</sup> (left bottom) or -45<sup>o</sup> (right bottom) after the reaction, which correspond to a variation (in absolute values) of 4<sup>o</sup> and 12<sup>o</sup>, respectively. Assuming that the 4<sup>o</sup> variation will be preferred, this qualitative analysis explains why there are greater proportions of the &Delta;<sup>2</sup> enol.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -237,7 +237,7 @@ A qualitative analysis allows us to explain this preference. At the fusion with 
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-The relative stability of the two isomers of trans-octalin can be calculated based on the 3D geometries of the specified compounds.  There is a difference of energy of 2.9 kJ/mol in favor of isomer 1, which is the more stable because it has less strain in the bicyclic moiety.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/relative-stability-two-isomers-trans-octalin-a14ef03f'><i class='fa fa-play' aria-hidden='true'></i></button>The relative stability of the two isomers of trans-octalin can be calculated based on the 3D geometries of the specified compounds.  There is a difference of energy of 2.9 kJ/mol in favor of isomer 1, which is the more stable because it has less strain in the bicyclic moiety.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -249,7 +249,7 @@ The relative stability of the two isomers of trans-octalin can be calculated bas
 #### Geometrical Preference Explains Enolization
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The geometrical preference for the &Delta;<sup>2</sup> isomer explains why the enolization of &beta;-Decalone produces a &Delta;<sup>2</sup>/&Delta;<sup>3</sup> enol ratio of 72%/28%.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/geometrical-preference-explains-enolization-0f4500d8'><i class='fa fa-play' aria-hidden='true'></i></button>The geometrical preference for the &Delta;<sup>2</sup> isomer explains why the enolization of &beta;-Decalone produces a &Delta;<sup>2</sup>/&Delta;<sup>3</sup> enol ratio of 72%/28%.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
@@ -258,7 +258,7 @@ The geometrical preference for the &Delta;<sup>2</sup> isomer explains why the e
 
 ### Reactivity of Alkyl Halides
 
-Alkyl halides react in a totally different manner depending on the geometrical accessibility of the carbon connected to the halogen atom.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/reactivity-alkyl-halides-de1f59d6'><i class='fa fa-play' aria-hidden='true'></i></button>Alkyl halides react in a totally different manner depending on the geometrical accessibility of the carbon connected to the halogen atom.
 
 
 ![](https://media.drugdesign.org/course/molecular-properties/4_4_0_1.png){: loading=lazy }
@@ -308,7 +308,7 @@ Alkyl halides react in a totally different manner depending on the geometrical a
     
 #### SN2 Mechanism
 
-The nucleophilic attack of R-1-Bromo-1-deuterioethane by an ethoxy ion occurs by a S<sub>N</sub>2 mechanism. The carbon atom is accessible for a nucleophilic attack and in the final product its stereochemistry has been inverted.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/sn2-mechanism-714d659d'><i class='fa fa-play' aria-hidden='true'></i></button>The nucleophilic attack of R-1-Bromo-1-deuterioethane by an ethoxy ion occurs by a S<sub>N</sub>2 mechanism. The carbon atom is accessible for a nucleophilic attack and in the final product its stereochemistry has been inverted.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
@@ -316,14 +316,14 @@ The nucleophilic attack of R-1-Bromo-1-deuterioethane by an ethoxy ion occurs by
 
 #### E2 Elimination Mechanism
 
-The same reaction with tert-butylbromide gives a different reaction because for steric reasons the central carbon atom is not accessible. What is observed here is not an S<sub>N</sub>2 reaction as in the previous case but an elimination of HBr according to an E2 elimination mechanism.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/e2-elimination-mechanism-e5a4b9b3'><i class='fa fa-play' aria-hidden='true'></i></button>The same reaction with tert-butylbromide gives a different reaction because for steric reasons the central carbon atom is not accessible. What is observed here is not an S<sub>N</sub>2 reaction as in the previous case but an elimination of HBr according to an E2 elimination mechanism.
 
 
 ![](https://media.drugdesign.org/course/molecular-properties/elimination.gif){: loading=lazy }
 
 ### Molecular Geometries and Chemical Properties
 
-Theoretical treatments facilitate the calculation of a number of molecular chemical properties. These properties are 3D dependent and include physico-chemical indexes (solubility, lipophilicity), interconversion energies (rotational barriers, ring inversions) and chemical reactivity (electronic indexes, lipophilicity, reaction paths, relative stability of isomers).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/molecular-geometries-chemical-properties-48060d96'><i class='fa fa-play' aria-hidden='true'></i></button>Theoretical treatments facilitate the calculation of a number of molecular chemical properties. These properties are 3D dependent and include physico-chemical indexes (solubility, lipophilicity), interconversion energies (rotational barriers, ring inversions) and chemical reactivity (electronic indexes, lipophilicity, reaction paths, relative stability of isomers).
 *[isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
@@ -363,7 +363,7 @@ Theoretical treatments facilitate the calculation of a number of molecular chemi
 
 ### Many Properties of a Molecule
 
-A molecule has many properties that are directly related to its geometry. They can be obtained either experimentally or through theoretical calculations.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-properties/many-properties-molecule-4bb014c2'><i class='fa fa-play' aria-hidden='true'></i></button>A molecule has many properties that are directly related to its geometry. They can be obtained either experimentally or through theoretical calculations.
 
 
 ![](https://media.drugdesign.org/course/molecular-properties/5_1_0_1.png){: loading=lazy }
@@ -400,4 +400,5 @@ A molecule has many properties that are directly related to its geometry. They c
     116 1994  
     
 
-Copyright © 2022 drugdesign.org
+
+Copyright © 2024 drugdesign.org

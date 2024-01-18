@@ -16,7 +16,7 @@
 
 ### Beginning the Design Phase
 
-Once the phase of analysis is complete, the design phase can proceed. New lead compounds are designed based on the pharmacophore model obtained in the previous analyses. The aim of the design is to convert all the generated knowledge into candidate molecules to be synthesized (or ordered) for biological testing.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/beginning-design-phase-181735f3'><i class='fa fa-play' aria-hidden='true'></i></button>Once the phase of analysis is complete, the design phase can proceed. New lead compounds are designed based on the pharmacophore model obtained in the previous analyses. The aim of the design is to convert all the generated knowledge into candidate molecules to be synthesized (or ordered) for biological testing.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -26,14 +26,14 @@ Once the phase of analysis is complete, the design phase can proceed. New lead c
 
 ### Creativity of the Design
 
-The knowledge accumulated during the phase of analysis determines the success of the design. However, creativity is extremely important as well. The creativity and imagination convert knowledge into 'intelligent' molecules and initiate scientific breakthroughs.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/creativity-design-03379203'><i class='fa fa-play' aria-hidden='true'></i></button>The knowledge accumulated during the phase of analysis determines the success of the design. However, creativity is extremely important as well. The creativity and imagination convert knowledge into 'intelligent' molecules and initiate scientific breakthroughs.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/1_2_0_1.png){: loading=lazy }
 
 ### Good Control of the Conformational Features
 
-In all design actions, it is of paramount importance not to overlook the conformational consequences of the planned action. Breaking a ring or introducing a substituent or spacer are all operations that have consequences in the conformational preferences of the designed candidate. The two following examples of butaclamol and staurosporine illustrate the consequences of a design where the conformational implications were mismanaged.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/good-control-conformational-features-220a7a44'><i class='fa fa-play' aria-hidden='true'></i></button>In all design actions, it is of paramount importance not to overlook the conformational consequences of the planned action. Breaking a ring or introducing a substituent or spacer are all operations that have consequences in the conformational preferences of the designed candidate. The two following examples of butaclamol and staurosporine illustrate the consequences of a design where the conformational implications were mismanaged.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -41,27 +41,27 @@ In all design actions, it is of paramount importance not to overlook the conform
 
 ### Butaclamol Example (Bad Design &#38; Bad Results)
 
-Let's suppose that someone intends to design mimics of butaclamol and decide to remove a ring by deleting one bond in the structure of this compound.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/butaclamol-example-bad-design-amp-bad-results-8185c70b'><i class='fa fa-play' aria-hidden='true'></i></button>Let's suppose that someone intends to design mimics of butaclamol and decide to remove a ring by deleting one bond in the structure of this compound.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/bad_design.gif){: loading=lazy }
 
 #### Intuitive Justification of the Design
 
-The validity of this hypothesis could be justified by the good superimposition of models of the two structures. But this manipulation is just an exercise that is far from reality.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/intuitive-justification-design-68cc132c'><i class='fa fa-play' aria-hidden='true'></i></button>The validity of this hypothesis could be justified by the good superimposition of models of the two structures. But this manipulation is just an exercise that is far from reality.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/justification.gif){: loading=lazy }
 
 #### Strong van der Waals Repulsions 
 
-In the designed compound with the unmodified conformation (conformation A), there exist extremely repulsive van der Waals interactions between the hydrogens connected to the carbon atoms on which the bond was removed.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/strong-van-der-waals-repulsions-3c490285'><i class='fa fa-play' aria-hidden='true'></i></button>In the designed compound with the unmodified conformation (conformation A), there exist extremely repulsive van der Waals interactions between the hydrogens connected to the carbon atoms on which the bond was removed.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 #### Conformational Rearrangement
 
-These repulsions will induce a rotation of the tricyclic moiety relative to the piperidine ring creating a more stable but completely different conformation (conformation B).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/conformational-rearrangement-da50eca4'><i class='fa fa-play' aria-hidden='true'></i></button>These repulsions will induce a rotation of the tricyclic moiety relative to the piperidine ring creating a more stable but completely different conformation (conformation B).
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -69,14 +69,14 @@ These repulsions will induce a rotation of the tricyclic moiety relative to the 
 
 #### The Designed Molecule is a Poor Butaclamol 3D Mimic
 
-The designed compound is no longer superimposed on top of the structure of the butaclamol and the validity of undertaking a synthetic effort for such a poor butaclamol mimic is questionable.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/designed-molecule-is-poor-butaclamol-3d-mimic-44b34f09'><i class='fa fa-play' aria-hidden='true'></i></button>The designed compound is no longer superimposed on top of the structure of the butaclamol and the validity of undertaking a synthetic effort for such a poor butaclamol mimic is questionable.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/snap_v1_c3_1_4_s5.png){: loading=lazy }
 
 ### Staurosporine Example (Bad Design &#38; Good Results)
 
-Staurosporine is a competitive inhibitor of ATP against many protein kinases. Looking for new EGF-R kinase inhibitors, the structure of CGP52411 was conceived by removing rings and bonds from the 2D formula of staurosporine. The molecule proved to be a EGF-R kinase competitive inhibitor of ATP (IC<sub>50</sub> = 0.3 &Mu;M).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/staurosporine-example-bad-design-amp-good-results-f2f4e1b7'><i class='fa fa-play' aria-hidden='true'></i></button>Staurosporine is a competitive inhibitor of ATP against many protein kinases. Looking for new EGF-R kinase inhibitors, the structure of CGP52411 was conceived by removing rings and bonds from the 2D formula of staurosporine. The molecule proved to be a EGF-R kinase competitive inhibitor of ATP (IC<sub>50</sub> = 0.3 &micro;M).
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -92,7 +92,7 @@ Staurosporine is a competitive inhibitor of ATP against many protein kinases. Lo
     
 #### Staurosporine does not Mimic ATP 
 
-Staurosporine is a competitive inhibitor of ATP because it is anchored to the same residues of the catalytic site of the protein kinase enzyme with the formation of two hydrogen bonds (bidentate). However, the molecule does not mimic the structure of ATP; it only hinders the anchorage of ATP to the same residues of the catalytic site.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/staurosporine-does-not-mimic-atp-195a0d4b'><i class='fa fa-play' aria-hidden='true'></i></button>Staurosporine is a competitive inhibitor of ATP because it is anchored to the same residues of the catalytic site of the protein kinase enzyme with the formation of two hydrogen bonds (bidentate). However, the molecule does not mimic the structure of ATP; it only hinders the anchorage of ATP to the same residues of the catalytic site.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[bidentate]: Having two anchorage points
 
@@ -101,7 +101,7 @@ Staurosporine is a competitive inhibitor of ATP because it is anchored to the sa
 
 #### CGP52411 is Not a Mimic of Staurosporine
 
-CGP52411 is not a mimic of staurosporine. The latter has a flat molecular geometry due to its polycyclic structure. CGP52411 is not flat and the two anilino moieties are not stable as they are in staurosporine. They must rotate until the van der Waals repulsions between the anilino and the phtalimido moieties have been relieved.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/cgp52411-is-not-mimic-staurosporine-db83c156'><i class='fa fa-play' aria-hidden='true'></i></button>CGP52411 is not a mimic of staurosporine. The latter has a flat molecular geometry due to its polycyclic structure. CGP52411 is not flat and the two anilino moieties are not stable as they are in staurosporine. They must rotate until the van der Waals repulsions between the anilino and the phtalimido moieties have been relieved.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -110,7 +110,7 @@ CGP52411 is not a mimic of staurosporine. The latter has a flat molecular geomet
 
 #### Unexpected Favorable 3D Rearrangement
 
-In summary, staurosporine is neither a mimic of ATP nor a mimic of CGP52411. Therefore one cannot expect CGP52411 to be a mimic of ATP. However by chance, the conformational rearrangement of CGP52411 positioned one of the phenyl moieties that rotated exactly at the same place of the sugar fragment of ATP. Finally a mimic of ATP, CGP52411 was found. However from the design point of view, this is not the result of good design considerations but of chance.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/unexpected-favorable-3d-rearrangement-c4b8d283'><i class='fa fa-play' aria-hidden='true'></i></button>In summary, staurosporine is neither a mimic of ATP nor a mimic of CGP52411. Therefore one cannot expect CGP52411 to be a mimic of ATP. However by chance, the conformational rearrangement of CGP52411 positioned one of the phenyl moieties that rotated exactly at the same place of the sugar fragment of ATP. Finally a mimic of ATP, CGP52411 was found. However from the design point of view, this is not the result of good design considerations but of chance.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
@@ -119,7 +119,7 @@ In summary, staurosporine is neither a mimic of ATP nor a mimic of CGP52411. The
 
 ### Obvious Design
 
-Sometimes the information discovered through the analysis phase is precise enough that there is no need to look for methods to decide which molecule to prepare. With some intelligence the medicinal chemist can rapidly "see" what molecule to do. Good pharmacophore models carry the necessary information to undertake such "obvious design" operations. One can design a molecule by the "hybrid" assembling elements of different molecules.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/obvious-design-8c7dbe56'><i class='fa fa-play' aria-hidden='true'></i></button>Sometimes the information discovered through the analysis phase is precise enough that there is no need to look for methods to decide which molecule to prepare. With some intelligence the medicinal chemist can rapidly "see" what molecule to do. Good pharmacophore models carry the necessary information to undertake such "obvious design" operations. One can design a molecule by the "hybrid" assembling elements of different molecules.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -132,7 +132,7 @@ Sometimes the information discovered through the analysis phase is precise enoug
 
 ### The Four Design Methods
 
-In pharmacophore-based drug design, there are four different ways of designing new molecules: chemical manipulation and modification, manual design, database searching, and finally computerized de novo design.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/four-design-methods-e3f19d26'><i class='fa fa-play' aria-hidden='true'></i></button>In pharmacophore-based drug design, there are four different ways of designing new molecules: chemical manipulation and modification, manual design, database searching, and finally computerized de novo design.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
 
@@ -143,7 +143,7 @@ In pharmacophore-based drug design, there are four different ways of designing n
 ### Principles of Analog Design
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 
-In an analog design program, it is important to avoid introducing several simultaneous changes to the lead reference molecule. Experience shows that useful information can be obtained only when single structural changes in the lead molecule are involved. Changes may be bioisosteric replacements, design of rigid analogs, homologation of alkyl chains, alteration of ring size, etc...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/principles-analog-design-b8541be1'><i class='fa fa-play' aria-hidden='true'></i></button>In an analog design program, it is important to avoid introducing several simultaneous changes to the lead reference molecule. Experience shows that useful information can be obtained only when single structural changes in the lead molecule are involved. Changes may be bioisosteric replacements, design of rigid analogs, homologation of alkyl chains, alteration of ring size, etc...
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
@@ -154,7 +154,7 @@ In an analog design program, it is important to avoid introducing several simult
 ### Bioisosteric Replacements: Principle
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Bioisosterism is a concept that derives from the observation that chemically unrelated compounds may have very similar physicochemical properties. Bioisosters are chemical groups that have similar physical properties. Molecules that are designed by bioisosteric replacements are expected to have similar biological properties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/bioisosteric-replacements-principle-b886696c'><i class='fa fa-play' aria-hidden='true'></i></button>Bioisosterism is a concept that derives from the observation that chemically unrelated compounds may have very similar physicochemical properties. Bioisosters are chemical groups that have similar physical properties. Molecules that are designed by bioisosteric replacements are expected to have similar biological properties.
 *[bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[Bioisosterism]: The transformation of a molecule by the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -203,7 +203,7 @@ Bioisosterism is a concept that derives from the observation that chemically unr
 ### Bioisosteric Replacements: Diazepam
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-Clobazam was designed by replacing the imino group of diazepam by the isosteric amide equivalent. The two molecules have similar molecular geometries and lipophilicity. Like diazepam, clobazam is an anxiolytic drug.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/bioisosteric-replacements-diazepam-7cc699f2'><i class='fa fa-play' aria-hidden='true'></i></button>Clobazam was designed by replacing the imino group of diazepam by the isosteric amide equivalent. The two molecules have similar molecular geometries and lipophilicity. Like diazepam, clobazam is an anxiolytic drug.
 *[f diaz]: Food and Drug Administration. Agency in the USA responsible for safety regulations.
 
 
@@ -215,7 +215,7 @@ Clobazam was designed by replacing the imino group of diazepam by the isosteric 
 ### Bioisosteric Replacements : Beta-Blockers
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-The efficiency of propranolol, which is a &beta;-blocker, was improved by replacing the naphthyl group by an indolyl group (pindolol).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/bioisosteric-replacements-beta-blockers-55675c7b'><i class='fa fa-play' aria-hidden='true'></i></button>The efficiency of propranolol, which is a &beta;-blocker, was improved by replacing the naphthyl group by an indolyl group (pindolol).
 
 
 === "2D"
@@ -228,7 +228,7 @@ The efficiency of propranolol, which is a &beta;-blocker, was improved by replac
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-To increase biological activity some degree of molecular rigidity can be imposed to an active flexible molecule by incorporating its structural elements in a constrained cyclic system. The key functional groups are then constrained to a limited range of steric positions and interatomic distances.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/rigid-analogs-principle-ccd6c3c6'><i class='fa fa-play' aria-hidden='true'></i></button>To increase biological activity some degree of molecular rigidity can be imposed to an active flexible molecule by incorporating its structural elements in a constrained cyclic system. The key functional groups are then constrained to a limited range of steric positions and interatomic distances.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -256,7 +256,7 @@ To increase biological activity some degree of molecular rigidity can be imposed
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-Dopamine has two trans rotameric forms that can be incorporated in different structurally constrained systems. Different biological activities were observed for the following tetralin rigid analogs, they give an indication on the conformations assumed by the flexible dopamine molecule when it binds to different sub-populations of dopamine receptors.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/rigid-analogs-dopaminergics-609a1d4c'><i class='fa fa-play' aria-hidden='true'></i></button>Dopamine has two trans rotameric forms that can be incorporated in different structurally constrained systems. Different biological activities were observed for the following tetralin rigid analogs, they give an indication on the conformations assumed by the flexible dopamine molecule when it binds to different sub-populations of dopamine receptors.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
@@ -284,14 +284,14 @@ Dopamine has two trans rotameric forms that can be incorporated in different str
     
 ### Alteration of Ring Size: Principle
 
-The modification of the size of a ring can alter the molecular geometry and the relative location of the pharmacophoric elements; this can affect the biological properties of the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/alteration-ring-size-principle-b37a9ad5'><i class='fa fa-play' aria-hidden='true'></i></button>The modification of the size of a ring can alter the molecular geometry and the relative location of the pharmacophoric elements; this can affect the biological properties of the molecule.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/alteration.gif){: loading=lazy }
 
 ### Alteration of Ring Size: Imipramine
 
-Imipramine is a tricyclic antidepressant drug. The central seven membered ring was modified to six and to five membered ring structures. Dimetacrine has a central six-membered ring, and this drug has an antidepressant action comparable to that of imipramine.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/alteration-ring-size-imipramine-2058a423'><i class='fa fa-play' aria-hidden='true'></i></button>Imipramine is a tricyclic antidepressant drug. The central seven membered ring was modified to six and to five membered ring structures. Dimetacrine has a central six-membered ring, and this drug has an antidepressant action comparable to that of imipramine.
 
 
 === "2D"
@@ -301,14 +301,14 @@ Imipramine is a tricyclic antidepressant drug. The central seven membered ring w
 
 ### Ring Suppression: Principle
 
-The suppression of a ring in the formula of an active compound allows one to obtain related molecules with different structures. However one has to be aware that the molecular geometries of the reference and the designed molecules might not be superimposable in 3D.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/ring-suppression-principle-62160342'><i class='fa fa-play' aria-hidden='true'></i></button>The suppression of a ring in the formula of an active compound allows one to obtain related molecules with different structures. However one has to be aware that the molecular geometries of the reference and the designed molecules might not be superimposable in 3D.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/3_9_0_1.png){: loading=lazy }
 ### Ring Suppression: Doxepin
 
-The structure of doxepin has been used as a starting point for the design of non-polycyclic analogs. By cuting one of the bonds in this structure results in a doxepin-like analog that has one ring less.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/ring-suppression-doxepin-2b59f1c6'><i class='fa fa-play' aria-hidden='true'></i></button>The structure of doxepin has been used as a starting point for the design of non-polycyclic analogs. By cuting one of the bonds in this structure results in a doxepin-like analog that has one ring less.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -317,7 +317,7 @@ The structure of doxepin has been used as a starting point for the design of non
 ![](https://media.drugdesign.org/course/ligand-based-approaches/3_10_0_1.png){: loading=lazy }
 ### Homologation of Alkyl Chains: Principle
 
-The progressive increase in the number of carbon atoms in a chain progressively increases the lipophilic character of the molecule and changes the partition coefficient. This can affect the absorption, distribution, metabolism or excretion properties of the molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/homologation-alkyl-chains-principle-b97ab1b1'><i class='fa fa-play' aria-hidden='true'></i></button>The progressive increase in the number of carbon atoms in a chain progressively increases the lipophilic character of the molecule and changes the partition coefficient. This can affect the absorption, distribution, metabolism or excretion properties of the molecule.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/homo.gif){: loading=lazy }
@@ -325,7 +325,7 @@ The progressive increase in the number of carbon atoms in a chain progressively 
 ### Homologation of Alkyl Chains: Apomorphine
 *[Apo]: 3D structure of a macromolecule without a ligand
 
-The hydrogen atom connected to the nitrogen of apomorphine was replaced by methyl, ethyl, n-propyl and n-butyl groups. The best activity was found for the n-propyl analog, whereas the n-butyl demonstrated a great loss in potency.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/homologation-alkyl-chains-apomorphine-f86180fb'><i class='fa fa-play' aria-hidden='true'></i></button>The hydrogen atom connected to the nitrogen of apomorphine was replaced by methyl, ethyl, n-propyl and n-butyl groups. The best activity was found for the n-propyl analog, whereas the n-butyl demonstrated a great loss in potency.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[apo]: 3D structure of a macromolecule without a ligand
 
@@ -334,14 +334,14 @@ The hydrogen atom connected to the nitrogen of apomorphine was replaced by methy
 
 ### Alteration of Stereochemistry: Principle
 
-Alterations of stereochemical centers in an active molecule may lead to similar or to completely different biological activities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/alteration-stereochemistry-principle-f478d8e4'><i class='fa fa-play' aria-hidden='true'></i></button>Alterations of stereochemical centers in an active molecule may lead to similar or to completely different biological activities.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/alteration3.gif){: loading=lazy }
 
 ### Alteration of Stereochemistry: Progesterone
 
-The naturally occurring steroid hormones consist of a fused ring system with stereochemistries as indicated in the structure of progesterone. Synthetic analogs with modified stereochemistries at different chiral centers were prepared but did not lead to therapeutically interesting molecules, except for a special class of steroids called retrosteroids. Retroprogesterone is an example of a synthetic analog that is more active than the natural progesterone.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/alteration-stereochemistry-progesterone-15af4baf'><i class='fa fa-play' aria-hidden='true'></i></button>The naturally occurring steroid hormones consist of a fused ring system with stereochemistries as indicated in the structure of progesterone. Synthetic analogs with modified stereochemistries at different chiral centers were prepared but did not lead to therapeutically interesting molecules, except for a special class of steroids called retrosteroids. Retroprogesterone is an example of a synthetic analog that is more active than the natural progesterone.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
@@ -378,7 +378,7 @@ The naturally occurring steroid hormones consist of a fused ring system with ste
     
 ### Homologation by Simplification: Bromocryptine
 
-Ergot alkaloids like bromocryptine have been the starting point for preparing simplified synthetic analogs. CY 208-243 is an example of a simplified bromocryptin and is a dopamine receptor agonist. The simplification of a reference molecule is a general method in analog design and may lead to molecules that are more potent than the initial lead structure.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/homologation-by-simplification-bromocryptine-e9ed386a'><i class='fa fa-play' aria-hidden='true'></i></button>Ergot alkaloids like bromocryptine have been the starting point for preparing simplified synthetic analogs. CY 208-243 is an example of a simplified bromocryptin and is a dopamine receptor agonist. The simplification of a reference molecule is a general method in analog design and may lead to molecules that are more potent than the initial lead structure.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
@@ -390,7 +390,7 @@ Ergot alkaloids like bromocryptine have been the starting point for preparing si
 ### Altering Interatomic Distances
 *[nce]: New Chemical Entity: a compound not previously described.
 
-The systematic alteration of interatomic distances between pharmacophore elements allows us to both explore the requirements of a receptor site and to optimize a series of molecules. The following is a typical analog program conducted for the systematic exploration of the biological properties of a reference active compound.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/altering-interatomic-distances-d7f5f9a5'><i class='fa fa-play' aria-hidden='true'></i></button>The systematic alteration of interatomic distances between pharmacophore elements allows us to both explore the requirements of a receptor site and to optimize a series of molecules. The following is a typical analog program conducted for the systematic exploration of the biological properties of a reference active compound.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -402,7 +402,7 @@ The systematic alteration of interatomic distances between pharmacophore element
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-It has been observed that small structural changes as the modification of the substitution of an aromatic ring can lead to important changes in the biological activities of a series. The substituents of a reference molecule with an aromatic system can be modified systematically.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/aromatic-ring-position-isomers-principle-83564ed2'><i class='fa fa-play' aria-hidden='true'></i></button>It has been observed that small structural changes as the modification of the substitution of an aromatic ring can lead to important changes in the biological activities of a series. The substituents of a reference molecule with an aromatic system can be modified systematically.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -413,7 +413,7 @@ It has been observed that small structural changes as the modification of the su
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
 *[Isomer]: Isomers are compounds with the same chemical formula but different 2D-structures
 
-&beta;-adrenergic agents having a phenethanolamine moiety are chemically related to the natural hormones adrenaline and nor-adrenaline. It has been observed that small structural changes such as the modification of the substitution of the aromatic ring can transform an antagonist into an agonist and vice versa. The following example shows that moving the sulfonamide group from meta to para changed an agonist into an antagonist.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/aromatic-ring-position-isomers-beta-adrenergic-drugs-0c609c46'><i class='fa fa-play' aria-hidden='true'></i></button>&beta;-adrenergic agents having a phenethanolamine moiety are chemically related to the natural hormones adrenaline and nor-adrenaline. It has been observed that small structural changes such as the modification of the substitution of the aromatic ring can transform an antagonist into an agonist and vice versa. The following example shows that moving the sulfonamide group from meta to para changed an agonist into an antagonist.
 *[antagonist]: A molecule that blocks the activation of a receptor.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
@@ -424,7 +424,7 @@ It has been observed that small structural changes as the modification of the su
 ### Chemical Modifications for SAR Information
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
-The systematic exploration of analogs of a given structure allows one to obtain information and accumulate data that are of great utility for understanding the structure-activity relationships.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/chemical-modifications-for-sar-information-ab26f4bd'><i class='fa fa-play' aria-hidden='true'></i></button>The systematic exploration of analogs of a given structure allows one to obtain information and accumulate data that are of great utility for understanding the structure-activity relationships.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[structure-activity relationships]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -472,7 +472,7 @@ The systematic exploration of analogs of a given structure allows one to obtain 
 
 ### 3D Database Searching
 
-3D database searching enables one to identify existing molecules that match a pharmacophore hypothesis. The 3D structure of small molecules can be obtained from various sources like crystallographic databases (e.g. CSD), commercially available databases (e.g. FCD) or computerized model-builders (e.g. CONCORD). It is also possible to identify molecules that possess similar 3D shapes. An advantage of this method is that it generally does not require special synthetic efforts (the molecule is known) but on the other hand, it is highly dependent on the content of the database.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/3d-database-searching-b5cb167c'><i class='fa fa-play' aria-hidden='true'></i></button>3D database searching enables one to identify existing molecules that match a pharmacophore hypothesis. The 3D structure of small molecules can be obtained from various sources like crystallographic databases (e.g. CSD), commercially available databases (e.g. FCD) or computerized model-builders (e.g. CONCORD). It is also possible to identify molecules that possess similar 3D shapes. An advantage of this method is that it generally does not require special synthetic efforts (the molecule is known) but on the other hand, it is highly dependent on the content of the database.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[CSD]: The "Cambridge Structural Database". A worldwide repository source of experimental data on the X-ray structures of small molecules.
 
@@ -518,7 +518,7 @@ The systematic exploration of analogs of a given structure allows one to obtain 
     
 ### Problems of Conformational Complexity
 
-Molecules are flexible entities. The bioactive conformation of a given compound is one form among the many possible forms of the molecule. Even with the remarkable progress in computer storage technology, it is absolutely impossible to imagine that one could store in a databank all the thousands of possible conformers of every single molecule present in the database. In more recent systems conformational flexible searching has started to be considered. In this case the databank contains one or two conformations for each molecule, however a large number of flexible forms are generated "on the fly". In this approach the limitation is not anymore on the storage capacity but on the computational capabilities.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/problems-conformational-complexity-c4829f30'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules are flexible entities. The bioactive conformation of a given compound is one form among the many possible forms of the molecule. Even with the remarkable progress in computer storage technology, it is absolutely impossible to imagine that one could store in a databank all the thousands of possible conformers of every single molecule present in the database. In more recent systems conformational flexible searching has started to be considered. In this case the databank contains one or two conformations for each molecule, however a large number of flexible forms are generated "on the fly". In this approach the limitation is not anymore on the storage capacity but on the computational capabilities.
 *[bioactive conformation]: The geometry adopted by a ligand when it binds to its biological target.
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
@@ -571,7 +571,7 @@ Molecules are flexible entities. The bioactive conformation of a given compound 
     
 ### Check Molecular Geometry of a Hit
 
-Whenever a hit is obtained in a database search, one should always be careful and check its geometry. Databases constructed with 2D->3D converters may contain molecules with poor quality geometries. Let's look at the 'hit' found in a database search in the following example. Not only is the substituent in an axial orientation, but the geometry of the ester fragment is "s-cis", a form that is extremely improbable in acyclic ester moieties.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/check-molecular-geometry-hit-4167c9dc'><i class='fa fa-play' aria-hidden='true'></i></button>Whenever a hit is obtained in a database search, one should always be careful and check its geometry. Databases constructed with 2D->3D converters may contain molecules with poor quality geometries. Let's look at the 'hit' found in a database search in the following example. Not only is the substituent in an axial orientation, but the geometry of the ester fragment is "s-cis", a form that is extremely improbable in acyclic ester moieties.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
@@ -580,7 +580,7 @@ Whenever a hit is obtained in a database search, one should always be careful an
 ### Example of 3D Searching: Pharmacophore Query
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-The involvement of protein kinase C (PKC) enzymes in uncontrolled cellular proliferation, makes them attractive targets for chemotherapeutic intervention against cancer. A computerized 3D-database search on more than 200,000 structures was performed using the following pharmacophore which was deduced from a series of known active phorbol esters. PDBU is an example of a member of this series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/example-3d-searching-pharmacophore-query-cbae3361'><i class='fa fa-play' aria-hidden='true'></i></button>The involvement of protein kinase C (PKC) enzymes in uncontrolled cellular proliferation, makes them attractive targets for chemotherapeutic intervention against cancer. A computerized 3D-database search on more than 200,000 structures was performed using the following pharmacophore which was deduced from a series of known active phorbol esters. PDBU is an example of a member of this series.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[PDB]: The "Protein Data Bank". A worldwide repository source of 3D structures of proteins obtained by X-ray crystallography or NMR studies.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -596,7 +596,7 @@ The involvement of protein kinase C (PKC) enzymes in uncontrolled cellular proli
     
 ### Hit Obtained by 3D Database Searching
 
-This 3D database search led to the discovery of new potent PKC agonists chemically unrelated to the reference phorbol esters such as the quinone derivative.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/hit-obtained-by-3d-database-searching-ba339bcd'><i class='fa fa-play' aria-hidden='true'></i></button>This 3D database search led to the discovery of new potent PKC agonists chemically unrelated to the reference phorbol esters such as the quinone derivative.
 *[agonist]: A chemical substance capable of activating a given receptor.
 *[agonists]: A chemical substance capable of activating a given receptor.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -616,7 +616,7 @@ This 3D database search led to the discovery of new potent PKC agonists chemical
     
 ### Example of 3D Database Searching: Shape Query
 
-Since shape complementarity is a very important consideration in drug-receptor interactions, it is useful to search a 3D database for similar 3D shapes with a reference molecule. If we search for compounds having a similar shape to PDBU we get several hits in which a similarity in the 3D shape is found, within a similarity threshold factor which can be fixed. The following is an example of a database hit visualizing the similarity between the 3D shape from PDBU and the found molecule.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/example-3d-database-searching-shape-query-5472282f'><i class='fa fa-play' aria-hidden='true'></i></button>Since shape complementarity is a very important consideration in drug-receptor interactions, it is useful to search a 3D database for similar 3D shapes with a reference molecule. If we search for compounds having a similar shape to PDBU we get several hits in which a similarity in the 3D shape is found, within a similarity threshold factor which can be fixed. The following is an example of a database hit visualizing the similarity between the 3D shape from PDBU and the found molecule.
 *[PDB]: The "Protein Data Bank". A worldwide repository source of 3D structures of proteins obtained by X-ray crystallography or NMR studies.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -655,7 +655,7 @@ Since shape complementarity is a very important consideration in drug-receptor i
     
 ### Molecules Obtained by Shape Searching
 
-Although the similarity of the 3D shape of PDBU and the database hit (a quinoline derivative) is high, there is a vast difference in their chemical structure. This type of database search complements the powerful pharmacophore-based database search. Searching for shape similarity is useful only if the pharmacophore is properly incorporated.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/molecules-obtained-by-shape-searching-c92754b7'><i class='fa fa-play' aria-hidden='true'></i></button>Although the similarity of the 3D shape of PDBU and the database hit (a quinoline derivative) is high, there is a vast difference in their chemical structure. This type of database search complements the powerful pharmacophore-based database search. Searching for shape similarity is useful only if the pharmacophore is properly incorporated.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[PDB]: The "Protein Data Bank". A worldwide repository source of 3D structures of proteins obtained by X-ray crystallography or NMR studies.
 *[nce]: New Chemical Entity: a compound not previously described.
@@ -693,7 +693,7 @@ Although the similarity of the 3D shape of PDBU and the database hit (a quinolin
     
 ### Databases of Molecules in 3D
 
-The 3D structures of molecules can be either determined experimentally (X-ray data, NMR) or by modeling techniques (2D->3D converters).
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/databases-molecules-3d-72b67b17'><i class='fa fa-play' aria-hidden='true'></i></button>The 3D structures of molecules can be either determined experimentally (X-ray data, NMR) or by modeling techniques (2D->3D converters).
 *[NMR]: An analytical method that allows the spectroscopic detection of structural information of molecules. It requires the application of a strong magnetic field.
 
 
@@ -707,7 +707,7 @@ The 3D structures of molecules can be either determined experimentally (X-ray da
     
 ### Databases of Commercial Molecules
 
-Throughout the world, there are thousands of chemical suppliers offering more than 3 million organic compounds. Soon combinatorial chemistry will lead to an explosion of this number. The advantage of using commercially available molecules in database searching is that they can be purchased and tested rapidly. This accelerates the lead discovery process. In order to conduct the searching in 3D, model-builders are used to convert the 2D catalogs into 3D databases.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/databases-commercial-molecules-d06999de'><i class='fa fa-play' aria-hidden='true'></i></button>Throughout the world, there are thousands of chemical suppliers offering more than 3 million organic compounds. Soon combinatorial chemistry will lead to an explosion of this number. The advantage of using commercially available molecules in database searching is that they can be purchased and tested rapidly. This accelerates the lead discovery process. In order to conduct the searching in 3D, model-builders are used to convert the 2D catalogs into 3D databases.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/4_8_0_1.png){: loading=lazy }
@@ -715,7 +715,7 @@ Throughout the world, there are thousands of chemical suppliers offering more th
 
 ### Automated Construction Approaches
 
-Designing molecules that assemble a set of disconnected functional groups in 3D is not a trivial task. The purpose of de novo automated construction approaches is to find appropriate spacers to assemble these disconnected elements. These spacers are made of small units like atoms, functional groups or fragments. The solutions show alternatives for positioning the same key fragments and therefore provide structural diversity.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/automated-construction-approaches-e559116f'><i class='fa fa-play' aria-hidden='true'></i></button>Designing molecules that assemble a set of disconnected functional groups in 3D is not a trivial task. The purpose of de novo automated construction approaches is to find appropriate spacers to assemble these disconnected elements. These spacers are made of small units like atoms, functional groups or fragments. The solutions show alternatives for positioning the same key fragments and therefore provide structural diversity.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/5_1_0_1.jpg){: loading=lazy }
@@ -744,7 +744,7 @@ Designing molecules that assemble a set of disconnected functional groups in 3D 
     
 ### Algorithm Based Approaches
 
-Assembling together pharmacophoric elements can be done efficiently with computerized construction programs. In some systems, the new molecule is constructed atom-by-atom while other systems incorporate a library of pre-prepared fragments ready to be assembled. Whatever algorithms are used, the input of such programs is the pharmacophore considered as the '3D query', and the output consists of possible solutions, namely different molecules carrying the query pharmacophore in the proper geometry.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/algorithm-based-approaches-ab219778'><i class='fa fa-play' aria-hidden='true'></i></button>Assembling together pharmacophoric elements can be done efficiently with computerized construction programs. In some systems, the new molecule is constructed atom-by-atom while other systems incorporate a library of pre-prepared fragments ready to be assembled. Whatever algorithms are used, the input of such programs is the pharmacophore considered as the '3D query', and the output consists of possible solutions, namely different molecules carrying the query pharmacophore in the proper geometry.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
 
@@ -768,7 +768,7 @@ Assembling together pharmacophoric elements can be done efficiently with compute
     
 ### Example of Construction Approach
 
-5-&alpha;-reductase inhibitors, which inhibit the metabolism of testosterone into dihydrotestosterone, are potent agents against prostate hyperplasia. However, most of these agents are of a steroidal type. In order to avoid all the endocrinic side effects, one can try to design non-steroid mimics.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/example-construction-approach-b0081cda'><i class='fa fa-play' aria-hidden='true'></i></button>5-&alpha;-reductase inhibitors, which inhibit the metabolism of testosterone into dihydrotestosterone, are potent agents against prostate hyperplasia. However, most of these agents are of a steroidal type. In order to avoid all the endocrinic side effects, one can try to design non-steroid mimics.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -777,7 +777,7 @@ Assembling together pharmacophoric elements can be done efficiently with compute
 ### Query Pharmacophore: 5-Alfa Reductase Example
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
-The construction approach NEWLEAD was used to find non-steroid analogs by linking the recognition fragments of the pharmacophore:
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/query-pharmacophore-5-alfa-reductase-example-891ce0a4'><i class='fa fa-play' aria-hidden='true'></i></button>The construction approach NEWLEAD was used to find non-steroid analogs by linking the recognition fragments of the pharmacophore:
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
@@ -790,7 +790,7 @@ The construction approach NEWLEAD was used to find non-steroid analogs by linkin
 
 ### A Generated Solution
 
-One of the possible solutions to the query represented is the following indole derivative: The superimposition shows how the 3D structure of the constructed indole mimics well the steroidal agent.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/generated-solution-fcafe542'><i class='fa fa-play' aria-hidden='true'></i></button>One of the possible solutions to the query represented is the following indole derivative: The superimposition shows how the 3D structure of the constructed indole mimics well the steroidal agent.
 
 
 === "2D"
@@ -800,7 +800,7 @@ One of the possible solutions to the query represented is the following indole d
 
 ### Automated Construction Approach: Example
 
-The results of a de novo design is illustrated in the following browser. The molecules were generated by construction algorithms based on the staurosporine-like pharmacophore model as shown in the view.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/automated-construction-approach-example-d4140ada'><i class='fa fa-play' aria-hidden='true'></i></button>The results of a de novo design is illustrated in the following browser. The molecules were generated by construction algorithms based on the staurosporine-like pharmacophore model as shown in the view.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
 
@@ -810,7 +810,7 @@ The results of a de novo design is illustrated in the following browser. The mol
 
 ### Introduction to Manual Design
 
-Manual design is based on deciding which molecule to consider next. Without computers, the medicinal chemist currently works like that. Trying to be consistent with the concepts of molecular design, his goal is to fully utilize the information obtained by molecules previously tested and integrate it in the structure of a new molecule to be synthesized.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/introduction-to-manual-design-2e0e9485'><i class='fa fa-play' aria-hidden='true'></i></button>Manual design is based on deciding which molecule to consider next. Without computers, the medicinal chemist currently works like that. Trying to be consistent with the concepts of molecular design, his goal is to fully utilize the information obtained by molecules previously tested and integrate it in the structure of a new molecule to be synthesized.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -819,7 +819,7 @@ Manual design is based on deciding which molecule to consider next. Without comp
 ### Importance of the Visualization
 *[nce]: New Chemical Entity: a compound not previously described.
 
-In manual design the visualization is of central importance. It is important to see in a condensed way the molecular objects. This stimulates the creativity for considering other solutions and checking if the solutions designed fit with the specified constraints.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/importance-visualization-9319b975'><i class='fa fa-play' aria-hidden='true'></i></button>In manual design the visualization is of central importance. It is important to see in a condensed way the molecular objects. This stimulates the creativity for considering other solutions and checking if the solutions designed fit with the specified constraints.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -828,7 +828,7 @@ In manual design the visualization is of central importance. It is important to 
 
 ### Tools in Manual Design
 
-Real time rotations, molecular editing functions such as deletion, addition, fusion, connections, torsional angle alterations, superimpositions, coloring and stereo constitute the minimum necessary for sketching and assessing the validity of a solution considered in manual design. At another level energy calculations and minimizations can complete the panoply of the medicinal chemist.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/tools-manual-design-84ef15a5'><i class='fa fa-play' aria-hidden='true'></i></button>Real time rotations, molecular editing functions such as deletion, addition, fusion, connections, torsional angle alterations, superimpositions, coloring and stereo constitute the minimum necessary for sketching and assessing the validity of a solution considered in manual design. At another level energy calculations and minimizations can complete the panoply of the medicinal chemist.
 *[minimizations]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[minimization]: Minimization treatments consists of successive alterations of the geometry of the molecule until a minimum is found on the conformational potential surface.
 *[sar]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
@@ -838,21 +838,21 @@ Real time rotations, molecular editing functions such as deletion, addition, fus
 
 ### Fully Exploiting the Fruits of the Analyses
 
-The goal of the medicinal chemist is to fully utilize the information revealed by previously tested molecules and integrate it in the structure of a new molecule to be synthesized.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/fully-exploiting-fruits-analyses-1598b859'><i class='fa fa-play' aria-hidden='true'></i></button>The goal of the medicinal chemist is to fully utilize the information revealed by previously tested molecules and integrate it in the structure of a new molecule to be synthesized.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/6_4_0_1.png){: loading=lazy }
 
 ### Creativity
 
-This example illustrates the intelligent design of a new molecule connecting the two hydrophobic groups (phenyl and cyclohexyl) of a peptide-based molecule. The resulting molecule was biologically active. Only creativity and imagination can lead to such design.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/creativity-d86f53b6'><i class='fa fa-play' aria-hidden='true'></i></button>This example illustrates the intelligent design of a new molecule connecting the two hydrophobic groups (phenyl and cyclohexyl) of a peptide-based molecule. The resulting molecule was biologically active. Only creativity and imagination can lead to such design.
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/6_5_0_1.gif){: loading=lazy }
 
 ### Design of a Spacer: a Step-by-Step Process
 
-The three structural moieties displayed here: phenyl, carboxyl and amino represent a pharmacophore. Assembling them in 3D into a single molecule is not obvious.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/design-spacer-step-by-step-process-9a85ebfc'><i class='fa fa-play' aria-hidden='true'></i></button>The three structural moieties displayed here: phenyl, carboxyl and amino represent a pharmacophore. Assembling them in 3D into a single molecule is not obvious.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -862,7 +862,7 @@ The three structural moieties displayed here: phenyl, carboxyl and amino represe
 
 #### Connecting two Fragments in 3D
 
-With models or modeling tools, patience, intelligence and imagination...
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/connecting-two-fragments-3d-ab3df657'><i class='fa fa-play' aria-hidden='true'></i></button>With models or modeling tools, patience, intelligence and imagination...
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -870,14 +870,14 @@ With models or modeling tools, patience, intelligence and imagination...
 
 #### Assembly of all Fragments in 3D
 
-... one can envision a solution like the one displayed here. {newLine} {newLine} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/assembly-all-fragments-3d-0cdf3d71'><i class='fa fa-play' aria-hidden='true'></i></button>... one can envision a solution like the one displayed here. {newLine} {newLine} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/spacer2.gif){: loading=lazy }
 
 ### Manual Mimicking
 
-The following example illustrates how to create an entirely new molecule using interactive manual design that imitates both the shape and the 3D distribution of the physico-chemical properties of an active reference compound.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/manual-mimicking-435c3cdc'><i class='fa fa-play' aria-hidden='true'></i></button>The following example illustrates how to create an entirely new molecule using interactive manual design that imitates both the shape and the 3D distribution of the physico-chemical properties of an active reference compound.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -893,7 +893,7 @@ The following example illustrates how to create an entirely new molecule using i
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-The family of the epidermal growth factor receptor (EGF-R) belongs to the larger class of the trans-membrane growth factor receptor protein kinases. Inhibitors of this enzyme therefore have great therapeutic potential in the treatment of malignant and nonmalignant epithelial diseases. Staurosporine, a microbial alkaloid was found to have some inhibitory effect competing with ATP, the cofactor of the protein kinases.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/egf-r-protein-tyrosine-kinase-inhibitors-e40ba8d8'><i class='fa fa-play' aria-hidden='true'></i></button>The family of the epidermal growth factor receptor (EGF-R) belongs to the larger class of the trans-membrane growth factor receptor protein kinases. Inhibitors of this enzyme therefore have great therapeutic potential in the treatment of malignant and nonmalignant epithelial diseases. Staurosporine, a microbial alkaloid was found to have some inhibitory effect competing with ATP, the cofactor of the protein kinases.
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
@@ -906,7 +906,7 @@ The family of the epidermal growth factor receptor (EGF-R) belongs to the larger
 
 ### Comparing the Structures of Staurosporine and ATP
 
-The analyses indicated here where made at a time when only ATP was known to bind in a bidentate manner with two hydrogen bonds and no X-ray data was available for staurosporine. ATP and staurosporine were compared in 3D despite their seemingly unrelated chemical structures. An alignment of the adenine moiety of ATP with the keto-pyrroline ring of staurosporine indicated that staurosporine exploits the same key hydrogen bond interactions as ATP.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/comparing-structures-staurosporine-atp-a7b1f694'><i class='fa fa-play' aria-hidden='true'></i></button>The analyses indicated here where made at a time when only ATP was known to bind in a bidentate manner with two hydrogen bonds and no X-ray data was available for staurosporine. ATP and staurosporine were compared in 3D despite their seemingly unrelated chemical structures. An alignment of the adenine moiety of ATP with the keto-pyrroline ring of staurosporine indicated that staurosporine exploits the same key hydrogen bond interactions as ATP.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[bidentate]: Having two anchorage points
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
@@ -916,7 +916,7 @@ The analyses indicated here where made at a time when only ATP was known to bind
 
 ### CGP52411 a Simplified Staurosporine Molecule
 
-CGP52411 was created by removing rings and bonds from the 2D formula of Staurosporine. The molecule proved to be a competitive inhibitor of ATP (IC<sub>50</sub> = 0.3 &Mu;M) for the EGF-R protein kinase.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/cgp52411-simplified-staurosporine-molecule-370ce81f'><i class='fa fa-play' aria-hidden='true'></i></button>CGP52411 was created by removing rings and bonds from the 2D formula of Staurosporine. The molecule proved to be a competitive inhibitor of ATP (IC<sub>50</sub> = 0.3 &micro;M) for the EGF-R protein kinase.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
 
@@ -940,7 +940,7 @@ CGP52411 was created by removing rings and bonds from the 2D formula of Staurosp
 ### Bidentate Anchorage of CGP52411
 *[Bidentate]: Having two anchorage points
 
-The alkylation of the free nitrogen of CGP52411 completely suppressed activity. This observation indicated that this compound adopts the same binding mode as staurosporine with two key bidentate hydrogen bonds. The following view illustrates an overlay of CGP52411, staurosporine and ATP; in particular it reveals a phenyl moiety of CGP52411 located in the area occupied by the ribose ring of ATP.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/bidentate-anchorage-cgp52411-5e1a8836'><i class='fa fa-play' aria-hidden='true'></i></button>The alkylation of the free nitrogen of CGP52411 completely suppressed activity. This observation indicated that this compound adopts the same binding mode as staurosporine with two key bidentate hydrogen bonds. The following view illustrates an overlay of CGP52411, staurosporine and ATP; in particular it reveals a phenyl moiety of CGP52411 located in the area occupied by the ribose ring of ATP.
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 *[binding mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.
 *[bidentate]: Having two anchorage points
@@ -959,7 +959,7 @@ The alkylation of the free nitrogen of CGP52411 completely suppressed activity. 
 ### The Design of a New EGF-R PTK Inhibitor
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-On the basis of the proposed pharmacophore model, a new series of selective EGF-R protein kinase inhibitors were designed: the pyrrolopyrimidine derivatives. 4-(m-Bromophenylamino) pyrrolopyrimidine (IC<sub>50</sub> = 0.025 &Mu;M) is one of the most potent molecules in this series.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/design-new-egf-r-ptk-inhibitor-ba8549f7'><i class='fa fa-play' aria-hidden='true'></i></button>On the basis of the proposed pharmacophore model, a new series of selective EGF-R protein kinase inhibitors were designed: the pyrrolopyrimidine derivatives. 4-(m-Bromophenylamino) pyrrolopyrimidine (IC<sub>50</sub> = 0.025 &micro;M) is one of the most potent molecules in this series.
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 *[inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -986,7 +986,7 @@ On the basis of the proposed pharmacophore model, a new series of selective EGF-
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
 
-
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/browser-egf-r-protein-kinase-inhibitors-70c0d3c4'><i class='fa fa-play' aria-hidden='true'></i></button>
       
 
 
@@ -1008,10 +1008,12 @@ On the basis of the proposed pharmacophore model, a new series of selective EGF-
 
 ### Conclusion
 
-The discovery of lead compounds is a complex and difficult process and requires a great deal of effort before succeeding. The combined use of the four methods outlined in this chapter provides a very powerful tool for the successful design of new leads.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/conclusion-a25620fc'><i class='fa fa-play' aria-hidden='true'></i></button>The discovery of lead compounds is a complex and difficult process and requires a great deal of effort before succeeding. The combined use of the four methods outlined in this chapter provides a very powerful tool for the successful design of new leads.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/conclusion.png){: loading=lazy }
 
-Copyright © 2022 drugdesign.org
+
+
+Copyright © 2024 drugdesign.org
