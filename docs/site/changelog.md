@@ -1,7 +1,9 @@
 # Changelog
 
+### 21 January 2024 
+Audio narration has been added to all text paragraphs using openAI [text-to-speech](https://platform.openai.com/docs/models/tts) AI model 
 
-### January 2024 
+### 5 January 2024 
 Working on adding 3d molecules for the following chapters: 
 
 * [3d-database searching](https://www.drugdesign.org/chapters/3d-database-searching/) 
