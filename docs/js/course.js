@@ -66,20 +66,20 @@ function checkAndHideButtonIfFileDoesNotExist(button) {
 document.addEventListener('DOMContentLoaded', function() {
     console.log("course.js loaded"); 
     
-    var buttons = document.querySelectorAll('.playb');
-    buttons.forEach(checkAndHideButtonIfFileDoesNotExist);
+    // var buttons = document.querySelectorAll('.playb');
+    // buttons.forEach(checkAndHideButtonIfFileDoesNotExist);
     
-    function containsClass(node, className) {
-        if (node.classList && node.classList.contains(className)) {
-            return true;
-        }
-        for (let child of node.childNodes) {
-            if (containsClass(child, className)) {
-                return true;
-            }
-        }
-        return false;
-    }     
+    // function containsClass(node, className) {
+    //     if (node.classList && node.classList.contains(className)) {
+    //         return true;
+    //     }
+    //     for (let child of node.childNodes) {
+    //         if (containsClass(child, className)) {
+    //             return true;
+    //         }
+    //     }
+    //     return false;
+    // }     
 
     var observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {
