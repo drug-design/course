@@ -147,9 +147,13 @@ nav:
       - 'Molecular Graphics': chapters/molecular-graphics.md
       - 'Selected Examples in 3D Analysis': chapters/conformational-analysis-examples.md
     - Molecular Dynamics:
-      - 'Molecular Dynamics': chapters/molecular-dynamics.md    
-  - New Contributions:
-    - 'New contributions': site/new-contributions.md
+      - 'Molecular Dynamics': chapters/molecular-dynamics.md 
+    - External Courses & Tutorials:
+      - Erik Lindahl Course: external/erik-lindahl.md
+      - TeachOpenCADD: tutorials/teachopencadd.md 
+        
+  # - New Contributions:
+  #   - 'New contributions': site/new-contributions.md
   - Teaching:
     - 'The Sharing Program': site/sharing-program.md
     #- 'Content Concept': site/concept.md    
@@ -158,10 +162,4 @@ nav:
     - 'Create New Content': site/new-content.md
     - 'MarkDown Template': site/template.md
     - 'Content Idea': site/contribution-idea.md    
-  - External Courses (links):
-    - Table of Contents: external/index.md 
-    - Erik Lindahl Course: external/erik-lindahl.md
-  - External Tutorials (links): 
-    - Table of Contents: tutorials/index.md
-    - TeachOpenCADD: tutorials/teachopencadd.md
 
