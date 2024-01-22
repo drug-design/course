@@ -159,7 +159,7 @@ nav:
     #- 'Content Concept': site/concept.md    
     - 'Customize to Your Need': site/subdomain.md
     - 'The Platform': site/platform.md
-    - 'Create New Content': site/new-content.md
-    - 'MarkDown Template': site/template.md
+    #- 'Create New Content': site/new-content.md
+    #- 'MarkDown Template': site/template.md
     - 'Content Idea': site/contribution-idea.md    
 
