@@ -1354,7 +1354,7 @@
     
 ###### Polymers, Peptides and Nucleotides
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='cheminformatics/polymers-peptides-nucleotides-29809383'><i class='fa fa-play' aria-hidden='true'></i></button>In addition reactions about polymers, peptides or nucleotides are only searchable in CAS databases since these substances are not indexed in Beilstein.{newLine}
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='cheminformatics/polymers-peptides-nucleotides-87255d05'><i class='fa fa-play' aria-hidden='true'></i></button>In addition reactions about polymers, peptides or nucleotides are only searchable in CAS databases since these substances are not indexed in Beilstein.
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
@@ -2873,7 +2873,8 @@
     
 #### Advantages and Drawbacks
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='cheminformatics/advantages-drawbacks-600388a4'><i class='fa fa-play' aria-hidden='true'></i></button>The most important advantage brought by CASE systems is their absence of preconception about the kind of result that has to be found. A lot of time may be wasted if one persists to search for a structural feature that is not present in the molecule under investigation.{newLine} The drawback in using CASE systems is they lack the year-long experience of human beings that makes particular problems trivial to solve. Users must be trained to efficiently use CASE systems. Depending on feature abundance and ergonomy, the learning curve can be steep enough to refrain chemists to use them.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='cheminformatics/advantages-drawbacks-9fe3ead6'><i class='fa fa-play' aria-hidden='true'></i></button>The most important advantage brought by CASE systems is their absence of preconception about the kind of result that has to be found. A lot of time may be wasted if one persists to search for a structural feature that is not present in the molecule under investigation.
+ The drawback in using CASE systems is they lack the year-long experience of human beings that makes particular problems trivial to solve. Users must be trained to efficiently use CASE systems. Depending on feature abundance and ergonomy, the learning curve can be steep enough to refrain chemists to use them.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 

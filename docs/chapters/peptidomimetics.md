@@ -7,7 +7,7 @@
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
-    **Number of Pages: 34 (±0 hours read)**
+    **Number of Pages: 33 (±0 hours read)**
 
     Last Modified: January 2009
 
@@ -273,8 +273,7 @@
 ##### Browser of Bioisosteric Replacements
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/browser-bioisosteric-replacements-84fa99ea'><i class='fa fa-play' aria-hidden='true'></i></button>
-          
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/browser-bioisosteric-replacements-8004cca4'><i class='fa fa-play' aria-hidden='true'></i></button>The following illustrates various chemical groups that can substitute for the peptide bond in a biomolecule.
 
 
 === "Pic"
@@ -573,7 +572,14 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/peptidomimetics/trh_5_1_0_1.png){: loading=lazy }
+=== "2D"
+    ![](https://media.drugdesign.org/course/peptidomimetics/trh_5_1_0_1.png){: loading=lazy }
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/peptidomimetics/trh.gif){: loading=lazy }
+
+=== "Browser (3D)"
+    <div id='nglviewer-container-br-trh' class='nglviewer-container' data-molecule-id='br-trh' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 
 ??? Abstract "articles"
     **Peptide Mimetics of Thyrotropin-releasing Hormone Based on a Cyclohexane Framework: Design, Synthesis, and Cognition-enhancing Properties** 
@@ -591,25 +597,6 @@
     J. Chem. Soc. Chem. Commun. 
     438-9 1980  
     
-##### TRH Browser
-
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/trh-browser-84fa99ea'><i class='fa fa-play' aria-hidden='true'></i></button>
-          
-
-
-=== "Browser (Gif)"
-    ![](https://media.drugdesign.org/course/peptidomimetics/trh.gif){: loading=lazy }
-
-=== "Browser (3D)"
-    <div id='nglviewer-container-br-trh' class='nglviewer-container' data-molecule-id='br-trh' style='width: 750px; height: 450px;' data-initialized='false'></div>
-
-
-??? Abstract "articles"
-    **Peptide Mimetics of Thyrotropin-releasing Hormone Based on a Cyclohexane Framework: Design, Synthesis, and Cognition-enhancing Properties** 
-    Olson GL, Cheung HC, Chiang E, Madison VS, Sepinwall J, Vincent GP, Winokur A and Gary KA 
-    J. Med. Chem. 
-    38 1995  
-    
 ### Which Route Should be Used?
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/which-route-should-be-used-3d21747f'><i class='fa fa-play' aria-hidden='true'></i></button>The first approach is conceptually straightforward whereas the second is more complicated to implement. In both cases it is difficult to estimate the amount of effort that will be necessary to obtain compounds satisfying the criteria of good oral activity and pharmaco-kinetic properties. Examples of both approaches will be extensively presented and discussed in the following chapter.
@@ -623,7 +610,9 @@
 
 ### Challenges in Peptide Modifications
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/challenges-peptide-modifications-6b2902ed'><i class='fa fa-play' aria-hidden='true'></i></button>The successive modifications of the structure of a reference peptide are feasible. The advantages of this approach are multiple: a number of biologically active molecules are generated; they shed light on the structural requirements for biological activities; and they pave the road for deciding which molecules to synthesize next. {newLine} This approach requires however a continuous effort of chemical syntheses. The accumulation of active molecules may nurture the illusion that the breakthrough is "just around the bend". However in this approach it is difficult to assess if substantial progress was made until real clinical trials indicate the exact situation. {newLine} If it succeeds, the knowledge gained can be easily transposed to other similar projects. If it fails, the structural information acquired is of great value for considering a de novo design strategy for non peptidic mimics.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/challenges-peptide-modifications-c430a3f7'><i class='fa fa-play' aria-hidden='true'></i></button>The successive modifications of the structure of a reference peptide are feasible. The advantages of this approach are multiple: a number of biologically active molecules are generated; they shed light on the structural requirements for biological activities; and they pave the road for deciding which molecules to synthesize next. 
+ This approach requires however a continuous effort of chemical syntheses. The accumulation of active molecules may nurture the illusion that the breakthrough is "just around the bend". However in this approach it is difficult to assess if substantial progress was made until real clinical trials indicate the exact situation. 
+ If it succeeds, the knowledge gained can be easily transposed to other similar projects. If it fails, the structural information acquired is of great value for considering a de novo design strategy for non peptidic mimics.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
@@ -632,7 +621,8 @@
 
 ### Challenges in Non-Peptidic Mimicry
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/challenges-non-peptidic-mimicry-44aabfc2'><i class='fa fa-play' aria-hidden='true'></i></button>The de novo design strategy for non-peptidic mimics is an alternative approach for utilizing the information acquired on the reference peptide. When a non-peptidic compound is discovered, its scaffold provides the necessary framework to optimize specificity, oral bioavailability and pharmacokinetic properties. {newLine}Advanced computerized molecular design technologies are useful for exploiting optimally the information available and for the design and the synthetic efforts that have to be developed in an integrated manner. Sufficient time might be needed before the breakthrough occurs and patience is needed when inactive molecules are obtained.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/challenges-non-peptidic-mimicry-7aa49e2e'><i class='fa fa-play' aria-hidden='true'></i></button>The de novo design strategy for non-peptidic mimics is an alternative approach for utilizing the information acquired on the reference peptide. When a non-peptidic compound is discovered, its scaffold provides the necessary framework to optimize specificity, oral bioavailability and pharmacokinetic properties. 
+Advanced computerized molecular design technologies are useful for exploiting optimally the information available and for the design and the synthetic efforts that have to be developed in an integrated manner. Sufficient time might be needed before the breakthrough occurs and patience is needed when inactive molecules are obtained.
 *[bioavailability]: The percentage of drug that is detected in the systemic circulation after its administration.
 *[nce]: New Chemical Entity: a compound not previously described.
 *[pharmacokinetic]: The study of absorption, distribution, metabolism and excretion (ADME) of bioactive compounds.
@@ -645,7 +635,11 @@
 ### Perspectives in Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/perspectives-peptidomimetics-ce7c86ba'><i class='fa fa-play' aria-hidden='true'></i></button>There is no systematic method for transforming a peptide into a substance for drug development. In the past, medicinal chemists tended to embark on the process of making analogs of the peptide rather rapidly, hoping to find within a reasonable amount of time a compound with entirely different pharmacokinetic properties. {newLine}{newLine}Today since many success stories on de novo peptidomimicry have been reported, this approach has become more accepted. Currently, this trend encourages the development of sophisticated computerized packages allowing the enormous amount of experimental data accumulated in the course of many projects to be exploited in a global way.{newLine}{newLine} This encourages the creation of entirely new conditions for drug design and the definition of an entirely new way of considering lead discovery.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='peptidomimetics/perspectives-peptidomimetics-d368e46c'><i class='fa fa-play' aria-hidden='true'></i></button>There is no systematic method for transforming a peptide into a substance for drug development. In the past, medicinal chemists tended to embark on the process of making analogs of the peptide rather rapidly, hoping to find within a reasonable amount of time a compound with entirely different pharmacokinetic properties. 
+
+Today since many success stories on de novo peptidomimicry have been reported, this approach has become more accepted. Currently, this trend encourages the development of sophisticated computerized packages allowing the enormous amount of experimental data accumulated in the course of many projects to be exploited in a global way.
+
+ This encourages the creation of entirely new conditions for drug design and the definition of an entirely new way of considering lead discovery.
 *[analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 *[nce]: New Chemical Entity: a compound not previously described.

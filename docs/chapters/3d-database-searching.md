@@ -247,10 +247,10 @@
 === "Isoxazole"
     ![](https://media.drugdesign.org/course/3d-database-searching/isoxazole.gif){: loading=lazy }
 
-=== "Browser (3D)"
+=== "Browser (Gif)"
     ![](https://media.drugdesign.org/course/3d-database-searching/centroid_browser.gif){: loading=lazy }
 
-=== "Browser (Gif)"
+=== "Browser (3D)"
     <div id='nglviewer-container-centroid-browser' class='nglviewer-container' data-molecule-id='centroid-browser' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ##### Extension Point

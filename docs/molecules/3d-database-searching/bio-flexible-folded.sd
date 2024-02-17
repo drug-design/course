@@ -1,5 +1,5 @@
 DOPAMINEO
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
  11 11  0  0  0  0  0  0  0  0999 V2000
    -9.3829   -6.2701   -0.5773 N   0  0
@@ -21,13 +21,13 @@ DOPAMINEO
   5  6  1  0  0  0
   6  7  1  0  0  0
   7  8  1  0  0  0
-  7  9  4  0  0  0
+  7  9  1  0  0  0
   9 10  1  0  0  0
   9 11  1  0  0  0
 M  END
 $$$$
 Str4
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
  13 14  0  0  0  0  0  0  0  0999 V2000
    -8.9682   -3.8107   -1.8116 C   0  0

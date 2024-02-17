@@ -46,7 +46,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/3d.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/molecular-geometry/3d.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-three-dimensional-shape-molecule' class='nglviewer-container' data-molecule-id='three-dimensional-shape-molecule' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -96,7 +100,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/point.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/molecular-geometry/point.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-molecule-an-assembly-atoms-3d' class='nglviewer-container' data-molecule-id='molecule-an-assembly-atoms-3d' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -126,10 +134,15 @@
     
 ### Molecular Fragments for Constructing Molecules
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-geometry/molecular-fragments-for-constructing-molecules-227ca560'><i class='fa fa-play' aria-hidden='true'></i></button>The 3D representations appear as soon as you click on the fragment you want to visualize. Then you can click on the 3D representation with the mouse in order to rotate the fragment.
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-geometry/molecular-fragments-for-constructing-molecules-614dea6b'><i class='fa fa-play' aria-hidden='true'></i></button>This view presents a collection of chemical fragments in their 2D forms along with a static 3D representation of a central molecule
+*[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/fragment.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/molecular-geometry/fragment.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-molecular-fragments-for-constructing-molecules' class='nglviewer-container' data-molecule-id='molecular-fragments-for-constructing-molecules' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -145,7 +158,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-geometry/molecule-is-flexible-entity-4231c002'><i class='fa fa-play' aria-hidden='true'></i></button>Molecules are far from being static because the atomic forces on atoms create motions and vibrations. Single bonds can be rotated and increase the flexibility of a molecule by altering the relative location of atoms and groups around this bond. Double bonds and rings reduce somewhat the flexibility of a fragment, but not entirely.
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/conformers.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/molecular-geometry/conformers.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-molecule-is-flexible-entity' class='nglviewer-container' data-molecule-id='molecule-is-flexible-entity' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Conformation Definition
 
@@ -166,7 +183,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-geometry/example-conformations-molecule-975b7b7d'><i class='fa fa-play' aria-hidden='true'></i></button>The following are example of some of the possible molecular geometries or conformations of a molecule.
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/conf.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/molecular-geometry/conf.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-example-conformations-molecule' class='nglviewer-container' data-molecule-id='example-conformations-molecule' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Bioactive Conformation
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -203,7 +224,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/torsion.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/molecular-geometry/torsion.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-interconversion-between-conformers' class='nglviewer-container' data-molecule-id='interconversion-between-conformers' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### How Do Interconversions Occur?
 
@@ -295,7 +320,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-geometry/monitoring-torsion-angles-734a18ee'><i class='fa fa-play' aria-hidden='true'></i></button>The geometry of Propanolol changes when the torsion angle of the C(sp3)-C(sp3) central bond is modified. In the following view the value of the angle is zero; the control panel allows this value to be changed interactively. (Clickable picture - click in the purple band to change conformations).
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/torsion_monitor.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/molecular-geometry/torsion_monitor.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-monitoring-torsion-angles' class='nglviewer-container' data-molecule-id='monitoring-torsion-angles' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Newman Projections and Torsion Angles
 
@@ -329,7 +358,11 @@
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/ring.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/molecular-geometry/ring.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-ring-conformations' class='nglviewer-container' data-molecule-id='ring-conformations' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -392,7 +425,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='molecular-geometry/monitoring-torsion-angle-combinations-b97c2ea5'><i class='fa fa-play' aria-hidden='true'></i></button>The molecular geometry of a molecule is a function of the value of its torsion angles. In this example, you can interactively modify two torsion angles (the amide bond cannot rotate) and observe the changes and the modification of the overall molecular shape.
 
 
-![](https://media.drugdesign.org/course/molecular-geometry/2_torsion.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/molecular-geometry/2_torsion.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-monitoring-torsion-angle-combinations' class='nglviewer-container' data-molecule-id='monitoring-torsion-angle-combinations' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Conformational Explosion
 

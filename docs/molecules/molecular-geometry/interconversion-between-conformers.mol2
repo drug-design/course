@@ -1,0 +1,2862 @@
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+1
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    1.895238   -0.000000 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.309138    0.816400 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.309138   -0.816400 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+1
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.602842   -0.000000 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.129158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+1
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+2
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    1.954673   -0.329415 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    2.994110    0.929629 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.564731   -0.600215 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+2
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.602683    0.016573 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.128999   -0.016573 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+2
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+3
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    1.957318    0.336421 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.569477    0.594421 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    2.986719   -0.930842 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+3
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.599603    0.074834 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.125918   -0.074834 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+3
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+4
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    2.103581    0.591067 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.716899    0.340418 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    2.693035   -0.931486 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+4
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.587189    0.163911 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.113504   -0.163911 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+4
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+5
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    2.362895    0.814201 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.780501    0.004255 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    2.370118   -0.818457 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+5
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.573833    0.222268 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.100148   -0.222268 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+5
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+6
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    2.668629    0.927288 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.725580   -0.317090 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    2.119304   -0.610199 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+6
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.587189    0.163911 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.113504   -0.163911 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+6
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+7
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.010729    0.926608 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.553941   -0.613048 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    1.948842   -0.313561 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+7
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.599603    0.074834 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.125918   -0.074834 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+7
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+8
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.301823    0.820495 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.316488   -0.812112 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    1.895201   -0.008383 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+8
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.129158   -0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+8
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+9
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.553554    0.613388 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    3.011243   -0.926586 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    1.948714    0.313199 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+9
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.599603   -0.074834 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.125918    0.074834 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+9
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+10
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.725340    0.317545 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    2.669117   -0.927451 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    2.119055    0.609907 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+10
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.589909   -0.149109 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.116224    0.149109 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+10
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+11
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.780430   -0.003744 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    2.363298   -0.814521 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    2.369784    0.818267 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+11
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.567014   -0.246517 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.093329    0.246517 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+11
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+12
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.722788   -0.324586 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    2.114233   -0.604176 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    2.676491    0.928763 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+12
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.590384   -0.146365 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.116699    0.146365 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+12
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+13
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.559309   -0.606608 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    1.951710   -0.321572 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.002495    0.928182 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+13
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.600420   -0.064726 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.126735    0.064727 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+13
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+14
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.309542   -0.816081 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    1.895165   -0.000510 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.308806    0.816592 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+14
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.129157   -0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+14
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+15
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    3.003361   -0.927952 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    1.951362    0.320614 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.558790    0.607340 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+15
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.589852    0.149430 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.116168   -0.149430 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+15
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+16
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    2.661268   -0.925914 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    2.124175    0.615888 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.728072    0.310027 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+16
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.575381    0.216353 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.101697   -0.216353 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+16
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+17
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    2.370597   -0.818645 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    2.362418    0.814007 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.780500    0.004638 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+17
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.589855    0.149416 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.116171   -0.149416 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+17
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+18
+    8     7     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -2.254623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      2 C2           -0.714623    2.837838    0.000000 C.3      1 SUBUNIT    0.0000
+      3 H4           -2.588423    3.780438    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -2.588423    2.366538    0.816400 H        1 SUBUNIT    0.0000
+      5 H8           -2.588423    2.366538   -0.816400 H        1 SUBUNIT    0.0000
+      6 H10          -0.380823    2.109189   -0.597968 H        1 SUBUNIT    0.0000
+      7 H12          -0.380823    2.684254    0.930077 H        1 SUBUNIT    0.0000
+      8 H14          -0.380823    3.720072   -0.332110 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 1
+     2    1    3 1
+     3    1    4 1
+     4    1    5 1
+     5    2    6 1
+     6    2    7 1
+     7    2    8 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+18
+    6     5     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1           -4.274539    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      2 C2           -2.734538    0.263158    0.000000 C.2      1 SUBUNIT    0.0000
+      3 H4           -4.774539    1.129158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6           -4.774539   -0.602842    0.000000 H        1 SUBUNIT    0.0000
+      5 H8           -2.234538   -0.600280    0.066564 H        1 SUBUNIT    0.0000
+      6 H10          -2.234538    1.126596   -0.066564 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 2
+     2    1    3 1
+     3    1    4 1
+     4    2    5 1
+     5    2    6 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-11T10:58:42Z
+
+@<TRIPOS>MOLECULE
+18
+    4     3     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1            0.007111    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      2 C2            1.547112    0.263158    0.000000 C.1      1 SUBUNIT    0.0000
+      3 H4           -0.992889    0.263158    0.000000 H        1 SUBUNIT    0.0000
+      4 H6            2.547112    0.263158    0.000000 H        1 SUBUNIT    0.0000
+@<TRIPOS>BOND
+     1    1    2 3
+     2    1    3 1
+     3    2    4 1
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+

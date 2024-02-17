@@ -6,7 +6,7 @@
     The analytical process and principles underlying a structure-based drug design approach are presented and discussed. Methods for analyzing binding are presented and discussed.
 
 
-    **Number of Pages: 76 (±1 hours read)**
+    **Number of Pages: 75 (±1 hours read)**
 
     Last Modified: January 2004
 
@@ -1616,17 +1616,6 @@
     J. Am. Chem. Soc. 
     121 1999  
     
-## Conclusion
-
-### Conclusion
-
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='protein-ligand-binding/conclusion-593c08be'><i class='fa fa-play' aria-hidden='true'></i></button>To summarize, receptor-based drug design is an approach, ligand-receptor complementary features is a concept, and docking treatments is a technique.
-*[nce]: New Chemical Entity: a compound not previously described.
-*[ligand]: In Biochemistry: substance that binds to a biological receptor. In Chemistry: an atom or group of atoms.
-
-
-![](https://media.drugdesign.org/course/protein-ligand-binding/10_1_0_1.png){: loading=lazy }
-
 
 
 Copyright © 2024 drugdesign.org

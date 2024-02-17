@@ -62,8 +62,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_sali_genistein.png){: loading=lazy }
-=== "3D superimposition"
+=== "3D superimposition (Gif)"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_44_b2.gif){: loading=lazy }
+
+=== "3D superimposition"
+    <div id='nglviewer-container-genistein-structure-alignment-quinazoline-1' class='nglviewer-container' data-molecule-id='genistein-structure-alignment-quinazoline-1' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -78,8 +81,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-=== "3D overlay"
+=== "3D overlay (Gif)"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_46_b1.gif){: loading=lazy }
+
+=== "3D overlay"
+    <div id='nglviewer-container-3d-design-salicylanilide-scaffold' class='nglviewer-container' data-molecule-id='3d-design-salicylanilide-scaffold' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "2D"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_salicyl.png){: loading=lazy }
@@ -274,7 +280,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_12.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_12.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-docking-pyrimidin-4-yl-urea-c-abl' class='nglviewer-container' data-molecule-id='docking-pyrimidin-4-yl-urea-c-abl' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -307,8 +317,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-=== "3D alignment"
+=== "3D alignment (Gif)"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_14_b1.gif){: loading=lazy }
+
+=== "3D alignment"
+    <div id='nglviewer-container-alignment-pyrimidin-4-yl-urea-pd-166285' class='nglviewer-container' data-molecule-id='alignment-pyrimidin-4-yl-urea-pd-166285' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "2D"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_2_formules.png){: loading=lazy }
@@ -454,7 +467,11 @@
 *[bidentate]: Having two anchorage points
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_22.png){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_22.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-bidentate-binding-mode-unlikely-to-occur' class='nglviewer-container' data-molecule-id='bidentate-binding-mode-unlikely-to-occur' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -493,8 +510,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-=== "Electrostatic potential"
+=== "Electrostatic potential (pic)"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_26_b1.png){: loading=lazy }
+
+=== "Electrostatic potential (3D)"
+    <div id='nglviewer-container-3d-electrostatic-potential' class='nglviewer-container' data-molecule-id='3d-electrostatic-potential' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "2D"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_anil_vdw_es.png){: loading=lazy }
@@ -553,8 +573,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-=== "3D mimicry"
+=== "3D mimicry (Gif)"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_31_b1.gif){: loading=lazy }
+
+=== "3D mimicry"
+    <div id='nglviewer-container-3d-overlay-mimic-structures' class='nglviewer-container' data-molecule-id='3d-overlay-mimic-structures' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "2D structures"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_anil_anthranil_2d.png){: loading=lazy }
@@ -662,8 +685,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-=== "3D superimposition"
+=== "3D superimposition (Gif)"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_3_38_b1.gif){: loading=lazy }
+
+=== "3D superimposition"
+    <div id='nglviewer-container-conformational-analyses-overlay-diazepam' class='nglviewer-container' data-molecule-id='conformational-analyses-overlay-diazepam' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 === "2D"
     ![](https://media.drugdesign.org/course/analog-design-case-studies/psd_bzd.png){: loading=lazy }
@@ -764,7 +790,11 @@
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_17.png){: loading=lazy }
+=== "3D (Gif)"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_17.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-3d-alignment-pro-leu-gly-nh2-mimics' class='nglviewer-container' data-molecule-id='3d-alignment-pro-leu-gly-nh2-mimics' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Summary
 
@@ -861,7 +891,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignments-b8adfbb1'><i class='fa fa-play' aria-hidden='true'></i></button>The superimposition of desmethylremoxipride 2 and isoindolinone 3 is shown in the view below.
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_24.gif){: loading=lazy }
+=== "3D (Gif)"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_24.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-3d-alignments' class='nglviewer-container' data-molecule-id='3d-alignments' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Summary
 
@@ -904,7 +938,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/conformational-analysis-rimonabant-73ecede9'><i class='fa fa-play' aria-hidden='true'></i></button>Computational studies indicate that the preferred conformation of rimonabant has a trans-amide with the carboxamide oxygen atom nearly coplanar with the pyrazole ring and oriented in the same direction as the pyrazole C-4 methyl group. Subsequent X-ray studies were made on 1 and confirmed the computational predictions.
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_27.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_27.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-conformational-analysis-rimonabant' class='nglviewer-container' data-molecule-id='conformational-analysis-rimonabant' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -972,7 +1010,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignment-rimonabant-mimic-b8d7c3ca'><i class='fa fa-play' aria-hidden='true'></i></button>The view below shows the good superimposition of the 3D structure of compound 2 with that of rimonabant 1.
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_31.png){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_31.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-3d-alignment-rimonabant-mimic' class='nglviewer-container' data-molecule-id='3d-alignment-rimonabant-mimic' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -1118,7 +1160,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='analog-design-case-studies/3d-alignment-salicylamide-1-quinazoiline-2-b9593f36'><i class='fa fa-play' aria-hidden='true'></i></button>The 3D alignment of the salicylamide 1 and quinazoline 2 indicates an excellent match for the two structures.
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_09.png){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_4_09.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-3d-alignment-salicylamide-1-quinazoiline-2' class='nglviewer-container' data-molecule-id='3d-alignment-salicylamide-1-quinazoiline-2' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Conclusion
 
@@ -1386,7 +1432,11 @@
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
-![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_5_17.gif){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/analog-design-case-studies/snap_sch_5_17.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-3d-alignment-1-cyclopropyl-surrogate' class='nglviewer-container' data-molecule-id='3d-alignment-1-cyclopropyl-surrogate' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Summary
 

@@ -63,8 +63,11 @@
 
 === "2D Mimicry"
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/cime_11.png){: loading=lazy }
-=== "3D Mimicry"
+=== "3D Mimicry (gif)"
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_d25_843_1as0145_b2.png){: loading=lazy }
+
+=== "3D Mimicry"
+    <div id='nglviewer-container-3d-mimicry-between-cimetidine-triazole' class='nglviewer-container' data-molecule-id='3d-mimicry-between-cimetidine-triazole' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "book"
@@ -171,6 +174,9 @@
 === "Fit"
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_d2_8_4_bb1_2.gif){: loading=lazy }
 
+=== "Fit (3D)"
+    <div id='nglviewer-container-mimicry-cgp-47899-substance-p' class='nglviewer-container' data-molecule-id='mimicry-cgp-47899-substance-p' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 ## Case Study-3 : Hypolipemic Agents
 
 ### Reference Set of Hypolipemic Agents
@@ -185,8 +191,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/hypo_4_1_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Gif)"
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_c4_4_1_b2.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-reference-set-hypolipemic-agents' class='nglviewer-container' data-molecule-id='reference-set-hypolipemic-agents' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -384,7 +393,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_5_ext_c4_13_4_s2.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_5_ext_c4_13_4_s2.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-3d-mimicry-between-structure-c-nu-1085' class='nglviewer-container' data-molecule-id='3d-mimicry-between-structure-c-nu-1085' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"

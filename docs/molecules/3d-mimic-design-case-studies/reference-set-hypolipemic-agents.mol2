@@ -1,0 +1,264 @@
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-10T22:33:55Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+Molecule
+   22    24     1 0 0
+PROTEIN
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O01           1.632146    1.775845    0.354013 O.3      1 UNK0      -0.1504
+      2 C02           1.365794    7.202514    4.188513 C.ar     1 UNK0      -0.0138
+      3 C03           1.360918    5.865297    4.589135 C.ar     1 UNK0       0.0058
+      4 C04           1.999763    4.904251    3.798708 C.ar     1 UNK0       0.0326
+      5 C05           2.639275    5.277249    2.611292 C.ar     1 UNK0       0.1245
+      6 C06           2.642096    6.620751    2.216524 C.ar     1 UNK0       0.0187
+      7 C07           3.343792    7.054995    0.938054 C.3      1 UNK0       0.0122
+      8 C08           2.481105    6.886127   -0.305911 C.ar     1 UNK0       0.0187
+      9 C09           2.421553    5.658895   -0.974889 C.ar     1 UNK0       0.1245
+     10 O10           3.154103    4.582598   -0.518013 O.3      1 UNK0      -0.3443
+     11 C11           2.597624    3.938133    0.630266 C.3      1 UNK0       0.3073
+     12 O12           3.268434    4.298000    1.848791 O.3      1 UNK0      -0.3443
+     13 C13           1.739244    7.971666   -0.778717 C.ar     1 UNK0       0.0092
+     14 C14           0.946117    7.828149   -1.920754 C.ar     1 UNK0      -0.0138
+     15 C15           0.901075    6.603415   -2.583392 C.ar     1 UNK0       0.0058
+     16 C16           1.643849    5.522495   -2.114026 C.ar     1 UNK0       0.0326
+     17 C17           2.663519    2.426153    0.435569 C.3      1 UNK0       0.3040
+     18 C18           2.006783    7.577633    3.010441 C.ar     1 UNK0       0.0092
+     19 O19           3.881956    1.900841    0.363445 O.3      1 UNK0      -0.3515
+     20 C20           3.940928    0.477591    0.178164 C.3      1 UNK0       0.1981
+     21 Cl21          0.562116    8.416494    5.177430 Cl       1 UNK0       0.0075
+     22 Cl22          0.009877    9.192251   -2.521003 Cl       1 UNK0       0.0075
+@<TRIPOS>BOND
+     1    1   17 1
+     2    2   18 ar
+     3    2   21 1
+     4    2    3 ar
+     5    3    4 ar
+     6    4    5 ar
+     7    5    6 ar
+     8    5   12 1
+     9    6    7 1
+    10    6   18 ar
+    11    7    8 1
+    12    8    9 ar
+    13    8   13 ar
+    14    9   10 1
+    15    9   16 ar
+    16   10   11 1
+    17   11   12 1
+    18   11   17 1
+    19   13   14 ar
+    20   14   22 1
+    21   14   15 ar
+    22   15   16 ar
+    23   17   19 1
+    24   19   20 1
+@<TRIPOS>SUBSTRUCTURE
+1 UNK0 1 RESIDUE 1 _ UNK
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+17 0.00
+18 0.00
+19 0.00
+20 0.00
+21 0.00
+22 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+17 1.00
+18 1.00
+19 1.00
+20 1.00
+21 1.00
+22 1.00
+
+#	copyright 2023 drugdesign.org
+#	Creation time:	2024-01-10T22:33:55Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+CLOFIBRATE
+   16    16     1 0 0
+PROTEIN
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 Cl1           1.217437    6.949987   12.559930 Cl       1 UNK0       0.0000
+      2 C02           1.869392    4.367087   11.927693 C.ar     1 UNK0       0.0064
+      3 C03           2.430292    3.377349   11.120317 C.ar     1 UNK0       0.0322
+      4 C04           3.052321    3.720680    9.912768 C.ar     1 UNK0       0.1189
+      5 C05           3.107102    5.063537    9.532455 C.ar     1 UNK0       0.0322
+      6 C06           2.545929    6.052568   10.340489 C.ar     1 UNK0       0.0064
+      7 C07           1.926152    5.703943   11.538819 C.ar     1 UNK0      -0.0078
+      8 O08           3.634508    2.769532    9.062742 O.3      1 UNK0      -0.3670
+      9 C09           3.367263    2.665231    7.641209 C.3      1 UNK0       0.1135
+     10 C10           3.165613    1.214930    7.174353 C.3      1 UNK0       0.2782
+     11 O11           2.068681    0.676042    7.235355 O.3      1 UNK0      -0.1521
+     12 O12           4.253303    0.596979    6.721559 O.3      1 UNK0      -0.3502
+     13 C13           4.081426   -0.764271    6.291126 C.3      1 UNK0       0.1600
+     14 C14           5.392662   -1.378950    5.789321 C.3      1 UNK0       0.0347
+     15 C15           4.631402    3.193758    6.943072 C.3      1 UNK0       0.0474
+     16 C16           2.202313    3.594928    7.233866 C.3      1 UNK0       0.0474
+@<TRIPOS>BOND
+     1    1    7 1
+     2    2    7 ar
+     3    2    3 ar
+     4    3    4 ar
+     5    4    8 1
+     6    4    5 ar
+     7    5    6 ar
+     8    6    7 ar
+     9    8    9 1
+    10   10    9 1
+    11   10   12 1
+    12   10   11 1
+    13   12   13 1
+    14   13   14 1
+    15   15    9 1
+    16   16    9 1
+@<TRIPOS>SUBSTRUCTURE
+1 UNK0 1 RESIDUE 1 A UNK
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+

@@ -1,5 +1,5 @@
 Pyrrole
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   6  6  0  0  0  0  0  0  0  0999 V2000
    -3.8606    1.6760   -0.0137 N   0  0
@@ -17,7 +17,7 @@ Pyrrole
 M  END
 $$$$
 Thiophene
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   5  5  0  0  0  0  0  0  0  0999 V2000
    -3.3863    1.9028   -0.0876 S   0  0
@@ -33,7 +33,7 @@ Thiophene
 M  END
 $$$$
 Ph
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   6  6  0  0  0  0  0  0  0  0999 V2000
    -4.7716    1.7656    0.1233 C   0  0
@@ -51,7 +51,7 @@ Ph
 M  END
 $$$$
 Pyridine
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   6  6  0  0  0  0  0  0  0  0999 V2000
    -3.8703    2.0630    0.0000 N   0  0
@@ -69,7 +69,7 @@ Pyridine
 M  END
 $$$$
 Isoxazole
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   5  5  0  0  0  0  0  0  0  0999 V2000
    -4.6830    1.3829    0.1010 O   0  0
@@ -85,7 +85,7 @@ Isoxazole
 M  END
 $$$$
 Furan
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   5  5  0  0  0  0  0  0  0  0999 V2000
    -3.4821   -0.6006   -0.0730 O   0  0
@@ -101,7 +101,7 @@ Furan
 M  END
 $$$$
 Imidazole
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   6  6  0  0  0  0  0  0  0  0999 V2000
    -4.1139    1.6606    0.0211 N   0  0
@@ -119,7 +119,7 @@ Imidazole
 M  END
 $$$$
 centroid
-  DSViewer          3D                             0
+  copyright 2023 drugdesign.org                             0
 
   1  0  0  0  0  0  0  0  0  0999 V2000
    -3.9012    0.4949    0.0049 C   0  0

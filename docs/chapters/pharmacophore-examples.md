@@ -235,10 +235,10 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/2_1_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_2_1_b2.png){: loading=lazy }
 
-=== "3D (Pic)"
+=== "3D"
     <div id='nglviewer-container-dopamine-d1-agonist' class='nglviewer-container' data-molecule-id='dopamine-d1-agonist' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 ### Pharmacophore for Dopamine D1 Agonists

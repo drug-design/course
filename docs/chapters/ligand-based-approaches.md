@@ -7,7 +7,7 @@
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
 
-    **Number of Pages: 64 (±1 hours read)**
+    **Number of Pages: 63 (±1 hours read)**
 
     Last Modified: January 2006
 
@@ -870,7 +870,9 @@
 
 #### Assembly of all Fragments in 3D
 
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/assembly-all-fragments-3d-0cdf3d71'><i class='fa fa-play' aria-hidden='true'></i></button>... one can envision a solution like the one displayed here. {newLine} {newLine} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/assembly-all-fragments-3d-b35b2d8e'><i class='fa fa-play' aria-hidden='true'></i></button>... one can envision a solution like the one displayed here. 
+ 
+ {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
 
 
 ![](https://media.drugdesign.org/course/ligand-based-approaches/spacer2.gif){: loading=lazy }
@@ -1004,16 +1006,6 @@
     J. Med. Chem. 
     39 1996  
     
-## Conclusion
-
-### Conclusion
-
-<button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/conclusion-a25620fc'><i class='fa fa-play' aria-hidden='true'></i></button>The discovery of lead compounds is a complex and difficult process and requires a great deal of effort before succeeding. The combined use of the four methods outlined in this chapter provides a very powerful tool for the successful design of new leads.
-*[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
-
-
-![](https://media.drugdesign.org/course/ligand-based-approaches/conclusion.png){: loading=lazy }
-
 
 
 Copyright © 2024 drugdesign.org

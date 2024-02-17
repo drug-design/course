@@ -140,7 +140,6 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-822416f6'><i class='fa fa-play' aria-hidden='true'></i></button>Simple alterations of hydroxyl functions can be made to disrupt existing hydrogen bonds, as for example replacing the OH by H or by CH<sub>3</sub>.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace.png){: loading=lazy }
 === "Hydrogen"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace_f1.png){: loading=lazy }
 === "Methyl"
@@ -150,7 +149,6 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-hydroxyl-4e92b2d4'><i class='fa fa-play' aria-hidden='true'></i></button>To test whether a hydroxyl group is involved as a donor of hydrogen bonds, it is possible to alkylate the hydroxyl or to prepare the corresponding ketone. If the biological activity drops, one can conclude that this hydroxyl group is important and is likely to interact with the protein as a hydrogen bond donor.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace2.png){: loading=lazy }
 === "Methoxy"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_replace2_f1.png){: loading=lazy }
 === "Carbonyl"
@@ -162,7 +160,6 @@
 *[analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_acceptor_replace.png){: loading=lazy }
 === "Methoxy"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_OH_acceptor_replace_f1.png){: loading=lazy }
 === "Carbonyl"
@@ -244,7 +241,6 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-3357b763'><i class='fa fa-play' aria-hidden='true'></i></button>To test whether a carbonyl group is involved as an acceptor of hydrogen bonds, it is possible to replace the C=O by a C=CH<sub>2</sub>, a CH<sub>2</sub> or reduce it to an alcohol. If the biological activity drops, one can conclude that this carbonyl group may interact with the protein as a hydrogen bond acceptor.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CO_acceptor_replace.png){: loading=lazy }
 === "C=CH2"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_CO_acceptor_replace_f1.png){: loading=lazy }
 === "CH2"
@@ -388,7 +384,6 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-existence-h-bond-interactions-55a0a5e8'><i class='fa fa-play' aria-hidden='true'></i></button>Simple alterations of primary amine functions can be made to disrupt existing hydrogen bonds, as for example replacing the NH<sub>2</sub> by H or by CH<sub>3</sub>.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NH2_replace.png){: loading=lazy }
 === "Hydrogen"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NH2_replace_f1.png){: loading=lazy }
 === "Methyl"
@@ -446,7 +441,6 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-amines-4ff8e592'><i class='fa fa-play' aria-hidden='true'></i></button>To test for the hydrogen bond capability of a secondary amine can be made by replacing the N-H by N-CH<sub>3</sub> or by O, S.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NHR_replace_H.png){: loading=lazy }
 === "N-CH3"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NHR_replace_H_f1.png){: loading=lazy }
 === "O-CH3"
@@ -498,11 +492,20 @@
     Chem. Rev 
     101 2001  
     
-##### Browser of Aminoquinazolines Analogs 
+##### Browser of Aminoquinazolines Analogs
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
 *[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/sar_44_s2_internet.gif){: loading=lazy }
+<button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/browser-aminoquinazolines-analogs-4614a4dc'><i class='fa fa-play' aria-hidden='true'></i></button>Use this browser to compare different Aminoquinazoline Analogs in 3D.
+*[Analog]: A molecule structurally similar to another, generally based on the same scaffold
+*[Analogs]: A molecule structurally similar to another, generally based on the same scaffold
+
+
+=== "Gif"
+    ![](https://media.drugdesign.org/course/structure-activity-relationships/sar_44_s2_internet.gif){: loading=lazy }
+=== "3D"
+    <div id='nglviewer-container-amino-quinazoline-browser' class='nglviewer-container' data-molecule-id='amino-quinazoline-browser' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 ### Tertiary Amines
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/tertiary-amines-8cd3b15f'><i class='fa fa-play' aria-hidden='true'></i></button>Tertiary amines can interact only as hydrogen bond acceptors.
@@ -553,7 +556,6 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-amines-9f4eec93'><i class='fa fa-play' aria-hidden='true'></i></button>The hydrogen bond donor capability of an aromatic nitrogen can be tested by replacing the N-H by N-CH<sub>3</sub> or by O,S.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NAr_replace_H.png){: loading=lazy }
 === "N-CH3"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_NAr_replace_H_f1.png){: loading=lazy }
 === "Oxygen"
@@ -611,8 +613,6 @@
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/X_Ray_complex_tarcevalike_AS.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/snap_sar_52_s2.jpg){: loading=lazy }
-
 ### Carboxylic Acids
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/carboxylic-acids-d6c638a1'><i class='fa fa-play' aria-hidden='true'></i></button>As far as hydrogen bonds are concerned, carboxylic acid groups can act as hydrogen bond donors or acceptors.
@@ -628,7 +628,6 @@
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_COOH_replace.png){: loading=lazy }
 === "Hydrogen"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_COOH_replace_f1.png){: loading=lazy }
 === "Methyl"
@@ -640,7 +639,6 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/testing-h-bond-donor-capability-cooh-ba139067'><i class='fa fa-play' aria-hidden='true'></i></button>It is possible to test for the hydrogen bond donor capability with a carboxyl by replacing the COOH group by COOCH<sub>3</sub>, CHO or CO-CH<sub>3</sub>.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_COOH_donor_replace.png){: loading=lazy }
 === "Ester"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_COOH_donor_replace_f1.png){: loading=lazy }
 === "Aldehyde"
@@ -859,11 +857,17 @@
 *[rms]: Root Mean Square: the square root of the arithmetic average of the square's set of values.
 
 
-=== "Phenyl"
+=== "Phenyl (Pic)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_1_1_1.png){: loading=lazy }
 
-=== "Naphtyl"
+=== "Phenyl (3D)"
+    <div id='nglviewer-container-probing-hydrophobic-phenyl' class='nglviewer-container' data-molecule-id='probing-hydrophobic-phenyl' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
+=== "Naphtyl (Pic)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_1_2_1.png){: loading=lazy }
+
+=== "Naphtyl (3D)"
+    <div id='nglviewer-container-probing-hydrophobic-naphtyl' class='nglviewer-container' data-molecule-id='probing-hydrophobic-naphtyl' style='width: 750px; height: 450px;' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -888,7 +892,11 @@
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_3_0_1.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_3_0_1.gif){: loading=lazy }
+=== "3D"
+    <div id='nglviewer-container-alteration-ring-size' class='nglviewer-container' data-molecule-id='alteration-ring-size' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 #### Example 1: Probing of a Hydrophobic Pocket
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-probing-hydrophobic-pocket-c8f46dbd'><i class='fa fa-play' aria-hidden='true'></i></button>In the following example, derivatives of the bicyclic benzocyclopentene molecule were prepared to determine the SAR of binding to phospholipase A<sub>2</sub>. In particular the acenaphthene analog proved to be 400 times more potent than the original compound. Modeling analyses confirm the existence of favorable interactions with the naphthalene moiety deeply buried in a hydrophobic pocket.
@@ -965,7 +973,11 @@
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/Homologation_a01.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/structure-activity-relationships/Homologation_a01.gif){: loading=lazy }
+=== "3D"
+    <div id='nglviewer-container-homologation-alkyl' class='nglviewer-container' data-molecule-id='homologation-alkyl' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 #### Example 1 of Homologation
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-1-homologation-f86180fb'><i class='fa fa-play' aria-hidden='true'></i></button>The hydrogen atom connected to the nitrogen of apomorphine was replaced by methyl, ethyl, n-propyl and n-butyl groups. The best activity was found for the n-propyl analog, whereas the n-butyl demonstrated a great loss in potency.
@@ -1076,8 +1088,6 @@
 
 
 ![](https://media.drugdesign.org/course/structure-activity-relationships/Sugen_nerrow_gap.gif){: loading=lazy }
-![](https://media.drugdesign.org/course/structure-activity-relationships/snap_sar_86_s3.jpg){: loading=lazy }
-
 #### Example 3: Pyridopyrimidines
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='structure-activity-relationships/example-3-pyridopyrimidines-45b47937'><i class='fa fa-play' aria-hidden='true'></i></button>With an initial hit having an IC<sub>50</sub> of 3.7 &micro;M, the SAR variations indicated the existence of a flat pocket occupied by the free phenyl substituent. It was difficult to have nanomolar activities, however the 3-5-dimethoxy analog showed an IC<sub>50</sub> of 60 nM. The orientation of this compound in the active site, as revealed by X-ray crystallography is presented in the next page.
@@ -1248,7 +1258,11 @@
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/C2_5_5_0_1.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_5_5_0_1.gif){: loading=lazy }
+=== "3D"
+    <div id='nglviewer-container-probing-aromatic-ring' class='nglviewer-container' data-molecule-id='probing-aromatic-ring' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 #### KDR Inhibitors
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
 *[Inhibitors]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1481,7 +1495,11 @@
 *[SAR]: Structure-Activity Relationships (SAR) is the analysis of the relationships between chemical structure and biological activity.
 
 
-![](https://media.drugdesign.org/course/structure-activity-relationships/Rigid_a01.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/structure-activity-relationships/Rigid_a01.gif){: loading=lazy }
+=== "3D"
+    <div id='nglviewer-container-rigid-analogs' class='nglviewer-container' data-molecule-id='rigid-analogs' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 
 ??? Abstract "articles"
     **Lowering the Entropic Barrier for Binding Conformationally Flexible Inhibitors to Enzymes** 
@@ -1618,8 +1636,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/Virtual_ring_example1.png){: loading=lazy }
-=== "Superimposition"
+=== "Superimposition (gif)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/mol1_2_sup.gif){: loading=lazy }
+=== "Superimposition (3D)"
+    <div id='nglviewer-container-anthranilamides' class='nglviewer-container' data-molecule-id='anthranilamides' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 
 ??? Abstract "articles"
     **Identification of a new chemical class of potent angiogenesis inhibitors based on conformational considerations and database searching** 
@@ -1640,8 +1661,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/Virtual_ring_example3.png){: loading=lazy }
-=== "Superimposition"
+=== "Superimposition (gif)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/estazolam_2b_sup.gif){: loading=lazy }
+=== "Superimposition (3D)"
+    <div id='nglviewer-container-phenoxyphenyltriazoles' class='nglviewer-container' data-molecule-id='phenoxyphenyltriazoles' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 
 ??? Abstract "articles"
     **Design and Synthesis of 4H-3-(2-Phenoxy)phenyl-1,2,4-triazole Derivatives as Benzodiazepine Receptor Agonists** 
@@ -1658,8 +1682,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/Virtual_ring_example2.png){: loading=lazy }
-=== "Superimposition"
+=== "Superimposition (gif)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/quinazoline_salicyl_sup.gif){: loading=lazy }
+=== "Superimposition (3D)"
+    <div id='nglviewer-container-salicylanilides' class='nglviewer-container' data-molecule-id='salicylanilides' style='width: 750px; height: 450px;' data-initialized='false'></div>
+
 
 ??? Abstract "articles"
     **Salicylanilides as inhibitors of the protein tyrosine kinase epidermal growth factor receptor** 
