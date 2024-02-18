@@ -50,7 +50,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/3d.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-three-dimensional-shape-molecule' class='nglviewer-container' data-molecule-id='three-dimensional-shape-molecule' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-three-dimensional-shape-molecule' class='nglviewer-container' data-molecule-id='three-dimensional-shape-molecule' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -104,7 +104,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/point.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-molecule-an-assembly-atoms-3d' class='nglviewer-container' data-molecule-id='molecule-an-assembly-atoms-3d' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-molecule-an-assembly-atoms-3d' class='nglviewer-container' data-molecule-id='molecule-an-assembly-atoms-3d' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -142,7 +142,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/fragment.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-molecular-fragments-for-constructing-molecules' class='nglviewer-container' data-molecule-id='molecular-fragments-for-constructing-molecules' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-molecular-fragments-for-constructing-molecules' class='nglviewer-container' data-molecule-id='molecular-fragments-for-constructing-molecules' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -162,7 +162,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/conformers.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-molecule-is-flexible-entity' class='nglviewer-container' data-molecule-id='molecule-is-flexible-entity' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-molecule-is-flexible-entity' class='nglviewer-container' data-molecule-id='molecule-is-flexible-entity' data-initialized='false'></div>
 
 ### Conformation Definition
 
@@ -187,7 +187,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/conf.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-example-conformations-molecule' class='nglviewer-container' data-molecule-id='example-conformations-molecule' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-example-conformations-molecule' class='nglviewer-container' data-molecule-id='example-conformations-molecule' data-initialized='false'></div>
 
 ### Bioactive Conformation
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -228,7 +228,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/torsion.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-interconversion-between-conformers' class='nglviewer-container' data-molecule-id='interconversion-between-conformers' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-interconversion-between-conformers' class='nglviewer-container' data-molecule-id='interconversion-between-conformers' data-initialized='false'></div>
 
 ### How Do Interconversions Occur?
 
@@ -324,7 +324,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/torsion_monitor.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-monitoring-torsion-angles' class='nglviewer-container' data-molecule-id='monitoring-torsion-angles' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-monitoring-torsion-angles' class='nglviewer-container' data-molecule-id='monitoring-torsion-angles' data-initialized='false'></div>
 
 ### Newman Projections and Torsion Angles
 
@@ -362,7 +362,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/ring.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-ring-conformations' class='nglviewer-container' data-molecule-id='ring-conformations' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-ring-conformations' class='nglviewer-container' data-molecule-id='ring-conformations' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -429,7 +429,7 @@
     ![](https://media.drugdesign.org/course/molecular-geometry/2_torsion.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-monitoring-torsion-angle-combinations' class='nglviewer-container' data-molecule-id='monitoring-torsion-angle-combinations' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-monitoring-torsion-angle-combinations' class='nglviewer-container' data-molecule-id='monitoring-torsion-angle-combinations' data-initialized='false'></div>
 
 ### Conformational Explosion
 

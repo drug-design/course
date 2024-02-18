@@ -25,3 +25,19 @@
   font-size: 17px;
   padding-right: 10px;
 }
+
+/* Default styles for mobile devices */
+.nglviewer-container {
+  width: 100%; /* Make the container full width on smaller screens */
+  height: auto; /* Adjust height automatically */
+  aspect-ratio: 5 / 3; /* Maintain the aspect ratio (750px by 450px) */
+}
+
+/* Styles for screens wider than 768px */
+@media (min-width: 768px) {
+  .nglviewer-container {
+    width: 750px; /* Fixed width for larger screens */
+    height: 450px; /* Fixed height for larger screens */
+  }
+}
+

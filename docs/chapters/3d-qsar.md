@@ -504,7 +504,7 @@
     ![](https://media.drugdesign.org/course/3d-qsar/f2412.gif){: loading=lazy }
 
 === "Superimposition (3D)"
-    <div id='nglviewer-container-pharmacophore-alignment' class='nglviewer-container' data-molecule-id='pharmacophore-alignment' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-pharmacophore-alignment' class='nglviewer-container' data-molecule-id='pharmacophore-alignment' data-initialized='false'></div>
 
 #### Shape Alignments
 
@@ -517,7 +517,7 @@
     ![](https://media.drugdesign.org/course/3d-qsar/shape_alignement.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-shape-alignment' class='nglviewer-container' data-molecule-id='shape-alignment' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-shape-alignment' class='nglviewer-container' data-molecule-id='shape-alignment' data-initialized='false'></div>
 
 #### Field Fitting
 
@@ -608,7 +608,7 @@
     ![](https://media.drugdesign.org/course/3d-qsar/imidazol.gif){: loading=lazy }
 
 === "X-rays (3D)"
-    <div id='nglviewer-container-imidazole' class='nglviewer-container' data-molecule-id='imidazole' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-imidazole' class='nglviewer-container' data-molecule-id='imidazole' data-initialized='false'></div>
 
 #### The Bioactive Conformation Issue
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -903,7 +903,7 @@
     ![](https://media.drugdesign.org/course/3d-qsar/snap_3d_qsar_74.jpg){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-steric-contour-map-analysis' class='nglviewer-container' data-molecule-id='steric-contour-map-analysis' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-steric-contour-map-analysis' class='nglviewer-container' data-molecule-id='steric-contour-map-analysis' data-initialized='false'></div>
 
 #### Analysis of Electrostatic Contour Maps
 *[Contour Map]: The 2D or 3D visualization of points that have the same value of a particular property and are connected together.
@@ -920,7 +920,7 @@
     ![](https://media.drugdesign.org/course/3d-qsar/snap_3d_qsar_75.jpg){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-ele-contour-map-analysis' class='nglviewer-container' data-molecule-id='ele-contour-map-analysis' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-ele-contour-map-analysis' class='nglviewer-container' data-molecule-id='ele-contour-map-analysis' data-initialized='false'></div>
 
 #### Exploitation of the Steric Contour Map
 *[Contour Map]: The 2D or 3D visualization of points that have the same value of a particular property and are connected together.
@@ -933,7 +933,7 @@
     ![](https://media.drugdesign.org/course/3d-qsar/3d_qsar_76.gif){: loading=lazy }
 
 === "3D Browser"
-    <div id='nglviewer-container-steric-contour-map' class='nglviewer-container' data-molecule-id='steric-contour-map' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-steric-contour-map' class='nglviewer-container' data-molecule-id='steric-contour-map' data-initialized='false'></div>
 
 #### Exploitation of the Electrostatic Contour Map
 *[Contour Map]: The 2D or 3D visualization of points that have the same value of a particular property and are connected together.
@@ -945,7 +945,7 @@
     ![](https://media.drugdesign.org/course/3d-qsar/3d_qsar_77.gif){: loading=lazy }
 
 === "3D Browser"
-    <div id='nglviewer-container-ele-contour-map' class='nglviewer-container' data-molecule-id='ele-contour-map' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-ele-contour-map' class='nglviewer-container' data-molecule-id='ele-contour-map' data-initialized='false'></div>
 
 ### Stability Problem of CoMFA Models
 

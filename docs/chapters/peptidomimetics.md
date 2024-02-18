@@ -81,7 +81,7 @@
     ![](https://media.drugdesign.org/course/peptidomimetics/aim_peptido.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-aim' class='nglviewer-container' data-molecule-id='aim' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-aim' class='nglviewer-container' data-molecule-id='aim' data-initialized='false'></div>
 
 ### Typical Peptidomimicry Projects
 
@@ -280,7 +280,7 @@
     ![](https://media.drugdesign.org/course/peptidomimetics/replacement.gif){: loading=lazy }
 
 === "3D Browser"
-    <div id='nglviewer-container-bio' class='nglviewer-container' data-molecule-id='bio' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-bio' class='nglviewer-container' data-molecule-id='bio' data-initialized='false'></div>
 
 #### C&alpha; Modifications
 
@@ -325,7 +325,7 @@
     ![](https://media.drugdesign.org/course/peptidomimetics/azapeptide.gif){: loading=lazy }
 
 === "3D Browser"
-    <div id='nglviewer-container-azapeptide' class='nglviewer-container' data-molecule-id='azapeptide' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-azapeptide' class='nglviewer-container' data-molecule-id='azapeptide' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -487,7 +487,7 @@
 === "3D (Pic)"
     ![](https://media.drugdesign.org/course/peptidomimetics/v1_d2_3_2_internet.png){: loading=lazy }
 === "3D"
-    <div id='nglviewer-container-a72517' class='nglviewer-container' data-molecule-id='a72517' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-a72517' class='nglviewer-container' data-molecule-id='a72517' data-initialized='false'></div>
 
 #### Dead End in the Development of A-72517
 
@@ -504,7 +504,7 @@
     ![](https://media.drugdesign.org/course/peptidomimetics/dead_end.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-dead-end' class='nglviewer-container' data-molecule-id='dead-end' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-dead-end' class='nglviewer-container' data-molecule-id='dead-end' data-initialized='false'></div>
 
 ### Second Route:De Novo Design of Non Peptide Mimics
 
@@ -578,7 +578,7 @@
     ![](https://media.drugdesign.org/course/peptidomimetics/trh.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-br-trh' class='nglviewer-container' data-molecule-id='br-trh' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-br-trh' class='nglviewer-container' data-molecule-id='br-trh' data-initialized='false'></div>
 
 
 ??? Abstract "articles"

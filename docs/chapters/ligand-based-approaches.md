@@ -51,7 +51,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/intuitive-justification-design-68cc132c'><i class='fa fa-play' aria-hidden='true'></i></button>The validity of this hypothesis could be justified by the good superimposition of models of the two structures. But this manipulation is just an exercise that is far from reality.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/justification.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/justification.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-intuitive-justification-design' class='nglviewer-container' data-molecule-id='intuitive-justification-design' data-initialized='false'></div>
 
 #### Strong van der Waals Repulsions 
 
@@ -59,13 +63,23 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/1_4_3_1_600.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-intuitive-justification-design' class='nglviewer-container' data-molecule-id='intuitive-justification-design' data-initialized='false'></div>
+
 #### Conformational Rearrangement
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/conformational-rearrangement-da50eca4'><i class='fa fa-play' aria-hidden='true'></i></button>These repulsions will induce a rotation of the tricyclic moiety relative to the piperidine ring creating a more stable but completely different conformation (conformation B).
 *[moiety]: Fragments, functional groups or portions of chemical compounds.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/rearrangement.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/rearrangement.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-conformational-rearrangement' class='nglviewer-container' data-molecule-id='conformational-rearrangement' data-initialized='false'></div>
 
 #### The Designed Molecule is a Poor Butaclamol 3D Mimic
 

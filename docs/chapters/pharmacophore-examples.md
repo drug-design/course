@@ -52,7 +52,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/captopril.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-ace-captopril' class='nglviewer-container' data-molecule-id='ace-captopril' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-ace-captopril' class='nglviewer-container' data-molecule-id='ace-captopril' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -81,7 +81,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/5_4_1_1_3d.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-new-ace-inhibitors' class='nglviewer-container' data-molecule-id='new-ace-inhibitors' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-new-ace-inhibitors' class='nglviewer-container' data-molecule-id='new-ace-inhibitors' data-initialized='false'></div>
 
 ### Pharmacophore for ACE Inhibition
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -118,7 +118,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/ace_browser.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-browser-for-ace-inhibition' class='nglviewer-container' data-molecule-id='browser-for-ace-inhibition' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-browser-for-ace-inhibition' class='nglviewer-container' data-molecule-id='browser-for-ace-inhibition' data-initialized='false'></div>
 
 ## Serotonin Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -148,7 +148,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/serotonin_3d.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-serotonin-antagonists' class='nglviewer-container' data-molecule-id='serotonin-antagonists' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-serotonin-antagonists' class='nglviewer-container' data-molecule-id='serotonin-antagonists' data-initialized='false'></div>
 
 ### Superimposition of Serotonin Receptor Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -164,7 +164,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/sup7.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-sup-serotonin-antagonists' class='nglviewer-container' data-molecule-id='sup-serotonin-antagonists' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-sup-serotonin-antagonists' class='nglviewer-container' data-molecule-id='sup-serotonin-antagonists' data-initialized='false'></div>
 
 ### Pharmacophore for Serotonin Antagonists
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -201,7 +201,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_9_4_b2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-mdl-72832' class='nglviewer-container' data-molecule-id='mdl-72832' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-mdl-72832' class='nglviewer-container' data-molecule-id='mdl-72832' data-initialized='false'></div>
 
 ### Browser of Serotonin Receptor Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -217,7 +217,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/v1_c4_9_5_internet.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-browser-serotonin-receptor-antigonists' class='nglviewer-container' data-molecule-id='browser-serotonin-receptor-antigonists' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-browser-serotonin-receptor-antigonists' class='nglviewer-container' data-molecule-id='browser-serotonin-receptor-antigonists' data-initialized='false'></div>
 
 ## Dopamine D-1 Agonists
 *[Agonist]: A chemical substance capable of activating a given receptor.
@@ -239,7 +239,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_2_1_b2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-dopamine-d1-agonist' class='nglviewer-container' data-molecule-id='dopamine-d1-agonist' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-dopamine-d1-agonist' class='nglviewer-container' data-molecule-id='dopamine-d1-agonist' data-initialized='false'></div>
 
 ### Pharmacophore for Dopamine D1 Agonists
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -271,7 +271,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/agonist_browser.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-browser-dopamine-d1' class='nglviewer-container' data-molecule-id='browser-dopamine-d1' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-browser-dopamine-d1' class='nglviewer-container' data-molecule-id='browser-dopamine-d1' data-initialized='false'></div>
 
 ## Dopamine D-2 Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.
@@ -307,7 +307,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_8_2_b2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-antipsychotic-agents' class='nglviewer-container' data-molecule-id='antipsychotic-agents' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-antipsychotic-agents' class='nglviewer-container' data-molecule-id='antipsychotic-agents' data-initialized='false'></div>
 
 ### Reference Set of D2 Receptor Antagonists
 *[Antagonist]: A molecule that blocks the activation of a receptor.

@@ -67,7 +67,7 @@
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_d25_843_1as0145_b2.png){: loading=lazy }
 
 === "3D Mimicry"
-    <div id='nglviewer-container-3d-mimicry-between-cimetidine-triazole' class='nglviewer-container' data-molecule-id='3d-mimicry-between-cimetidine-triazole' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-3d-mimicry-between-cimetidine-triazole' class='nglviewer-container' data-molecule-id='3d-mimicry-between-cimetidine-triazole' data-initialized='false'></div>
 
 
 ??? Abstract "book"
@@ -175,7 +175,7 @@
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_d2_8_4_bb1_2.gif){: loading=lazy }
 
 === "Fit (3D)"
-    <div id='nglviewer-container-mimicry-cgp-47899-substance-p' class='nglviewer-container' data-molecule-id='mimicry-cgp-47899-substance-p' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-mimicry-cgp-47899-substance-p' class='nglviewer-container' data-molecule-id='mimicry-cgp-47899-substance-p' data-initialized='false'></div>
 
 ## Case Study-3 : Hypolipemic Agents
 
@@ -195,7 +195,7 @@
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_c4_4_1_b2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-reference-set-hypolipemic-agents' class='nglviewer-container' data-molecule-id='reference-set-hypolipemic-agents' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-reference-set-hypolipemic-agents' class='nglviewer-container' data-molecule-id='reference-set-hypolipemic-agents' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -397,7 +397,7 @@
     ![](https://media.drugdesign.org/course/3d-mimic-design-case-studies/snap_v1_5_ext_c4_13_4_s2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-3d-mimicry-between-structure-c-nu-1085' class='nglviewer-container' data-molecule-id='3d-mimicry-between-structure-c-nu-1085' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-3d-mimicry-between-structure-c-nu-1085' class='nglviewer-container' data-molecule-id='3d-mimicry-between-structure-c-nu-1085' data-initialized='false'></div>
 
 
 ??? Abstract "articles"

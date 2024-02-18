@@ -504,7 +504,7 @@
 === "Gif"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/sar_44_s2_internet.gif){: loading=lazy }
 === "3D"
-    <div id='nglviewer-container-amino-quinazoline-browser' class='nglviewer-container' data-molecule-id='amino-quinazoline-browser' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-amino-quinazoline-browser' class='nglviewer-container' data-molecule-id='amino-quinazoline-browser' data-initialized='false'></div>
 
 ### Tertiary Amines
 
@@ -861,13 +861,13 @@
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_1_1_1.png){: loading=lazy }
 
 === "Phenyl (3D)"
-    <div id='nglviewer-container-probing-hydrophobic-phenyl' class='nglviewer-container' data-molecule-id='probing-hydrophobic-phenyl' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-probing-hydrophobic-phenyl' class='nglviewer-container' data-molecule-id='probing-hydrophobic-phenyl' data-initialized='false'></div>
 
 === "Naphtyl (Pic)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_1_2_1.png){: loading=lazy }
 
 === "Naphtyl (3D)"
-    <div id='nglviewer-container-probing-hydrophobic-naphtyl' class='nglviewer-container' data-molecule-id='probing-hydrophobic-naphtyl' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-probing-hydrophobic-naphtyl' class='nglviewer-container' data-molecule-id='probing-hydrophobic-naphtyl' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -895,7 +895,7 @@
 === "Gif"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/c2_4_3_0_1.gif){: loading=lazy }
 === "3D"
-    <div id='nglviewer-container-alteration-ring-size' class='nglviewer-container' data-molecule-id='alteration-ring-size' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-alteration-ring-size' class='nglviewer-container' data-molecule-id='alteration-ring-size' data-initialized='false'></div>
 
 #### Example 1: Probing of a Hydrophobic Pocket
 
@@ -976,7 +976,7 @@
 === "Gif"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/Homologation_a01.gif){: loading=lazy }
 === "3D"
-    <div id='nglviewer-container-homologation-alkyl' class='nglviewer-container' data-molecule-id='homologation-alkyl' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-homologation-alkyl' class='nglviewer-container' data-molecule-id='homologation-alkyl' data-initialized='false'></div>
 
 #### Example 1 of Homologation
 
@@ -1261,7 +1261,7 @@
 === "Gif"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/C2_5_5_0_1.gif){: loading=lazy }
 === "3D"
-    <div id='nglviewer-container-probing-aromatic-ring' class='nglviewer-container' data-molecule-id='probing-aromatic-ring' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-probing-aromatic-ring' class='nglviewer-container' data-molecule-id='probing-aromatic-ring' data-initialized='false'></div>
 
 #### KDR Inhibitors
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -1498,7 +1498,7 @@
 === "Gif"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/Rigid_a01.gif){: loading=lazy }
 === "3D"
-    <div id='nglviewer-container-rigid-analogs' class='nglviewer-container' data-molecule-id='rigid-analogs' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-rigid-analogs' class='nglviewer-container' data-molecule-id='rigid-analogs' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -1639,7 +1639,7 @@
 === "Superimposition (gif)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/mol1_2_sup.gif){: loading=lazy }
 === "Superimposition (3D)"
-    <div id='nglviewer-container-anthranilamides' class='nglviewer-container' data-molecule-id='anthranilamides' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-anthranilamides' class='nglviewer-container' data-molecule-id='anthranilamides' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -1664,7 +1664,7 @@
 === "Superimposition (gif)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/estazolam_2b_sup.gif){: loading=lazy }
 === "Superimposition (3D)"
-    <div id='nglviewer-container-phenoxyphenyltriazoles' class='nglviewer-container' data-molecule-id='phenoxyphenyltriazoles' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-phenoxyphenyltriazoles' class='nglviewer-container' data-molecule-id='phenoxyphenyltriazoles' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -1685,7 +1685,7 @@
 === "Superimposition (gif)"
     ![](https://media.drugdesign.org/course/structure-activity-relationships/quinazoline_salicyl_sup.gif){: loading=lazy }
 === "Superimposition (3D)"
-    <div id='nglviewer-container-salicylanilides' class='nglviewer-container' data-molecule-id='salicylanilides' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-salicylanilides' class='nglviewer-container' data-molecule-id='salicylanilides' data-initialized='false'></div>
 
 
 ??? Abstract "articles"

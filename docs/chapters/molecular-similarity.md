@@ -98,13 +98,13 @@
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate.png){: loading=lazy }
 
 === "3D Shape"
-    <div id='nglviewer-container-shape-similarity' class='nglviewer-container' data-molecule-id='shape-similarity' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-shape-similarity' class='nglviewer-container' data-molecule-id='shape-similarity' data-initialized='false'></div>
 
 === "3D"
-    <div id='nglviewer-container-shape-similarity-3d' class='nglviewer-container' data-molecule-id='shape-similarity-3d' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-shape-similarity-3d' class='nglviewer-container' data-molecule-id='shape-similarity-3d' data-initialized='false'></div>
 
 === "3D Superimposition"
-    <div id='nglviewer-container-shape-similarity-superimposition' class='nglviewer-container' data-molecule-id='shape-similarity-superimposition' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-shape-similarity-superimposition' class='nglviewer-container' data-molecule-id='shape-similarity-superimposition' data-initialized='false'></div>
 
 === "2D"
     ![](https://media.drugdesign.org/course/molecular-similarity/treloxinate2.png){: loading=lazy }
@@ -187,7 +187,7 @@
 === "2D"
     ![](https://media.drugdesign.org/course/molecular-similarity/pharmaco.png){: loading=lazy }
 === "Superimposition (3D)"
-    <div id='nglviewer-container-pharmacophore-similarity' class='nglviewer-container' data-molecule-id='pharmacophore-similarity' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-pharmacophore-similarity' class='nglviewer-container' data-molecule-id='pharmacophore-similarity' data-initialized='false'></div>
 
 === "Superimposition (Gif)"
     ![](https://media.drugdesign.org/course/molecular-similarity/f2412.gif){: loading=lazy }
@@ -246,10 +246,10 @@
 === "1D Sequence"
     ![](https://media.drugdesign.org/course/molecular-similarity/sequence_align.png){: loading=lazy }
 === "3D Before"
-    <div id='nglviewer-container-maximizing-similarity-before' class='nglviewer-container' data-molecule-id='maximizing-similarity-before' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-maximizing-similarity-before' class='nglviewer-container' data-molecule-id='maximizing-similarity-before' data-initialized='false'></div>
 
 === "3D After"
-    <div id='nglviewer-container-maximizing-similarity-after' class='nglviewer-container' data-molecule-id='maximizing-similarity-after' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-maximizing-similarity-after' class='nglviewer-container' data-molecule-id='maximizing-similarity-after' data-initialized='false'></div>
 
 === "3D Before (Pic)"
     ![](https://media.drugdesign.org/course/molecular-similarity/superim_before_600.png){: loading=lazy }
@@ -1146,7 +1146,7 @@
     ![](https://media.drugdesign.org/course/molecular-similarity/peptidomimetism.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-peptidomimetics' class='nglviewer-container' data-molecule-id='peptidomimetics' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-peptidomimetics' class='nglviewer-container' data-molecule-id='peptidomimetics' data-initialized='false'></div>
 
 ### Compounds that Fit the Shape of an Active Site
 
@@ -1790,7 +1790,7 @@
 === "Sketch"
     ![](https://media.drugdesign.org/course/molecular-similarity/changement_conf_recep.png){: loading=lazy }
 === "3D"
-    <div id='nglviewer-container-receptor-conformational-change' class='nglviewer-container' data-molecule-id='receptor-conformational-change' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-receptor-conformational-change' class='nglviewer-container' data-molecule-id='receptor-conformational-change' data-initialized='false'></div>
 
 #### Flip in Binding Mode
 *[Binding Mode]: Orientation and geometry adopted by a chemical substance when it is bound to its receptor.

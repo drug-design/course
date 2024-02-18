@@ -34,13 +34,13 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/what_is_3d_searching.gif){: loading=lazy }
 
 === "Sup (3D)"
-    <div id='nglviewer-container-3d-db-sup' class='nglviewer-container' data-molecule-id='3d-db-sup' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-3d-db-sup' class='nglviewer-container' data-molecule-id='3d-db-sup' data-initialized='false'></div>
 
 === "Tile (Pic)"
     ![](https://media.drugdesign.org/course/3d-database-searching/what_is_3d_searching2.png){: loading=lazy }
 
 === "Tile (3D)"
-    <div id='nglviewer-container-3d-db-tile' class='nglviewer-container' data-molecule-id='3d-db-tile' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-3d-db-tile' class='nglviewer-container' data-molecule-id='3d-db-tile' data-initialized='false'></div>
 
 ### Components of a 3D Searching Program
 
@@ -66,7 +66,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/search_hypo_pharma.png){: loading=lazy }
 
 === "Pharmacophore (3D)"
-    <div id='nglviewer-container-search-hypothesis' class='nglviewer-container' data-molecule-id='search-hypothesis' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-search-hypothesis' class='nglviewer-container' data-molecule-id='search-hypothesis' data-initialized='false'></div>
 
 #### Converting a Search Hypothesis into a Query
 
@@ -113,7 +113,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/browser_surface.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-volume-active-mol' class='nglviewer-container' data-molecule-id='volume-active-mol' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-volume-active-mol' class='nglviewer-container' data-molecule-id='volume-active-mol' data-initialized='false'></div>
 
 ### Bioactive Conformation of a Flexible Molecule
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -127,13 +127,13 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/bio_extended.gif){: loading=lazy }
 
 === "Extented (3D)"
-    <div id='nglviewer-container-bio-flexible-extended' class='nglviewer-container' data-molecule-id='bio-flexible-extended' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-bio-flexible-extended' class='nglviewer-container' data-molecule-id='bio-flexible-extended' data-initialized='false'></div>
 
 === "Folded (Gif)"
     ![](https://media.drugdesign.org/course/3d-database-searching/bio_folded.gif){: loading=lazy }
 
 === "Folded (3D)"
-    <div id='nglviewer-container-bio-flexible-folded' class='nglviewer-container' data-molecule-id='bio-flexible-folded' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-bio-flexible-folded' class='nglviewer-container' data-molecule-id='bio-flexible-folded' data-initialized='false'></div>
 
 ### "Lead-Hop" to a New Core
 
@@ -147,7 +147,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/lead_hop.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-lead-hop' class='nglviewer-container' data-molecule-id='lead-hop' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-lead-hop' class='nglviewer-container' data-molecule-id='lead-hop' data-initialized='false'></div>
 
 ### Design a Library for HTS
 
@@ -251,7 +251,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/centroid_browser.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-centroid-browser' class='nglviewer-container' data-molecule-id='centroid-browser' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-centroid-browser' class='nglviewer-container' data-molecule-id='centroid-browser' data-initialized='false'></div>
 
 ##### Extension Point
 
@@ -397,7 +397,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-shape-searching' class='nglviewer-container' data-molecule-id='shape-searching' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-shape-searching' class='nglviewer-container' data-molecule-id='shape-searching' data-initialized='false'></div>
 
 #### Bioactive Conformation as a Source of Shape
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -410,7 +410,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry2.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-bioactive-shape' class='nglviewer-container' data-molecule-id='bioactive-shape' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-bioactive-shape' class='nglviewer-container' data-molecule-id='bioactive-shape' data-initialized='false'></div>
 
 #### Ensemble of  Active Molecules as a Source of Shape
 
@@ -421,7 +421,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/shape_geometry3.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-ensemble-active' class='nglviewer-container' data-molecule-id='ensemble-active' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-ensemble-active' class='nglviewer-container' data-molecule-id='ensemble-active' data-initialized='false'></div>
 
 #### Active Site as a Source of Shape
 
@@ -543,7 +543,7 @@
     ![](https://media.drugdesign.org/course/3d-database-searching/corina.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-corina' class='nglviewer-container' data-molecule-id='corina' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-corina' class='nglviewer-container' data-molecule-id='corina' data-initialized='false'></div>
 
 ##### ConFirm and Omega
 

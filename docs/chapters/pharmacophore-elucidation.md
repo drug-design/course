@@ -25,7 +25,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_1_1.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-reference-mimic' class='nglviewer-container' data-molecule-id='reference-mimic' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-reference-mimic' class='nglviewer-container' data-molecule-id='reference-mimic' data-initialized='false'></div>
 
 ### Operational Strategy: Molecular Mimicry
 
@@ -51,7 +51,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/key_analogy3.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-handle' class='nglviewer-container' data-molecule-id='handle' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-handle' class='nglviewer-container' data-molecule-id='handle' data-initialized='false'></div>
 
 ### Active Molecules are Complicated Keys
 
@@ -64,7 +64,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/complicated_key.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-active-complexity' class='nglviewer-container' data-molecule-id='active-complexity' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-active-complexity' class='nglviewer-container' data-molecule-id='active-complexity' data-initialized='false'></div>
 
 ### Definition of a Pharmacophore
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -133,7 +133,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/design_3.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-design-phase-mimetic' class='nglviewer-container' data-molecule-id='design-phase-mimetic' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-design-phase-mimetic' class='nglviewer-container' data-molecule-id='design-phase-mimetic' data-initialized='false'></div>
 
 ## Simple Case
 
@@ -150,7 +150,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_3_1_b2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-simple-case' class='nglviewer-container' data-molecule-id='simple-case' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-simple-case' class='nglviewer-container' data-molecule-id='simple-case' data-initialized='false'></div>
 
 ### Molecular Similarity
 
@@ -216,13 +216,13 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/before.png){: loading=lazy }
 
 === "Before (3D)"
-    <div id='nglviewer-container-super-before' class='nglviewer-container' data-molecule-id='super-before' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-super-before' class='nglviewer-container' data-molecule-id='super-before' data-initialized='false'></div>
 
 === "After"
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/after.png){: loading=lazy }
 
 === "After (3D)"
-    <div id='nglviewer-container-super-after' class='nglviewer-container' data-molecule-id='super-after' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-super-after' class='nglviewer-container' data-molecule-id='super-after' data-initialized='false'></div>
 
 ### Goal of Superimposition Procedures
 
@@ -235,10 +235,10 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup1.gif){: loading=lazy }
 
 === "3D (before)"
-    <div id='nglviewer-container-super-goal-before' class='nglviewer-container' data-molecule-id='super-goal-before' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-super-goal-before' class='nglviewer-container' data-molecule-id='super-goal-before' data-initialized='false'></div>
 
 === "3D (after)"
-    <div id='nglviewer-container-super-goal-after' class='nglviewer-container' data-molecule-id='super-goal-after' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-super-goal-after' class='nglviewer-container' data-molecule-id='super-goal-after' data-initialized='false'></div>
 
 ### Summary of the Example
 
@@ -262,7 +262,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup2.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-super-technique' class='nglviewer-container' data-molecule-id='super-technique' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-super-technique' class='nglviewer-container' data-molecule-id='super-technique' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -283,7 +283,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/sup_result.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-sup-result' class='nglviewer-container' data-molecule-id='sup-result' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-sup-result' class='nglviewer-container' data-molecule-id='sup-result' data-initialized='false'></div>
 
 ### Dummy Atoms
 
@@ -308,7 +308,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_4_1_b2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-typical-example' class='nglviewer-container' data-molecule-id='typical-example' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-typical-example' class='nglviewer-container' data-molecule-id='typical-example' data-initialized='false'></div>
 
 ### Identification of the Bioactive Conformation
 *[Bioactive Conformation]: The geometry adopted by a ligand when it binds to its biological target.
@@ -347,7 +347,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/far_away.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-bioactive-conformation' class='nglviewer-container' data-molecule-id='bioactive-conformation' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-bioactive-conformation' class='nglviewer-container' data-molecule-id='bioactive-conformation' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -508,7 +508,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_4_8.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-high-informational-content' class='nglviewer-container' data-molecule-id='high-informational-content' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-high-informational-content' class='nglviewer-container' data-molecule-id='high-informational-content' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -594,7 +594,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/gaba_conformation.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-gaba' class='nglviewer-container' data-molecule-id='gaba' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-gaba' class='nglviewer-container' data-molecule-id='gaba' data-initialized='false'></div>
 
 ### Superimposition in the Space of Properties
 
@@ -689,7 +689,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s1.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-sup-space-properties' class='nglviewer-container' data-molecule-id='sup-space-properties' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-sup-space-properties' class='nglviewer-container' data-molecule-id='sup-space-properties' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -714,7 +714,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s2.png){: loading=lazy }
 
 === "Sup (3D)"
-    <div id='nglviewer-container-sup-without-x-ray' class='nglviewer-container' data-molecule-id='sup-without-x-ray' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-sup-without-x-ray' class='nglviewer-container' data-molecule-id='sup-without-x-ray' data-initialized='false'></div>
 
 #### Different Electrostatic Distribution in 2D Alignment
 
@@ -736,7 +736,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_5_4_s4.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-sup-based-on-x-ray' class='nglviewer-container' data-molecule-id='sup-based-on-x-ray' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-sup-based-on-x-ray' class='nglviewer-container' data-molecule-id='sup-based-on-x-ray' data-initialized='false'></div>
 
 #### Correct Alignment: Similar Electrostatic Distribution
 
@@ -747,7 +747,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/alt1_5_4_5_1.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-sup-electro' class='nglviewer-container' data-molecule-id='sup-electro' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-sup-electro' class='nglviewer-container' data-molecule-id='sup-electro' data-initialized='false'></div>
 
 ## Principles of Analysis
 
@@ -875,7 +875,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/x_ray_analog_1.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-cimetidine-folded' class='nglviewer-container' data-molecule-id='cimetidine-folded' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-cimetidine-folded' class='nglviewer-container' data-molecule-id='cimetidine-folded' data-initialized='false'></div>
 
 ### 2D Considerations
 
@@ -918,7 +918,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/snap_v1_c2_7_4_s2.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-misuse-sup' class='nglviewer-container' data-molecule-id='misuse-sup' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-misuse-sup' class='nglviewer-container' data-molecule-id='misuse-sup' data-initialized='false'></div>
 
 ## Managing Hypotheses
 
@@ -959,7 +959,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/3d_sup_chlorpro.gif){: loading=lazy }
 
 === "3D superimposition"
-    <div id='nglviewer-container-chlorpromazine-sup' class='nglviewer-container' data-molecule-id='chlorpromazine-sup' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-chlorpromazine-sup' class='nglviewer-container' data-molecule-id='chlorpromazine-sup' data-initialized='false'></div>
 
 ### Tracking &#38; Reconsidering Hypotheses
 
@@ -1126,7 +1126,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/browser_dopamine.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-dopamine-browser' class='nglviewer-container' data-molecule-id='dopamine-browser' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-dopamine-browser' class='nglviewer-container' data-molecule-id='dopamine-browser' data-initialized='false'></div>
 
 ## Receptor Mapping
 
@@ -1246,7 +1246,7 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/browser.gif){: loading=lazy }
 
 === "Browser (3D)"
-    <div id='nglviewer-container-volume-active-mol' class='nglviewer-container' data-molecule-id='volume-active-mol' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-volume-active-mol' class='nglviewer-container' data-molecule-id='volume-active-mol' data-initialized='false'></div>
 
 ### Example of Receptor Mapping
 
@@ -1280,10 +1280,10 @@
     ![](https://media.drugdesign.org/course/pharmacophore-elucidation/mapping.gif){: loading=lazy }
 
 === "3D (with Volume)"
-    <div id='nglviewer-container-nicotinic-agonists' class='nglviewer-container' data-molecule-id='nicotinic-agonists' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-nicotinic-agonists' class='nglviewer-container' data-molecule-id='nicotinic-agonists' data-initialized='false'></div>
 
 === "3D"
-    <div id='nglviewer-container-nicotinic-agonists-no-volume' class='nglviewer-container' data-molecule-id='nicotinic-agonists-no-volume' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-nicotinic-agonists-no-volume' class='nglviewer-container' data-molecule-id='nicotinic-agonists-no-volume' data-initialized='false'></div>
 
 ## Two Generations of Pharmacophores
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.

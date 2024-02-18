@@ -111,7 +111,7 @@
     ![](https://media.drugdesign.org/course/drug-design/example_mimicry.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-molecular-mimicry' class='nglviewer-container' data-molecule-id='molecular-mimicry' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-molecular-mimicry' class='nglviewer-container' data-molecule-id='molecular-mimicry' data-initialized='false'></div>
 
 #### ATP
 
@@ -125,7 +125,7 @@
     ![](https://media.drugdesign.org/course/drug-design/atp.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-atp' class='nglviewer-container' data-molecule-id='atp' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-atp' class='nglviewer-container' data-molecule-id='atp' data-initialized='false'></div>
 
 #### Dopamine
 
@@ -140,7 +140,7 @@
     ![](https://media.drugdesign.org/course/drug-design/dopamine.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-dopamine' class='nglviewer-container' data-molecule-id='dopamine' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-dopamine' class='nglviewer-container' data-molecule-id='dopamine' data-initialized='false'></div>
 
 #### Histamine
 
@@ -151,7 +151,7 @@
     ![](https://media.drugdesign.org/course/drug-design/histamine.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-histamine' class='nglviewer-container' data-molecule-id='histamine' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-histamine' class='nglviewer-container' data-molecule-id='histamine' data-initialized='false'></div>
 
 #### Estradiol
 
@@ -163,7 +163,7 @@
     ![](https://media.drugdesign.org/course/drug-design/estradiol.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-estradiol' class='nglviewer-container' data-molecule-id='estradiol' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-estradiol' class='nglviewer-container' data-molecule-id='estradiol' data-initialized='false'></div>
 
 ### Peptidomimetics
 *[Peptidomimetics]: Compounds that are peptide mimetics. They have non-peptide structures in part or in full, and mimic the the pharmacological activity of peptides.
@@ -177,7 +177,7 @@
     ![](https://media.drugdesign.org/course/drug-design/2_4_0_1.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-peptidomimetics' class='nglviewer-container' data-molecule-id='peptidomimetics' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-peptidomimetics' class='nglviewer-container' data-molecule-id='peptidomimetics' data-initialized='false'></div>
 
 ### Strengths of Pharmacophore-Based Drug Design
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -365,7 +365,7 @@
     ![](https://media.drugdesign.org/course/drug-design/mimic.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-mimicry' class='nglviewer-container' data-molecule-id='mimicry' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-mimicry' class='nglviewer-container' data-molecule-id='mimicry' data-initialized='false'></div>
 
 ### Typical Receptor-Based Project
 
@@ -377,7 +377,7 @@
     ![](https://media.drugdesign.org/course/drug-design/receptor_based.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-ligand-protein' class='nglviewer-container' data-molecule-id='ligand-protein' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-ligand-protein' class='nglviewer-container' data-molecule-id='ligand-protein' data-initialized='false'></div>
 
 ### Design Based in Making Favorable 3D Interactions
 
@@ -388,7 +388,7 @@
     ![](https://media.drugdesign.org/course/drug-design/receptor_based2.gif){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-interaction' class='nglviewer-container' data-molecule-id='interaction' style='width: 750px; height: 450px;' data-initialized='false'></div>
+    <div id='nglviewer-container-interaction' class='nglviewer-container' data-molecule-id='interaction' data-initialized='false'></div>
 
 ### Typical Genomic Project
 
