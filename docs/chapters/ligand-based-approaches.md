@@ -242,6 +242,9 @@
 === "Superimposition"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/diazepam3d.png){: loading=lazy }
 
+=== "Superimposition (3D)"
+    <div id='nglviewer-container-bioisosteric-replacements-diazepam' class='nglviewer-container' data-molecule-id='bioisosteric-replacements-diazepam' data-initialized='false'></div>
+
 ### Bioisosteric Replacements : Beta-Blockers
 *[Bioisosteric]: A compound resulting from the exchange of a group of atoms with another and having similar biological properties to the parent compound.
 
@@ -253,6 +256,9 @@
 
 === "Superimposition"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/bio_sup.gif){: loading=lazy }
+
+=== "Superimposition (3D)"
+    <div id='nglviewer-container-bioisosteric-replacements-beta-blockers' class='nglviewer-container' data-molecule-id='bioisosteric-replacements-beta-blockers' data-initialized='false'></div>
 
 ### Rigid Analogs: Principle
 *[Analog]: A molecule structurally similar to another, generally based on the same scaffold
