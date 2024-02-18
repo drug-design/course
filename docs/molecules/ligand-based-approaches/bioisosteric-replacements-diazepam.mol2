@@ -1,4 +1,4 @@
-#	Created by:	Discovery Studio
+#	Copyright 2023 drugdesign.org
 #	Creation time:	2024-01-11T10:51:59Z
 
 @<TRIPOS>MOLECULE
@@ -191,7 +191,7 @@ SciTegic.value.DoubleValue
 32 1.00
 33 1.00
 
-#	Created by:	Discovery Studio
+#	Copyright 2023 drugdesign.org
 #	Creation time:	2024-01-11T10:51:59Z
 
 @<TRIPOS>MOLECULE
