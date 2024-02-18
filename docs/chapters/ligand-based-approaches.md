@@ -67,7 +67,7 @@
     ![](https://media.drugdesign.org/course/ligand-based-approaches/1_4_3_1_600.png){: loading=lazy }
 
 === "3D"
-    <div id='nglviewer-container-intuitive-justification-design' class='nglviewer-container' data-molecule-id='intuitive-justification-design' data-initialized='false'></div>
+    <div id='nglviewer-container-strong-van-der-waals-repulsions' class='nglviewer-container' data-molecule-id='strong-van-der-waals-repulsions' data-initialized='false'></div>
 
 #### Conformational Rearrangement
 
@@ -86,7 +86,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/designed-molecule-is-poor-butaclamol-3d-mimic-44b34f09'><i class='fa fa-play' aria-hidden='true'></i></button>The designed compound is no longer superimposed on top of the structure of the butaclamol and the validity of undertaking a synthetic effort for such a poor butaclamol mimic is questionable.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/snap_v1_c3_1_4_s5.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/snap_v1_c3_1_4_s5.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-designed-molecule-is-poor-butaclamol-3d-mimic' class='nglviewer-container' data-molecule-id='designed-molecule-is-poor-butaclamol-3d-mimic' data-initialized='false'></div>
 
 ### Staurosporine Example (Bad Design &#38; Good Results)
 
@@ -111,7 +115,11 @@
 *[bidentate]: Having two anchorage points
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/snap_v1_c3_1_5_s2.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/snap_v1_c3_1_5_s2.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-staurosporine-does-not-mimic-atp' class='nglviewer-container' data-molecule-id='staurosporine-does-not-mimic-atp' data-initialized='false'></div>
 
 #### CGP52411 is Not a Mimic of Staurosporine
 
@@ -120,7 +128,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/stautosporine.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/stautosporine.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-cgp52411-is-not-mimic-staurosporine' class='nglviewer-container' data-molecule-id='cgp52411-is-not-mimic-staurosporine' data-initialized='false'></div>
 
 #### Unexpected Favorable 3D Rearrangement
 
@@ -129,7 +141,11 @@
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/staurosporine2.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/staurosporine2.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-unexpected-favorable-3d-rearrangement' class='nglviewer-container' data-molecule-id='unexpected-favorable-3d-rearrangement' data-initialized='false'></div>
 
 ### Obvious Design
 
@@ -247,7 +263,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/rigid.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/rigid.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-rigid-analogs-principle' class='nglviewer-container' data-molecule-id='rigid-analogs-principle' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -301,7 +321,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/alteration-ring-size-principle-b37a9ad5'><i class='fa fa-play' aria-hidden='true'></i></button>The modification of the size of a ring can alter the molecular geometry and the relative location of the pharmacophoric elements; this can affect the biological properties of the molecule.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/alteration.gif){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/alteration.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-alteration-ring-size-principle' class='nglviewer-container' data-molecule-id='alteration-ring-size-principle' data-initialized='false'></div>
 
 ### Alteration of Ring Size: Imipramine
 
@@ -310,8 +334,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/3_8_1_1.png){: loading=lazy }
-=== "Superimposition"
+=== "Superimposition (Gif)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/imipramine_sup.gif){: loading=lazy }
+
+=== "Superimposition (3D)"
+    <div id='nglviewer-container-alteration-ring-size-imipramine' class='nglviewer-container' data-molecule-id='alteration-ring-size-imipramine' data-initialized='false'></div>
 
 ### Ring Suppression: Principle
 
@@ -334,7 +361,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/homologation-alkyl-chains-principle-b97ab1b1'><i class='fa fa-play' aria-hidden='true'></i></button>The progressive increase in the number of carbon atoms in a chain progressively increases the lipophilic character of the molecule and changes the partition coefficient. This can affect the absorption, distribution, metabolism or excretion properties of the molecule.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/homo.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/homo.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-homologation-alkyl-chains-principle' class='nglviewer-container' data-molecule-id='homologation-alkyl-chains-principle' data-initialized='false'></div>
 
 ### Homologation of Alkyl Chains: Apomorphine
 *[Apo]: 3D structure of a macromolecule without a ligand
@@ -351,7 +382,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/alteration-stereochemistry-principle-f478d8e4'><i class='fa fa-play' aria-hidden='true'></i></button>Alterations of stereochemical centers in an active molecule may lead to similar or to completely different biological activities.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/alteration3.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/alteration3.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-alteration-stereochemistry-principle' class='nglviewer-container' data-molecule-id='alteration-stereochemistry-principle' data-initialized='false'></div>
 
 ### Alteration of Stereochemistry: Progesterone
 
@@ -421,7 +456,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/ring_position.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/ring_position.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-aromatic-ring-position-isomers-principle' class='nglviewer-container' data-molecule-id='aromatic-ring-position-isomers-principle' data-initialized='false'></div>
 
 ### Aromatic Ring Position Isomers : &beta;-Adrenergic Drugs
 *[Isomers]: Isomers are compounds with the same chemical formula but different 2D-structures
@@ -589,7 +628,11 @@
 *[moieties]: Fragments, functional groups or portions of chemical compounds.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/hit_geo.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/hit_geo.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-check-molecular-geometry-hit' class='nglviewer-container' data-molecule-id='check-molecular-geometry-hit' data-initialized='false'></div>
 
 ### Example of 3D Searching: Pharmacophore Query
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -618,8 +661,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/4_4_1_1.png){: loading=lazy }
-=== "Alignment"
+=== "Alignment (Gif)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/pkc_sup.gif){: loading=lazy }
+
+=== "Alignment (3D)"
+    <div id='nglviewer-container-hit-obtained-by-3d-database-searching' class='nglviewer-container' data-molecule-id='hit-obtained-by-3d-database-searching' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -799,8 +845,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/5_4_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Gif)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/spacer.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-query-pharmacophore-5-alfa-reductase-example' class='nglviewer-container' data-molecule-id='query-pharmacophore-5-alfa-reductase-example' data-initialized='false'></div>
 
 ### A Generated Solution
 
@@ -809,8 +858,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/5_5_1_1.png){: loading=lazy }
-=== "superimposition"
+=== "superimposition (Gif)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/sup5.gif){: loading=lazy }
+
+=== "superimposition (3D)"
+    <div id='nglviewer-container-generated-solution' class='nglviewer-container' data-molecule-id='generated-solution' data-initialized='false'></div>
 
 ### Automated Construction Approach: Example
 
@@ -818,7 +870,11 @@
 *[pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/browser2.gif){: loading=lazy }
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/browser2.gif){: loading=lazy }
+
+=== "Browser (3D)"
+    <div id='nglviewer-container-automated-construction-approach-example' class='nglviewer-container' data-molecule-id='automated-construction-approach-example' data-initialized='false'></div>
 
 ## Manual Design
 
@@ -862,7 +918,11 @@
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/creativity-d86f53b6'><i class='fa fa-play' aria-hidden='true'></i></button>This example illustrates the intelligent design of a new molecule connecting the two hydrophobic groups (phenyl and cyclohexyl) of a peptide-based molecule. The resulting molecule was biologically active. Only creativity and imagination can lead to such design.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/6_5_0_1.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/6_5_0_1.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-creativity' class='nglviewer-container' data-molecule-id='creativity' data-initialized='false'></div>
 
 ### Design of a Spacer: a Step-by-Step Process
 
@@ -872,7 +932,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/6_6_1_1.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/6_6_1_1.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-design-spacer-step-by-step-process' class='nglviewer-container' data-molecule-id='design-spacer-step-by-step-process' data-initialized='false'></div>
 
 #### Connecting two Fragments in 3D
 
@@ -880,16 +944,22 @@
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/6_6_2_1.png){: loading=lazy }
+=== "Pic"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/6_6_2_1.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-connecting-two-fragments-3d' class='nglviewer-container' data-molecule-id='connecting-two-fragments-3d' data-initialized='false'></div>
 
 #### Assembly of all Fragments in 3D
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='ligand-based-approaches/assembly-all-fragments-3d-b35b2d8e'><i class='fa fa-play' aria-hidden='true'></i></button>... one can envision a solution like the one displayed here. 
- 
- {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/spacer2.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/spacer2.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-assembly-all-fragments-3d' class='nglviewer-container' data-molecule-id='assembly-all-fragments-3d' data-initialized='false'></div>
 
 ### Manual Mimicking
 
@@ -900,8 +970,11 @@
 === "Reference"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/mimicking.png){: loading=lazy }
 
-=== "Designed"
+=== "Designed (Gif)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/mimicking.gif){: loading=lazy }
+
+=== "Designed (3D)"
+    <div id='nglviewer-container-manual-mimicking' class='nglviewer-container' data-molecule-id='manual-mimicking' data-initialized='false'></div>
 
 ## Examples of Design
 
@@ -917,8 +990,11 @@
 === "2D"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/7_1_1_1.png){: loading=lazy }
 
-=== "3D"
+=== "3D (pic)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/snap_v1_c3_7_1_b2.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-egf-r-protein-tyrosine-kinase-inhibitors' class='nglviewer-container' data-molecule-id='egf-r-protein-tyrosine-kinase-inhibitors' data-initialized='false'></div>
 
 ### Comparing the Structures of Staurosporine and ATP
 
@@ -928,7 +1004,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/atp_storo.gif){: loading=lazy }
+=== "Gif"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/atp_storo.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-comparing-structures-staurosporine-atp' class='nglviewer-container' data-molecule-id='comparing-structures-staurosporine-atp' data-initialized='false'></div>
 
 ### CGP52411 a Simplified Staurosporine Molecule
 
@@ -938,8 +1018,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/7_3_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/storo_3d.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-cgp52411-simplified-staurosporine-molecule' class='nglviewer-container' data-molecule-id='cgp52411-simplified-staurosporine-molecule' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -963,7 +1046,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/bidentate.gif){: loading=lazy }
+=== "3D (Gif)"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/bidentate.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-bidentate-anchorage-cgp52411' class='nglviewer-container' data-molecule-id='bidentate-anchorage-cgp52411' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -983,8 +1070,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/7_5_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Gif)"
     ![](https://media.drugdesign.org/course/ligand-based-approaches/ptk.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-design-new-egf-r-ptk-inhibitor' class='nglviewer-container' data-molecule-id='design-new-egf-r-ptk-inhibitor' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -1006,7 +1096,11 @@
       
 
 
-![](https://media.drugdesign.org/course/ligand-based-approaches/browser5.gif){: loading=lazy }
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/ligand-based-approaches/browser5.gif){: loading=lazy }
+
+=== "Browser (3D)"
+    <div id='nglviewer-container-browser-egf-r-protein-kinase-inhibitors' class='nglviewer-container' data-molecule-id='browser-egf-r-protein-kinase-inhibitors' data-initialized='false'></div>
 
 
 ??? Abstract "articles"

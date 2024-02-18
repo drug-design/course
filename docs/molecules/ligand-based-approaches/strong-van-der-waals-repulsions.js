@@ -23,7 +23,7 @@ var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "intuitive-justification-design";
+var molecule_id = "strong-van-der-waals-repulsions";
 
 
 function autoConvertToRadians(rotationArray) {
@@ -70,24 +70,36 @@ if (typeof rotation !== 'undefined' && rotation !== null) {
 
 
 var modelControl_0 = {
-    id: 'BUTACLAMOL_BUTA_SUP',
-    label: 'BUTACLAMOL_BUTA_SUP',
+    id: 'Molecule',
+    label: 'Molecule',
     checked: true,
-    sele: '/0 and not hydrogen',
+    sele: '/1 and not hydrogen',
     type: 'licorice',
-    color: 'white',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'element',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
 };
 
 var modelControl_1 = {
-    id: 'Molecule',
-    label: 'Molecule',
+    id: '3',
+    label: '3',
     checked: true,
-    sele: '/1 and not hydrogen',
-    type: 'licorice',
-    color: 'skyblue',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    sele: '1:A.C46.1',
+    type: 'surface',
+    color: 'grey',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    opacity: '0.5',
+    color_scheme: 'electrostatic',
+    surface_type: 'av'
+};
+
+var modelControl_2 = {
+    id: '3',
+    label: '3',
+    checked: true,
+    sele: '1:A.C34.1',
+    type: 'surface',
+    color: 'grey',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
@@ -215,6 +227,55 @@ if (!no_ui_boolean){
 }
 
 
+if (!no_ui_boolean){
+    if (checkbox_boolean) {
+        var checkbox_2 = createElement('input', {
+            type: 'checkbox',
+            id: modelControl_2.id,
+            checked: modelControl_2.checked,
+            onchange: function () {
+                toggleModel(2); // Pass the model index to the toggle function
+            }
+        }, { top: (120 + 2 * 24) + 'px', left: '12px' });
+
+        addElement(checkbox_2);
+    } else {
+        var colorSquare_2 = createElement('div', {}, {
+            width: '12px',
+            height: '12px',
+            backgroundColor: modelControl_2.color,
+            position: 'absolute',
+            top: (120 + 2 * 24) + 'px',
+            left: '12px'
+        });
+
+        addElement(colorSquare_2);
+    }
+
+
+    var label_2 = createElement('label', {
+        htmlFor: modelControl_2.id,
+        innerText: modelControl_2.label
+    }, { top: (120 + 2 * 24) + 'px', left: '34px' });
+
+    addElement(label_2);
+
+
+
+    var label_2 = createElement('label', {
+        htmlFor: modelControl_2.id,
+        innerText: modelControl_2.label
+    }, { 
+        top: (120 + 2 * 24) + 'px', 
+        left: '34px',
+        color: 'grey', // Set label color to grey
+        fontSize: '12px' // Optional: set font size
+    });
+
+    addElement(label_2);
+}
+
+
 
 // Loading the file with multiple models
 stage.loadFile("./../../molecules/"+ chapter +"/"+molecule_id+"."+format).then(function (o) {
@@ -242,15 +303,36 @@ stage.loadFile("./../../molecules/"+ chapter +"/"+molecule_id+"."+format).then(f
     
         
 
-        var representation_1 = o.addRepresentation(modelControl_1.type, {
-            multipleBond: 'symmetric',
-            sele: modelControl_1.sele,
-            color: modelControl_1.color});
+        var representation_1 = o.addRepresentation(modelControl_1.type, 
+        { 
+            sele: modelControl_1.sele,  
+            colorScheme: modelControl_1.color_scheme,
+            surfaceType: modelControl_1.surface_type, 
+            lazy: true, 
+            opacity: parseFloat(modelControl_1.opacity), 
+            color: modelControl_1.color })
 
-         
+        
     
     representation_1.setVisibility(modelControl_1.checked);
     moleculeRepresentations.push(representation_1);
+
+    
+        
+
+        var representation_2 = o.addRepresentation(modelControl_2.type, 
+        { 
+            sele: modelControl_2.sele,  
+            colorScheme: modelControl_2.color_scheme,
+            surfaceType: modelControl_2.surface_type, 
+            lazy: true, 
+            opacity: parseFloat(modelControl_2.opacity), 
+            color: modelControl_2.color })
+
+        
+    
+    representation_2.setVisibility(modelControl_2.checked);
+    moleculeRepresentations.push(representation_2);
 
     
 

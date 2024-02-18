@@ -7,23 +7,21 @@ var loadedMolecule;
 var moleculeRepresentations = [];
 
 
-var checkbox_boolean = false;
+var checkbox_boolean = true;
 
 
 
-var no_ui_boolean = true;
+var no_ui_boolean = false;
 
 
 
-var no_ui = "true";
-
-var zoom = "0.4";
+var checkbox = "true";
 
 var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "intuitive-justification-design";
+var molecule_id = "comparing-structures-staurosporine-atp";
 
 
 function autoConvertToRadians(rotationArray) {
@@ -70,24 +68,36 @@ if (typeof rotation !== 'undefined' && rotation !== null) {
 
 
 var modelControl_0 = {
-    id: 'BUTACLAMOL_BUTA_SUP',
-    label: 'BUTACLAMOL_BUTA_SUP',
+    id: 'anchorage',
+    label: 'anchorage',
     checked: true,
     sele: '/0 and not hydrogen',
     type: 'licorice',
-    color: 'white',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'red',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
 };
 
 var modelControl_1 = {
-    id: 'Molecule',
-    label: 'Molecule',
+    id: 'ATP',
+    label: 'ATP',
     checked: true,
     sele: '/1 and not hydrogen',
     type: 'licorice',
-    color: 'skyblue',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'yellow',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    opacity: '0.5',
+    color_scheme: 'electrostatic',
+    surface_type: 'av'
+};
+
+var modelControl_2 = {
+    id: 'staurosporine',
+    label: 'staurosporine',
+    checked: true,
+    sele: '/2 and not hydrogen',
+    type: 'licorice',
+    color: 'blue',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
@@ -215,6 +225,55 @@ if (!no_ui_boolean){
 }
 
 
+if (!no_ui_boolean){
+    if (checkbox_boolean) {
+        var checkbox_2 = createElement('input', {
+            type: 'checkbox',
+            id: modelControl_2.id,
+            checked: modelControl_2.checked,
+            onchange: function () {
+                toggleModel(2); // Pass the model index to the toggle function
+            }
+        }, { top: (120 + 2 * 24) + 'px', left: '12px' });
+
+        addElement(checkbox_2);
+    } else {
+        var colorSquare_2 = createElement('div', {}, {
+            width: '12px',
+            height: '12px',
+            backgroundColor: modelControl_2.color,
+            position: 'absolute',
+            top: (120 + 2 * 24) + 'px',
+            left: '12px'
+        });
+
+        addElement(colorSquare_2);
+    }
+
+
+    var label_2 = createElement('label', {
+        htmlFor: modelControl_2.id,
+        innerText: modelControl_2.label
+    }, { top: (120 + 2 * 24) + 'px', left: '34px' });
+
+    addElement(label_2);
+
+
+
+    var label_2 = createElement('label', {
+        htmlFor: modelControl_2.id,
+        innerText: modelControl_2.label
+    }, { 
+        top: (120 + 2 * 24) + 'px', 
+        left: '34px',
+        color: 'grey', // Set label color to grey
+        fontSize: '12px' // Optional: set font size
+    });
+
+    addElement(label_2);
+}
+
+
 
 // Loading the file with multiple models
 stage.loadFile("./../../molecules/"+ chapter +"/"+molecule_id+"."+format).then(function (o) {
@@ -251,6 +310,19 @@ stage.loadFile("./../../molecules/"+ chapter +"/"+molecule_id+"."+format).then(f
     
     representation_1.setVisibility(modelControl_1.checked);
     moleculeRepresentations.push(representation_1);
+
+    
+        
+
+        var representation_2 = o.addRepresentation(modelControl_2.type, {
+            multipleBond: 'symmetric',
+            sele: modelControl_2.sele,
+            color: modelControl_2.color});
+
+         
+    
+    representation_2.setVisibility(modelControl_2.checked);
+    moleculeRepresentations.push(representation_2);
 
     
 

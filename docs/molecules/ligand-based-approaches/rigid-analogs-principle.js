@@ -5,17 +5,17 @@
 
 var color = "element";
 
-var zoom = "0.1";
+var zoom = "0.3";
 
-var time = "1000";
+var time = "100";
 
-var auto = "true";
+var auto = "false";
 
 var control = "true";
 
 var type = "licorice";
 
-var total = "7";
+var total = "9";
 
 var sele = " and not hydrogen";
 
@@ -23,11 +23,11 @@ var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "conformational-rearrangement";
+var molecule_id = "rigid-analogs-principle";
 
 
 
-var auto_boolean = true;
+var auto_boolean = false;
 
 
 

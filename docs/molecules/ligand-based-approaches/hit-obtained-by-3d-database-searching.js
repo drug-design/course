@@ -7,15 +7,15 @@ var loadedMolecule;
 var moleculeRepresentations = [];
 
 
-var checkbox_boolean = false;
+var checkbox_boolean = true;
 
 
 
-var no_ui_boolean = true;
+var no_ui_boolean = false;
 
 
 
-var no_ui = "true";
+var checkbox = "true";
 
 var zoom = "0.4";
 
@@ -23,7 +23,7 @@ var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "intuitive-justification-design";
+var molecule_id = "hit-obtained-by-3d-database-searching";
 
 
 function autoConvertToRadians(rotationArray) {
@@ -70,24 +70,24 @@ if (typeof rotation !== 'undefined' && rotation !== null) {
 
 
 var modelControl_0 = {
-    id: 'BUTACLAMOL_BUTA_SUP',
-    label: 'BUTACLAMOL_BUTA_SUP',
+    id: 'pkc agonists',
+    label: 'pkc agonists',
     checked: true,
     sele: '/0 and not hydrogen',
     type: 'licorice',
-    color: 'white',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'element',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
 };
 
 var modelControl_1 = {
-    id: 'Molecule',
-    label: 'Molecule',
+    id: 'phorbol esters',
+    label: 'phorbol esters',
     checked: true,
     sele: '/1 and not hydrogen',
     type: 'licorice',
-    color: 'skyblue',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'element',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'

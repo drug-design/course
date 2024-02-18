@@ -23,7 +23,7 @@ var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "intuitive-justification-design";
+var molecule_id = "connecting-two-fragments-3d";
 
 
 function autoConvertToRadians(rotationArray) {
@@ -70,24 +70,48 @@ if (typeof rotation !== 'undefined' && rotation !== null) {
 
 
 var modelControl_0 = {
-    id: 'BUTACLAMOL_BUTA_SUP',
-    label: 'BUTACLAMOL_BUTA_SUP',
+    id: 'wahou.sd1',
+    label: 'wahou.sd1',
     checked: true,
-    sele: '/0 and not hydrogen',
+    sele: '/0',
     type: 'licorice',
-    color: 'white',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'element',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
 };
 
 var modelControl_1 = {
-    id: 'Molecule',
-    label: 'Molecule',
+    id: 'wahou.sd2',
+    label: 'wahou.sd2',
     checked: true,
-    sele: '/1 and not hydrogen',
+    sele: '/1',
     type: 'licorice',
-    color: 'skyblue',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'element',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    opacity: '0.5',
+    color_scheme: 'electrostatic',
+    surface_type: 'av'
+};
+
+var modelControl_2 = {
+    id: 'wahou.sd3',
+    label: 'wahou.sd3',
+    checked: true,
+    sele: '/2',
+    type: 'licorice',
+    color: 'element',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    opacity: '0.5',
+    color_scheme: 'electrostatic',
+    surface_type: 'av'
+};
+
+var modelControl_3 = {
+    id: 'wahou.sd4',
+    label: 'wahou.sd4',
+    checked: true,
+    sele: '/3 and not hydrogen',
+    type: 'licorice',
+    color: 'green',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
@@ -215,6 +239,104 @@ if (!no_ui_boolean){
 }
 
 
+if (!no_ui_boolean){
+    if (checkbox_boolean) {
+        var checkbox_2 = createElement('input', {
+            type: 'checkbox',
+            id: modelControl_2.id,
+            checked: modelControl_2.checked,
+            onchange: function () {
+                toggleModel(2); // Pass the model index to the toggle function
+            }
+        }, { top: (120 + 2 * 24) + 'px', left: '12px' });
+
+        addElement(checkbox_2);
+    } else {
+        var colorSquare_2 = createElement('div', {}, {
+            width: '12px',
+            height: '12px',
+            backgroundColor: modelControl_2.color,
+            position: 'absolute',
+            top: (120 + 2 * 24) + 'px',
+            left: '12px'
+        });
+
+        addElement(colorSquare_2);
+    }
+
+
+    var label_2 = createElement('label', {
+        htmlFor: modelControl_2.id,
+        innerText: modelControl_2.label
+    }, { top: (120 + 2 * 24) + 'px', left: '34px' });
+
+    addElement(label_2);
+
+
+
+    var label_2 = createElement('label', {
+        htmlFor: modelControl_2.id,
+        innerText: modelControl_2.label
+    }, { 
+        top: (120 + 2 * 24) + 'px', 
+        left: '34px',
+        color: 'grey', // Set label color to grey
+        fontSize: '12px' // Optional: set font size
+    });
+
+    addElement(label_2);
+}
+
+
+if (!no_ui_boolean){
+    if (checkbox_boolean) {
+        var checkbox_3 = createElement('input', {
+            type: 'checkbox',
+            id: modelControl_3.id,
+            checked: modelControl_3.checked,
+            onchange: function () {
+                toggleModel(3); // Pass the model index to the toggle function
+            }
+        }, { top: (120 + 3 * 24) + 'px', left: '12px' });
+
+        addElement(checkbox_3);
+    } else {
+        var colorSquare_3 = createElement('div', {}, {
+            width: '12px',
+            height: '12px',
+            backgroundColor: modelControl_3.color,
+            position: 'absolute',
+            top: (120 + 3 * 24) + 'px',
+            left: '12px'
+        });
+
+        addElement(colorSquare_3);
+    }
+
+
+    var label_3 = createElement('label', {
+        htmlFor: modelControl_3.id,
+        innerText: modelControl_3.label
+    }, { top: (120 + 3 * 24) + 'px', left: '34px' });
+
+    addElement(label_3);
+
+
+
+    var label_3 = createElement('label', {
+        htmlFor: modelControl_3.id,
+        innerText: modelControl_3.label
+    }, { 
+        top: (120 + 3 * 24) + 'px', 
+        left: '34px',
+        color: 'grey', // Set label color to grey
+        fontSize: '12px' // Optional: set font size
+    });
+
+    addElement(label_3);
+}
+
+
 
 // Loading the file with multiple models
 stage.loadFile("./../../molecules/"+ chapter +"/"+molecule_id+"."+format).then(function (o) {
@@ -251,6 +373,32 @@ stage.loadFile("./../../molecules/"+ chapter +"/"+molecule_id+"."+format).then(f
     
     representation_1.setVisibility(modelControl_1.checked);
     moleculeRepresentations.push(representation_1);
+
+    
+        
+
+        var representation_2 = o.addRepresentation(modelControl_2.type, {
+            multipleBond: 'symmetric',
+            sele: modelControl_2.sele,
+            color: modelControl_2.color});
+
+         
+    
+    representation_2.setVisibility(modelControl_2.checked);
+    moleculeRepresentations.push(representation_2);
+
+    
+        
+
+        var representation_3 = o.addRepresentation(modelControl_3.type, {
+            multipleBond: 'symmetric',
+            sele: modelControl_3.sele,
+            color: modelControl_3.color});
+
+         
+    
+    representation_3.setVisibility(modelControl_3.checked);
+    moleculeRepresentations.push(representation_3);
 
     
 

@@ -7,7 +7,9 @@ var color = "element";
 
 var zoom = "0.1";
 
-var time = "1000";
+var step = "2";
+
+var time = "100";
 
 var auto = "true";
 
@@ -15,7 +17,7 @@ var control = "true";
 
 var type = "licorice";
 
-var total = "7";
+var total = "47";
 
 var sele = " and not hydrogen";
 
@@ -23,7 +25,7 @@ var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "conformational-rearrangement";
+var molecule_id = "cgp52411-is-not-mimic-staurosporine";
 
 
 
@@ -36,7 +38,7 @@ var control_boolean = true;
 
 
 
-var step = 1;
+step = parseInt(step)
 
 
 let currentMolecule = 0;

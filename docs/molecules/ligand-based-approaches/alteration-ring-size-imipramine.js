@@ -23,7 +23,7 @@ var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "intuitive-justification-design";
+var molecule_id = "alteration-ring-size-imipramine";
 
 
 function autoConvertToRadians(rotationArray) {
@@ -70,20 +70,20 @@ if (typeof rotation !== 'undefined' && rotation !== null) {
 
 
 var modelControl_0 = {
-    id: 'BUTACLAMOL_BUTA_SUP',
-    label: 'BUTACLAMOL_BUTA_SUP',
+    id: 'IMIPRAMINE',
+    label: 'IMIPRAMINE',
     checked: true,
     sele: '/0 and not hydrogen',
     type: 'licorice',
-    color: 'white',  // 'defaultColor' is a placeholder, replace with a default color if needed
+    color: 'yellow',  // 'defaultColor' is a placeholder, replace with a default color if needed
     opacity: '0.5',
     color_scheme: 'electrostatic',
     surface_type: 'av'
 };
 
 var modelControl_1 = {
-    id: 'Molecule',
-    label: 'Molecule',
+    id: 'dimetacrine',
+    label: 'dimetacrine',
     checked: true,
     sele: '/1 and not hydrogen',
     type: 'licorice',

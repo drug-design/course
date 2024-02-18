@@ -5,9 +5,9 @@
 
 var color = "element";
 
-var zoom = "0.1";
+var zoom = "0.3";
 
-var time = "1000";
+var time = "500";
 
 var auto = "true";
 
@@ -15,7 +15,7 @@ var control = "true";
 
 var type = "licorice";
 
-var total = "7";
+var total = "4";
 
 var sele = " and not hydrogen";
 
@@ -23,7 +23,7 @@ var format = "mol2";
 
 var chapter = "ligand-based-approaches";
 
-var molecule_id = "conformational-rearrangement";
+var molecule_id = "aromatic-ring-position-isomers-principle";
 
 
 
