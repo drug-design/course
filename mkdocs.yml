@@ -19,6 +19,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tabs

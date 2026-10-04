@@ -1,0 +1,371 @@
+#	Created by:	Discovery Studio
+#	Creation time:	2024-01-11T11:02:38Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+TOLRESTAT
+   25    26     1 0 0
+PROTEIN
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C01         -12.821838    9.144931    4.684882 C.ar     1 UNK0      -0.0017
+      2 C02         -13.488439    7.889270    4.625576 C.ar     1 UNK0       0.0071
+      3 C03         -14.896070    7.820997    4.885841 C.ar     1 UNK0       0.1267
+      4 C04         -15.594865    8.996932    5.197921 C.ar     1 UNK0       0.1298
+      5 C05         -14.945249   10.225835    5.232926 C.ar     1 UNK0       0.0328
+      6 C06         -13.577920   10.295000    4.991702 C.ar     1 UNK0       0.0068
+      7 C07         -11.334275    6.823240    4.057483 C.ar     1 UNK0       0.0007
+      8 C08         -12.708413    6.749516    4.302685 C.ar     1 UNK0       0.0045
+      9 C09         -11.424070    9.196945    4.428544 C.ar     1 UNK0       0.0196
+     10 C10         -10.688479    8.046261    4.121667 C.ar     1 UNK0       0.0062
+     11 C11         -15.616143    6.489543    4.839333 C.3      1 UNK0       0.3941
+     12 F12         -16.942652    6.503923    5.147198 F        1 UNK0      -0.1707
+     13 F13         -15.543237    5.904314    3.606433 F        1 UNK0      -0.1707
+     14 F14         -15.071630    5.580854    5.703913 F        1 UNK0      -0.1707
+     15 O15         -16.949226    8.956609    5.386833 O.3      1 UNK0      -0.3808
+     16 C16         -17.313042    9.324986    6.719305 C.3      1 UNK0       0.1948
+     17 C17         -10.656002   10.475557    4.470097 C.2      1 UNK0       0.1143
+     18 N18         -10.514599   11.184343    3.258414 N.am     1 UNK0      -0.2894
+     19 C19          -9.866116   12.498396    3.222372 C.3      1 UNK0       0.1062
+     20 C20         -11.264580   10.830028    2.034603 C.3      1 UNK0       0.1466
+     21 C21         -12.573542   11.595431    1.871696 C.2      1 UNK0       0.2571
+     22 O22         -13.311313   11.123145    0.845185 O.3      1 UNK0      -0.3670
+     23 O23         -12.970758   12.548103    2.525307 O.2      1 UNK0      -0.1536
+     24 S25          -9.984699   10.943677    5.950995 S.2      1 UNK0      -0.0560
+     25 H24         -14.118854   11.681303    0.852984 H        1 UNK0       0.2134
+@<TRIPOS>BOND
+     1    1    6 ar
+     2    1    9 ar
+     3    1    2 ar
+     4    2    3 ar
+     5    2    8 ar
+     6    3   11 1
+     7    3    4 ar
+     8    4    5 ar
+     9    4   15 1
+    10    5    6 ar
+    11    7   10 ar
+    12    7    8 ar
+    13    9   17 1
+    14    9   10 ar
+    15   12   11 1
+    16   13   11 1
+    17   14   11 1
+    18   15   16 1
+    19   17   18 1
+    20   17   24 2
+    21   18   19 1
+    22   18   20 1
+    23   20   21 1
+    24   21   22 1
+    25   21   23 2
+    26   22   25 1
+@<TRIPOS>SUBSTRUCTURE
+1 UNK0 1 RESIDUE 1 A UNK
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+17 0.00
+18 0.00
+19 0.00
+20 0.00
+21 0.00
+22 0.00
+23 0.00
+24 0.00
+25 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+17 1.00
+18 1.00
+19 1.00
+20 1.00
+21 1.00
+22 1.00
+23 1.00
+24 1.00
+25 1.00
+
+#	Created by:	Discovery Studio
+#	Creation time:	2024-01-11T11:02:38Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+ICI105552
+   27    28     1 0 0
+PROTEIN
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C01          -9.170249    5.085402    0.084566 C.ar     1 UNK0       0.0100
+      2 C02          -8.526249    6.275402   -0.315434 C.ar     1 UNK0       0.0622
+      3 C03          -9.164248    7.507402   -0.069434 C.ar     1 UNK0       0.0194
+      4 C04         -10.415249    7.572402    0.544566 C.ar     1 UNK0       0.0016
+      5 C05         -11.055248    6.406402    0.925566 C.ar     1 UNK0       0.0004
+      6 C06         -10.438249    5.177402    0.696566 C.ar     1 UNK0       0.0053
+      7 C07          -6.655249    4.984402   -1.259434 C.ar     1 UNK0       0.1880
+      8 C08          -8.518249    3.769402   -0.155434 C.ar     1 UNK0       0.0053
+      9 C09          -7.341249    3.730402   -0.814434 C.ar     1 UNK0       0.0334
+     10 O10          -5.580249    4.898402   -1.857434 O.2      1 UNK0      -0.1658
+     11 C11          -6.524249    7.392402   -1.388434 C.2      1 UNK0       0.0906
+     12 C12          -5.420249    7.784402   -0.423434 C.ar     1 UNK0       0.0034
+     13 C13          -4.078249    7.689402   -0.819434 C.ar     1 UNK0       0.0050
+     14 C14          -3.048248    8.053402    0.052566 C.ar     1 UNK0       0.0037
+     15 C15          -3.344249    8.515402    1.336566 C.ar     1 UNK0      -0.0114
+     16 C16          -4.676249    8.606402    1.748566 C.ar     1 UNK0      -0.0111
+     17 C17          -5.706249    8.243402    0.871566 C.ar     1 UNK0       0.0082
+     18 Cl18         -1.998603    8.963612    2.378652 Cl       1 UNK0       0.0077
+     19 Cl19         -5.130543    9.172742    3.351837 Cl       1 UNK0       0.0077
+     20 C20          -9.190248    2.515402    0.370566 C.3      1 UNK0       0.0657
+     21 C21         -10.267248    2.032402   -0.577434 C.2      1 UNK0       0.2431
+     22 O22         -11.268249    1.399402    0.069566 O.3      1 UNK0      -0.3681
+     23 O23         -10.286249    2.125402   -1.793434 O.2      1 UNK0      -0.1548
+     24 H24         -11.874249    1.127402   -0.652434 H        1 UNK0       0.2133
+     25 C25          -6.600249    2.473402   -1.192434 C.3      1 UNK0       0.0120
+     26 N26          -7.257248    6.200402   -0.967434 N.ar     1 UNK0      -0.2747
+     27 C55          -3.186712   10.556614    2.813591 C.3      1 UNK0       0.0000
+@<TRIPOS>BOND
+     1    1    6 ar
+     2    1    8 ar
+     3    1    2 ar
+     4    2    3 ar
+     5    2   26 ar
+     6    3    4 ar
+     7    4    5 ar
+     8    5    6 ar
+     9    7   26 ar
+    10    7    9 ar
+    11    7   10 2
+    12    8   20 1
+    13    8    9 ar
+    14    9   25 1
+    15   11   26 1
+    16   11   12 ar
+    17   12   17 ar
+    18   12   13 ar
+    19   13   14 ar
+    20   14   15 ar
+    21   15   16 ar
+    22   15   18 1
+    23   16   19 1
+    24   16   17 ar
+    25   20   21 1
+    26   21   22 1
+    27   21   23 2
+    28   22   24 1
+@<TRIPOS>SUBSTRUCTURE
+1 UNK0 1 RESIDUE 1 A UNK
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+2 0.00
+3 0.00
+4 0.00
+5 0.00
+6 0.00
+7 0.00
+8 0.00
+9 0.00
+10 0.00
+11 0.00
+12 0.00
+13 0.00
+14 0.00
+15 0.00
+16 0.00
+17 0.00
+18 0.00
+19 0.00
+20 0.00
+21 0.00
+22 0.00
+23 0.00
+24 0.00
+25 0.00
+26 0.00
+27 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+2 1.00
+3 1.00
+4 1.00
+5 1.00
+6 1.00
+7 1.00
+8 1.00
+9 1.00
+10 1.00
+11 1.00
+12 1.00
+13 1.00
+14 1.00
+15 1.00
+16 1.00
+17 1.00
+18 1.00
+19 1.00
+20 1.00
+21 1.00
+22 1.00
+23 1.00
+24 1.00
+25 1.00
+26 1.00
+27 1.00
+
+#	Created by:	Discovery Studio
+#	Creation time:	2024-01-11T11:02:38Z
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:MaximumNumberOfAtoms
+SciTegic.value.IntegerValue
+100
+
+@<SCITEGIC>ROOT_PROPERTY
+Ligand:HydrogenAtomsCountTowardsMaximum
+SciTegic.value.BooleanValue
+FALSE
+
+@<TRIPOS>MOLECULE
+Molecule
+    1     0     0 0 0
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1          -11.770855   15.312885    6.129141 C.3      1 SUBUNIT    0.0000
+@<SCITEGIC>ATOM_PROPERTY
+Formal Charge
+SciTegic.value.StringValue
+1 0
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_tempFactor
+SciTegic.value.DoubleValue
+1 0.00
+
+@<SCITEGIC>ATOM_PROPERTY
+pdb_occupancy
+SciTegic.value.DoubleValue
+1 1.00
+

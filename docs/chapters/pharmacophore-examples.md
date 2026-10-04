@@ -413,8 +413,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/10_1_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/10_1_2_1_b.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-therapeutic-utility-aldose-reductase-inhibitors' class='nglviewer-container' data-molecule-id='therapeutic-utility-aldose-reductase-inhibitors' data-initialized='false'></div>
 
 ### Pharmacophore for Aldose Reductase Inhibitors
 *[Pharmacophore]: Specific 3D arrangement of chemical groups common to active molecules and essential to their biological activities.
@@ -439,7 +442,11 @@
       
 
 
-![](https://media.drugdesign.org/course/pharmacophore-examples/aldose_browser.gif){: loading=lazy }
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/aldose_browser.gif){: loading=lazy }
+
+=== "Browser (3D)"
+    <div id='nglviewer-container-browser-aldose-reductase-inhibitors' class='nglviewer-container' data-molecule-id='browser-aldose-reductase-inhibitors' data-initialized='false'></div>
 
 ### The Design of AY31358
 
@@ -451,11 +458,11 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/10_4_1_1.png){: loading=lazy }
-=== "3D"
-    ![](https://media.drugdesign.org/course/pharmacophore-examples/10_4_2_1_600.png){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_10_4_b2.jpg){: loading=lazy }
 
 === "3D"
-    ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_10_4_b2.jpg){: loading=lazy }
+    <div id='nglviewer-container-design-ay31358' class='nglviewer-container' data-molecule-id='design-ay31358' data-initialized='false'></div>
 
 ### Browser of Aldose Reductase Inhibitors
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
@@ -465,7 +472,11 @@
       
 
 
-![](https://media.drugdesign.org/course/pharmacophore-examples/aldose_browser.gif){: loading=lazy }
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/aldose_browser.gif){: loading=lazy }
+
+=== "Browser (3D)"
+    <div id='nglviewer-container-browser-aldose-reductase-inhibitors' class='nglviewer-container' data-molecule-id='browser-aldose-reductase-inhibitors' data-initialized='false'></div>
 
 ## Beta-Lactam Antibiotics
 
@@ -477,15 +488,22 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/12_1_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_12_1_b2.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-biological-action-beta-lactam-antibiotics' class='nglviewer-container' data-molecule-id='biological-action-beta-lactam-antibiotics' data-initialized='false'></div>
 
 ### Does Penicillin Mimic an Endogenous Peptide?
 
 <button  class='playb' onclick='playAudio(this)' data-mp3-name='pharmacophore-examples/does-penicillin-mimic-an-endogenous-peptide-433779dc'><i class='fa fa-play' aria-hidden='true'></i></button>The enzyme involved in the biosynthesis recognizes D-Ala-D-Ala terminal residues in order to carry out the cross-linking for the construction of the bacterial cell wall. This step is inhibited by the antibiotic. One can understand the antibiotic action as the drug's ability to mimic the same stereochemical features of the endogenous D-Ala-D-Ala terminal residues.
 
 
-![](https://media.drugdesign.org/course/pharmacophore-examples/antibact.gif){: loading=lazy }
+=== "3D (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/antibact.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-does-penicillin-mimic-an-endogenous-peptide' class='nglviewer-container' data-molecule-id='does-penicillin-mimic-an-endogenous-peptide' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -502,7 +520,11 @@
 *[nce]: New Chemical Entity: a compound not previously described.
 
 
-![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_12_3_s1.png){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/snap_v1_c4_12_3_s1.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-attempts-to-increase-antibacterial-activities' class='nglviewer-container' data-molecule-id='attempts-to-increase-antibacterial-activities' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -525,7 +547,11 @@
 *[ee]: stands for "enantiomeric excess". A quantity for measuring the optical purity and represents the percentage of the major enantiomer minus the percentage of the minor enantiomer
 
 
-![](https://media.drugdesign.org/course/pharmacophore-examples/bad_design.gif){: loading=lazy }
+=== "3D (Pic)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/bad_design.gif){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-good-hypothesis-bad-design' class='nglviewer-container' data-molecule-id='good-hypothesis-bad-design' data-initialized='false'></div>
 
 ### An Example of a Good Hypothesis Well Exploited
 
@@ -538,11 +564,17 @@
 
 === "2D"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/12_5_1_1.png){: loading=lazy }
-=== "3D"
+=== "3D (Pic)"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/good_3d.png){: loading=lazy }
+
+=== "3D"
+    <div id='nglviewer-container-an-example-good-hypothesis-well-exploited-1' class='nglviewer-container' data-molecule-id='an-example-good-hypothesis-well-exploited-1' data-initialized='false'></div>
 
 === "alignment"
     ![](https://media.drugdesign.org/course/pharmacophore-examples/well.gif){: loading=lazy }
+
+=== "alignment (3D)"
+    <div id='nglviewer-container-an-example-good-hypothesis-well-exploited' class='nglviewer-container' data-molecule-id='an-example-good-hypothesis-well-exploited' data-initialized='false'></div>
 
 
 ??? Abstract "articles"
@@ -557,7 +589,11 @@
       
 
 
-![](https://media.drugdesign.org/course/pharmacophore-examples/bro.gif){: loading=lazy }
+=== "Browser (Gif)"
+    ![](https://media.drugdesign.org/course/pharmacophore-examples/bro.gif){: loading=lazy }
+
+=== "Browser (3D)"
+    <div id='nglviewer-container-browser-beta-lactam-antibiotics' class='nglviewer-container' data-molecule-id='browser-beta-lactam-antibiotics' data-initialized='false'></div>
 
 ## GABA-Uptake Inhibitors
 *[Inhibitor]: Chemical substance that blocks or suppress the activity of a given enzyme.
