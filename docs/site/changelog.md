@@ -1,5 +1,8 @@
 # Changelog
 
+### February 2024
+I have decided to temporarily step away from drugdesign.org to pursue another project on software design, [design-principles.info](https://design-principles.info/), a field not far from drug design. I know I will come back: my work here is not finished, and I would also like to add new chapters.
+
 ### 21 January 2024 
 Audio narration has been added to all text paragraphs using openAI [text-to-speech](https://platform.openai.com/docs/models/tts) AI model 
 

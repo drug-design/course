@@ -1,14 +1,15 @@
 # Roadmap
 
-- Add support for 3D Molecules (DONE)
-- Replace gifs with real 3D Molecules (Working Actively on this)
-- Expand contents
-- Continue to develop the drugdesign.org platform for making collaboration easier
-- Making it easier to load media in our CDN
-- Add support for video in the content
+- Add support for 3D molecules (done)
+- Add audio narration to all text paragraphs (done)
+- Replace GIFs with interactive 3D molecules (in progress, paused since February 2024)
+- Add new chapters and expand existing content
+- Continue developing the drugdesign.org platform to make collaboration easier
+- Make it easier to upload media to our CDN
+- Add support for video content
 - Improve the search functionality
 - Add a comment system
-- Supports internationalization (i18n) and multi-language support
+- Add multi-language support (i18n)
 - Hire students to improve contributed media
-- Add tutorials from leading Modeling Software
-- Get permission to reuse external content and reformat them to fit drugdesign.org
+- Add tutorials from leading molecular modeling software
+- Get permission to reuse external content and adapt it to drugdesign.org

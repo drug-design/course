@@ -26,6 +26,7 @@ theme:
     - navigation.tracking
 
 extra:
+  generator: false
   analytics:
     provider: google
     property: G-ZE99EFPJJ0
@@ -45,6 +46,9 @@ extra_javascript:
   - js/course.js
 
 plugins:
+  - redirects:
+      redirect_maps:
+        'index.md': 'chapters/drug-design.md'
   - glightbox:
       touchNavigation: true
       loop: false
@@ -82,17 +86,17 @@ markdown_extensions:
       toc_depth: 2
 
 # Copyright
-copyright: Copyright &copy; 2022 drugdesign.org
+copyright: Copyright &copy; 2022–2026 drugdesign.org
 
 nav:
   - About:
-    - "drugdesign.org": README.md
+    - "drugdesign.org": site/about.md
     - "ChangeLog": site/changelog.md    
     - 'N. Claude Cohen': site/claude-cohen.md
     - 'Contributors': site/contributors.md    
     - 'About & Contact': site/contact.md
     - 'Roadmap': site/roadmap.md
-    - 'Terms of Use & Copyright': site/copyright.md    
+    #- 'Terms of Use & Copyright': site/copyright.md    
   - Learning:
     - Drug Discovery: 
       - 'Drug Discovery': chapters/drug-discovery.md
@@ -155,12 +159,12 @@ nav:
         
   # - New Contributions:
   #   - 'New contributions': site/new-contributions.md
-  - Teaching:
-    - 'The Sharing Program': site/sharing-program.md
+  #- Teaching:
+    #- 'The Sharing Program': site/sharing-program.md
     #- 'Content Concept': site/concept.md    
-    - 'Customize to Your Need': site/subdomain.md
-    - 'The Platform': site/platform.md
+    #- 'Customize to Your Need': site/subdomain.md
+    #- 'The Platform': site/platform.md
     #- 'Create New Content': site/new-content.md
     #- 'MarkDown Template': site/template.md
-    - 'Content Idea': site/contribution-idea.md    
+    #- 'Content Idea': site/contribution-idea.md    
 
