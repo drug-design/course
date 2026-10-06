@@ -3,7 +3,7 @@
 
 !!! Info annotate "About Me"
     My name is Elie Cohen. I've been working with my father, N. Claude Cohen, on the Molecular Conceptor project for over 12 years. This project has involved a lot of hard work and many talented people. I believe we have created an unparalleled and impactful body of content that remains essential for anyone aspiring to understand the fundamentals of drug design.
-    Before taking a break in February 2024, my focus was on integrating 3D molecular structures into the course to enhance both its educational value and user experience. My overarching vision for drugdesign.org is twofold: firstly, to guarantee free access, and secondly, to keep its content up to date and make it easy for the community to contribute new material.
+    In the coming months, my focus will be on integrating 3D molecular structures into the course to enhance both its educational value and its user experience. My overarching vision for drugdesign.org is twofold: first, to guarantee free access; and second, to update its content and facilitate community contributions of new, innovative material.
 
 !!! Info annotate "Contact me"    
     You can contact me at drugdesign@yahoo.com. I would be glad to hear your feedback and suggestions.
